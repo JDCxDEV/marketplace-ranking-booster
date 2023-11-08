@@ -1,0 +1,20 @@
+{
+    "products": [
+      {
+        "id": "0001",
+        "marketplace": "Kaufland",
+        "product": "Water Bottle Green",
+        "productLink": "468110681",
+        "keywords": ["trinkflaschen", "Grün wasserflaschen", "Grün trinkflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0002",
+        "marketplace": "Kaufland",
+        "product": "Water Bottle Rose Gold",
+        "productLink": "468110674",
+        "keywords": ["trinkflaschen Roségold", "wasserflasche Roségold", "Roségold wasserflaschen"],
+        "isRunning" : false 
+      }
+    ]
+  }

@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Run Booster</title>
+    <!-- Include Tailwind CSS (you can replace with a CDN link) -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+</head>
+<body>
+    <div class="bg-gray-100 min-h-screen flex items-center justify-center">
+        <div class="max-w-screen-lg mx-auto p-8 bg-white rounded-lg shadow-md">
+            <div class="w-full">
+                <h2 class="text-2xl mb-4">Run Booster</h2>
+                <div class="mb-4">
+                    <input type="number" id="threadInput" class="w-full p-2 border rounded-md" placeholder="Enter thread value (1-500)" min="1" max="500">
+                </div>
+                <button id="getProducts" class="w-full bg-gray-500 text-white p-2 rounded-md mt-2 hover:bg-gray-700">Get Products</button>
+                <p id="validationMessage" class="text-red-600 text-sm mt-2"></p>
+            </div>
+            <div class="w-full mt-4">
+                <div id="productTable" class="border rounded-lg overflow-hidden">
+                    <table class="w-full">
+                        <thead class="bg-gray-100">
+                            <tr>
+                                <th class="p-2">Marketplace</th>
+                                <th class="p-2">Product</th>
+                                <th class="p-2">Keywords</th>
+                                <th class="p-2">Action</th>
+                            </tr>
+                        </thead>
+                        <tbody id="productTableBody">
+                            <!-- Table data will be dynamically added here -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script>
+        window.onload = function() {
+            sendPostRequest();
+        };
+
+        function sendPostRequest() {
+            const url = "/get-products";
+
+            axios.post(url)
+                .then(response => {
+                    console.log("POST request for products successful:", response.data);
+                    createTable(response.data.products);
+                })
+                .catch(error => {
+                    console.error("POST request for products failed:", error);
+                });
+        }
+
+        function createTable(products) {
+            const productTableBody = document.getElementById("productTableBody");
+
+            if (products.length === 0) {
+                productTableBody.innerHTML = '<tr><td colspan="4" class="p-2 text-center">No products available.</td></tr>';
+                return;
+            }
+
+            productTableBody.innerHTML = ''; // Clear previous data
+
+            products.forEach(product => {
+                const row = document.createElement("tr");
+                row.innerHTML = `
+                    <td class="p-2">${product.marketplace}</td>
+                    <td class="p-2">${product.product}</td>
+                    <td class="p-2">${product.keywords.join(", ")}</td>
+                    <td class="p-2">
+                        <button class="bg-blue-500 text-white p-1 rounded-md hover:bg-blue-700" onclick="runBoosterFunction('${product.id}')">Run Booster</button>
+                    </td>`;
+                productTableBody.appendChild(row);
+            });
+        }
+
+        function runBoosterFunction(product) {
+            const threadValue = threadInput.value;
+
+            if (!isNaN(threadValue) && threadValue >= 1 && threadValue <= 500) {
+                validationMessage.textContent = "";
+
+                const url = "/run-function";
+                const data = {
+                    product: product,
+                    thread: threadValue
+                };
+
+                axios.post(url, data)
+                    .then(response => {
+                        console.log("POST request successful:", response.data);
+                    })
+                    .catch(error => {
+                        console.error("POST request failed:", error);
+                    });
+            } else {
+                validationMessage.textContent = "Thread value must be a number between 1 and 500.";
+            }
+        }
+
+        const threadInput = document.getElementById("threadInput");
+        const runBoosterButton = document.getElementById("runBooster");
+        const getProductsButton = document.getElementById("getProducts");
+        const validationMessage = document.getElementById("validationMessage");
+    </script>
+</body>
+</html>
