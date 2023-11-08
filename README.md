@@ -19,7 +19,12 @@ To set up and run the application on your local machine, follow these steps:
    git clone https://github.com/JDCxDEV/booster.git
    cd booster
 2. Install project dependencies using npm or yarn:
+
    ```bash
-   npm install
+   npm install or yarn install
    
+3. Run the node server
+   
+   ```bash
+   node server.mjs
 
