@@ -26,5 +26,5 @@ To set up and run the application on your local machine, follow these steps:
 3. Run the node server
    
    ```bash
-   node server.mjs
+   npm run start
 
