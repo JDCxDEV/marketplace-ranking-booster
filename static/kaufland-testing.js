@@ -3,6 +3,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from './helpers/boosterSteps.js'
+import { executablePath  } from 'puppeteer';
 
 const initBooster = async (product) => {
 
@@ -30,7 +31,15 @@ const initBooster = async (product) => {
   // initialize booster page
   const browser = await puppeteer.launch({ 
     headless: false,
-    args: [`--proxy-server=${proxy}`],
+    executablePath: executablePath(),
+    args: [
+      `--proxy-server=${proxy}`,
+      '--disable-setuid-sandbox',
+      '--disable-infobars',
+      '--window-position=0,0',
+      '--ignore-certifcate-errors',
+      '--ignore-certifcate-errors-spki-list',
+      ],
   });
     
   const page = await browser.newPage();
