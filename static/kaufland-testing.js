@@ -4,7 +4,6 @@ import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from './helpers/boosterSteps.js'
 
-
 const initBooster = async (product) => {
 
   // Parameters
@@ -103,7 +102,6 @@ const initBooster = async (product) => {
 
       let foundProduct = false
 
-    
       const findProduct = async () => {
         const anchor = await page.$$eval('a.product__wrapper', (anchors, productLink) => {
           console.log(anchors)
@@ -113,7 +111,7 @@ const initBooster = async (product) => {
                 return true;
             }
           }
-          return null; // Return null if the href is not found
+          return null; 
         }, productLink);
       
         if (anchor) {
@@ -207,13 +205,15 @@ const initBooster = async (product) => {
   await browser.close();
 }
 
-
 export const triggerBooster = async (thread, product) => {
-  console.error('staring the booster!')
+
+  await booster.addRandomTimeGap(5)
+
   for (let index = 0; index <= thread; index++) {
     try {
       await initBooster(product) 
     }catch (error) {
+      await booster.downloadProxies(product)
       console.error(error);
     }
   }

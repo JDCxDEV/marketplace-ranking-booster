@@ -13,7 +13,15 @@
         "marketplace": "Kaufland",
         "product": "Water Bottle Rose Gold",
         "productLink": "468110674",
-        "keywords": ["trinkflaschen Roségold", "wasserflasche Roségold", "Roségold wasserflaschen"],
+        "keywords": ["trinkflaschen", "wasserflasche", "wasserflaschen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0003",
+        "marketplace": "Kaufland",
+        "product": "Water Bottle Green",
+        "productLink": "468110681",
+        "keywords": ["Lekro trinkflaschen", "Lekro Grün wasserflaschen", "Lekro Grün trinkflasche"],
         "isRunning" : false 
       }
     ]

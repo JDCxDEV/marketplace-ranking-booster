@@ -1,4 +1,6 @@
 import { loadTextFile } from 'load-text-file'
+import 'dotenv/config';
+import { download } from './server.js';
 
 export const generateNumberBetween = (min = 5, max = 10) => {
     return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -49,4 +51,8 @@ export const isForbiddenPage = (request) =>{
         }
     }
     return false;
+}
+
+export const downloadProxies = async () => {
+    await download(process.env.PROXY_URL, './proxies/proxies.txt')
 }
