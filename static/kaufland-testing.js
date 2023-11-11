@@ -214,7 +214,10 @@ export const triggerBooster = async (thread, product) => {
       await initBooster(product) 
     }catch (error) {
       await booster.downloadProxies(product)
-      console.error(error);
+
+      if(!process.env.TURN_OFF_LOGS) {
+        console.error(error);
+      }
     }
   }
 };

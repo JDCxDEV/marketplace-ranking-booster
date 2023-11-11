@@ -5,23 +5,71 @@
         "marketplace": "Kaufland",
         "product": "Water Bottle Green",
         "productLink": "468110681",
-        "keywords": ["trinkflaschen", "Grün wasserflaschen", "Grün trinkflasche"],
+        "keywords": ["trinkflaschen", "Grün wasserflaschen", "Grün trinkflasche", "Lekro trinkflaschen", "Lekro Grün wasserflaschen", "Lekro Grün trinkflasche"],
         "isRunning" : false 
       },
       {
         "id": "0002",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Rose Gold",
-        "productLink": "468110674",
-        "keywords": ["trinkflaschen", "wasserflasche", "wasserflaschen"],
+        "product": "TV strip 3m",
+        "productLink": "432693125",
+        "keywords": ["TV Hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "fernseh hintergrundbeleuchtung", "led strip", "LED Streifen"],
         "isRunning" : false 
       },
       {
         "id": "0003",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Green",
-        "productLink": "468110681",
-        "keywords": ["Lekro trinkflaschen", "Lekro Grün wasserflaschen", "Lekro Grün trinkflasche"],
+        "product": "LK-03",
+        "productLink": "432693131",
+        "keywords": ["LED-Streifen", "LED Strip", "rgb led strip", "led strip 3m", "led leiste"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0004",
+        "marketplace": "Kaufland",
+        "product": "LKR-05",
+        "productLink": "432698580",
+        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0005",
+        "marketplace": "Kaufland",
+        "product": "LK-05-W",
+        "productLink": "463128383",
+        "keywords": ["led strip", "rgbw", "led streifen", "led streifen", "led leiste", "led leisten", "led strps", "rgbic"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0006",
+        "marketplace": "Kaufland",
+        "product": "LK-03-N-RGB",
+        "productLink": "463128290",
+        "keywords": ["neon streifen", "neon led streifen", "led strip", "rgbic", "led streifen", "led leiste"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0007",
+        "marketplace": "Kaufland",
+        "product": "SLB-E27-9W",
+        "productLink": "463126312",
+        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0008",
+        "marketplace": "Kaufland",
+        "product": "SLB-E14",
+        "productLink": "463128530",
+        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "glühbirnen alexa", "alexa glühbirnen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "0009",
+        "marketplace": "Kaufland",
+        "product": "SLB-GU10",
+        "productLink": "463128337",
+        "keywords": ["einbaustrahler gu10", "gu10 spot", "gu10 led spot", "alexa glühbirne", "smart home lampen"],
         "isRunning" : false 
       }
     ]
