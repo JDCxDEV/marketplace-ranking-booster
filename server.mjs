@@ -14,9 +14,6 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const getRequestTriggerBooster = async (req, res) => {
-
-    await download(process.env.PROXY_URL, './proxies/proxies.txt')
-
     const productJsonFile = await dynamicallyImportJsonFile('products.json')
 
     const product = productJsonFile.products.filter(item => item.id == req.body.product)[0]

@@ -134,8 +134,6 @@ const initBooster = async (product) => {
         }
       }
 
-      const paginationButtons = [];
-
       const scrollDown = async () => {
         await page.evaluate(() => {
           const scrollStep = 250; // Adjust the scrolling step as needed
@@ -207,7 +205,7 @@ const initBooster = async (product) => {
 
 export const triggerBooster = async (thread, product) => {
 
-  await booster.addRandomTimeGap(5)
+  await booster.addRandomTimeGap(3)
 
   for (let index = 0; index <= thread; index++) {
     try {
