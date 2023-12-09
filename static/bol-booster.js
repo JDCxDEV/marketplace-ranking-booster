@@ -68,11 +68,6 @@ const initBooster = async (product) => {
       browser.close();
     }
   });
-
-
-  if(url != link) {
-    // await browser.close();
-  }
     
   if(content) {
     try {
@@ -139,7 +134,6 @@ const initBooster = async (product) => {
         await booster.addRandomTimeGap(10, 10);
 
     }catch(error) {
-      console.log(error)
       await browser.close();
     }
   }
@@ -189,16 +183,22 @@ export const triggerAllBolBooster = async (thread) => {
       for (let index = 0; index < products.length; index++) {
         await booster.addRandomTimeGap(3);
 
-        let productThreads = 7;
+        let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
            currentBatch.push(initBooster(products[index]));
         }   
+        
 
-        await Promise.all(currentBatch).then(() => {
-          console.log(console.log('current thread:' + thread + ' completed'));
-        });
+        try {
+          await Promise.all(currentBatch).then(() => {
+            console.log(console.log('current thread:' + thread + ' completed'));
+          });
+         } catch(error) {
+
+        }
+
       }
 
 
