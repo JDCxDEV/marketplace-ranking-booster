@@ -40,6 +40,8 @@ const initBooster = async (product) => {
       '--ignore-certifcate-errors',
       '--ignore-certifcate-errors-spki-list',
       ],
+
+      ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
   });
     
   const page = await browser.newPage();
@@ -143,7 +145,7 @@ const initBooster = async (product) => {
         }
       }
 
-      const scrollDown = async () => {
+      const scrollDown = async (page) => {
         await page.evaluate(() => {
           const scrollStep = 250; // Adjust the scrolling step as needed
           const scrollInterval = 150; // Adjust the scrolling interval (ms) as needed
@@ -172,7 +174,7 @@ const initBooster = async (product) => {
 
       while(foundProduct !== true) {
         await booster.addTimeGap(7000)
-        await scrollDown()
+        await scrollDown(page)
         await page.waitForSelector('.results--grid');
 
         await findProduct()
@@ -212,7 +214,7 @@ const initBooster = async (product) => {
   await browser.close();
 }
 
-export const triggerBooster = async (thread, product) => {
+export const triggerKauflandBooster = async (thread, product) => {
 
   await booster.addRandomTimeGap(3)
 

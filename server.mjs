@@ -1,8 +1,8 @@
 import express from 'express';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-import { triggerBooster } from './static/kaufland-testing.js';
-import { download } from './static/helpers/server.js';
+import { triggerKauflandBooster } from './static/kaufland-booster.js';
+import { triggerBolBooster } from './static/bol-booster.js';
 import 'dotenv/config'
 
 const app = express();
@@ -17,14 +17,18 @@ const getRequestTriggerBooster = async (req, res) => {
     const productJsonFile = await dynamicallyImportJsonFile('products.json')
 
     const product = productJsonFile.products.filter(item => item.id == req.body.product)[0]
-    const requestData = req.data;
     
-    triggerBooster(req.body.thread, product)
-    return  res.status(200).json({ message: 'POST request successful', data: req.body });
+    if (product.marketplace == "Bol" || product.marketplace == "Bol.com" )  {
+        triggerBolBooster(req.body.thread, product);
+    }else {
+        triggerKauflandBooster(req.body.thread, product);
+    }
+  
+    return res.status(200).json({ message: 'POST request successful', data: req.body });
 }
 
 const dynamicallyImportJsonFile = async (file)  => {
-    const { default: jsonObject } = await import(`./json/${file}`, {
+    const { default: jsonObject } = await import(`./json/bol/${file}`, {
         assert: {
           type: 'json'
         }
@@ -33,8 +37,6 @@ const dynamicallyImportJsonFile = async (file)  => {
     return jsonObject
 }
 
-
-// Serve the index.html file
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
 });

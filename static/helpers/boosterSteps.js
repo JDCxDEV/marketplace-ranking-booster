@@ -66,3 +66,82 @@ export const getRandomProxy = async () => {
 export const downloadProxies = async () => {
     await download(process.env.PROXY_URL, './proxies/proxies.txt')
 }
+
+export const scrollDown = async (page) => {
+    await page.evaluate(() => {
+      const scrollStep = 50; // Adjust the scrolling step as needed
+      const scrollInterval = 100; // Adjust the scrolling interval (ms) as needed
+
+      function smoothScroll() {
+        let scrollFrom = window.scrollY;
+        let scrollTo = scrollFrom + scrollStep;
+        if (scrollTo >= document.body.scrollHeight) {
+          scrollTo = 0;
+        }
+
+        window.scroll({
+          top: scrollTo,
+          behavior: 'smooth',
+        });
+      }
+
+      const scrollIntervalId = setInterval(smoothScroll, scrollInterval);
+
+      // Stop smooth scrolling after a certain time (e.g., 5000 ms)
+      setTimeout(() => {
+        clearInterval(scrollIntervalId);
+      }, 4000);
+    });
+  }
+
+export const scrollToRandomClass = async (page, elementClass) => {
+    await addRandomTimeGap(3, 7);
+    const products = await page.$$(elementClass);
+    // Select a random element from the array
+    const randomIndex = Math.floor(Math.random() * products.length);
+    const randomProduct = products[randomIndex];
+
+    // Scroll to the random element
+    await page.evaluate((element) => {
+        element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+    }, randomProduct);
+};
+
+export const findAndScrollToAnchorByText = async (page, searchText) => {
+    const link = await page.evaluate((text) => {
+        const anchors = Array.from(document.querySelectorAll('a')); // Change the selector if necessary
+        const foundAnchor = anchors.find(anchor => anchor.textContent.includes(text));
+    
+        return foundAnchor ? foundAnchor.href : null;
+      }, searchText);
+    
+      if (link) {
+        await addRandomTimeGap(3, 7);
+        const foundElement = await page.$x(`//a[contains(text(), "${searchText}")]`);
+        if (foundElement.length > 0) {
+ 
+          await foundElement[0].click();
+          console.log(`Clicked the link with text: ${searchText}`);
+        } else {
+          console.log(`No link found with the text: ${searchText}`);
+        }
+      } else {
+        console.log(`No link found with the text: ${searchText}`);
+      }
+  }
+
+
+export const scrollToElementAndClickIt = async (page, classElement) => {
+    await page.waitForSelector('.ui-btn--favorite');
+
+    await page.evaluate(() => {
+      const favoriteButton = document.querySelector('.ui-btn--favorite');
+      if (favoriteButton) {
+        favoriteButton.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+        favoriteButton.click();
+      }
+    });
+  
+}
+
+
