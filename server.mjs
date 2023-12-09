@@ -3,6 +3,7 @@ import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import { triggerKauflandBooster } from './static/kaufland-booster.js';
 import { triggerBolBooster } from './static/bol-booster.js';
+import { downloadProxies } from './static/helpers/boosterSteps.js';
 import 'dotenv/config'
 
 const app = express();
@@ -27,6 +28,12 @@ const getRequestTriggerBooster = async (req, res) => {
     return res.status(200).json({ message: 'POST request successful', data: req.body });
 }
 
+const getTriggerDownloadProxies = async (req, res) => {
+    await downloadProxies();
+
+    return res.status(200).json({ message: 'Proxies refresh complete!' });
+}
+
 const dynamicallyImportJsonFile = async (file)  => {
     const { default: jsonObject } = await import(`./json/bol/${file}`, {
         assert: {
@@ -47,6 +54,9 @@ app.post('/get-products', async (req, res) => {
 });
 
 app.post('/run-function', await getRequestTriggerBooster);
+
+
+app.post('/refresh-proxies', await getTriggerDownloadProxies);
 
 
 // Start the server
