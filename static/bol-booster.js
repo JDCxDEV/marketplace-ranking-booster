@@ -200,11 +200,7 @@ export const triggerAllBolBooster = async (thread) => {
         }
 
       }
-
-
     }catch (error) {
-      await booster.downloadProxies()
-
       if(!process.env.TURN_OFF_LOGS) {
         console.error(error);
       }
