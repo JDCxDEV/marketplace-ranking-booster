@@ -17,7 +17,11 @@
                     <h2 class="text-2xl mb-4">
                         <i class="fas fa-rocket"></i> Run Booster
                         <!-- Add Refresh Button -->
-                        <button class="float-right bg-blue-500 text-white py-2 px-3 text-sm  rounded-md hover:bg-blue-700 whitespace-nowrap" onclick="refreshProxies()">
+                        <button class="float-right bg-blue-500 text-white py-2 px-3 text-sm  rounded-md hover:bg-blue-700 whitespace-nowrap"  id="main-booster-button" onclick="runBoosterFunction(null, 'bol')">
+                            <i class="fas fa-cog"></i> Start Booster
+                        </button>
+
+                        <button class="mr-2 float-right bg-blue-500 text-white py-2 px-3 text-sm  rounded-md hover:bg-blue-700 whitespace-nowrap" onclick="refreshProxies()">
                             <i class="fas fa-sync-alt"></i> Refresh Proxies
                         </button>
                     </h2>
@@ -32,6 +36,7 @@
                         <table class="w-full">
                             <thead class="bg-gray-100 text-sm">
                                 <tr>
+                                    <th class="p-2">#</th>
                                     <th class="p-2">Marketplace</th>
                                     <th class="p-2">Product</th>
                                     <th class="p-2">Keywords</th>
@@ -58,17 +63,17 @@
                 const url = "/get-products";
 
                 axios.post(url)
-                    .then(response => {
-                        console.log("POST request for products successful:", response.data);
-                        createTable(response.data.products);
-                    })
-                    .catch(error => {
-                        console.error("POST request for products failed:", error);
-                    })
-                    .finally(() => {
-                        // Reset the button text
-                        getProductsButton.innerHTML = originalButtonText;
-                    });
+                .then(response => {
+                    console.log("POST request for products successful:", response.data);
+                    createTable(response.data.products);
+                })
+                .catch(error => {
+                    console.error("POST request for products failed:", error);
+                })
+                .finally(() => {
+                    // Reset the button text
+                    getProductsButton.innerHTML = originalButtonText;
+                });
             }
 
             window.onload = function() {
@@ -79,13 +84,13 @@
                 const url = "/get-products";
 
                 axios.post(url)
-                    .then(response => {
-                        console.log("POST request for products successful:", response.data);
-                        createTable(response.data.products);
-                    })
-                    .catch(error => {
-                        console.error("POST request for products failed:", error);
-                    });
+                .then(response => {
+                    console.log("POST request for products successful:", response.data);
+                    createTable(response.data.products);
+                })
+                .catch(error => {
+                    console.error("POST request for products failed:", error);
+                });
             }
 
             function createTable(products) {
@@ -98,9 +103,13 @@
 
                 productTableBody.innerHTML = ''; // Clear previous data
 
+                let index = 0;
+                
                 products.forEach(product => {
+                    index = index + 1
                     const row = document.createElement("tr");
                     row.innerHTML = `
+                        <td class="p-2">${index}.</td>
                         <td class="p-2">${product.marketplace}</td>
                         <td class="p-2">${product.product}</td>
                         <td class="p-2">
@@ -118,8 +127,13 @@
                 });
             }
 
-            function runBoosterFunction(product) {
-                const productButton = document.getElementById(`productBtn${product}`);
+            function runBoosterFunction(product = null, initAllBooster = false) {
+                const startAllBoosterButton = document.getElementById("main-booster-button");
+
+                if(!initAllBooster) {
+                    const productButton = document.getElementById(`productBtn${product}`);
+                }
+              
                 const threadValue = threadInput.value;
 
                 if (!isNaN(threadValue) && threadValue >= 1 && threadValue <= 500) {
@@ -127,14 +141,22 @@
 
                     const url = "/run-function";
                     const data = {
+                        allBooster: initAllBooster,
                         product: product,
                         thread: threadValue
                     };
 
                     axios.post(url, data)
                         .then(response => {
-                            productButton.disabled = true;
-                            productButton.innerHTML = '<i class="fas fa-cog fa-spin"></i> Booster running!';
+
+                            if(!initAllBooster) {
+                                productButton.disabled = true;
+                                productButton.innerHTML = '<i class="fas fa-cog fa-spin"></i> Booster running!';
+                            }else {
+                                startAllBoosterButton.disabled = true;
+                                startAllBoosterButton.innerHTML = '<i class="fas fa-cog fa-spin"></i> Booster running!';
+                            }
+
                             console.log("POST request successful:", response.data);
                         })
                         .catch(error => {

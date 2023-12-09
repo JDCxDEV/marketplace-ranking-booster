@@ -163,3 +163,52 @@ export const triggerBolBooster = async (thread, product) => {
     }
   }
 };
+
+
+const dynamicallyImportJsonFile = async (file)  => {
+  const { default: jsonObject } = await import(`./../json/bol/${file}`, {
+      assert: {
+        type: 'json'
+      }
+  });
+
+  return jsonObject
+}
+
+export const triggerAllBolBooster = async (thread) => {
+
+  await booster.addRandomTimeGap(3)
+
+  const productJsonFile = await dynamicallyImportJsonFile('products.json');
+  const products = productJsonFile.products;
+
+  for (let mainIndex = 1; mainIndex <= thread; mainIndex++) {
+
+    console.log('current thread:' + mainIndex);
+    try {
+      for (let index = 0; index < products.length; index++) {
+        await booster.addRandomTimeGap(3);
+
+        let productThreads = 7;
+        let currentBatch = [];
+
+        for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
+           currentBatch.push(initBooster(products[index]));
+        }   
+
+        await Promise.all(currentBatch).then(() => {
+          console.log(console.log('current thread:' + thread + ' completed'));
+        });
+      }
+
+
+    }catch (error) {
+      await booster.downloadProxies()
+
+      if(!process.env.TURN_OFF_LOGS) {
+        console.error(error);
+      }
+    }
+  }
+};
+
