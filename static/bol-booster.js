@@ -18,7 +18,7 @@ const initBooster = async (product) => {
   puppeteer.use(stealthPlugin);
 
   // Create random user-agent to be set through plugin
-  const userAgent = new UserAgent({ platform: 'Win32', deviceCategory: 'desktop'});
+  const userAgent = new UserAgent();
   const userAgentStr = userAgent.toString();
 
   // Use the anonymize user agent plugin with custom user agent string
