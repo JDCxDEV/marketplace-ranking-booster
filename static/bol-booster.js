@@ -183,7 +183,7 @@ export const triggerAllBolBooster = async (thread) => {
       for (let index = 0; index < products.length; index++) {
         await booster.addRandomTimeGap(3);
 
-        let productThreads = 5;
+        let productThreads = 7;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
@@ -193,7 +193,7 @@ export const triggerAllBolBooster = async (thread) => {
 
         try {
           await Promise.all(currentBatch).then(() => {
-            console.log(console.log('current thread:' + thread + ' completed'));
+            console.log(console.log('current thread:' + mainIndex + ' completed'));
           });
          } catch(error) {
 
