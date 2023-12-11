@@ -124,9 +124,12 @@ export const findAndScrollToAnchorByText = async (page, searchText) => {
           console.log(`Clicked the link with text: ${searchText}`);
         } else {
           console.log(`No link found with the text: ${searchText}`);
+          return browser.close();
         }
       } else {
         console.log(`No link found with the text: ${searchText}`);
+
+        return browser.close();
       }
   }
 

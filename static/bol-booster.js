@@ -120,7 +120,7 @@ const initBooster = async (product) => {
 
         await booster.addRandomTimeGap(3, 7);
         const searchText = productTitle;
-        await booster.findAndScrollToAnchorByText(page, searchText);
+        await booster.findAndScrollToAnchorByText(page, searchText, browser);
 
 
         await booster.addRandomTimeGap(3, 7);
@@ -195,7 +195,7 @@ export const triggerAllBolBooster = async (thread) => {
             console.log(console.log('current thread:' + mainIndex + ' completed'));
           });
          } catch(error) {
-
+          console.log(error)
         }
 
       }
