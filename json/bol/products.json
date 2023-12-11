@@ -1,92 +1,92 @@
 {
-    "products": [
-      {
-        "id": "VM-1-0001",
-        "marketplace": "Bol",
-        "product": "Kitchen scale White",
-        "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg – Tarra Functie - Wit",
-        "keywords": ["precisie keukenweegschaal", "keukenweegschaal digitaal", "digitale keukenweegschaal", "keukenweegschalen", "keukenweegschaal", "weegschaal keuken"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0002",
-        "marketplace": "Bol",
-        "product": "Kitchen scale USB",
-        "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg – Tarra Functie - Zwart",
-        "keywords": ["precisie keukenweegschaal", "keukenweegschaal digitaal", "digitale keukenweegschaal", "keukenweegschalen", "keukenweegschaal", "weegschaal keuken"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0003",
-        "marketplace": "Bol",
-        "product": "E14 bulb",
-        "productTitle": "Lideka® - Slimme LED Smart Lampen - E14 - RGBW - met App - 6W - 600 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri",
-        "keywords": ["e14", "e14 led lamp", "e14 led lamp dimbaar", "e14 lamp"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0004",
-        "marketplace": "Bol",
-        "product": "Security Camera Black",
-        "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
-        "keywords": ["beveiligingscamera's", "beveiligingscamera binnen", "hondencamera", "beveiligingscamera", "Huisdiercamera"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0005",
-        "marketplace": "Bol",
-        "product": "Security Camera White",
-        "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Wit",
-        "keywords": ["Huisdiercamera"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0006",
-        "marketplace": "Bol",
-        "product": "Sleepglasses Red",
-        "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Rood Kleurige Lenzen – Blue Light Glasses Voor ‘s Avonds Zonder Sterkte – Wraparound Fitting - Licht Gewicht - Blokkeert Blauw Licht tot 98% - Kerstcadeau",
-        "keywords": ["blauw licht bril", "beeldschermbril", "blauw licht bril zonder sterkte", "computerbril", "blue light glasses"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0007",
-        "marketplace": "Bol",
-        "product": "Reading Lamp",
-        "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar - Voor in Bed - Kerstcadeau",
-        "keywords": ["led leeslampje", "leeslampje klem", "leeslampje boek", "computerbril", "klemlampen", "leeslampje voor boek", "leeslampje voor in bed", "leeslampje", "leeslampje met klem"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0008",
-        "marketplace": "Bol",
-        "product": "Steakknives",
-        "productTitle": "Lekro Steakmessen – 8-delige Steakmessenset – Vaatwasserbestendig - RVS - Zwart - Kerstcadeau",
-        "keywords": ["steakmessen", "steakmessen zwart", "steakmessen vaatwasserbestendig"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0009",
-        "marketplace": "Bol",
-        "product": "Solar Powerbank",
-        "productTitle": "Lideka - Solar Powerbank Charger - 4x USB - USB C - Snel & Draadloos Opladen﻿ - 30.000 mAh - Op Zonne-energie - Outdoor - Geschikt Voor Iphone, Samsung, Apple",
-        "keywords": ["powerbank", "powerbank zonneenergie", "powerbank solar", "solar powerbank"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0010",
-        "marketplace": "Bol",
-        "product": "Spiral Cutter",
-        "productTitle": "Lekro Spiraalsnijder + E-book met Recepten - Groentesnijder - Spiralizer - 3 standen - Zwart/Wit - Kerstcadeau",
-        "keywords": ["spiraalsnijder", "spiralizer", "spiraalsnijders", "appelschillers", "courgettesnijder spiraal"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-1-0011",
-        "marketplace": "Bol",
-        "product": "Water bottle BB",
-        "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Blauw - Kerstcadeau",
-        "keywords": ["waterflessen", "waterfles", "drinkfles", "waterfles 1 liter", "waterfles met tijdmarkeringen", "drinkflessen"],
-        "isRunning" : false 
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": "VM-4-0001",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 1",
+      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
+      "keywords": ["draadloze powerbank", "externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "powerbank 20000 mah"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0002",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 2",
+      "productTitle": "QuchQuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
+      "keywords": ["draadloze powerbank", "externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "powerbank 20000 mah"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0003",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 3",
+      "productTitle": "Powerbank 20000 mah - Mini power bank - Mobiele oplader - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
+      "keywords": ["mini powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "draadloze powerbank", "powerbank 20000 mah", "externe oplader powerbank", "externe batterij powerbank"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0004",
+      "marketplace": "Bol.com",
+      "product": "Earplug 1",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["Bluetooth Oortjes", "Earpods Draadloos", "Wireless Earphones", "Wireless Earbuds met Oplaadcase", "Sport Oordopjes", "Draadloze Oordopjes", "Oordopjes Draadloos"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0005",
+      "marketplace": "Bol.com",
+      "product": "Earplug 2",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Earpods - Bluetooth Oortjes - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["Wireless Earphones", "Draadloze Oordopjes", "Oordopjes Draadloos", "Bluetooth Oortjes", "Sport Oordopjes", "in-ear oordopjes", "earbuds wireless", "bluetooth oordopjes", "Earpods Draadloos", "Wireless Earbuds met Oplaadcase", "oortjes draadloos"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0006",
+      "marketplace": "Bol.com",
+      "product": "Earplug 3",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Earphones Draadloos - In-ear Oordopjes - Active Noise Cancelling ANC - Earpods - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["Wireless Earphones", "Draadloze Oordopjes", "Oordopjes Draadloos", "Bluetooth Oortjes", "Sport Oordopjes", "in-ear oordopjes", "earbuds wireless", "bluetooth oordopjes", "Earpods Draadloos", "Wireless Earbuds met Oplaadcase", "oortjes draadloos", "noise cancelling earbuds"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0007",
+      "marketplace": "Bol.com",
+      "product": "Earplug 4",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase | Wit - Kerstcadeau",
+      "keywords": ["Bluetooth Oortjes", "Earpods Draadloos", "Wireless Earphones", "Wireless Earbuds met Oplaadcase", "in-ear oordopjes", "earbuds wireless", "Draadloze Oordopjes", "Oordopjes Draadloos", "oortjes draadloos", "bluetooth oordopjes", "Sport Oordopjes"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0008",
+      "marketplace": "Bol.com",
+      "product": "Earplug 5",
+      "productTitle": "QuchiQ™ Volledig Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Earpods - Extra Bass - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["Bluetooth Oortjes", "Earpods Draadloos", "Wireless Earphones", "Wireless Earbuds met Oplaadcase", "in-ear oordopjes", "earbuds wireless", "Draadloze Oordopjes", "Oordopjes Draadloos", "oortjes draadloos", "bluetooth oordopjes", "Sport Oordopjes"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0009",
+      "marketplace": "Bol.com",
+      "product": "RGB 3",
+      "productTitle": "Lideka® - LED Strip 3 Meter - Google & Alexa - RGB - incl. Afstandsbediening - incl. Kleurverandering - Zelfklevend - 90 Leds - Super Helder - 50K Branduren - 12V - Verlichting - Led Lights - Led Light Strip - Licht strip",
+      "keywords": ["led strip 3 meter"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0010",
+      "marketplace": "Bol.com",
+      "product": "RGB 15",
+      "productTitle": "Lideka - LED Strip 15 Meter (2x7.5) - RGB - 3.0 A - 50K Branduren - met Afstandsbediening - 270 Led's - Verlichting - Led Lights - Led Light Strip - Licht strip - Vaderdag cadeau",
+      "keywords": ["led strip 15 meter"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0011",
+      "marketplace": "Bol.com",
+      "product": "RGB 20",
+      "productTitle": "Lideka® - LED Strip 20 Meter (2x10) - RGB - 18 SMD 5050 LEDs p/m - IP65 - met App & Afstandsbediening",
+      "keywords": ["led strip 20 meter"],
+      "isRunning" : false 
+    }
+  ]
+}
