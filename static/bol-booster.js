@@ -49,9 +49,9 @@ const initBooster = async (product) => {
   await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
 
   try {
-    await page.goto(link);
+    await page.goto(link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
-    // await browser.close()
+    await browser.close()
   }
 
   const url = await page.url();
@@ -183,14 +183,13 @@ export const triggerAllBolBooster = async (thread) => {
       for (let index = 0; index < products.length; index++) {
         await booster.addRandomTimeGap(3);
 
-        let productThreads = 7;
+        let productThreads = 6;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
            currentBatch.push(initBooster(products[index]));
         }   
         
-
         try {
           await Promise.all(currentBatch).then(() => {
             console.log(console.log('current thread:' + mainIndex + ' completed'));
