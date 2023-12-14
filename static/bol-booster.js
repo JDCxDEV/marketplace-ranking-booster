@@ -102,7 +102,6 @@ const initBooster = async (product) => {
             }
         });
 
-
         // Step 3: Type into search box.
         await booster.addRandomTimeGap(3, 6);
         await page.type('.js-search-input', keyword, {delay: 300});
@@ -174,7 +173,9 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
   await booster.addRandomTimeGap(3)
 
   const productJsonFile = await dynamicallyImportJsonFile( currentVM + '.json');
-  const products = productJsonFile.products;
+  const products = productJsonFile.products.filter( item => !item.isOutOfStock);
+
+  console.log(products.length);
 
   for (let mainIndex = 1; mainIndex <= thread; mainIndex++) {
 
