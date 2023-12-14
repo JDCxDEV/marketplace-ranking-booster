@@ -169,11 +169,11 @@ const dynamicallyImportJsonFile = async (file)  => {
   return jsonObject
 }
 
-export const triggerAllBolBooster = async (thread) => {
+export const triggerAllBolBooster = async (thread, currentVM) => {
 
   await booster.addRandomTimeGap(3)
 
-  const productJsonFile = await dynamicallyImportJsonFile('products.json');
+  const productJsonFile = await dynamicallyImportJsonFile( currentVM + '.json');
   const products = productJsonFile.products;
 
   for (let mainIndex = 1; mainIndex <= thread; mainIndex++) {

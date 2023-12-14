@@ -16,7 +16,7 @@ const __dirname = dirname(__filename);
 
 const getRequestTriggerBooster = async (req, res) => {
     if(req.body.allBooster == 'bol') {
-        triggerAllBolBooster(req.body.thread);
+        triggerAllBolBooster(req.body.thread, req.body.currentVM);
     }else {
         const productJsonFile = await dynamicallyImportJsonFile('products.json')
         const product = productJsonFile.products.filter(item => item.id == req.body.product)[0]

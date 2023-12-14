@@ -156,6 +156,10 @@
 
                     const url = "/run-function";
 
+                    
+                    let vmSelector = document.getElementById("vmSelector");
+                    let currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+
                     const data = {
                         allBooster: initAllBooster,
                         product: product,
