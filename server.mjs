@@ -53,7 +53,9 @@ app.get('/', (req, res) => {
 });
 
 app.post('/get-products', async (req, res) => {
-    const productJsonFile = await dynamicallyImportJsonFile('products.json')
+    const currentVM = req.body.currentVM;
+    
+    const productJsonFile = await dynamicallyImportJsonFile((currentVM ? currentVM  : 'VM-1') + '.json')
     return  res.status(200).json(productJsonFile);
 });
 

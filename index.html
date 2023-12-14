@@ -16,7 +16,14 @@
                 <div class="w-full">
                     <h2 class="text-2xl mb-4">
                         <i class="fas fa-rocket"></i> Run Booster
-                        <!-- Add Refresh Button -->
+                        <select id="vmSelector" class="ml-4 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
+                            <option value="VM-1">Virtual Machine 1</option>
+                            <option value="VM-2">Virtual Machine 2</option>
+                            <option value="VM-3">Virtual Machine 3</option>
+                            <option value="VM-4">Virtual Machine 4</option>
+                            <option value="VM-5">Virtual Machine 5</option>
+                            <option value="VM-6">Virtual Machine 6</option>
+                        </select>
                         <button class="float-right bg-blue-500 text-white py-2 px-3 text-sm  rounded-md hover:bg-blue-700 whitespace-nowrap"  id="main-booster-button" onclick="runBoosterFunction(null, 'bol')">
                             <i class="fas fa-cog"></i> Start Booster
                         </button>
@@ -83,7 +90,14 @@
             function sendPostRequest() {
                 const url = "/get-products";
 
-                axios.post(url)
+                let vmSelector = document.getElementById("vmSelector");
+                let currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+
+                const data = {
+                    currentVM: currentVM,
+                };
+
+                axios.post(url, data)
                 .then(response => {
                     console.log("POST request for products successful:", response.data);
                     createTable(response.data.products);
@@ -129,6 +143,7 @@
 
             function runBoosterFunction(product = null, initAllBooster = false) {
                 const startAllBoosterButton = document.getElementById("main-booster-button");
+              
 
                 if(!initAllBooster) {
                     const productButton = document.getElementById(`productBtn${product}`);
@@ -140,10 +155,12 @@
                     validationMessage.textContent = "";
 
                     const url = "/run-function";
+
                     const data = {
                         allBooster: initAllBooster,
                         product: product,
-                        thread: threadValue
+                        thread: threadValue,
+                        currentVM: currentVM,
                     };
 
                     axios.post(url, data)

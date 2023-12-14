@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "VM-2-0001",
+      "marketplace": "Bol.com",
+      "product": "Kitchen scale Black",
+      "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr-15kg – Tarra Functie - Zwart - Kerstcadeau",
+      "keywords": ["keukenweegschaal digitaal", "precisie weegschaal", "keukenweegschalen", "keukenweegschaal", "weegschaal keuken", "digitale keukenweegschaal"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0002",
+      "marketplace": "Bol.com",
+      "product": "Vegetable Cutter",
+      "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig - Kerstcadeau",
+      "keywords": ["mandolines", "mandoline", "mandoline keukensnijder", "groentesnijder", "mandoline groentesnijder", "uiensnijder"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0003",
+      "marketplace": "Bol.com",
+      "product": "Water bottle RG",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Rosé Goud",
+      "keywords": ["waterfles 1 liter", "waterfles met tijdmarkeringen", "waterfles", "drinkflessen", "waterflessen", "drinkfles"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0004",
+      "marketplace": "Bol.com",
+      "product": "Water bottle RB",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Roze/Blauw",
+      "keywords": ["lekro waterfles", "lekro waterfles met tijdmarkering", "drinkflessen", "waterflessen", "drinkfles"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0005",
+      "marketplace": "Bol.com",
+      "product": "E27 Bulb",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - E27 9W - RGBW - met App - 800 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri - Kerstcadeau",
+      "keywords": ["e27"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0006",
+      "marketplace": "Bol.com",
+      "product": "GU10 bulb",
+      "productTitle": "Lideka® - Slimme LED Lampen - Smart Spotjes GU10 - RGBW - met App - 6W - 400 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri - Kerstcadeau",
+      "keywords": ["led lampen", "gu10 led lamp dimbaar", "spotjes"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0007",
+      "marketplace": "Bol.com",
+      "product": "Sleepmask",
+      "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen - Kerstcadeau",
+      "keywords": ["slaapmasker", "slaapmaskers", "slaapmasker vrouwen", "slaapmasker mannen", "oogmasker", "slaapmasker 3d", "zijden slaapmasker"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0008",
+      "marketplace": "Bol.com",
+      "product": "TV LED strip",
+      "productTitle": "Lideka - TV LED strip - 2 Meter - Auto USB - RGB - met Afstandsbediening - Gaming accesoires - Verlichting - Led Lights - Led Light Strip - Licht strip",
+      "keywords": ["gaming accesoires", "led light strip"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0009",
+      "marketplace": "Bol.com",
+      "product": "NEON LED strip",
+      "productTitle": "Lideka Slimme NEON RGB LED Strip 3 meter - LED Strips Met 16 Miljoen Kleuren - Muziekoptie",
+      "keywords": ["smart led strip"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0010",
+      "marketplace": "Bol.com",
+      "product": "RGB LED strip",
+      "productTitle": "Lideka Smart LED Light Strip - 10 Meter - App Wifi Verbinding - RGB Verlichting - Met Afstandsbediening - Zelfklevend",
+      "keywords": ["smart led strip", "rgb led strip"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0011",
+      "marketplace": "Bol.com",
+      "product": "Earplugs",
+      "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart -",
+      "keywords": ["oordoppen slapen", "earplugs", "sleep plugs", "slaapoordoppen", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0012",
+      "marketplace": "Bol.com",
+      "product": "Sleepglasses Yellow",
+      "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Geel Kleurige Lenzen – Voor Overdag of ‘s Avonds – Wraparound Fitting - Licht Gewicht - Blue Light Glasses Blokkeert Blauw Licht tot 75% - Kerstcadeau",
+      "keywords": ["blue light glasses", "computerbril", "beeldschermbril", "blauw licht bril"],
+      "isRunning" : false 
+    }
+  ]
+}

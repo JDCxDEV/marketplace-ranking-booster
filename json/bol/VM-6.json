@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": "VM-6-0001",
+      "marketplace": "Bol.com",
+      "product": "Vershoudbakjes set Blue",
+      "productTitle": "HI NATURE™ Vershoudbakjes set 4 stuks - Bewaarbakjes opvouwbaar - Diepvriesbakjes vierkant - Meal prep bakjes - Lunchbox set - Magnetron bakjes met deksel - BPA Vrij Siliconen vershouddoos - Silicone bakjes - Voedselcontainer",
+      "keywords": ["vershoudbakjes", "lunchbox"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0002",
+      "marketplace": "Bol.com",
+      "product": "Vershoudbakjes set Green",
+      "productTitle": "HI NATURE™ Vershoudbakjes set 4 stuks - Bewaarbakjes opvouwbaar - Diepvriesbakjes vierkant - Meal prep bakjes - Lunchbox set - Magnetron bakjes met deksel - BPA Vrij Siliconen vershouddoos - Silicone bakjes - Voedselcontainer",
+      "keywords": ["meal prep bakjes", "diepvriesbakjes"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0003",
+      "marketplace": "Bol.com",
+      "product": "Spatel set of 3",
+      "productTitle": "HI NATURE™ Spatel set 3 stuks - Spatel silicone - Siliconen spatel set BPA vrij - Spatelset - Keukenspatel - Pannenlikker - Bakspaan - Keukengerei set | hittebestendig - Anti-aanbak - Keuken gerei (Zwart)",
+      "keywords": ["spatel"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0004",
+      "marketplace": "Bol.com",
+      "product": "Spatel set of 5",
+      "productTitle": "HI NATURE™ Spatel set van 5 stuks - Spatel silicone - Siliconen spatel set - Spatelset - keukengerei set - Keukenspatel | Hittebestendig - Vaatwasserbestendig | Bakspaan - Bakkwast - Garde - Pannenlikker | Anti-aanbak spatelset - keuken gerei (Zwart)",
+      "keywords": ["spatel"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0005",
+      "marketplace": "Bol.com",
+      "product": "Vergiet set Blue",
+      "productTitle": "HI NATURE™ Vergiet opvouwbaar set van 2 stuks - Inklapbare vergiet - Groot en klein vergieten - Siliconen vergiet BPA Vrij | Vaatwasbestendig - Hittebestendig | Blauw",
+      "keywords": ["vergiet"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0006",
+      "marketplace": "Bol.com",
+      "product": "Vergiet set Green",
+      "productTitle": "HI NATURE™ Vergiet opvouwbaar set van 2 stuks - Inklapbare vergiet - Groot en klein vergieten - Siliconen vergiet BPA Vrij | Vaatwasbestendig - Hittebestendig | Groen",
+      "keywords": ["vergiet"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0007",
+      "marketplace": "Bol.com",
+      "product": "Air Fryer set Black",
+      "productTitle": "HI NATURE™ Airfryer accessoires - Airfryer siliconen bakje vierkant set inclusief Wanten voor Airfryer XXL - Siliconen ovenschaal BPA Vrij Accessoires Heteluchtfriteuse Bakvormen – Bakpapier Alternatief - Mand Bakvorm - 20 CM (Zwart)",
+      "keywords": ["airfryer accessoires", "airfryer siliconen bakje"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0008",
+      "marketplace": "Bol.com",
+      "product": "Induction Mat set 4X",
+      "productTitle": "HI NATURE™ Inductie Beschermer set 4 Stuks - Inductie mat - Pannenonderzetter - Hittebestendig - Panbeschermers - Onderzetters Pannen - Inductie Mat - Inductie Afdekplaat - Afdekplaat Voor Kookplaat - Inductie Matjes Rond - 100% BPA Vrie (Zwart)",
+      "keywords": ["inductie beschermer", "inductie mat"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0009",
+      "marketplace": "Bol.com",
+      "product": "Sleepmask",
+      "productTitle": "HI NATURE™ Slaapmasker - Oogmasker Nachtmasker Donkere Slaapkamer - Slaap Hulpmiddelen",
+      "keywords": ["Slaapmasker"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0010",
+      "marketplace": "Bol.com",
+      "product": "Knife set 6",
+      "productTitle": "HI NATURE™ Steakmessen 6 Stuks RVS | Vleesmessen, Messenset, Keukenmessen | Vaatwasserbestendig - 22cm - Zilver",
+      "keywords": ["steakmessen"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0011",
+      "marketplace": "Bol.com",
+      "product": "Cutlery set 36",
+      "productTitle": "HI NATURE™ Bestekset 6 Persoons (36-delig) Zilver | Bestek, Lepels, Messen, Vorken, Steakmessen - Vaatwasserbestendig | Hoogwaardige Roestvrij Staal / RVS",
+      "keywords": ["bestek", "bestek set"],
+      "isRunning" : false 
+    }
+  ]
+}
