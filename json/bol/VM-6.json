@@ -5,7 +5,7 @@
       "marketplace": "Bol.com",
       "product": "Vershoudbakjes set Blue",
       "productTitle": "HI NATURE™ Vershoudbakjes set 4 stuks - Bewaarbakjes opvouwbaar - Diepvriesbakjes vierkant - Meal prep bakjes - Lunchbox set - Magnetron bakjes met deksel - BPA Vrij Siliconen vershouddoos - Silicone bakjes - Voedselcontainer",
-      "keywords": ["vershoudbakjes", "lunchbox"],
+      "keywords": ["vershoudbakjes", "hi nature lunchbox"],
       "isRunning" : false 
     },
     {
@@ -69,7 +69,7 @@
       "marketplace": "Bol.com",
       "product": "Sleepmask",
       "productTitle": "HI NATURE™ Slaapmasker - Oogmasker Nachtmasker Donkere Slaapkamer - Slaap Hulpmiddelen",
-      "keywords": ["Slaapmasker"],
+      "keywords": ["Hi nature Slaapmasker"],
       "isRunning" : false 
     },
     {
@@ -77,7 +77,7 @@
       "marketplace": "Bol.com",
       "product": "Knife set 6",
       "productTitle": "HI NATURE™ Steakmessen 6 Stuks RVS | Vleesmessen, Messenset, Keukenmessen | Vaatwasserbestendig - 22cm - Zilver",
-      "keywords": ["steakmessen"],
+      "keywords": ["steakmessen hi nature"],
       "isRunning" : false 
     },
     {
@@ -86,6 +86,78 @@
       "product": "Cutlery set 36",
       "productTitle": "HI NATURE™ Bestekset 6 Persoons (36-delig) Zilver | Bestek, Lepels, Messen, Vorken, Steakmessen - Vaatwasserbestendig | Hoogwaardige Roestvrij Staal / RVS",
       "keywords": ["bestek", "bestek set"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0012",
+      "marketplace": "Bol.com",
+      "product": "Baby Plate set",
+      "productTitle": "HI NATURE™ Baby bord met zuignap - Siliconen baby bestek - kinderservies & drinkbekers - Baby servies - Bordje set blauw",
+      "keywords": ["kinderservies hi nature"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0013",
+      "marketplace": "Bol.com",
+      "product": "Cheese Grater Long",
+      "productTitle": "HI NATURE™ Hand grater long - Zester - Grater - Lemon grater - Cheese grater - Ginger grater - Garlic grater - Narrow long grater - Stainless steel grater",
+      "keywords": ["rasp"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0014",
+      "marketplace": "Bol.com",
+      "product": "Cheese Grater Multi",
+      "productTitle": "HI NATURE™ Handrasp - Rasp - Citroenrasp - Kaasrasp - Gemberrasp - Zester - Knoflookrasp - Brede rasp - RVS Multi rasp",
+      "keywords": ["rasp"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0015",
+      "marketplace": "Bol.com",
+      "product": "Knife sharpener",
+      "productTitle": "HI NATURE™ Bestekset 6 Persoons (36-delig) Zilver | Bestek, Lepels, Messen, Vorken, Steakmessen - Vaatwasserbestendig | Hoogwaardige Roestvrij Staal / RVS",
+      "keywords": ["messenslijper", "aanzetstaal"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0016",
+      "marketplace": "Bol.com",
+      "product": "Pizza cutterr",
+      "productTitle": "HI NATURE™ Bestekset 6 Persoons (36-delig) Zilver | Bestek, Lepels, Messen, Vorken, Steakmessen - Vaatwasserbestendig | Hoogwaardige Roestvrij Staal / RVS",
+      "keywords": ["pizzasnijder"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0017",
+      "marketplace": "Bol.com",
+      "product": "Camera BagPack",
+      "productTitle": "Tedroka® professionele camerarugzak&reistas- waterdichte universele cameratas -laptoptas- anti-diefstal waterafstotend",
+      "keywords": ["actioncam beschermhoezen", "cameratassen", "cameratas", "cameratassen", "cameratas spiegelreflexcamera"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0018",
+      "marketplace": "Bol.com",
+      "product": "Drone C-Fly-Mini",
+      "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen&draagbaretas en 64 GB SD kaart",
+      "keywords": ["drones", "drone", "drone met camera"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0019",
+      "marketplace": "Bol.com",
+      "product": "Drone C-Fly-Mini With Powerbank",
+      "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen, powerbank 10.000 mah&draagbaretas en 64 GB SD kaart",
+      "keywords": ["drones", "drone", "drone met camera"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-6-0020",
+      "marketplace": "Bol.com",
+      "product": "Drone K911Max",
+      "productTitle": "Tedroka® K911 Max-Drone met 4K camera- Drone met obstakelvermijding -Inclusief GPS-Drone met camera voor volwassenen-Geen vliegbewijs nodig-800 m bereik -Borstelloze motoren-Inclusief draagbare tas, twee batterijen",
+      "keywords": ["drones", "drone", "drone met camera"],
       "isRunning" : false 
     }
   ]
