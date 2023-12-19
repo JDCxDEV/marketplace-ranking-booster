@@ -16,11 +16,11 @@
                 <div class="w-full">
                     <h2 class="text-2xl mb-4">
                         <i class="fas fa-rocket"></i> Run Booster
-                        <select id="mpSelector" class="ml-4 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
+                        <select id="mpSelector" class="ml-4 p-2 border rounded-md text-sm" onchange="showMarketPlace()">
                             <option value="bol">Bol.com</option>
                             <option value="kaufland">Kaufland.com</option>
                         </select>
-                        <select id="vmSelectorBol" class="ml-4 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
+                        <select id="vmSelectorBol" class="ml-2 mr-2 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
                             <option value="VM-1">Virtual Machine 1</option>
                             <option value="VM-2">Virtual Machine 2</option>
                             <option value="VM-3">Virtual Machine 3</option>
@@ -28,7 +28,7 @@
                             <option value="VM-5">Virtual Machine 5</option>
                             <option value="VM-6">Virtual Machine 6</option>
                         </select>
-                        <select id="vmSelectorKaufland" class="mr-2 p-2 border rounded-md text-sm hidden" onchange="sendPostRequest()">
+                        <select id="vmSelectorKaufland" class="ml-2 mr-2 p-2 border rounded-md text-sm hidden" onchange="sendPostRequest()">
                             <option value="VM-7">Virtual Machine 7</option>
                             <option value="VM-8">Virtual Machine 8</option>
                         </select>
@@ -91,6 +91,22 @@
                 });
             }
 
+            function showMarketPlace() {
+                var mpSelector = document.getElementById("mpSelector");
+                var vmSelectorBol = document.getElementById("vmSelectorBol");
+                var vmSelectorKaufland = document.getElementById("vmSelectorKaufland");
+
+                if (mpSelector.value === "bol") {
+                    vmSelectorBol.classList.remove("hidden");
+                    vmSelectorKaufland.classList.add("hidden");
+                } else if (mpSelector.value === "kaufland") {
+                    vmSelectorBol.classList.add("hidden");
+                    vmSelectorKaufland.classList.remove("hidden");
+                }
+
+                sendPostRequest();
+            }
+
             window.onload = function() {
                 sendPostRequest();
             };
@@ -98,10 +114,22 @@
             function sendPostRequest() {
                 const url = "/get-products";
 
-                let vmSelector = document.getElementById("vmSelector");
-                let currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+                let mpSelector = document.getElementById("mpSelector");
+                let currentMP = mpSelector.options[mpSelector.selectedIndex].value;
+
+                let vmSelector = null;
+                let currentVM = null;
+
+                if(currentMP == 'bol') {
+                    vmSelector = document.getElementById("vmSelectorBol");
+                    currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+                }else if(currentMP == 'kaufland'){
+                    vmSelector = document.getElementById("vmSelectorKaufland");
+                    currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+                }
 
                 const data = {
+                    currentMP: currentMP,
                     currentVM: currentVM,
                 };
 

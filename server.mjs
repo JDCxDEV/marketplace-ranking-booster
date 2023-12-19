@@ -38,8 +38,8 @@ const getTriggerDownloadProxies = async (req, res) => {
     return res.status(200).json({ message: 'Proxies refresh complete!' });
 }
 
-const dynamicallyImportJsonFile = async (file)  => {
-    const { default: jsonObject } = await import(`./json/bol/${file}`, {
+const dynamicallyImportJsonFile = async (file, marketplace)  => {
+    const { default: jsonObject } = await import(`./json/${marketplace}/${file}`, {
         assert: {
           type: 'json'
         }
@@ -53,9 +53,10 @@ app.get('/', (req, res) => {
 });
 
 app.post('/get-products', async (req, res) => {
-    const currentVM = req.body.currentVM;
+    const currentMP = req.body.currentMP; 
+    const currentVM = req.body.currentVM; 
     
-    const productJsonFile = await dynamicallyImportJsonFile((currentVM ? currentVM  : 'VM-1') + '.json')
+    const productJsonFile = await dynamicallyImportJsonFile((currentVM ? currentVM  : 'VM-1') + '.json', currentMP)
     return  res.status(200).json(productJsonFile);
 });
 
