@@ -16,13 +16,21 @@
                 <div class="w-full">
                     <h2 class="text-2xl mb-4">
                         <i class="fas fa-rocket"></i> Run Booster
-                        <select id="vmSelector" class="ml-4 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
+                        <select id="mpSelector" class="ml-4 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
+                            <option value="bol">Bol.com</option>
+                            <option value="kaufland">Kaufland.com</option>
+                        </select>
+                        <select id="vmSelectorBol" class="ml-4 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
                             <option value="VM-1">Virtual Machine 1</option>
                             <option value="VM-2">Virtual Machine 2</option>
                             <option value="VM-3">Virtual Machine 3</option>
                             <option value="VM-4">Virtual Machine 4</option>
                             <option value="VM-5">Virtual Machine 5</option>
                             <option value="VM-6">Virtual Machine 6</option>
+                        </select>
+                        <select id="vmSelectorKaufland" class="ml-4 p-2 border rounded-md text-sm" onchange="sendPostRequest()">
+                            <option value="VM-7">Virtual Machine 7</option>
+                            <option value="VM-8">Virtual Machine 8</option>
                         </select>
                         <button class="float-right bg-blue-500 text-white py-2 px-3 text-sm  rounded-md hover:bg-blue-700 whitespace-nowrap"  id="main-booster-button" onclick="runBoosterFunction(null, 'bol')">
                             <i class="fas fa-cog"></i> Start Booster
