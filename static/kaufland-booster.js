@@ -10,7 +10,7 @@ const initBooster = async (product) => {
   // Parameters
   const keyword = booster.getRandomKeyword(product.keywords) 
   const link = 'https://www.kaufland.de/'
-  const productLink =  product.productLink
+  const productLink =  product.productId
   const proxy = await booster.getRandomProxy()
 
   // Set stealth plugin
@@ -138,7 +138,7 @@ const initBooster = async (product) => {
               await paginationButtons[paginationButtons.length - 1].click();
             }
           }catch (error) {
-  
+            await browser.close();
           }
         
           return false

@@ -71,8 +71,8 @@ const initBooster = async (product) => {
     
   if(content) {
     try {
-        // log session information'
-
+      
+        // log session information
         // console.log(`proxy: ${proxy}`)
         // console.log(`user-agent: ${userAgentStr}`)
 
