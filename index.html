@@ -192,9 +192,19 @@
 
                     const url = "/run-function";
 
-                    
-                    let vmSelector = document.getElementById("vmSelector");
-                    let currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+                    let mpSelector = document.getElementById("mpSelector");
+                    let currentMP = mpSelector.options[mpSelector.selectedIndex].value;
+
+                    let vmSelector = null;
+                    let currentVM = null;
+
+                    if(currentMP == 'bol') {
+                        vmSelector = document.getElementById("vmSelectorBol");
+                        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+                    }else if(currentMP == 'kaufland'){
+                        vmSelector = document.getElementById("vmSelectorKaufland");
+                        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+                    }
 
                     const data = {
                         allBooster: initAllBooster,
