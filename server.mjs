@@ -1,7 +1,7 @@
 import express from 'express';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-import { triggerKauflandBooster } from './static/kaufland-booster.js';
+import { triggerKauflandBooster, triggerAllBolKaufland } from './static/kaufland-booster.js';
 import { triggerBolBooster, triggerAllBolBooster } from './static/bol-booster.js';
 import { downloadProxies } from './static/helpers/boosterSteps.js';
 import 'dotenv/config'
@@ -17,17 +17,9 @@ const __dirname = dirname(__filename);
 const getRequestTriggerBooster = async (req, res) => {
     if(req.body.allBooster == 'bol') {
         triggerAllBolBooster(req.body.thread, req.body.currentVM);
-    }else {
-        const productJsonFile = await dynamicallyImportJsonFile('products.json')
-        const product = productJsonFile.products.filter(item => item.id == req.body.product)[0]
-        
-        if (product.marketplace == "Bol" || product.marketplace == "Bol.com" )  {
-            triggerBolBooster(req.body.thread, product);
-        }else {
-            triggerBolBooster(req.body.thread, product);
-        }
+    }else if(req.body.allBooster == 'kaufland'){
+        triggerAllBolKaufland(req.body.thread, req.body.currentVM);
     }
-
   
     return res.status(200).json({ message: 'POST request successful', data: req.body });
 }

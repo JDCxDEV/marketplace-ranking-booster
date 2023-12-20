@@ -77,8 +77,8 @@ const initBooster = async (product) => {
   if(content) {
     try {
       // log session information
-      console.log(`proxy: ${proxy}`)
-      console.log(`user-agent: ${userAgentStr}`)
+      // console.log(`proxy: ${proxy}`)
+      // console.log(`user-agent: ${userAgentStr}`)
 
       await booster.addTimeGap(1000);
 
@@ -88,7 +88,7 @@ const initBooster = async (product) => {
       await page.click(acceptTermsButton);
 
       // Step 2: Type into search box.
-      await booster.addTimeGap(1000);
+      await booster.addTimeGap(4000);
       await page.type('input[name="search_value"]', keyword, {delay: 300});
 
       // Step 3: Wait for suggest overlay to appear and click "show all results".
@@ -103,10 +103,7 @@ const initBooster = async (product) => {
 
       // Step 5: Scroll to the product and click it.
       await booster.addTimeGap(2000)
-      const hasCategorySelect = await page.waitForSelector('.rd-select__select');
-      if(hasCategorySelect) {
-        await page.select('.rd-select__select', 'bestsellers')
-      }
+
 
       // Step 6: Scroll to the product and click it.
       await booster.addTimeGap(4000)
@@ -214,6 +211,16 @@ const initBooster = async (product) => {
   await browser.close();
 }
 
+const dynamicallyImportJsonFile = async (file)  => {
+  const { default: jsonObject } = await import(`./../json/kaufland/${file}`, {
+      assert: {
+        type: 'json'
+      }
+  });
+
+  return jsonObject
+}
+
 export const triggerKauflandBooster = async (thread, product) => {
 
   await booster.addRandomTimeGap(3)
@@ -230,3 +237,44 @@ export const triggerKauflandBooster = async (thread, product) => {
     }
   }
 };
+
+export const triggerAllBolKaufland = async (thread, currentVM) => {
+
+  await booster.addRandomTimeGap(3)
+
+  const productJsonFile = await dynamicallyImportJsonFile( currentVM + '.json');
+  const products = productJsonFile.products.filter( item => !item.isOutOfStock);
+
+  console.log(products.length);
+
+  for (let mainIndex = 1; mainIndex <= thread; mainIndex++) {
+
+    console.log('current thread:' + mainIndex);
+    try {
+      for (let index = 0; index < products.length; index++) {
+        await booster.addRandomTimeGap(3);
+
+        let productThreads = 6;
+        let currentBatch = [];
+
+        for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
+           currentBatch.push(initBooster(products[index]));
+        }   
+        
+        try {
+          await Promise.all(currentBatch).then(() => {
+            console.log(console.log('current thread:' + mainIndex + ' completed'));
+          });
+         } catch(error) {
+          console.log(error)
+        }
+
+      }
+    }catch (error) {
+      if(!process.env.TURN_OFF_LOGS) {
+        console.error(error);
+      }
+    }
+  }
+};
+

@@ -207,7 +207,7 @@
                     }
 
                     const data = {
-                        allBooster: initAllBooster,
+                        allBooster: currentMP,
                         product: product,
                         thread: threadValue,
                         currentVM: currentVM,
@@ -246,7 +246,6 @@
                     console.error("POST request for refreshing proxies failed:", error);
                 });
             }
-
 
             const threadInput = document.getElementById("threadInput");
             const runBoosterButton = document.getElementById("runBooster");
