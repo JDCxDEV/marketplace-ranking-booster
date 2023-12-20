@@ -217,7 +217,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0027",
+      "id": "VM-5-0028",
       "marketplace": "Bol.com",
       "product": "Robot 1",
       "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen - Kerstcadeau",
@@ -225,21 +225,13 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0028",
+      "id": "VM-5-0029",
       "marketplace": "Bol.com",
       "product": "Robot 2",
       "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen - Kerstcadeau",
       "keywords": ["robot speelgoed"],
       "isRunning" : false
     },    
-    {
-      "id": "VM-5-0029",
-      "marketplace": "Bol.com",
-      "product": "Robot 3",
-      "productTitle": "QuchiQ™ Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen - Kerstcadeau",
-      "keywords": ["speelgoed"],
-      "isRunning" : false
-    },
     {
       "id": "VM-5-0030",
       "marketplace": "Bol.com",
@@ -251,13 +243,21 @@
     {
       "id": "VM-5-0031",
       "marketplace": "Bol.com",
+      "product": "Robot 3",
+      "productTitle": "QuchiQ™ Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen - Kerstcadeau",
+      "keywords": ["speelgoed"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0032",
+      "marketplace": "Bol.com",
       "product": "Earplugs Party",
       "productTitle": "QuchiQ™ - Oordoppen - Slaap Oordoppen - Partyplug - Festival oordopjes - HSP Gehoorbescherming - Siliconen plug met filter - 23 dB protection – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Kerstcadeau",
       "keywords": ["oordoppen slapen", "oordoppen"],
       "isRunning" : false
     },
     {
-      "id": "VM-5-0032",
+      "id": "VM-5-0033",
       "marketplace": "Bol.com",
       "product": "Earphone 1",
       "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
@@ -265,7 +265,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0033",
+      "id": "VM-5-0034",
       "marketplace": "Bol.com",
       "product": "Earphone 2",
       "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Earpods - Bluetooth Oortjes - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
@@ -273,7 +273,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0034",
+      "id": "VM-5-0035",
       "marketplace": "Bol.com",
       "product": "Earphone 3",
       "productTitle": "QuchiQ™ Draadloze Oordopjes - Earphones Draadloos - In-ear Oordopjes - Active Noise Cancelling ANC - Earpods - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
@@ -281,7 +281,7 @@
       "isRunning" : false
     },    
     {
-      "id": "VM-5-0035",
+      "id": "VM-5-0036",
       "marketplace": "Bol.com",
       "product": "Earphone 4",
       "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase | Wit - Kerstcadeau",
@@ -289,7 +289,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0036",
+      "id": "VM-5-0037",
       "marketplace": "Bol.com",
       "product": "Earphone 5",
       "productTitle": "QuchiQ™ Volledig Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Earpods - Extra Bass - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
@@ -297,7 +297,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0037",
+      "id": "VM-5-0038",
       "marketplace": "Bol.com",
       "product": "Earphone 6",
       "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Active Noise Cancelling ANC / ENC - DEEP BASS+ Earpods - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
@@ -305,7 +305,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0038",
+      "id": "VM-5-0039",
       "marketplace": "Bol.com",
       "product": "Earphone 7",
       "productTitle": "QuchiQ™ Volledig Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Earpods - Extra Bass - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart",
@@ -313,7 +313,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0039",
+      "id": "VM-5-0040",
       "marketplace": "Bol.com",
       "product": "RGB 3",
       "productTitle": "Lideka® - LED Strip 3 Meter - Google & Alexa - RGB - incl. Afstandsbediening - incl. Kleurverandering - Zelfklevend - 90 Leds - Super Helder - 50K Branduren - 12V - Verlichting - Led Lights - Led Light Strip - Licht strip",
@@ -321,7 +321,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0040",
+      "id": "VM-5-0041",
       "marketplace": "Bol.com",
       "product": "RGB 5",
       "productTitle": "Lideka - LED Strip - 5 Meter - met Afstandsbediening - RGB - 3 Honderd Led lights - Led Light Strip - 10 mm Breed - 2 Jaar Garantie - 30W - 2.0 A - Om 15 CM Knippen - TV - Smart Verlichting - Licht strip",
@@ -329,7 +329,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0041",
+      "id": "VM-5-0042",
       "marketplace": "Bol.com",
       "product": "RGB 15",
       "productTitle": "Lideka - LED Strip 15 Meter (2x7.5) - RGB - 3.0 A - 50K Branduren - met Afstandsbediening - 270 Led's - Verlichting - Led Lights - Led Light Strip - Licht strip - Vaderdag cadeau",
@@ -337,7 +337,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0042",
+      "id": "VM-5-0043",
       "marketplace": "Bol.com",
       "product": "RGB 20",
       "productTitle": "Lideka® - LED Strip 20 Meter (2x10) - RGB - 18 SMD 5050 LEDs p/m - IP65 - met App & Afstandsbediening",
@@ -345,7 +345,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0043",
+      "id": "VM-5-0044",
       "marketplace": "Bol.com",
       "product": "TV LED strip",
       "productTitle": "Lideka - TV LED strip - 2 Meter - Auto USB - RGB - met Afstandsbediening - Gaming accesoires - Verlichting - Led Lights - Led Light Strip - Licht strip",
@@ -353,7 +353,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0044",
+      "id": "VM-5-0045",
       "marketplace": "Bol.com",
       "product": "RGB LED strip",
       "productTitle": "Lideka Smart LED Light Strip - 10 Meter - App Wifi Verbinding - RGB Verlichting - Met Afstandsbediening - Zelfklevend",
@@ -361,7 +361,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0045",
+      "id": "VM-5-0046",
       "marketplace": "Bol.com",
       "product": "Neon LED strip",
       "productTitle": "Lideka® - RGB Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
@@ -369,7 +369,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0046",
+      "id": "VM-5-0047",
       "marketplace": "Bol.com",
       "product": "RGBIC Strip 1",
       "productTitle": "Lideka® - LED strip 10 Meter (2x5) - RGB-IC - Dreamcolor - Special effects - met App - Verlichting - Led Lights - Led Light Strip - Licht strip",
@@ -377,7 +377,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0047",
+      "id": "VM-5-0048",
       "marketplace": "Bol.com",
       "product": "RGBW Strip 2",
       "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 5 Meter - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
@@ -385,7 +385,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0048",
+      "id": "VM-5-0049",
       "marketplace": "Bol.com",
       "product": "NEON Strip 1",
       "productTitle": "Lideka Slimme NEON RGB LED Strip 3 meter - LED Strips Met 16 Miljoen Kleuren - Muziekoptie",
@@ -393,7 +393,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0049",
+      "id": "VM-5-0050",
       "marketplace": "Bol.com",
       "product": "E14 bulb",
       "productTitle": "Lideka® - Slimme LED Smart Lampen - E14 - RGBW - met App - 6W - 600 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri",
@@ -401,7 +401,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0050",
+      "id": "VM-5-0051",
       "marketplace": "Bol.com",
       "product": "E27 Bulb",
       "productTitle": "Lideka® - Slimme LED Smart Lampen - E27 9W - RGBW - met App - 800 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri - Kerstcadeau",
@@ -409,7 +409,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0051",
+      "id": "VM-5-0052",
       "marketplace": "Bol.com",
       "product": "GU10 bulb",
       "productTitle": "Lideka® - Slimme LED Lampen - Smart Spotjes GU10 - RGBW - met App - 6W - 400 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri - Kerstcadeau",
@@ -417,7 +417,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-5-0052",
+      "id": "VM-5-0053",
       "marketplace": "Bol.com",
       "product": "Solar Powerbank",
       "productTitle": "Lideka - Solar Powerbank Charger - 4x USB - USB C - Snel & Draadloos Opladen﻿ - 30.000 mAh - Op Zonne-energie - Outdoor - Geschikt Voor Iphone, Samsung, Apple",
@@ -425,7 +425,7 @@
       "isRunning" : false
     },    
     {
-      "id": "VM-5-0053",
+      "id": "VM-5-0054",
       "marketplace": "Bol.com",
       "product": "Garden Light",
       "productTitle": "Lideka Solar Tuinverlichting – op Zonneenergie – Buitenverlichting - 600 mAh",
