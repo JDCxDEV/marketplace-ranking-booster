@@ -3,82 +3,434 @@
     {
       "id": "VM-5-0001",
       "marketplace": "Bol.com",
-      "product": "Water bottle B",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Blauw - Kerstcadeau",
-      "keywords": ["waterflessen", "waterfles", "drinkfles", "motiverende drinkfles", "lekro waterfles"],
-      "isRunning" : false 
+      "product": "Security Camera Black",
+      "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
+      "keywords": ["beveiligingscamera's", "beveiligingscamera"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0002",
       "marketplace": "Bol.com",
-      "product": "Water bottle G",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motivatie Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Groen - Kerstcadeau",
-      "keywords": ["waterflessen", "waterfles", "drinkfles", "waterfles 1 liter", "waterfles met tijdmarkeringen"],
-      "isRunning" : false 
+      "product": "Security Camera White",
+      "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Wit",
+      "keywords": ["huisdiercamera"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0003",
       "marketplace": "Bol.com",
-      "product": "Water bottle T",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles 1 Liter - BPA vrij - Kerstcadeau",
-      "keywords": ["drinkflessen", "waterflessen", "waterfles", "drinkfles"],
-      "isRunning" : false 
+      "product": "BabyFoon Black",
+      "productTitle": "Babyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Zwart",
+      "keywords": ["babyfoon", "babyfoon met camera", "baby monitor"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0004",
       "marketplace": "Bol.com",
-      "product": "Garden Light",
-      "productTitle": "Lideka Solar Tuinverlichting – op Zonneenergie – Buitenverlichting - 600 mAh",
-      "keywords": ["Buitenverlichting", "Solar tuinverlichting"],
-      "isRunning" : false 
+      "product": "BabyFoon White",
+      "productTitle": "Babyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Wit",
+      "keywords": ["babyfoon", "babyfoon met camera"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0005",
       "marketplace": "Bol.com",
-      "product": "Neon LED strip",
-      "productTitle": "LidLideka® - RGB Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
-      "keywords": ["neon verlichting", "neon led strip buiten"],
-      "isRunning" : false 
+      "product": "Kitchen scale White",
+      "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg – Tarra Functie - Wit",
+      "keywords": ["keukenweegschaal", "weegschaal keuken"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0006",
       "marketplace": "Bol.com",
-      "product": "Earplug 5 New",
-      "productTitle": "QuchiQ™ Volledig Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Earpods - Extra Bass - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
-      "keywords": ["Oordopjes Draadloos", "Bluetooth Oortjes", "Earpods Draadloos", "Wireless Earphones", "Sport Oordopjes", "Wireless Earbuds met Oplaadcase", "in-ear oordopjes", "earbuds wireless", "oortjes draadloos", "Draadloze Oordopjes", "bluetooth oordopjes"],
-      "isRunning" : false 
+      "product": "Kitchen scale Black",
+      "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr-15kg – Tarra Functie - Zwart - Kerstcadeau",
+      "keywords": ["keukenweegschaal", "weegschaal keuken"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0007",
       "marketplace": "Bol.com",
-      "product": "Robot 1",
-      "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen - Kerstcadeau",
-      "keywords": ["robot speelgoed", "robot bouwpakket", "robot speelgoed jongens"],
-      "isRunning" : false 
+      "product": "Kitchen scale USB",
+      "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg – Tarra Functie - Zwart",
+      "keywords": ["keukenweegschaal", "weegschaal keuken"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0008",
       "marketplace": "Bol.com",
-      "product": "Robot 2",
-      "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen - Kerstcadeau",
-      "keywords": ["robot speelgoed", "robot bouwpakket", "robot speelgoed jongens"],
-      "isRunning" : false 
+      "product": "Water bottle RG",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Rosé Goud",
+      "keywords": ["waterfles", "drinkfles"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0009",
       "marketplace": "Bol.com",
-      "product": "Robot 3",
-      "productTitle": "QuchiQ™ Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen - Kerstcadeau",
-      "keywords": ["speelgoed", "robot bouwpakket", "bouwset"],
-      "isRunning" : false 
+      "product": "Vegetable Cutter",
+      "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig - Kerstcadeau",
+      "keywords": ["mandoline", "mandoline keukensnijder", "groentesnijder"],
+      "isRunning" : false
     },
     {
       "id": "VM-5-0010",
       "marketplace": "Bol.com",
+      "product": "Water bottle G",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motivatie Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Groen - Kerstcadeau",
+      "keywords": ["waterfles", "drinkfles"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0011",
+      "marketplace": "Bol.com",
+      "product": "Water bottle RB",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Roze/Blauw",
+      "keywords": ["drinkflessen", "drinkfles"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0012",
+      "marketplace": "Bol.com",
+      "product": "Steakknives",
+      "productTitle": "Lekro Steakmessen – 8-delige Steakmessenset – Vaatwasserbestendig - RVS - Zwart - Kerstcadeau",
+      "keywords": ["steakmessen"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0013",
+      "marketplace": "Bol.com",
+      "product": "Water bottle T",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles 1 Liter - BPA vrij - Kerstcadeau",
+      "keywords": ["drinkflessen", "waterfles"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0014",
+      "marketplace": "Bol.com",
+      "product": "Water bottle BB",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Blauw - Kerstcadeau",
+      "keywords": ["waterfles", "drinkfles"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0015",
+      "marketplace": "Bol.com",
+      "product": "Spiral Cutter",
+      "productTitle": "Lekro Spiraalsnijder + E-book met Recepten - Groentesnijder - Spiralizer - 3 standen - Zwart/Wit - Kerstcadeau",
+      "keywords": ["spiraalsnijder", "spiralizer", "spiraalsnijders", "courgettesnijder spiraal"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0016",
+      "marketplace": "Bol.com",
+      "product": "Sleepglasses Red",
+      "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Rood Kleurige Lenzen – Blue Light Glasses Voor ‘s Avonds Zonder Sterkte – Wraparound Fitting - Licht Gewicht - Blokkeert Blauw Licht tot 98% - Kerstcadeau",
+      "keywords": ["blauw licht bril"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0017",
+      "marketplace": "Bol.com",
+      "product": "Reading Lamp",
+      "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar - Voor in Bed - Kerstcadeau",
+      "keywords": ["leeslampje voor boek", "leeslampje"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0018",
+      "marketplace": "Bol.com",
+      "product": "Sleepmask",
+      "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen - Kerstcadeau",
+      "keywords": ["slaapmasker", "oogmasker"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0019",
+      "marketplace": "Bol.com",
+      "product": "Sleepglasses Yellow",
+      "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Geel Kleurige Lenzen – Voor Overdag of ‘s Avonds – Wraparound Fitting - Licht Gewicht - Blue Light Glasses Blokkeert Blauw Licht tot 75% - Kerstcadeau",
+      "keywords": ["blue light glasses", "blauw licht bril"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0020",
+      "marketplace": "Bol.com",
+      "product": "Earplugs",
+      "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart -",
+      "keywords": ["oordoppen slapen", "oordopjes slapen", "oordoppen"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0021",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 1",
+      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
+      "keywords": ["draadloze powerbank", "powerbank 20000 mah"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0022",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 2",
+      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
+      "keywords": ["draadloze powerbank", "powerbank 20000 mah"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0023",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 3",
+      "productTitle": "Powerbank 20000 mah - Mini power bank - Mobiele oplader - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
+      "keywords": ["draadloze powerbank", "powerbank 20000 mah"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0024",
+      "marketplace": "Bol.com",
+      "product": "Lamp",
+      "productTitle": "QuchiQ™ Daglichtlamp LED 10.000 lux Oplaadbaar - Lichttherapie Lamp - Tabletvorm - Kantelbaar - Energy Lamp UV-Free - 3 Kleuren - 6 Helderheid Niveaus en Intelligente Timer - Kerstcadeau",
+      "keywords": ["daglichtlamp"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0025",
+      "marketplace": "Bol.com",
+      "product": "Robot 1",
+      "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen",
+      "keywords": ["robot speelgoed"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0026",
+      "marketplace": "Bol.com",
+      "product": "Robot 2",
+      "productTitle": "Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen - Kerstcadeau",
+      "keywords": ["robot speelgoed"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0027",
+      "marketplace": "Bol.com",
+      "product": "Robot 3",
+      "productTitle": "Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen",
+      "keywords": ["speelgoed"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0027",
+      "marketplace": "Bol.com",
+      "product": "Robot 1",
+      "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen - Kerstcadeau",
+      "keywords": ["robot speelgoed"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0028",
+      "marketplace": "Bol.com",
+      "product": "Robot 2",
+      "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen - Kerstcadeau",
+      "keywords": ["robot speelgoed"],
+      "isRunning" : false
+    },    
+    {
+      "id": "VM-5-0029",
+      "marketplace": "Bol.com",
+      "product": "Robot 3",
+      "productTitle": "QuchiQ™ Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen - Kerstcadeau",
+      "keywords": ["speelgoed"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0030",
+      "marketplace": "Bol.com",
+      "product": "Robot 3",
+      "productTitle": "QuchiQ™ Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen - Kerstcadeau",
+      "keywords": ["speelgoed"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0031",
+      "marketplace": "Bol.com",
       "product": "Earplugs Party",
       "productTitle": "QuchiQ™ - Oordoppen - Slaap Oordoppen - Partyplug - Festival oordopjes - HSP Gehoorbescherming - Siliconen plug met filter - 23 dB protection – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Kerstcadeau",
-      "keywords": ["oordoppen slapen", "earplugs", "sleep plugs", "slaapoordoppen", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen"],
-      "isRunning" : false 
+      "keywords": ["oordoppen slapen", "oordoppen"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0032",
+      "marketplace": "Bol.com",
+      "product": "Earphone 1",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["Sport Oordopjes", "Oordopjes Draadloos"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0033",
+      "marketplace": "Bol.com",
+      "product": "Earphone 2",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Earpods - Bluetooth Oortjes - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["bluetooth oordopjes", "oortjes draadloos"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0034",
+      "marketplace": "Bol.com",
+      "product": "Earphone 3",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Earphones Draadloos - In-ear Oordopjes - Active Noise Cancelling ANC - Earpods - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["bluetooth oordopjes", "oortjes draadloos"],
+      "isRunning" : false
+    },    
+    {
+      "id": "VM-5-0035",
+      "marketplace": "Bol.com",
+      "product": "Earphone 4",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase | Wit - Kerstcadeau",
+      "keywords": ["oortjes draadloos", "bluetooth oordopjes"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0036",
+      "marketplace": "Bol.com",
+      "product": "Earphone 5",
+      "productTitle": "QuchiQ™ Volledig Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Earpods - Extra Bass - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["oortjes draadloos", "bluetooth oordopjes"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0037",
+      "marketplace": "Bol.com",
+      "product": "Earphone 6",
+      "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Active Noise Cancelling ANC / ENC - DEEP BASS+ Earpods - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
+      "keywords": ["Oordopjes Draadloos", "Bluetooth Oortjes"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0038",
+      "marketplace": "Bol.com",
+      "product": "Earphone 7",
+      "productTitle": "QuchiQ™ Volledig Draadloze Oordopjes - Oordopjes Draadloos - In-ear Oordopjes - Earpods - Extra Bass - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart",
+      "keywords": ["Draadloze Oordopjes", "Oordopjes Draadloos"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0039",
+      "marketplace": "Bol.com",
+      "product": "RGB 3",
+      "productTitle": "Lideka® - LED Strip 3 Meter - Google & Alexa - RGB - incl. Afstandsbediening - incl. Kleurverandering - Zelfklevend - 90 Leds - Super Helder - 50K Branduren - 12V - Verlichting - Led Lights - Led Light Strip - Licht strip",
+      "keywords": ["led strip 3 meter"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0040",
+      "marketplace": "Bol.com",
+      "product": "RGB 5",
+      "productTitle": "Lideka - LED Strip - 5 Meter - met Afstandsbediening - RGB - 3 Honderd Led lights - Led Light Strip - 10 mm Breed - 2 Jaar Garantie - 30W - 2.0 A - Om 15 CM Knippen - TV - Smart Verlichting - Licht strip",
+      "keywords": ["led strip"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0041",
+      "marketplace": "Bol.com",
+      "product": "RGB 15",
+      "productTitle": "Lideka - LED Strip 15 Meter (2x7.5) - RGB - 3.0 A - 50K Branduren - met Afstandsbediening - 270 Led's - Verlichting - Led Lights - Led Light Strip - Licht strip - Vaderdag cadeau",
+      "keywords": ["led strip 15 meter"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0042",
+      "marketplace": "Bol.com",
+      "product": "RGB 20",
+      "productTitle": "Lideka® - LED Strip 20 Meter (2x10) - RGB - 18 SMD 5050 LEDs p/m - IP65 - met App & Afstandsbediening",
+      "keywords": ["led strip 20 meter"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0043",
+      "marketplace": "Bol.com",
+      "product": "TV LED strip",
+      "productTitle": "Lideka - TV LED strip - 2 Meter - Auto USB - RGB - met Afstandsbediening - Gaming accesoires - Verlichting - Led Lights - Led Light Strip - Licht strip",
+      "keywords": ["gaming accesoires", "led light strip"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0044",
+      "marketplace": "Bol.com",
+      "product": "RGB LED strip",
+      "productTitle": "Lideka Smart LED Light Strip - 10 Meter - App Wifi Verbinding - RGB Verlichting - Met Afstandsbediening - Zelfklevend",
+      "keywords": ["smart led strip", "rgb led strip"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0045",
+      "marketplace": "Bol.com",
+      "product": "Neon LED strip",
+      "productTitle": "Lideka® - RGB Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
+      "keywords": ["neon verlichting", "neon led strip buiten"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0046",
+      "marketplace": "Bol.com",
+      "product": "RGBIC Strip 1",
+      "productTitle": "Lideka® - LED strip 10 Meter (2x5) - RGB-IC - Dreamcolor - Special effects - met App - Verlichting - Led Lights - Led Light Strip - Licht strip",
+      "keywords": ["led strip"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0047",
+      "marketplace": "Bol.com",
+      "product": "RGBW Strip 2",
+      "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 5 Meter - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
+      "keywords": ["led strip"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0048",
+      "marketplace": "Bol.com",
+      "product": "NEON Strip 1",
+      "productTitle": "Lideka Slimme NEON RGB LED Strip 3 meter - LED Strips Met 16 Miljoen Kleuren - Muziekoptie",
+      "keywords": ["neon verlichting", "neon lamp"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0049",
+      "marketplace": "Bol.com",
+      "product": "E14 bulb",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - E14 - RGBW - met App - 6W - 600 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri",
+      "keywords": ["e14 led lamp"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0050",
+      "marketplace": "Bol.com",
+      "product": "E27 Bulb",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - E27 9W - RGBW - met App - 800 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri - Kerstcadeau",
+      "keywords": ["e27"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0051",
+      "marketplace": "Bol.com",
+      "product": "GU10 bulb",
+      "productTitle": "Lideka® - Slimme LED Lampen - Smart Spotjes GU10 - RGBW - met App - 6W - 400 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri - Kerstcadeau",
+      "keywords": ["led lampen", "spotjes"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0052",
+      "marketplace": "Bol.com",
+      "product": "Solar Powerbank",
+      "productTitle": "Lideka - Solar Powerbank Charger - 4x USB - USB C - Snel & Draadloos Opladen﻿ - 30.000 mAh - Op Zonne-energie - Outdoor - Geschikt Voor Iphone, Samsung, Apple",
+      "keywords": ["powerbank", "powerbank zonneenergie", "solar powerbank"],
+      "isRunning" : false
+    },    
+    {
+      "id": "VM-5-0053",
+      "marketplace": "Bol.com",
+      "product": "Garden Light",
+      "productTitle": "Lideka Solar Tuinverlichting – op Zonneenergie – Buitenverlichting - 600 mAh",
+      "keywords": ["Buitenverlichting", "Solar tuinverlichting"],
+      "isRunning" : false
     }
   ]
 }
