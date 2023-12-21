@@ -1,15 +1,16 @@
 import express from 'express';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-import { triggerKauflandBooster, triggerAllBolKaufland } from './static/kaufland-booster.js';
-import { triggerBolBooster, triggerAllBolBooster } from './static/bol-booster.js';
-import { downloadProxies } from './static/helpers/boosterSteps.js';
+import { triggerKauflandBooster, triggerAllBolKaufland } from './src/js/static/kaufland-booster.js';
+import { triggerBolBooster, triggerAllBolBooster } from './src/js/static/bol-booster.js';
+import { downloadProxies } from './src/helpers/boosterSteps.js';
 import 'dotenv/config'
 
 const app = express();
 const port = process.env.PORT || 3000; // Use the specified port or default to 3000
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
+app.use(express.static('src'));
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -31,7 +32,7 @@ const getTriggerDownloadProxies = async (req, res) => {
 }
 
 const dynamicallyImportJsonFile = async (file, marketplace)  => {
-    const { default: jsonObject } = await import(`./json/${marketplace}/${file}`, {
+    const { default: jsonObject } = await import(`./src/assets/json/${marketplace}/${file}`, {
         assert: {
           type: 'json'
         }
