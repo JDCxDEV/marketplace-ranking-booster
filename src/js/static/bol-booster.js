@@ -34,15 +34,16 @@ const initBooster = async (product) => {
     executablePath: executablePath(),
     args: [
       `--proxy-server=${proxy}`,
-      '--disable-setuid-sandbox',
-      '--disable-infobars',
       '--window-position=0,0',
       '--ignore-certificate-errors',
-      '--ignore-certificate-errors-spki-list',
-      '--start-maximized'
+      '--single-process',
+      '--disable-gpu',
+      '--disable-dev-shm-usage',
+      '--disable-accelerated-2d-canvas',
+      '--no-first-run',
+      '--no-sandbox',
+      '--no-zygote',
       ],
-
-      ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
   });
     
   const page = await browser.newPage();
@@ -187,11 +188,11 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
       for (let index = 0; index < products.length; index++) {
         await booster.addRandomTimeGap(3);
 
-        let productThreads = 6;
+        let productThreads = 10;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-           currentBatch.push(initBooster(products[index]));
+          currentBatch.push(initBooster(products[index]));
         }   
         
         try {

@@ -34,14 +34,16 @@ const initBooster = async (product) => {
     executablePath: executablePath(),
     args: [
       `--proxy-server=${proxy}`,
-      '--disable-setuid-sandbox',
-      '--disable-infobars',
       '--window-position=0,0',
-      '--ignore-certifcate-errors',
-      '--ignore-certifcate-errors-spki-list',
+      '--ignore-certificate-errors',
+      '--single-process',
+      '--disable-gpu',
+      '--disable-dev-shm-usage',
+      '--disable-accelerated-2d-canvas',
+      '--no-first-run',
+      '--no-sandbox',
+      '--no-zygote',
       ],
-
-      ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
   });
     
   const page = await browser.newPage();
