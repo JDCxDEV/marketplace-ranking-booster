@@ -197,7 +197,7 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
           currentBatch.push(initBooster(products[index]));
         }   
       
-        const timeoutMilliseconds = 150000; // 2 minutes and 30 seconds
+        const timeoutMilliseconds = 300000; // 5 minutes
 
         const timeoutPromise = new Promise((_, reject) => {
           setTimeout(() => {
