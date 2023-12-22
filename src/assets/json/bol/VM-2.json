@@ -5,7 +5,7 @@
         "marketplace": "Bol.com",
         "product": "GU10 bulb",
         "productTitle": "Lideka® - Slimme LED Lampen - Smart Spotjes GU10 - RGBW - met App - 6W - 400 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri - Kerstcadeau",
-        "keywords": ["gu10 led lamp dimbaar"],
+        "keywords": ["gu10 led lamp dimbaar", "led lampen", "spotjes"],
         "isRunning" : false
     },
     {
@@ -13,7 +13,7 @@
         "marketplace": "Bol.com",
         "product": "Earplugs",
         "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart -",
-        "keywords": ["earplugs", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes"],
+        "keywords": ["earplugs", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen slapen", "oordopjes slapen", "oordoppen"],
         "isRunning" : false 
     },
     {
@@ -21,7 +21,7 @@
         "marketplace": "Bol.com",
         "product": "Sleepmask",
         "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen - Kerstcadeau",
-        "keywords": ["slaapmaskers", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker"],
+        "keywords": ["slaapmaskers", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmasker", "oogmasker"],
         "isRunning" : false 
     },
     {
@@ -29,7 +29,7 @@
         "marketplace": "Bol.com",
         "product": "Sleepglasses Yellow",
         "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Geel Kleurige Lenzen – Voor Overdag of ‘s Avonds – Wraparound Fitting - Licht Gewicht - Blue Light Glasses Blokkeert Blauw Licht tot 75% - Kerstcadeau",
-        "keywords": ["computerbril", "beeldschermbril"],
+        "keywords": ["computerbril", "beeldschermbril", "blue light glasses", "blauw licht bril"],
         "isRunning" : false 
     },
     {
@@ -37,7 +37,7 @@
       "marketplace": "Bol.com",
       "product": "Robot 1",
       "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen",
-      "keywords": ["robot speelgoed jongens", "robot bouwpakket"],
+      "keywords": ["robot speelgoed jongens", "robot bouwpakket", "robot speelgoed"],
       "isRunning" : false 
     },
     {
@@ -45,7 +45,7 @@
         "marketplace": "Bol.com",
         "product": "Robot 2",
         "productTitle": "Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen - Kerstcadeau",
-        "keywords": ["robot speelgoed jongens", "robot bouwpakket"],
+        "keywords": ["robot speelgoed jongens", "robot bouwpakket", "robot speelgoed"],
         "isRunning" : false 
     },
     {
@@ -53,7 +53,7 @@
         "marketplace": "Bol.com",
         "product": "Robot 3",
         "productTitle": "Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen",
-        "keywords": ["bouwset", "robot bouwpakket"],
+        "keywords": ["bouwset", "robot bouwpakket", "speelgoed"],
         "isRunning" : false 
     },
     {
@@ -77,7 +77,7 @@
         "marketplace": "Bol.com",
         "product": "RGBW Strip 2",
         "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 5 Meter - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
-        "keywords": ["ledstrip rgbw", "rgbw led strip", "led strip met afstandsbediening"],
+        "keywords": ["ledstrip rgbw", "rgbw led strip", "led strip met afstandsbediening", "led strip"],
         "isRunning" : false 
     },
     {
@@ -85,7 +85,7 @@
         "marketplace": "Bol.com",
         "product": "RGBIC Strip 1",
         "productTitle": "Lideka® - LED strip 10 Meter (2x5) - RGB-IC - Dreamcolor - Special effects - met App - Verlichting - Led Lights - Led Light Strip - Licht strip",
-        "keywords": ["led strip 10 meter", "led-strips", "lichtstrip"],
+        "keywords": ["led strip 10 meter", "led-strips", "lichtstrip", "led strip"],
         "isRunning" : false
     },
     {
@@ -93,7 +93,7 @@
         "marketplace": "Bol.com",
         "product": "NEON Strip 1",
         "productTitle": "Lideka Slimme NEON RGB LED Strip 3 meter - LED Strips Met 16 Miljoen Kleuren - Muziekoptie",
-        "keywords": ["smart led strip"],
+        "keywords": ["smart led strip", "neon verlichting", "neon lamp"],
         "isRunning" : false 
     }
   ]

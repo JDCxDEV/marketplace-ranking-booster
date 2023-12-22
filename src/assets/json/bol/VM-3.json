@@ -13,7 +13,7 @@
         "marketplace": "Bol.com",
         "product": "BabyFoon Black",
         "productTitle": "Babyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Zwart",
-        "keywords": ["babyfoons", "babyfoon met camera en app", "babyfoon camera"],
+        "keywords": ["babyfoons", "babyfoon met camera en app", "babyfoon camera", "babyfoon", "babyfoon met camera", "baby monitor"],
         "isRunning" : false 
     },
     {
@@ -21,7 +21,7 @@
         "marketplace": "Bol.com",
         "product": "BabyFoon White",
         "productTitle": "BabyBabyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Wit",
-        "keywords": ["babyfoons", "babyfoon met camera en app", "babyfoon camera", "baby monitor"],
+        "keywords": ["babyfoons", "babyfoon met camera en app", "babyfoon camera", "baby monitor", "babyfoon", "babyfoon met camera"],
         "isRunning" : false 
     },
     {
@@ -29,7 +29,7 @@
       "marketplace": "Bol.com",
       "product": "Powerbank 1",
       "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
-      "keywords": ["externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos"],
+      "keywords": ["externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "draadloze powerbank", "powerbank 20000 mah"],
       "isRunning" : false 
     },
     {
@@ -37,7 +37,7 @@
       "marketplace": "Bol.com",
       "product": "Powerbank 2",
       "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
-      "keywords": ["externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos"],
+      "keywords": ["externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "draadloze powerbank", "powerbank 20000 mah"],
       "isRunning" : false 
     },
     {
@@ -45,7 +45,7 @@
       "marketplace": "Bol.com",
       "product": "Powerbank 3",
       "productTitle": "Powerbank 20000 mah - Mini power bank - Mobiele oplader - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Kerstcadeau",
-      "keywords": ["mini powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "externe oplader powerbank", "externe batterij powerbank"],
+      "keywords": ["mini powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "externe oplader powerbank", "externe batterij powerbank", "draadloze powerbank", "powerbank 20000 mah"],
       "isRunning" : false 
     },
     {
@@ -53,7 +53,7 @@
       "marketplace": "Bol.com",
       "product": "Earphone 1",
       "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart - Kerstcadeau",
-      "keywords": ["Bluetooth Oortjes", "Earpods Draadloos", "Wireless Earphones"],
+      "keywords": ["Bluetooth Oortjes", "Earpods Draadloos", "Wireless Earphones", "Sport Oordopjes", "Oordopjes Draadloos"],
       "isRunning" : false 
     },
     {
@@ -61,7 +61,7 @@
         "marketplace": "Bol.com",
         "product": "Earplugs Party",
         "productTitle": "QuchiQ™ - Oordoppen - Slaap Oordoppen - Partyplug - Festival oordopjes - HSP Gehoorbescherming - Siliconen plug met filter - 23 dB protection – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Kerstcadeau",
-        "keywords": ["earplugs", "sleep plugs", "slaapoordoppen", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes QuchiQ"],
+        "keywords": ["earplugs", "sleep plugs", "slaapoordoppen", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes QuchiQ", "oordoppen slapen", "oordoppen"],
         "isRunning" : false 
     },
     {
@@ -69,7 +69,7 @@
         "marketplace": "Bol.com",
         "product": "Vegetable Cutter",
         "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig - Kerstcadeau",
-        "keywords": ["mandolines", "mandoline groentesnijder", "uiensnijder"],
+        "keywords": ["mandolines", "mandoline groentesnijder", "uiensnijder", "mandoline", "mandoline keukensnijder", "groentesnijder"],
         "isRunning" : false 
     }
   ]
