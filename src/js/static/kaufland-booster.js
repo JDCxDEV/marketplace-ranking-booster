@@ -261,22 +261,33 @@ export const triggerAllBolKaufland = async (thread, currentVM) => {
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-           currentBatch.push(initBooster(products[index]));
+          currentBatch.push(initBooster(products[index]));
         }   
         
-        try {
-          await Promise.all(currentBatch).then(() => {
-            console.log(console.log('current thread:' + mainIndex + ' completed'));
-          });
-         } catch(error) {
-          console.log(error)
-        }
+        const timeoutMilliseconds = 150000; // 2 minutes and 30 seconds
+
+        const timeoutPromise = new Promise((_, reject) => {
+          setTimeout(() => {
+            reject(new Error('Timeout exceeded'));
+          }, timeoutMilliseconds);
+        });
+        
+        await Promise.race([
+          Promise.all(currentBatch),
+          timeoutPromise
+        ]).then(() => {
+          console.log('current thread:' + mainIndex + ' completed');
+        }).catch(error => {
+            console.error('Error:', error.message);
+        });
 
       }
     }catch (error) {
       if(!process.env.TURN_OFF_LOGS) {
         console.error(error);
       }
+
+      return;
     }
   }
 };
