@@ -54,12 +54,8 @@ app.post('/get-products', async (req, res) => {
 });
 
 app.post('/run-function', await getRequestTriggerBooster);
-
-
 app.post('/refresh-proxies', await getTriggerDownloadProxies);
 
-
-// Start the server
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
 });

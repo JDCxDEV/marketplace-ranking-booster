@@ -39,6 +39,7 @@ const initBooster = async (product) => {
       '--window-position=0,0',
       '--ignore-certificate-errors',
       '--ignore-certificate-errors-spki-list',
+      '--start-maximized'
       ],
 
       ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
@@ -72,7 +73,8 @@ const initBooster = async (product) => {
   if(content) {
     try {
       
-        // log session information
+        /* log session information */
+        
         // console.log(`proxy: ${proxy}`)
         // console.log(`user-agent: ${userAgentStr}`)
 
@@ -125,7 +127,7 @@ const initBooster = async (product) => {
 
         await booster.addRandomTimeGap(3, 7);
         for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-            await booster.scrollToRandomClass(page, '.product-item__content');
+            await booster.scrollToRandomClass(page, '.product-item__content', browser);
         }
 
         await booster.addRandomTimeGap(3, 7);
@@ -160,7 +162,7 @@ export const triggerBolBooster = async (thread, product) => {
 
 
 const dynamicallyImportJsonFile = async (file)  => {
-  const { default: jsonObject } = await import(`./../json/bol/${file}`, {
+  const { default: jsonObject } = await import(`./../../assets/json/bol/${file}`, {
       assert: {
         type: 'json'
       }

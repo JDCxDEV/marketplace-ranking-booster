@@ -18,7 +18,6 @@ function getProducts() {
         console.error("POST request for products failed:", error);
     })
     .finally(() => {
-        // Reset the button text
         getProductsButton.innerHTML = originalButtonText;
     });
 }
@@ -136,7 +135,7 @@ function createTable(products) {
         return;
     }
 
-    productTableBody.innerHTML = ''; // Clear previous data
+    productTableBody.innerHTML = '';
 
     let index = 0;
     
@@ -168,7 +167,6 @@ function refreshProxies() {
     axios.post(url)
     .then(response => {
         console.log("POST request for refreshing proxies successful:", response.data);
-        // Optionally, you can update the UI or take further actions after refreshing proxies
     })
     .catch(error => {
         console.error("POST request for refreshing proxies failed:", error);

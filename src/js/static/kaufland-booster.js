@@ -77,6 +77,7 @@ const initBooster = async (product) => {
   if(content) {
     try {
       // log session information
+
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
@@ -144,8 +145,8 @@ const initBooster = async (product) => {
 
       const scrollDown = async (page) => {
         await page.evaluate(() => {
-          const scrollStep = 250; // Adjust the scrolling step as needed
-          const scrollInterval = 150; // Adjust the scrolling interval (ms) as needed
+          const scrollStep = 250;
+          const scrollInterval = 150;
   
           function smoothScroll() {
             let scrollFrom = window.scrollY;
@@ -162,7 +163,6 @@ const initBooster = async (product) => {
   
           const scrollIntervalId = setInterval(smoothScroll, scrollInterval);
   
-          // Stop smooth scrolling after a certain time (e.g., 5000 ms)
           setTimeout(() => {
             clearInterval(scrollIntervalId);
           }, 7000);
@@ -212,7 +212,7 @@ const initBooster = async (product) => {
 }
 
 const dynamicallyImportJsonFile = async (file)  => {
-  const { default: jsonObject } = await import(`./../json/kaufland/${file}`, {
+  const { default: jsonObject } = await import(`./../../assets/json/kaufland/${file}`, {
       assert: {
         type: 'json'
       }
