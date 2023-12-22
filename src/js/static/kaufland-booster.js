@@ -2,7 +2,7 @@ import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
-import * as booster  from './helpers/boosterSteps.js'
+import * as booster  from '../../helpers/boosterSteps.js'
 import { executablePath  } from 'puppeteer';
 
 const initBooster = async (product) => {

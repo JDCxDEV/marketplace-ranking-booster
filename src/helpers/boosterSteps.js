@@ -43,7 +43,7 @@ export const isForbiddenPage = (request) =>{
 }
 
 const openProxiesFile = async () => {
-    const proxyTxt = await loadTextFile('./proxies/proxies.txt')
+    const proxyTxt = await loadTextFile('./src/assets/proxies/proxies.txt')
     let arr = proxyTxt.split('\n')
 
     return arr[(Math.floor(Math.random() * arr.length))]
@@ -64,7 +64,7 @@ export const getRandomProxy = async () => {
 }
 
 export const downloadProxies = async () => {
-    await download(process.env.PROXY_URL, './proxies/proxies.txt')
+    await download(process.env.PROXY_URL, './src/assets/proxies/proxies.txt')
 }
 
 export const scrollDown = async (page) => {
