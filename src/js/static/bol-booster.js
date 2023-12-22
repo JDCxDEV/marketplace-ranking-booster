@@ -188,7 +188,7 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
       for (let index = 0; index < products.length; index++) {
         await booster.addRandomTimeGap(3);
 
-        let productThreads = 10;
+        let productThreads = 6;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
