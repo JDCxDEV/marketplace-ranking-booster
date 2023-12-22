@@ -44,6 +44,8 @@ const initBooster = async (product) => {
       '--no-sandbox',
       '--no-zygote',
       ],
+
+      ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
   });
     
   const page = await browser.newPage();
