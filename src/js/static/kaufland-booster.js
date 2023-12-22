@@ -117,7 +117,6 @@ const initBooster = async (product) => {
 
       const findProduct = async () => {
         const anchor = await page.$$eval('a.product__wrapper', (anchors, productLink) => {
-          console.log(anchors)
           for (const anchor of anchors) {
             if (anchor.href.includes(productLink)) {
                 anchor.click()
