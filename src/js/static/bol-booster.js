@@ -104,7 +104,7 @@ const initBooster = async (product) => {
         await page.evaluate(() => {
             const element = document.querySelector('.js-search-input');
             if (element) {
-            element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+              element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
             }
         });
 
@@ -139,7 +139,7 @@ const initBooster = async (product) => {
         await booster.addRandomTimeGap(10, 10);
 
     }catch(error) {
-      await browser.close();
+      return await browser.close();
     }
   }
 
@@ -196,14 +196,23 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
           currentBatch.push(initBooster(products[index]));
         }   
+      
+        const timeoutMilliseconds = 150000; // 2 minutes and 30 seconds
+
+        const timeoutPromise = new Promise((_, reject) => {
+          setTimeout(() => {
+            reject(new Error('Timeout exceeded'));
+          }, timeoutMilliseconds);
+        });
         
-        try {
-          await Promise.all(currentBatch).then(() => {
-            console.log(console.log('current thread:' + mainIndex + ' completed'));
-          });
-         } catch(error) {
-          console.log(error)
-        }
+        await Promise.race([
+          Promise.all(currentBatch),
+          timeoutPromise
+        ]).then(() => {
+          console.log('current thread:' + mainIndex + ' completed');
+        }).catch(error => {
+          console.error('Error:', error.message);
+        });
 
       }
     }catch (error) {
