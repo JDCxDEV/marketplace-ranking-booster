@@ -5,7 +5,12 @@ import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
 import { executablePath  } from 'puppeteer';
 
-const initBooster = async (product) => {
+const initBooster = async (product, threadTimer = 200) => {
+  // Set a timer to close the browser and the method after the specified duration
+  setTimeout(async () => {
+    await browser.close();
+    console.log(`Browser closed after ${threadTimer} seconds.`);
+  }, threadTimer * 1000);
 
   // Parameters
   const keyword = booster.getRandomKeyword(product.keywords) 
