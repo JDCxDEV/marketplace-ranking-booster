@@ -7,9 +7,16 @@ import { executablePath  } from 'puppeteer';
 
 const initBooster = async (product, threadTimer = 200) => {
   // Set a timer to close the browser and the method after the specified duration
+
+  let browser = null;
+
   setTimeout(async () => {
-    await browser.close();
     console.log(`Browser closed after ${threadTimer} seconds.`);
+    if(browser) {
+      return await browser.close();
+    }else {
+      return;
+    }
   }, threadTimer * 1000);
 
   // Parameters
@@ -34,7 +41,7 @@ const initBooster = async (product, threadTimer = 200) => {
   }));
     
   // initialize booster page
-  const browser = await puppeteer.launch({ 
+  browser = await puppeteer.launch({ 
     headless: false,
     executablePath: executablePath(),
     args: [
