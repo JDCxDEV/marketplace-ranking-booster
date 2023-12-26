@@ -6,8 +6,8 @@ import * as booster  from '../../helpers/boosterSteps.js'
 import { executablePath  } from 'puppeteer';
 
 const initBooster = async (product, threadTimer = 300) => {
+  
   // Set a timer to close the browser and the method after the specified duration
-
   let browser = null;
 
   setTimeout(async () => {

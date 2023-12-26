@@ -70,7 +70,7 @@
       "productTitle": "HI NATURE™ Inductie Beschermer set 4 Stuks - Inductie mat - Pannenonderzetter - Hittebestendig - Panbeschermers - Onderzetters Pannen - Inductie Mat - Inductie Afdekplaat - Afdekplaat Voor Kookplaat - Inductie Matjes Rond - 100% BPA Vrie (Zwart)",
       "keywords": ["inductie beschermer", "inductie mat"],
       "isRunning" : false,
-      "isOutOfStock" : true
+      "isOutOfStock" : false
     },
     {
       "id": "VM-6-0009",
@@ -151,7 +151,7 @@
       "productTitle": "Tedroka® professionele camerarugzak&reistas- waterdichte universele cameratas -laptoptas- anti-diefstal waterafstotend",
       "keywords": ["actioncam beschermhoezen", "cameratassen", "cameratas", "cameratassen", "cameratas spiegelreflexcamera"],
       "isRunning" : false,
-      "isOutOfStock" : true
+      "isOutOfStock" : false
     },
     {
       "id": "VM-6-0018",
@@ -160,7 +160,7 @@
       "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen&draagbaretas en 64 GB SD kaart",
       "keywords": ["drones", "drone", "drone met camera"],
       "isRunning" : false,
-      "isOutOfStock" : true
+      "isOutOfStock" : false
     },
     {
       "id": "VM-6-0019",
@@ -169,7 +169,7 @@
       "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen, powerbank 10.000 mah&draagbaretas en 64 GB SD kaart",
       "keywords": ["drones", "drone", "drone met camera"],
       "isRunning" : false,
-      "isOutOfStock" : true
+      "isOutOfStock" : false
     },
     {
       "id": "VM-6-0020",
@@ -178,7 +178,7 @@
       "productTitle": "Tedroka® K911 Max-Drone met 4K camera- Drone met obstakelvermijding -Inclusief GPS-Drone met camera voor volwassenen-Geen vliegbewijs nodig-800 m bereik -Borstelloze motoren-Inclusief draagbare tas, twee batterijen",
       "keywords": ["drones", "drone", "drone met camera"],
       "isRunning" : false,
-      "isOutOfStock" : true
+      "isOutOfStock" : false
     }
   ]
 }

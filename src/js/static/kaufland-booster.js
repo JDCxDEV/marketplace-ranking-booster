@@ -5,7 +5,7 @@ import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
 import { executablePath  } from 'puppeteer';
 
-const initBooster = async (product) => {
+const initBooster = async (product, threadTimer = 300) => {
 
   // Parameters
   const keyword = booster.getRandomKeyword(product.keywords) 
@@ -13,12 +13,26 @@ const initBooster = async (product) => {
   const productLink =  product.productId
   const proxy = await booster.getRandomProxy()
 
+
+  // Set a timer to close the browser and the method after the specified duration
+
+  let browser = null;
+
+  setTimeout(async () => {
+    console.log(`Browser closed after ${threadTimer} seconds.`);
+    if(browser) {
+      return await browser.close();
+    }else {
+      return;
+    }
+  }, threadTimer * 1000);
+
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
   puppeteer.use(stealthPlugin);
 
   // Create random user-agent to be set through plugin
-  const userAgent = new UserAgent({ platform: 'Win32', deviceCategory: 'desktop'});
+  const userAgent = new UserAgent();
   const userAgentStr = userAgent.toString();
 
   // Use the anonymize user agent plugin with custom user agent string
@@ -29,7 +43,7 @@ const initBooster = async (product) => {
   }));
     
   // initialize booster page
-  const browser = await puppeteer.launch({ 
+  browser = await puppeteer.launch({ 
     headless: false,
     executablePath: executablePath(),
     args: [
@@ -106,11 +120,11 @@ const initBooster = async (product) => {
         })
       )
 
-      // Step 5: Scroll to the product and click it.
+      // Step 4: Scroll to the product and click it.
       await booster.addTimeGap(2000)
 
 
-      // Step 6: Scroll to the product and click it.
+      // Step 5: Scroll to the product and click it.
       await booster.addTimeGap(4000)
 
       let foundProduct = false
@@ -184,7 +198,7 @@ const initBooster = async (product) => {
 
       await booster.addTimeGap(4000)
 
-      // Step 7: hover to page image.
+      // Step 6: hover to page image.
       await page.waitForSelector('a[data-cs-override-id="image-gallery-thumbnail-1"]', {
         visible: true,
       })
@@ -194,7 +208,7 @@ const initBooster = async (product) => {
         await booster.addRandomTimeGap(3, 10)
       }
 
-      // Step 8: go to product information
+      // Step 7: go to product information
       await booster.addRandomTimeGap(3, 10)
       await booster.addTimeGap(2000);
 
@@ -206,7 +220,6 @@ const initBooster = async (product) => {
         })
       )
     }catch(error) {
-      console.log(error)
       await browser.close();
     }
   }
@@ -264,7 +277,7 @@ export const triggerAllBolKaufland = async (thread, currentVM) => {
           currentBatch.push(initBooster(products[index]));
         }   
         
-        const timeoutMilliseconds = 150000; // 2 minutes and 30 seconds
+        const timeoutMilliseconds = 300000; // 5 minutes
 
         const timeoutPromise = new Promise((_, reject) => {
           setTimeout(() => {
@@ -278,7 +291,7 @@ export const triggerAllBolKaufland = async (thread, currentVM) => {
         ]).then(() => {
           console.log('current thread:' + mainIndex + ' completed');
         }).catch(error => {
-            console.error('Error:', error.message);
+          console.error('Error:', error.message);
         });
 
       }
