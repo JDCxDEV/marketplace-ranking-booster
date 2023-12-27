@@ -12,7 +12,7 @@
       {
         "id": "VM-7-0002",
         "marketplace": "Kaufland",
-        "product": "LK-03-N-RGB-IC",
+        "product": "LK-03-N-RGB",
         "productTitle": "Lideka® Neon LED Strip 3m, RGB Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 218x SMD 50",
         "productId": "463128290",
         "keywords": ["led strip lideka", "rgbic", "led streifen", "led leiste", "neon streifen", "neon led streifen"],
@@ -147,14 +147,23 @@
       {
         "id": "VM-7-0017",
         "marketplace": "Kaufland",
-        "product": "LKR-05",
-        "productTitle": "Lideka® LED-Streifen 5m RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 150x SMD 5050 LEDs, LED Strip",
+        "product": "LKR-40",
+        "productTitle": "Lideka® LED-Streifen 40m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
         "productId": "432698580",
-        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
+        "keywords": ["LED Strip 40m", "LED Streifen", "rgb led strip", "LED Strip", "led leiste lideka"],
         "isRunning" : false 
       },
       {
         "id": "VM-7-0018",
+        "marketplace": "Kaufland",
+        "product": "LKR-05",
+        "productTitle": "Lideka® LED-Streifen 5m RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 150x SMD 5050 LEDs, LED Strip",
+        "productId": "461186239",
+        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-7-0019",
         "marketplace": "Kaufland",
         "product": "LKR-015",
         "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 450x SMD 5050 LEDs, LED Strip",
@@ -163,7 +172,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0019",
+        "id": "VM-7-0020",
         "marketplace": "Kaufland",
         "product": "LKR-020",
         "productTitle": "Lideka® LED-Streifen 20m (2x10) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 600x SMD 5050 LEDs, LED Strip",
@@ -172,7 +181,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0020",
+        "id": "VM-7-0021",
         "marketplace": "Kaufland",
         "product": "LKR-030",
         "productTitle": "Lideka® LED-Streifen 30m (3x10) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 900x SMD 5050 LEDs, LED Strip",
@@ -181,7 +190,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0021",
+        "id": "VM-7-0022",
         "marketplace": "Kaufland",
         "product": "LKR-040",
         "productTitle": "Lideka® LED-Streifen 40m (8x5) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1200x SMD 5050 LEDs, LED Strip",
@@ -190,7 +199,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0022",
+        "id": "VM-7-0023",
         "marketplace": "Kaufland",
         "product": "LKR-050",
         "productTitle": "Lideka® LED-Streifen 50m RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1500x SMD 5050 LEDs, LED Strip",
@@ -199,7 +208,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0023",
+        "id": "VM-7-0024",
         "marketplace": "Kaufland",
         "product": "LK-05-W",
         "productTitle": "Lideka® LED-Streifen 5m RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 150x SMD 5050 LEDs, LED",
@@ -208,7 +217,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0024",
+        "id": "VM-7-0025",
         "marketplace": "Kaufland",
         "product": "LK-010-W",
         "productTitle": "Lideka® LED-Streifen 10m (2x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED",
@@ -217,7 +226,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0025",
+        "id": "VM-7-0026",
         "marketplace": "Kaufland",
         "product": "RGBW-LK5-3",
         "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 450x SMD 5050 LEDs, LED",
@@ -226,7 +235,7 @@
         "isRunning" : false 
       },      
       {
-        "id": "VM-7-0026",
+        "id": "VM-7-0027",
         "marketplace": "Kaufland",
         "product": "RGBW-LK10-2",
         "productTitle": "Lideka® LED-Streifen 20m (2x10) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED",
@@ -244,7 +253,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0028",
+        "id": "VM-7-0029",
         "marketplace": "Kaufland",
         "product": "RGBW-LK10-4",
         "productTitle": "Lideka® LED-Streifen 40m (8x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1200x SMD 5050 LEDs, LED",
@@ -254,7 +263,7 @@
       },
 
       {
-        "id": "VM-7-0029",
+        "id": "VM-7-0030",
         "marketplace": "Kaufland",
         "product": "RGBW-LK10-5",
         "productTitle": "Lideka® LED-Streifen 50m (10x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1500x SMD 5050 LEDs, LED",
@@ -263,7 +272,7 @@
         "isRunning" : false 
       },      
       {
-        "id": "VM-7-0030",
+        "id": "VM-7-0031",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W",
         "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 1 pack",
@@ -272,7 +281,7 @@
         "isRunning" : false 
       },      
       {
-        "id": "VM-7-0031",
+        "id": "VM-7-0032",
         "marketplace": "Kaufland",
         "product": "SLB-E14",
         "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 1 pack",
@@ -281,7 +290,7 @@
         "isRunning" : false 
       },      
       {
-        "id": "VM-7-0032",
+        "id": "VM-7-0033",
         "marketplace": "Kaufland",
         "product": "SLB-GU10",
         "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 1 pack",
@@ -290,7 +299,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0033",
+        "id": "VM-7-0034",
         "marketplace": "Kaufland",
         "product": "TV strip 3m",
         "productTitle": "Lideka® LED TV Hintergrundbeleuchtung, 3m RGB LED Strip kompatibel mit Alexa und Google Assistant, APP-Steuerung, USB betrieben, für 46-60 Zoll Fernse",
@@ -299,7 +308,7 @@
         "isRunning" : false 
       },      
       {
-        "id": "VM-7-0034",
+        "id": "VM-7-0035",
         "marketplace": "Kaufland",
         "product": "SLB-GU10-2",
         "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 2 pack",
