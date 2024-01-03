@@ -4,6 +4,7 @@
       "id": "VM-2-0001",
         "marketplace": "Bol.com",
         "product": "GU10 bulb",
+        "productId": "9300000129700113",
         "productTitle": "Lideka® - Slimme LED Lampen - Smart Spotjes GU10 - RGBW - met App - 6W - 400 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri",
         "keywords": ["gu10 led lamp dimbaar", "led lampen", "spotjes"],
         "isRunning" : false
@@ -12,6 +13,7 @@
       "id": "VM-2-0002",
         "marketplace": "Bol.com",
         "product": "Earplugs",
+        "productId": "9300000129700113",
         "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart -",
         "keywords": ["earplugs", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen slapen", "oordopjes slapen", "oordoppen"],
         "isRunning" : false 
@@ -20,6 +22,7 @@
       "id": "VM-2-0003",
         "marketplace": "Bol.com",
         "product": "Sleepmask",
+        "productId": "9300000048501922",
         "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
         "keywords": ["slaapmaskers", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmasker", "oogmasker"],
         "isRunning" : false 
@@ -28,6 +31,7 @@
       "id": "VM-2-0004",
         "marketplace": "Bol.com",
         "product": "Sleepglasses Yellow",
+        "productId": "9300000074423396",
         "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Geel Kleurige Lenzen – Voor Overdag of ‘s Avonds – Wraparound Fitting - Licht Gewicht - Blue Light Glasses Blokkeert Blauw Licht tot 75%",
         "keywords": ["computerbril", "beeldschermbril", "blue light glasses", "blauw licht bril"],
         "isRunning" : false 
@@ -36,6 +40,7 @@
       "id": "VM-2-0005",
       "marketplace": "Bol.com",
       "product": "Robot 1",
+      "productId": "9300000039131026",
       "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen",
       "keywords": ["robot speelgoed jongens", "robot bouwpakket", "robot speelgoed"],
       "isRunning" : false 
@@ -44,6 +49,7 @@
       "id": "VM-2-0006",
         "marketplace": "Bol.com",
         "product": "Robot 2",
+        "productId": "9300000043283281",
         "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen",
         "keywords": ["robot speelgoed jongens", "robot bouwpakket", "robot speelgoed"],
         "isRunning" : false 
@@ -52,6 +58,7 @@
       "id": "VM-2-0007",
         "marketplace": "Bol.com",
         "product": "Robot 3",
+        "productId": "9300000087795314",
         "productTitle": "Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen",
         "keywords": ["bouwset", "robot bouwpakket", "speelgoed"],
         "isRunning" : false 
@@ -60,6 +67,7 @@
       "id": "VM-2-0008",
         "marketplace": "Bol.com",
         "product": "Lamp",
+        "productId": "9300000079969930",
         "productTitle": "QuchiQ™ Daglichtlamp LED 10.000 lux Oplaadbaar - Lichttherapie Lamp - Tabletvorm - Kantelbaar - Energy Lamp UV-Free - 3 Kleuren - 6 Helderheid Niveaus en Intelligente Timer",
         "keywords": ["daylight lamp QuchiQ", "lichttherapie lamp"],
         "isRunning" : false 
@@ -68,6 +76,7 @@
       "id": "VM-2-0009",
         "marketplace": "Bol.com",
         "product": "TV strip 1",
+        "productId": "9300000032517844",
         "productTitle": "Lideka - TV LED strip - 2 Meter - Auto USB - RGB - met Afstandsbediening - Gaming accesoires - Verlichting - Led Lights - Led Light Strip - Licht strip",
         "keywords": ["led strip tv lideka", "led verlichting tv lideka", "gaming lights lideka"],
         "isRunning" : false 
@@ -76,6 +85,7 @@
       "id": "VM-2-0010",
         "marketplace": "Bol.com",
         "product": "RGBW Strip 2",
+        "productId": "9300000129847288",
         "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 5 Meter - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
         "keywords": ["ledstrip rgbw", "rgbw led strip", "led strip met afstandsbediening", "led strip"],
         "isRunning" : false 
@@ -84,6 +94,7 @@
       "id": "VM-2-0011",
         "marketplace": "Bol.com",
         "product": "RGBIC Strip 1",
+        "productId": "9300000032504732",
         "productTitle": "Lideka® - LED strip 10 Meter (2x5) - RGB-IC - Dreamcolor - Special effects - met App - Verlichting - Led Lights - Led Light Strip - Licht strip",
         "keywords": ["led strip 10 meter", "led-strips", "lichtstrip", "led strip"],
         "isRunning" : false
@@ -92,6 +103,7 @@
       "id": "VM-2-0012",
         "marketplace": "Bol.com",
         "product": "NEON Strip 1",
+        "productId": "9300000137732718",
         "productTitle": "Lideka Slimme NEON RGB LED Strip 3 meter - LED Strips Met 16 Miljoen Kleuren - Muziekoptie",
         "keywords": ["smart led strip", "neon verlichting", "neon lamp"],
         "isRunning" : false 
