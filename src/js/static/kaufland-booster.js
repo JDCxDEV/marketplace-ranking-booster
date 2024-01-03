@@ -64,7 +64,7 @@ const initBooster = async (product, threadTimer = 300) => {
     
   const page = await browser.newPage();
   await page.setUserAgent(userAgentStr);
-  await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
+  await page.setViewport({ width: 1024, height: 768, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
 
   try {
     await page.goto(link);
