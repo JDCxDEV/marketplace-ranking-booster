@@ -123,7 +123,6 @@ const initBooster = async (product, threadTimer = 300) => {
       // Step 4: Scroll to the product and click it.
       await booster.addTimeGap(2000)
 
-
       // Step 5: Scroll to the product and click it.
       await booster.addTimeGap(4000)
 
