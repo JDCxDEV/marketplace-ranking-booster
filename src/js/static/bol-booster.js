@@ -133,7 +133,7 @@ const initBooster = async (product, threadTimer = 300) => {
         await booster.addRandomTimeGap(3, 7);
 
         for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-            await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
+          await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
         }
 
 

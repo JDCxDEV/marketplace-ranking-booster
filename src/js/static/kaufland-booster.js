@@ -64,7 +64,7 @@ const initBooster = async (product, threadTimer = 300) => {
     
   const page = await browser.newPage();
   await page.setUserAgent(userAgentStr);
-  await page.setViewport({ width: 1024, height: 768, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
+  await page.setViewport({ width: 1920, height: 1080});
 
   try {
     await page.goto(link);
@@ -88,10 +88,7 @@ const initBooster = async (product, threadTimer = 300) => {
   });
 
 
-  if(url != link) {
-    await browser.close();
-  }
-    
+
   if(content) {
     try {
       // log session information
@@ -120,10 +117,11 @@ const initBooster = async (product, threadTimer = 300) => {
         })
       )
 
-      // Step 4: Scroll to the product and click it.
       await booster.addTimeGap(2000)
+      for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
+        await booster.scrollToRandomClass(page, '.product--hasBadges');
+      }
 
-      // Step 5: Scroll to the product and click it.
       await booster.addTimeGap(4000)
 
       let foundProduct = false
@@ -188,7 +186,17 @@ const initBooster = async (product, threadTimer = 300) => {
       while(foundProduct !== true) {
         await booster.addTimeGap(7000)
         await scrollDown(page)
-        await page.waitForSelector('.results--grid');
+
+        try {
+          await Promise.race([
+            page.waitForSelector('.results--slider'),
+            page.waitForSelector('.results--grid')
+          ], 30000);
+          
+          console.log('One of the selectors is present.');
+        } catch (error) {
+          console.error('Both selectors are not present within the timeout.');
+        } 
 
         await findProduct()
 
@@ -219,6 +227,7 @@ const initBooster = async (product, threadTimer = 300) => {
         })
       )
     }catch(error) {
+      console.log(error)
       await browser.close();
     }
   }
