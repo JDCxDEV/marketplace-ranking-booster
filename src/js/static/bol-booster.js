@@ -23,6 +23,7 @@ const initBooster = async (product, threadTimer = 300) => {
   const keyword = booster.getRandomKeyword(product.keywords) 
   const link = 'https://www.bol.com/'
   const productTitle =  product.productTitle
+  const productId =  product.productId
   const proxy = await booster.getRandomProxy()
 
   // Set stealth plugin
@@ -135,9 +136,14 @@ const initBooster = async (product, threadTimer = 300) => {
             await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
         }
 
-        await booster.addRandomTimeGap(3, 7);
-        const searchText = productTitle;
-        await booster.findAndScrollToAnchorByText(page, searchText, browser);
+
+        try {
+          await booster.addRandomTimeGap(3, 7);
+          const searchText = productId;
+          await booster.findAndScrollToAnchorByHrefContent(page, searchText, browser);
+        }catch (error) {
+          console.log(error)
+        }
 
 
         await booster.addRandomTimeGap(3, 7);
