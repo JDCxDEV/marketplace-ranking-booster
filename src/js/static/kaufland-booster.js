@@ -227,7 +227,6 @@ const initBooster = async (product, threadTimer = 300) => {
         })
       )
     }catch(error) {
-      console.log(error)
       await browser.close();
     }
   }
