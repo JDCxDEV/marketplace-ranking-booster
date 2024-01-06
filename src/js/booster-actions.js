@@ -98,6 +98,9 @@ function showMarketPlace() {
 
 async function sendPostRequest(initialize = true) {
 
+    /**
+     * Run only on initialize
+     */
     if (initialize) {
         await getSystemInfo();
     }
@@ -193,6 +196,8 @@ async function getSystemInfo() {
             });
 
             // Set VMS
+
+            /** Bol.com */
             const bolVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Bol.com"));
             const vmSelectorBol = document.getElementById('vmSelectorBol');
             await bolVms.forEach(option => {
@@ -202,6 +207,7 @@ async function getSystemInfo() {
                 vmSelectorBol.appendChild(optionElement);
             });
 
+            /** Kaufland */
             const kauflandVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Kaufland"));
             const vmSelectorKaufland = document.getElementById('vmSelectorKaufland');
             await kauflandVms.forEach(option => {
