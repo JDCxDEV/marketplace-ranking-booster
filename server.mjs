@@ -16,11 +16,24 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const getRequestTriggerBooster = async (req, res) => {
-    if(req.body.allBooster == 'bol') {
-        triggerAllBolBooster(req.body.thread, req.body.currentVM);
-    }else if(req.body.allBooster == 'kaufland'){
-        triggerAllBolKaufland(req.body.thread, req.body.currentVM);
+
+    if(req.body.product) {
+        if(req.body.currentMP == 'bol') {
+            const currentMP = req.body.currentMP; 
+            const currentVM = req.body.currentVM; 
+            
+            const productJsonFile = await dynamicallyImportJsonFile((currentVM ? currentVM  : 'VM-1') + '.json', currentMP)
+            const product = productJsonFile.products.filter( item => item.id == req.body.product)[0];
+            triggerBolBooster(req.body.thread, product);
+        }
+    }else {
+        if(req.body.currentMP == 'bol') {
+            triggerAllBolBooster(req.body.thread, req.body.currentVM);
+        }else if(req.body.currentMP == 'kaufland'){
+            triggerAllBolKaufland(req.body.thread, req.body.currentVM);
+        }
     }
+
   
     return res.status(200).json({ message: 'POST request successful', data: req.body });
 }

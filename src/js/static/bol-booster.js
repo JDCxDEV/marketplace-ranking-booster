@@ -88,73 +88,67 @@ const initBooster = async (product, threadTimer = 300) => {
     
   if(content) {
     try {
+    
+      /* log session information */
       
-        /* log session information */
-        
-        // console.log(`proxy: ${proxy}`)
-        // console.log(`user-agent: ${userAgentStr}`)
+      // console.log(`proxy: ${proxy}`)
+      // console.log(`user-agent: ${userAgentStr}`)
 
-        await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(3, 6);
 
-        // Step 1: Click Accept Terms button on init
-        const acceptTermsButton = '#js-first-screen-accept-all-button';
-        await page.waitForSelector(acceptTermsButton);
-        await page.click(acceptTermsButton);
+      // Step 1: Click Accept Terms button on init
+      const acceptTermsButton = '#js-first-screen-accept-all-button';
+      await page.waitForSelector(acceptTermsButton);
+      await page.click(acceptTermsButton);
 
-        await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(3, 6);
 
-        // Step 2: Click Accept Terms button on init
-        const countryButton = '.js-country-language-btn';
-        await page.waitForSelector(countryButton);
-        await page.click(countryButton);
+      // Step 2: Click Accept Terms button on init
+      const countryButton = '.js-country-language-btn';
+      await page.waitForSelector(countryButton);
+      await page.click(countryButton);
 
 
-        await booster.addRandomTimeGap(3, 6);
-        await booster.scrollDown(page);
-        await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(3, 6);
+      await booster.scrollDown(page);
+      await booster.addRandomTimeGap(3, 6);
 
-        // Scroll to the element
-        await page.evaluate(() => {
-            const element = document.querySelector('.js-search-input');
-            if (element) {
-              element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
-            }
-        });
+      // Scroll to the element
+      await page.evaluate(() => {
+          const element = document.querySelector('.js-search-input');
+          if (element) {
+            element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+          }
+      });
 
-        // Step 3: Type into search box.
-        await booster.addRandomTimeGap(3, 6);
-        await page.type('.js-search-input', keyword, {delay: 300});
+      // Step 3: Type into search box.
+      await booster.addRandomTimeGap(3, 6);
+      await page.type('.js-search-input', keyword, {delay: 300});
 
+      // Step 4: Search Product
+      await booster.addRandomTimeGap(3, 7);
+      await page.keyboard.press('Enter');
+      await booster.addRandomTimeGap(3, 7);
 
-        await booster.addRandomTimeGap(3, 7);
-        
-        // Step 4: Search Product
-        await page.keyboard.press('Enter');
-        await booster.addRandomTimeGap(3, 7);
+      for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
+        await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
+      }
 
-        for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-          await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
-        }
+      // Step 5: Go to product page
+      await booster.addRandomTimeGap(3, 7);
+      const searchText = productId;
+      await booster.findAndScrollToAnchorByHrefContent(page, searchText, browser);
 
+      await booster.addRandomTimeGap(3, 7);
+      for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
+        await booster.scrollToRandomClass(page, '.product-item__content', browser);
+      }
 
-        try {
-          await booster.addRandomTimeGap(3, 7);
-          const searchText = productId;
-          await booster.findAndScrollToAnchorByHrefContent(page, searchText, browser);
-        }catch (error) {
-          console.log(error)
-        }
-
-
-        await booster.addRandomTimeGap(3, 7);
-        for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-            await booster.scrollToRandomClass(page, '.product-item__content', browser);
-        }
-
-        await booster.addRandomTimeGap(3, 7);
-        await booster.scrollToElementAndClickIt(page, '.ui-btn--favorite')
-       
-        await booster.addRandomTimeGap(10, 10);
+      // Step 6: Add to wishlist
+      await booster.addRandomTimeGap(3, 7);
+      await booster.scrollToElementAndClickIt(page, '.ui-btn--favorite')
+      
+      await booster.addRandomTimeGap(10, 10);
 
     }catch(error) {
       return await browser.close();
@@ -170,10 +164,33 @@ export const triggerBolBooster = async (thread, product) => {
 
   for (let index = 1; index <= thread; index++) {
     try {
-      await initBooster(product) 
-    }catch (error) {
-      await booster.downloadProxies(product)
 
+      let productThreads = 5;
+      let currentBatch = [];
+
+      for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
+        currentBatch.push(initBooster(product));
+      }   
+    
+      const timeoutMilliseconds = 300000; // 5 minutes
+
+      const timeoutPromise = new Promise((_, reject) => {
+        setTimeout(() => {
+          reject(new Error('Timeout exceeded'));
+        }, timeoutMilliseconds);
+      });
+      
+      await Promise.race([
+        Promise.all(currentBatch),
+        timeoutPromise
+      ]).then(() => {
+        console.log('current thread:' + index + ' completed');
+      }).catch(error => {
+        console.error('Error:', error.message);
+      });
+
+
+    }catch (error) {
       if(!process.env.TURN_OFF_LOGS) {
         console.error(error);
       }

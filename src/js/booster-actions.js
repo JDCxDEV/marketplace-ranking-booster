@@ -1,6 +1,7 @@
 window.onload = function() {
     sendPostRequest();
 };
+
 function getProducts() {
     const getProductsButton = document.getElementById("getProducts");
     const originalButtonText = getProductsButton.innerHTML;
@@ -23,12 +24,12 @@ function getProducts() {
 }
 
 function runBoosterFunction(product = null, initAllBooster = false) {
-  const startAllBoosterButton = document.getElementById("main-booster-button");
+    const startAllBoosterButton = document.getElementById("main-booster-button");
+    let productButton = null;
 
-
-  if(!initAllBooster) {
-      const productButton = document.getElementById(`productBtn${product}`);
-  }
+    if(!initAllBooster) {
+        productButton = document.getElementById(`productBtn${product}`);
+    }
 
   const threadValue = threadInput.value;
 
@@ -44,38 +45,38 @@ function runBoosterFunction(product = null, initAllBooster = false) {
       let currentVM = null;
 
       if(currentMP == 'bol') {
-          vmSelector = document.getElementById("vmSelectorBol");
-          currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+        vmSelector = document.getElementById("vmSelectorBol");
+        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
       }else if(currentMP == 'kaufland'){
-          vmSelector = document.getElementById("vmSelectorKaufland");
-          currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+        vmSelector = document.getElementById("vmSelectorKaufland");
+        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
       }
-
+      
       const data = {
-          allBooster: currentMP,
-          product: product,
-          thread: threadValue,
-          currentVM: currentVM,
+        currentMP: currentMP,
+        product: product,
+        thread: threadValue,
+        currentVM: currentVM,
       };
 
-      axios.post(url, data)
-          .then(response => {
+        axios.post(url, data)
+        .then(response => {
 
-              if(!initAllBooster) {
-                  productButton.disabled = true;
-                  productButton.innerHTML = '<i class="fas fa-cog fa-spin"></i> Booster running!';
-              }else {
-                  startAllBoosterButton.disabled = true;
-                  startAllBoosterButton.innerHTML = '<i class="fas fa-cog fa-spin"></i> Booster running!';
-              }
+            if(!initAllBooster) {
+                productButton.disabled = true;
+                productButton.innerHTML = '<i class="fas fa-cog fa-spin"></i> Booster running!';
+            }else {
+                startAllBoosterButton.disabled = true;
+                startAllBoosterButton.innerHTML = '<i class="fas fa-cog fa-spin"></i> Booster running!';
+            }
 
-              console.log("POST request successful:", response.data);
-          })
-          .catch(error => {
-              console.error("POST request failed:", error);
-          });
+            console.log("POST request successful:", response.data);
+        }).catch(error => {
+            console.log("POST request failed:", error);
+        });
+
   } else {
-      validationMessage.textContent = "Thread value must be a number between 1 and 500.";
+    validationMessage.textContent = "Thread value must be a number between 1 and 500.";
   }
 }
 
@@ -143,20 +144,19 @@ function createTable(products) {
         index = index + 1
         const row = document.createElement("tr");
         row.innerHTML = `
-            <td class="p-2">${index}.</td>
-            <td class="p-2">${product.marketplace}</td>
-            <td class="p-2">${product.product}</td>
+            <td class="p-2">${ index }.</td>
+            <td class="p-2">${ product.marketplace }</td>
+            <td class="p-2">${ product.product }</td>
             <td class="p-2">
-                ${product.keywords.map(keyword => `<span class="inline-flex items-center rounded-md bg-green-50 px-2 py-1 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20 mb-2 mr-2">${keyword}</span>`).join('')}
+                ${ product.keywords.map(keyword => `<span class="inline-flex items-center rounded-md bg-green-50 px-2 py-1 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20 mb-2 mr-2">${keyword}</span>`).join('')}
             </td>
             <td class="p-2">
-                <button class="text-white py-2 px-3 text-sm  rounded-md  whitespace-nowrap ${product.isOutOfStock ? 'cursor-not-allowed bg-gray-300' : 'bg-blue-500 hover:bg-blue-700' }" ${product.isOutOfStock ? 'disabled' : '' } id="productBtn${product.id}" onclick="runBoosterFunction('${product.id}')"><i class="fas fa-cog"></i> Run Booster</button>
+                <button class="text-white py-2 px-3 text-sm  rounded-md  whitespace-nowrap ${product.isOutOfStock ? 'cursor-not-allowed bg-gray-300' : 'bg-blue-500 hover:bg-blue-700' }" ${product.isOutOfStock ? 'disabled' : '' } id="productBtn${product.id}" onclick="runBoosterFunction('${product.id}', null)"><i class="fas fa-cog"></i> Run Booster</button>
             </td>
             <td class="p-2">
                 <button class="bg-gray-500 text-white py-2 px-3 text-sm rounded-md hover:bg-red-700 whitespace-nowrap" disabled id="stopBtn${product.id}" onclick="stopBooster('${product.id}')"><i class="fas fa-stop"></i> Stop</button>
             </td>
-            `
-            ;
+            `;
         productTableBody.appendChild(row);
     });
 }
