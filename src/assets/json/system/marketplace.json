@@ -1,0 +1,14 @@
+{
+  "marketplaces": [
+    {
+      "id": 1,
+      "key": "bol",
+      "name": "Bol.com"
+    },
+    {
+      "id": 2,
+      "key": "kaufland",
+      "name": "Kaufland.com"
+    }
+  ]
+}

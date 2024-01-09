@@ -44,8 +44,8 @@ const getTriggerDownloadProxies = async (req, res) => {
     return res.status(200).json({ message: 'Proxies refresh complete!' });
 }
 
-const dynamicallyImportJsonFile = async (file, marketplace)  => {
-    const { default: jsonObject } = await import(`./src/assets/json/${marketplace}/${file}`, {
+const dynamicallyImportJsonFile = async (file, folder)  => {
+    const { default: jsonObject } = await import(`./src/assets/json/${folder}/${file}`, {
         assert: {
           type: 'json'
         }
@@ -56,6 +56,14 @@ const dynamicallyImportJsonFile = async (file, marketplace)  => {
 
 app.get('/', (req, res) => {
     res.sendFile(__dirname + '/index.html');
+});
+
+app.post('/get-system-info', async (req, res) => {
+    const marketPlace = await dynamicallyImportJsonFile('marketplace.json', 'system');
+    const vms = await dynamicallyImportJsonFile('vms.json', 'system');    
+    return res.status(200).json({
+        systemInfo: { ...marketPlace, ...vms }
+    });
 });
 
 app.post('/get-products', async (req, res) => {

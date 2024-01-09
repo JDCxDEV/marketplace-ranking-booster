@@ -1,0 +1,58 @@
+{
+  "vms": [
+    {
+      "id": 1,
+      "marketplace": "Bol.com",
+      "key": "VM-1",
+      "name": "Virtual Machine 1"
+    },
+    {
+      "id": 2,
+      "marketplace": "Bol.com",
+      "key": "VM-2",
+      "name": "Virtual Machine 2"
+    },
+    {
+      "id": 3,
+      "marketplace": "Bol.com",
+      "key": "VM-3",
+      "name": "Virtual Machine 3"
+    },
+    {
+      "id": 4,
+      "marketplace": "Bol.com",
+      "key": "VM-4",
+      "name": "Virtual Machine 4"
+    },
+    {
+      "id": 5,
+      "marketplace": "Bol.com",
+      "key": "VM-5",
+      "name": "Virtual Machine 5"
+    },
+    {
+      "id": 6,
+      "marketplace": "Bol.com",
+      "key": "VM-6",
+      "name": "Virtual Machine 6"
+    },
+    {
+      "id": 7,
+      "marketplace": "Kaufland",
+      "key": "VM-7",
+      "name": "Virtual Machine 7"
+    },
+    {
+      "id": 8,
+      "marketplace": "Kaufland",
+      "key": "VM-8",
+      "name": "Virtual Machine 8"
+    },
+    {
+      "id": 9,
+      "marketplace": "Bol.com",
+      "key": "VM-9",
+      "name": "Virtual Machine 9"
+    }   
+  ]
+}

@@ -93,10 +93,18 @@ function showMarketPlace() {
         vmSelectorKaufland.classList.remove("hidden");
     }
 
-    sendPostRequest();
+    sendPostRequest(false);
 }
 
-function sendPostRequest() {
+async function sendPostRequest(initialize = true) {
+
+    /**
+     * Run only on initialize
+     */
+    if (initialize) {
+        await getSystemInfo();
+    }
+
     const url = "/get-products";
 
     let mpSelector = document.getElementById("mpSelector");
@@ -105,7 +113,7 @@ function sendPostRequest() {
     let vmSelector = null;
     let currentVM = null;
 
-    if(currentMP == 'bol') {
+    if (currentMP == 'bol') {
         vmSelector = document.getElementById("vmSelectorBol");
         currentVM = vmSelector.options[vmSelector.selectedIndex].value;
     }else if(currentMP == 'kaufland'){
@@ -171,6 +179,44 @@ function refreshProxies() {
     .catch(error => {
         console.error("POST request for refreshing proxies failed:", error);
     });
+}
+
+async function getSystemInfo() {
+    const url = "/get-system-info";
+    await axios.post(url)
+        .then(async (response) => {
+            // Set Market Place
+            const marketList = response.data.systemInfo.marketplaces;
+            const mpSelector = document.getElementById('mpSelector');
+            await marketList.forEach(option => {
+                const optionElement = document.createElement('option');
+                optionElement.value = option.key;
+                optionElement.text = option.name;
+                mpSelector.appendChild(optionElement);
+            });
+
+            // Set VMS
+
+            /** Bol.com */
+            const bolVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Bol.com"));
+            const vmSelectorBol = document.getElementById('vmSelectorBol');
+            await bolVms.forEach(option => {
+                const optionElement = document.createElement('option');
+                optionElement.value = option.key;
+                optionElement.text = option.name;
+                vmSelectorBol.appendChild(optionElement);
+            });
+
+            /** Kaufland */
+            const kauflandVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Kaufland"));
+            const vmSelectorKaufland = document.getElementById('vmSelectorKaufland');
+            await kauflandVms.forEach(option => {
+                const optionElement = document.createElement('option');
+                optionElement.value = option.key;
+                optionElement.text = option.name;
+                vmSelectorKaufland.appendChild(optionElement);
+            });            
+        });
 }
 
 const threadInput = document.getElementById("threadInput");
