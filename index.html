@@ -17,8 +17,8 @@
                     <h2 class="text-2xl mb-4">
                         <i class="fas fa-rocket"></i> Run Booster
                         <select id="mpSelector" class="ml-4 p-2 border rounded-md text-sm" onchange="showMarketPlace()"></select>
-                        <select id="vmSelectorBol" class="ml-2 mr-2 p-2 border rounded-md text-sm" onchange="sendPostRequest()"></select>
-                        <select id="vmSelectorKaufland" class="ml-2 mr-2 p-2 border rounded-md text-sm hidden" onchange="sendPostRequest()"></select>
+                        <select id="vmSelectorBol" class="ml-2 mr-2 p-2 border rounded-md text-sm" onchange="sendPostRequest(false)"></select>
+                        <select id="vmSelectorKaufland" class="ml-2 mr-2 p-2 border rounded-md text-sm hidden" onchange="sendPostRequest(false)"></select>
                         <button class="float-right bg-blue-500 text-white py-2 px-3 text-sm  rounded-md hover:bg-blue-700 whitespace-nowrap ml-2"  id="main-booster-button" onclick="runBoosterFunction(null, true)">
                             <i class="fas fa-cog"></i> Start Booster
                         </button>
