@@ -3,7 +3,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
-import { executablePath  } from 'puppeteer';
+import { executablePath } from 'puppeteer';
 
 const initBooster = async (product, threadTimer = 300) => {
 
@@ -11,8 +11,7 @@ const initBooster = async (product, threadTimer = 300) => {
   const keyword = booster.getRandomKeyword(product.keywords) 
   const link = 'https://www.kaufland.de/'
   const productLink =  product.productId
-  const proxy = await booster.getRandomProxy()
-
+  const proxy = await booster.getRandomProxy('proxies-de')
 
   // Set a timer to close the browser and the method after the specified duration
 
@@ -86,8 +85,6 @@ const initBooster = async (product, threadTimer = 300) => {
       browser.close();
     }
   });
-
-
 
   if(content) {
     try {

@@ -24,7 +24,7 @@ const initBooster = async (product, threadTimer = 300) => {
   const link = 'https://www.bol.com/'
   const productTitle =  product.productTitle
   const productId =  product.productId
-  const proxy = await booster.getRandomProxy()
+  const proxy = await booster.getRandomProxy('proxies-nl')
 
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
