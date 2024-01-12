@@ -1,0 +1,254 @@
+{
+  "products": [
+    {
+      "id": "VM-10-0001",
+      "marketplace": "Bol.com",
+      "product": "8719325732337",
+      "productId": "9200000129736784",
+      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 20mm - zilver - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0002",
+      "marketplace": "Bol.com",
+      "product": "8720828005941",
+      "productId": "9300000143660192",
+      "productTitle": "SmartphoneClip® - Horlogeband - Nylon Gevlochten Elastisch - 18mm - Zwart - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0003",
+      "marketplace": "Bol.com",
+      "product": "8720828005910",
+      "productId": "9300000143614345",
+      "productTitle": "SmartphoneClip® - Horlogeband - Vintage Leer - 18 mm - Cognac - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0004",
+      "marketplace": "Bol.com",
+      "product": "8720828005279",
+      "productId": "9300000143614345",
+      "productTitle": "SmartphoneClip® Horlogeband - Milanees - 22mm - Zilver - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0005",
+      "marketplace": "Bol.com",
+      "product": "8720828005873",
+      "productId": "9300000143612384",
+      "productTitle": "SmartphoneClip® Horlogeband - Vintage Leer - 22 mm - Bruin - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0006",
+      "marketplace": "Bol.com",
+      "product": "8720938074127",
+      "productId": "9300000148258614",
+      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 20mm - Zilver Goud - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0007",
+      "marketplace": "Bol.com",
+      "product": "8720828005712",
+      "productId": "9300000143664559",
+      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel Luxe - 18mm Zilver - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0008",
+      "marketplace": "Bol.com",
+      "product": "8720938074110",
+      "productId": "9300000148252756",
+      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 22mm - Zilver Zwart - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0009",
+      "marketplace": "Bol.com",
+      "product": "8720938074066",
+      "productId": "9300000143664564",
+      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel Luxe - 20mm Zilver - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0010",
+      "marketplace": "Bol.com",
+      "product": "8720828005934",
+      "productId": "9300000143614348",
+      "productTitle": "SmartphoneClip® Horlogeband - Vintage Leer - 22 mm - Cognac - Horlogebandjes",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0011",
+      "marketplace": "Bol.com",
+      "product": "8719992214099",
+      "productId": "9200000100092385",
+      "productTitle": "SmartphoneClip® Metaal schakel horloge bandje Zwart geschikt voor Fitbit Charge 3 / Charge 4 - SmartphoneClip",
+      "keywords": ["fitbit bandje charge 4", "fitbit bandje charge 3"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0012",
+      "marketplace": "Bol.com",
+      "product": "8719992528448",
+      "productId": "9200000110208927",
+      "productTitle": "SmartphoneClip® Jeans bandje Grijs Small geschikt voor Fitbit Inspire (HR, 2)",
+      "keywords": ["fitbit bandje inspire"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0013",
+      "marketplace": "Bol.com",
+      "product": "8719992528608",
+      "productId": "9200000110215965",
+      "productTitle": "SmartphoneClip® Bandje leer double zwart geschikt voor Fitbit Versa (Lite)",
+      "keywords": ["fitbit bandje inspire"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0014",
+      "marketplace": "Bol.com",
+      "product": "8719992528707",
+      "productId": "9200000110514336",
+      "productTitle": "SmartphoneClip® Bandje leer zwart - geschikt voor Fitbit Inspire (HR, 2)",
+      "keywords": ["fitbit bandje inspire"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0015",
+      "marketplace": "Bol.com",
+      "product": "8720254862606",
+      "productId": "9300000046673860",
+      "productTitle": "SmartphoneClip® SmartphoneClip® Milanees bandje roze geschikt voor Fitbit Luxe",
+      "keywords": ["fitbit luxe bandje"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0016",
+      "marketplace": "Bol.com",
+      "product": "8719992214464",
+      "productId": "9200000100526500",
+      "productTitle": "SmartphoneClip® Bandje leer glitter zilver geschikt voor Apple Watch 38mm-40mm series 1,2,3,4 en 5 - Apple watch bandje",
+      "keywords": ["apple watch bandje", "apple watch bandje 40 mm"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0017",
+      "marketplace": "Bol.com",
+      "product": "8719325643909",
+      "productId": "9200000124366867",
+      "productTitle": "SmartphoneClip® Bandje kalfsleer zwart geschikt voor Apple Watch 42-44-45-49mm (alle generaties) - Apple watch bandje",
+      "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0018",
+      "marketplace": "Bol.com",
+      "product": "8720618313546",
+      "productId": "9300000071435886",
+      "productTitle": "SmartphoneClip® Metaal schakel bandje zilver geschikt voor Apple Watch 42/44/45mm - Apple watch bandje",
+      "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0019",
+      "marketplace": "Bol.com",
+      "product": "8720618313591",
+      "productId": "9300000089292876",
+      "productTitle": "SmartphoneClip® Nylon bandje gevlochten Blauw geschikt voor Apple Watch 42/44/45mm - Apple watch bandje",
+      "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0020",
+      "marketplace": "Bol.com",
+      "product": "8720618313614",
+      "productId": "9300000089292879",
+      "productTitle": "SmartphoneClip® Nylon bandje gevlochten Groen geschikt voor Apple Watch 42/44/45mm - Apple watch bandje",
+      "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0021",
+      "marketplace": "Bol.com",
+      "product": "8719992214846",
+      "productId": "9200000104600672",
+      "productTitle": "SmartphoneClip® Bandje kalfsleer zwart geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["galaxy watch bandje"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0022",
+      "marketplace": "Bol.com",
+      "product": "8720618313195",
+      "productId": "9300000062138457",
+      "productTitle": "SmartphoneClip® Bandje leer sport Bruin geschikt voor Samsung Galaxy Watch 4 & Galaxy Watch 5",
+      "keywords": ["galaxy watch bandje"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0023",
+      "marketplace": "Bol.com",
+      "product": "8720618313690",
+      "productId": "9300000089299698",
+      "productTitle": "SmartphoneClip® Bandje leer bruin geschikt voor Samsung Galaxy Watch 4 & Galaxy Watch 5",
+      "keywords": ["galaxy watch bandje"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0024",
+      "marketplace": "Bol.com",
+      "product": "8719325643046",
+      "productId": "9200000114664925",
+      "productTitle": "SmartphoneClip® Bandje leer roze geschikt voor Samsung Galaxy Watch 42mm en Galaxy Watch Active/Active 2",
+      "keywords": ["galaxy watch bandje"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    },
+    {
+      "id": "VM-10-0025",
+      "marketplace": "Bol.com",
+      "product": "8719992214785",
+      "productId": "9200000104600637",
+      "productTitle": "SmartphoneClip® Bandje kalfsleer bruin geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje"],
+      "isRunning" : false,
+      "isOutOfStock" : false
+    }
+  ]
+}
