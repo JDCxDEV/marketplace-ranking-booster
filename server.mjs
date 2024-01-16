@@ -23,12 +23,17 @@ const getRequestTriggerBooster = async (req, res) => {
             const currentVM = req.body.currentVM; 
             
             const productJsonFile = await dynamicallyImportJsonFile((currentVM ? currentVM  : 'VM-1') + '.json', currentMP)
+            const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system')
             const product = productJsonFile.products.filter( item => item.id == req.body.product)[0];
-            triggerBolBooster(req.body.thread, product);
+            const vm = vmJsonFile.vms.filter(item => item.key == currentVM)[0];
+            triggerBolBooster(req.body.thread, product, vm.steps);
         }
     }else {
         if(req.body.currentMP == 'bol') {
-            triggerAllBolBooster(req.body.thread, req.body.currentVM);
+            const currentVM = req.body.currentVM; 
+            const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system')
+            const vm = vmJsonFile.vms.filter(item => item.key == currentVM)[0];
+            triggerAllBolBooster(req.body.thread, req.body.currentVM, vm);
         }else if(req.body.currentMP == 'kaufland'){
             triggerAllBolKaufland(req.body.thread, req.body.currentVM);
         }

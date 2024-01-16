@@ -5,14 +5,14 @@ import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
 import { executablePath  } from 'puppeteer';
 
-const initBooster = async (product, threadTimer = 300) => {
+const initBooster = async (product, threadTimer = 300, steps) => {
   
   // Set a timer to close the browser and the method after the specified duration
   let browser = null;
 
   setTimeout(async () => {
-    console.log(`Browser closed after ${threadTimer} seconds.`);
     if(browser) {
+      console.log(`Browser closed after ${threadTimer} seconds.`);
       return await browser.close();
     }else {
       return;
@@ -20,8 +20,16 @@ const initBooster = async (product, threadTimer = 300) => {
   }, threadTimer * 1000);
 
   // Parameters
-  const keyword = booster.getRandomKeyword(product.keywords) 
-  const link = 'https://www.bol.com/'
+  let link = null;
+  let keyword = null;
+
+  if(steps == 'homepage') {
+    link = 'https://www.bol.com/'
+    keyword = booster.getRandomKeyword(product.keywords) 
+  }else {
+    link = booster.getRandomKeyword(product.keywordLink) 
+  }
+
   const productId =  product.productId
   const proxy = await booster.getRandomProxy('proxies-nl')
 
@@ -100,22 +108,24 @@ const initBooster = async (product, threadTimer = 300) => {
       await booster.scrollDown(page);
       await booster.addRandomTimeGap(3, 6);
 
-      // Scroll to the element
-      await page.evaluate(() => {
-          const element = document.querySelector('.js-search-input');
-          if (element) {
-            element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
-          }
-      });
+      if(steps == 'homepage') {
+          // Scroll to the element
+          await page.evaluate(() => {
+            const element = document.querySelector('.js-search-input');
+            if (element) {
+              element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+            }
+          });
 
-      // Step 3: Type into search box.
-      await booster.addRandomTimeGap(3, 6);
-      await page.type('.js-search-input', keyword, {delay: 300});
+          // Step 3: Type into search box.
+          await booster.addRandomTimeGap(3, 6);
+          await page.type('.js-search-input', keyword, {delay: 300});
 
-      // Step 4: Search Product
-      await booster.addRandomTimeGap(3, 7);
-      await page.keyboard.press('Enter');
-      await booster.addRandomTimeGap(3, 7);
+          // Step 4: Search Product
+          await booster.addRandomTimeGap(3, 7);
+          await page.keyboard.press('Enter');
+          await booster.addRandomTimeGap(3, 7);
+      }
 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
@@ -138,7 +148,8 @@ const initBooster = async (product, threadTimer = 300) => {
       await booster.addRandomTimeGap(10, 10);
 
     }catch(error) {
-      return await browser.close();
+      console.log(error);
+      await browser.close();
     }
   }
 
@@ -196,7 +207,7 @@ const dynamicallyImportJsonFile = async (file)  => {
   return jsonObject
 }
 
-export const triggerAllBolBooster = async (thread, currentVM) => {
+export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage') => {
 
   await booster.addRandomTimeGap(1, 3)
 
@@ -216,7 +227,7 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
           await booster.addRandomTimeGap(2, 2);
-          currentBatch.push(initBooster(products[index]));
+          currentBatch.push(initBooster(products[index], 300, steps));
         }   
       
         const timeoutMilliseconds = 300000; // 5 minutes
