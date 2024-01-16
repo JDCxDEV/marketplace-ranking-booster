@@ -22,7 +22,6 @@ const initBooster = async (product, threadTimer = 300) => {
   // Parameters
   const keyword = booster.getRandomKeyword(product.keywords) 
   const link = 'https://www.bol.com/'
-  const productTitle =  product.productTitle
   const productId =  product.productId
   const proxy = await booster.getRandomProxy('proxies-nl')
 
@@ -62,6 +61,7 @@ const initBooster = async (product, threadTimer = 300) => {
   });
     
   const page = await browser.newPage();
+  
   await page.setUserAgent(userAgentStr);
   await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
 
@@ -71,20 +71,7 @@ const initBooster = async (product, threadTimer = 300) => {
     await browser.close()
   }
 
-  const url = await page.url();
   const content = await page.content();
-
-  // Intercept requests
-  await page.setRequestInterception(true);
-
-  await page.on('request', (request) => {
-    // Continue with the request if it's not a forbidden page
-    if (!booster.isForbiddenPage(request)) {
-      request.continue();
-    } else {
-      browser.close();
-    }
-  });
     
   if(content) {
     try {
@@ -211,7 +198,7 @@ const dynamicallyImportJsonFile = async (file)  => {
 
 export const triggerAllBolBooster = async (thread, currentVM) => {
 
-  await booster.addRandomTimeGap(3)
+  await booster.addRandomTimeGap(1, 3)
 
   const productJsonFile = await dynamicallyImportJsonFile( currentVM + '.json');
   const products = productJsonFile.products.filter( item => !item.isOutOfStock);
@@ -223,12 +210,12 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
     console.log('current thread:' + mainIndex);
     try {
       for (let index = 0; index < products.length; index++) {
-        await booster.addRandomTimeGap(3);
 
         let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
+          await booster.addRandomTimeGap(2, 2);
           currentBatch.push(initBooster(products[index]));
         }   
       
@@ -248,7 +235,6 @@ export const triggerAllBolBooster = async (thread, currentVM) => {
         }).catch(error => {
           console.error('Error:', error.message);
         });
-
       }
     }catch (error) {
       if(!process.env.TURN_OFF_LOGS) {
