@@ -68,10 +68,13 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
   });
     
+  let page = null;
+
   try {
-    const page = await browser.newPage();
+    page = await browser.newPage();
   
     await page.setUserAgent(userAgentStr);
+
     await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
     if(browser) {
@@ -81,12 +84,16 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     }
   }
 
-
-  try {
-    await page.goto(link, { waitUntil: 'domcontentloaded' });
-  } catch (error) {
-    await browser.close()
+  if(page) {
+    try {
+      await page.goto(link, { waitUntil: 'domcontentloaded' });
+    } catch (error) {
+      await browser.close()
+    }
+  }else {
+    await browser.close();
   }
+
 
   const content = await page.content();
     
