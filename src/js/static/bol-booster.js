@@ -68,10 +68,19 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
   });
     
-  const page = await browser.newPage();
+  try {
+    const page = await browser.newPage();
   
-  await page.setUserAgent(userAgentStr);
-  await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
+    await page.setUserAgent(userAgentStr);
+    await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
+  }catch(error) {
+    if(browser) {
+      await browser.close();
+    }else {
+      return null;
+    }
+  }
+
 
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
