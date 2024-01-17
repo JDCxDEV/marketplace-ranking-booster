@@ -174,7 +174,7 @@ export const triggerBolBooster = async (thread, product) => {
   for (let index = 1; index <= thread; index++) {
     try {
 
-      let productThreads = 5;
+      let productThreads = 4;
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
