@@ -13,7 +13,7 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   setTimeout(async () => {
     if(browser) {
       console.log(`Browser closed after ${threadTimer} seconds.`);
-      return await browser.close();
+      await browser.close();
     }else {
       return;
     }
@@ -73,9 +73,6 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   await page.setUserAgent(userAgentStr);
   await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
 
-  const url = await page.url();
-  const content = await page.content();
-
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
@@ -92,6 +89,9 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       browser.close();
     }
   });
+
+  const url = await page.url();
+  const content = await page.content();
 
   if(content) {
     try {
