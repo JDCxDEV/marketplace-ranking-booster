@@ -148,7 +148,6 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       await booster.addRandomTimeGap(10, 10);
 
     }catch(error) {
-      console.log(error);
       await browser.close();
     }
   }
