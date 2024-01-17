@@ -68,35 +68,31 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
   });
     
-  let page = null;
+
+  const page = await browser.newPage();
+  await page.setUserAgent(userAgentStr);
+  await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
+
+  const url = await page.url();
+  const content = await page.content();
 
   try {
-    page = await browser.newPage();
-  
-    await page.setUserAgent(userAgentStr);
-
-    await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
-  }catch(error) {
-    if(browser) {
-      await browser.close();
-    }else {
-      return null;
-    }
+    await page.goto(link, { waitUntil: 'domcontentloaded' });
+  } catch (error) {
+    await browser.close()
   }
+  // Intercept requests
+  await page.setRequestInterception(true);
 
-  if(page) {
-    try {
-      await page.goto(link, { waitUntil: 'domcontentloaded' });
-    } catch (error) {
-      await browser.close()
+  await page.on('request', (request) => {
+    // Continue with the request if it's not a forbidden page
+    if (!booster.isForbiddenPage(request)) {
+      request.continue();
+    } else {
+      browser.close();
     }
-  }else {
-    await browser.close();
-  }
+  });
 
-
-  const content = await page.content();
-    
   if(content) {
     try {
     
