@@ -49,25 +49,29 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   }));
     
   // initialize booster page
-  browser = await puppeteer.launch({ 
-    headless: false,
-    executablePath: executablePath(),
-    args: [
-      `--proxy-server=${proxy}`,
-      '--window-position=0,0',
-      '--ignore-certificate-errors',
-      '--single-process',
-      '--disable-gpu',
-      '--disable-dev-shm-usage',
-      '--disable-accelerated-2d-canvas',
-      '--no-first-run',
-      '--no-sandbox',
-      '--no-zygote',
-      ],
 
-      ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
-  });
-    
+  try {
+    browser = await puppeteer.launch({ 
+      headless: false,
+      executablePath: executablePath(),
+      args: [
+        `--proxy-server=${proxy}`,
+        '--window-position=0,0',
+        '--ignore-certificate-errors',
+        '--single-process',
+        '--disable-gpu',
+        '--disable-dev-shm-usage',
+        '--disable-accelerated-2d-canvas',
+        '--no-first-run',
+        '--no-sandbox',
+        '--no-zygote',
+        ],
+  
+        ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
+    });
+  }catch(error) {
+    return true;
+  }
 
   const page = await browser.newPage();
   await page.setUserAgent(userAgentStr);
