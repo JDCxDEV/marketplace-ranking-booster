@@ -253,24 +253,22 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
           }, timeoutMilliseconds);
         });
         
-        try {
-          await Promise.race([
-            Promise.all(currentBatch),
-            timeoutPromise
-          ]).then(() => {
-            console.log('current thread:' + mainIndex + ' completed');
-          }).catch(error => {
-            console.error('Error:', error.message);
-          });
-        }catch(error) {
-
-        }
+        await Promise.race([
+          Promise.all(currentBatch),
+          timeoutPromise
+        ]).then(() => {
+          console.log('current thread:' + mainIndex + ' completed');
+        }).catch(error => {
+          console.error('Error:', error.message);
+        });
 
       }
     }catch (error) {
       if(!process.env.TURN_OFF_LOGS) {
         console.error(error);
       }
+
+      return;
     }
   }
 };
