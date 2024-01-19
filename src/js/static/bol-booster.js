@@ -237,7 +237,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 8;
+        let productThreads = 6;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
