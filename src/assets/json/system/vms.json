@@ -5,7 +5,7 @@
       "marketplace": "Bol.com",
       "key": "VM-1",
       "name": "Virtual Machine 1",
-      "steps": "homepage"
+      "steps": "product-page"
     },
     {
       "id": 2,
