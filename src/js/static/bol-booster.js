@@ -78,7 +78,7 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     await page.setUserAgent(userAgentStr);
     await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
-    return;
+    return true;
   } 
 
 
