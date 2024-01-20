@@ -73,12 +73,16 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     return true;
   }
 
+  let page = null;
+  let content = null;
+  let url = null;
+
   try {
-    const page = await browser.newPage();
+    page = await browser.newPage();
     await page.setUserAgent(userAgentStr);
     await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
-    return true;
+    return;
   } 
 
 
@@ -88,19 +92,24 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     await browser.close()
   }
   // Intercept requests
-  await page.setRequestInterception(true);
 
-  await page.on('request', (request) => {
-    // Continue with the request if it's not a forbidden page
-    if (!booster.isForbiddenPage(request)) {
-      request.continue();
-    } else {
-      browser.close();
-    }
-  });
+  if(page) {
+    await page.setRequestInterception(true);
 
-  const url = await page.url();
-  const content = await page.content();
+    await page.on('request', (request) => {
+      // Continue with the request if it's not a forbidden page
+      if (!booster.isForbiddenPage(request)) {
+        request.continue();
+      } else {
+        browser.close();
+      }
+    });
+
+    url = await page.url();
+    content = await page.content();
+  }else {
+    return;
+  }
 
   if(content) {
     try {
