@@ -38,7 +38,7 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   puppeteer.use(stealthPlugin);
 
   // Create random user-agent to be set through plugin
-  const userAgent = new UserAgent();
+  const userAgent = new UserAgent({ platform: 'Win32' });
   const userAgentStr = userAgent.toString();
 
   // Use the anonymize user agent plugin with custom user agent string
@@ -237,7 +237,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 6;
+        let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
@@ -253,14 +253,18 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
           }, timeoutMilliseconds);
         });
         
-        await Promise.race([
-          Promise.all(currentBatch),
-          timeoutPromise
-        ]).then(() => {
-          console.log('current thread:' + mainIndex + ' completed');
-        }).catch(error => {
-          console.error('Error:', error.message);
-        });
+        try {
+          await Promise.race([
+            Promise.all(currentBatch),
+            timeoutPromise
+          ]).then(() => {
+            console.log('current thread:' + mainIndex + ' completed');
+          }).catch(error => {
+            console.error('Error:', error.message);
+          });
+      }catch(error) {
+        return;
+      }
 
       }
     }catch (error) {

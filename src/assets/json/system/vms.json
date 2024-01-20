@@ -33,7 +33,7 @@
       "marketplace": "Bol.com",
       "key": "VM-5",
       "name": "Virtual Machine 5",
-      "steps": "homepage"
+      "steps": "product-page"
     },
     {
       "id": 6,
@@ -61,7 +61,7 @@
       "marketplace": "Bol.com",
       "key": "VM-5",
       "name": "Virtual Machine 9",
-      "steps": "homepage"
+      "steps": "product-page"
     },
     {
       "id": 10,
