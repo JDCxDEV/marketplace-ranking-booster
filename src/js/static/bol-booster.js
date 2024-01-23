@@ -94,19 +94,26 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   // Intercept requests
 
   if(page) {
-    await page.setRequestInterception(true);
+    try {
+      await page.setRequestInterception(true);
 
-    await page.on('request', (request) => {
-      // Continue with the request if it's not a forbidden page
-      if (!booster.isForbiddenPage(request)) {
-        request.continue();
-      } else {
-        browser.close();
-      }
-    });
+      await page.on('request', (request) => {
+        // Continue with the request if it's not a forbidden page
+        if (!booster.isForbiddenPage(request)) {
+          request.continue();
+        } else {
+          browser.close();
+        }
+      });
+  
+      url = await page.url();
+      content = await page.content();
+    }catch(error) {
+      console.log(error);
 
-    url = await page.url();
-    content = await page.content();
+      return;
+    }
+
   }else {
     return;
   }
@@ -192,7 +199,7 @@ export const triggerBolBooster = async (thread, product) => {
   for (let index = 1; index <= thread; index++) {
     try {
 
-      let productThreads = 5;
+      let productThreads = 10;
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {

@@ -3,6 +3,16 @@
     {
       "id": "VM-4-0001",
       "marketplace": "Bol.com",
+      "product": "Earphone 1",
+      "productId": "9300000061790924",
+      "productTitle": "QuchiQ™ Draadloze Bluetooth Oordopjes - Wireless Earpods, Sport Earphones, Noise Cancelling, Microfoon, Draadloos In-ear Oordopjes, Compatible met iPhone/Samsung, Draadloze Oortjes Samsung, Bluetooth Oortjes, Earbuds",
+      "keywords": ["Bluetooth Oortjes", "Earpods Draadloos", "Wireless Earphones", "bluetooth oordopjes", "draadloze oordopjes", "oortjes draadloos", "draadloze oortjes bluetooth", "oortjes", "oortjes samsung", "oortjes iphone", "draadloze oordopjes samsung", "draadloze oordopjes iphone", "draadloze oordopjes sport"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=Wireless+Earphones", "https://www.bol.com/nl/nl/s/?searchtext=Earpods+Draadloos", "https://www.bol.com/nl/nl/s/?searchtext=Wireless+Earphones", "https://www.bol.com/nl/nl/s/?page=3&searchtext=bluetooth+oordopjes&view=list", "https://www.bol.com/nl/nl/s/?page=3&searchtext=draadloze+oordopjes&view=list", "https://www.bol.com/nl/nl/s/?page=3&searchtext=oortjes+draadloos&view=list", "https://www.bol.com/nl/nl/s/?page=3&searchtext=draadloze+oortjes+bluetooth&view=list", "https://www.bol.com/nl/nl/s/?page=3&searchtext=oortjes&view=list", "https://www.bol.com/nl/nl/s/?searchtext=oortjes+samsung", "https://www.bol.com/nl/nl/s/?searchtext=oortjes+iphone", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+oordopjes+samsung", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+oordopjes+iphone", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+oordopjes+sport"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0002",
+      "marketplace": "Bol.com",
       "product": "Earphone 2",
       "productId": "9300000160673714",
       "productTitle": "QuchiQ™ Draadloze Oordopjes - Oordopjes Draadloos - Bluetooth Oortjes - Earpods Draadloos - Wireless Earphones - Sport Oordopjes - Wireless Earbuds met Oplaadcase - Zwart",
@@ -11,7 +21,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0002",
+      "id": "VM-4-0003",
       "marketplace": "Bol.com",
       "product": "Earphone 3",
       "productId": "9300000160673718",
@@ -21,7 +31,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0003",
+      "id": "VM-4-0004",
       "marketplace": "Bol.com",
       "product": "Earphone 4",
       "productId": "9300000160673716",
@@ -31,7 +41,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0004",
+      "id": "VM-4-0005",
       "marketplace": "Bol.com",
       "product": "Earphone 5",
       "productId": "9300000163533617",
@@ -41,7 +51,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0005",
+      "id": "VM-4-0006",
       "marketplace": "Bol.com",
       "product": "Earphone 6",
       "productId": "9300000163662088",
@@ -51,7 +61,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0006",
+      "id": "VM-4-0007",
       "marketplace": "Bol.com",
       "product": "Earphone 7",
       "productId": "9300000124777249",
@@ -61,7 +71,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0007",
+      "id": "VM-4-0008",
       "marketplace": "Bol.com",
       "product": "Water bottle B",
       "productId": "9300000022722144",
@@ -71,7 +81,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-4-0008",
+      "id": "VM-4-0009",
       "marketplace": "Bol.com",
       "product": "Water bottle G",
       "productId": "9300000045223456",
@@ -81,7 +91,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0009",
+      "id": "VM-4-0010",
       "marketplace": "Bol.com",
       "product": "Water bottle T",
       "productId": "9300000045223407",
@@ -91,7 +101,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0010",
+      "id": "VM-4-0011",
       "marketplace": "Bol.com",
       "product": "Robot 1",
       "productId": "9300000163880779",
@@ -101,7 +111,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-4-0011",
+      "id": "VM-4-0012",
       "marketplace": "Bol.com",
       "product": "Robot 2",
       "productId": "9300000163664937",
@@ -111,7 +121,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-4-0012",
+      "id": "VM-4-0013",
       "marketplace": "Bol.com",
       "product": "Robot 3",
       "productId": "9300000163664938",
