@@ -38,8 +38,9 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   puppeteer.use(stealthPlugin);
 
   // Create random user-agent to be set through plugin
-  const userAgent = new UserAgent({ platform: 'Win32' });
+  const userAgent = new UserAgent({ deviceCategory: 'desktop' });
   const userAgentStr = userAgent.toString();
+  const screenSize = booster.getRandomScreenSize();
 
   // Use the anonymize user agent plugin with custom user agent string
   await puppeteer.use(pluginAnonymizeUA({
@@ -80,7 +81,7 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   try {
     page = await browser.newPage();
     await page.setUserAgent(userAgentStr);
-    await page.setViewport({ width: 1600, height: 1000, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
+    await page.setViewport({ width: screenSize.width, height: screenSize.height, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
     return;
   } 
@@ -91,8 +92,8 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   } catch (error) {
     await browser.close()
   }
-  // Intercept requests
 
+  // Intercept requests
   if(page) {
     try {
       await page.setRequestInterception(true);
@@ -125,21 +126,18 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
-
       await booster.addRandomTimeGap(3, 6);
 
       // Step 1: Click Accept Terms button on init
       const acceptTermsButton = '#js-first-screen-accept-all-button';
       await page.waitForSelector(acceptTermsButton);
       await page.click(acceptTermsButton);
-
       await booster.addRandomTimeGap(3, 6);
 
       // Step 2: Click Accept Terms button on init
       const countryButton = '.js-country-language-btn';
       await page.waitForSelector(countryButton);
       await page.click(countryButton);
-
 
       await booster.addRandomTimeGap(3, 6);
       await booster.scrollDown(page);
@@ -179,8 +177,20 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       }
 
       // Step 6: Add to wishlist
-      await booster.addRandomTimeGap(3, 7);
-      await booster.scrollToElementAndClickIt(page, '.ui-btn--favorite')
+
+      try {
+        await booster.addRandomTimeGap(3, 7);
+        await booster.scrollToElementAndClickIt(page, '.show-more-button')
+        await booster.addRandomTimeGap(3, 7);
+        await booster.scrollToElementAndClickIt(page, '.ui-btn--favorite')
+      }catch (error) {
+        if(browser) {
+          browser.close();
+        }
+
+        return;
+      } 
+
       
       await booster.addRandomTimeGap(10, 10);
 
@@ -283,9 +293,9 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
           }).catch(error => {
             console.error('Error:', error.message);
           });
-      }catch(error) {
-        return;
-      }
+        }catch(error) {
+          return;
+        }
 
       }
     }catch (error) {

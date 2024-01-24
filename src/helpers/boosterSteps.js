@@ -150,14 +150,33 @@ export const findAndScrollToAnchorByText = async (page, searchText, browser) => 
 }
 
 
-export const scrollToElementAndClickIt = async (page, classElement) => {
-  await page.evaluate((text) => {
+export const scrollToElementAndClickIt = async (page, classElement, delayInMilliseconds = 2000) => {
+  await page.waitForSelector(classElement); // Wait for the element to be present
+
+  await page.evaluate(async (text, delay) => {
     const favoriteButton = document.querySelector(text);
     if (favoriteButton) {
       favoriteButton.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+
+      await new Promise(resolve => setTimeout(resolve, delay));
+
       favoriteButton.click();
     }
-  }, classElement);
+  }, classElement, delayInMilliseconds);
+};
+
+export const getRandomScreenSize = () => {
+
+  const resolutions = [
+    { width: 1920, height: 1080 },
+    { width: 1366, height: 768 },
+    { width: 1280, height: 800 },
+    { width: 1440, height: 900 },
+    { width: 1600, height: 900 },
+  ];
+
+  const randomIndex = Math.floor(Math.random() * resolutions.length);
+  return resolutions[randomIndex];
 }
 
 
