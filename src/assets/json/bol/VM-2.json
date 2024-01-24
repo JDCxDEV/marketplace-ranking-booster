@@ -7,6 +7,7 @@
         "productId": "9300000129700113",
         "productTitle": "Lideka® - Slimme LED Lampen - Smart Spotjes GU10 - RGBW - met App - 6W - 400 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri",
         "keywords": ["gu10 led lamp dimbaar", "led lampen", "spotjes"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&12194=16-17&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=spotjes&view=list&filter_N=4296707626&12194=16-17&rating=all"],
         "isRunning" : false
     },
     {
@@ -15,7 +16,8 @@
         "product": "Earplugs",
         "productId": "9300000129700113",
         "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart -",
-        "keywords": ["earplugs", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen slapen", "oordopjes slapen", "oordoppen"],
+        "keywords": ["earplugs", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen slapen", "oordoppen"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=earplugs", "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs", "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen", "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes", "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken", "https://www.bol.com/nl/nl/s/?searchtext=geluidsdempende+oordopjes", "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen", "https://www.bol.com/nl/nl/s/?searchtext=oordoppen"],
         "isRunning" : false 
     },
     {
@@ -25,6 +27,7 @@
         "productId": "9300000048501922",
         "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
         "keywords": ["slaapmaskers", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmasker", "oogmasker"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=slaapmaskers", "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+vrouwen", "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+mannen", "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+3d", "https://www.bol.com/nl/nl/s/?searchtext=zijden+slaapmasker", "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker", "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker"],
         "isRunning" : false 
     },
     {
@@ -33,7 +36,8 @@
         "product": "Sleepglasses Yellow",
         "productId": "9300000074423396",
         "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Geel Kleurige Lenzen – Voor Overdag of ‘s Avonds – Wraparound Fitting - Licht Gewicht - Blue Light Glasses Blokkeert Blauw Licht tot 75%",
-        "keywords": ["computerbril", "beeldschermbril", "blue light glasses", "blauw licht bril"],
+        "keywords": ["computerbril", "beeldschermbril", "blue light glasses"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=computerbril", "https://www.bol.com/nl/nl/s/?searchtext=beeldschermbril", "https://www.bol.com/nl/nl/s/?searchtext=blue+light+glasses"],
         "isRunning" : false 
     },
     {
@@ -42,7 +46,8 @@
       "product": "Robot 1",
       "productId": "9300000039131026",
       "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen",
-      "keywords": ["robot speelgoed jongens", "robot bouwpakket", "robot speelgoed"],
+      "keywords": ["robot bouwpakket", "robot speelgoed jongens", "robot speelgoed"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket", "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed+jongens", "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed"],
       "isRunning" : false 
     },
     {
@@ -51,7 +56,8 @@
         "product": "Robot 2",
         "productId": "9300000043283281",
         "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen",
-        "keywords": ["robot speelgoed jongens", "robot bouwpakket", "robot speelgoed"],
+        "keywords": ["robot bouwpakket", "robot speelgoed jongens", "robot speelgoed"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket", "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed+jongens", "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed"],
         "isRunning" : false 
     },
     {
@@ -60,7 +66,8 @@
         "product": "Robot 3",
         "productId": "9300000087795314",
         "productTitle": "Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen",
-        "keywords": ["bouwset", "robot bouwpakket", "speelgoed"],
+        "keywords": ["robot bouwpakket", "bouwset", "speelgoed"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=robot+bouwpakket&view=list&filter_N=4297326722&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=bouwset", "https://www.bol.com/nl/nl/s/?page=2&searchtext=speelgoed&view=list&12194=26-27&rating=all"],
         "isRunning" : false 
     },
     {
@@ -69,7 +76,8 @@
         "product": "Lamp",
         "productId": "9300000079969930",
         "productTitle": "QuchiQ™ Daglichtlamp LED 10.000 lux Oplaadbaar - Lichttherapie Lamp - Tabletvorm - Kantelbaar - Energy Lamp UV-Free - 3 Kleuren - 6 Helderheid Niveaus en Intelligente Timer",
-        "keywords": ["daylight lamp QuchiQ", "lichttherapie lamp"],
+        "keywords": ["lichttherapie lamp", "bureaulamp", "bureaulamp led", "daglichtlamp"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=lichttherapie+lamp", "https://www.bol.com/nl/nl/s/?searchtext=daglichtlamp"],
         "isRunning" : false 
     },
     {
@@ -78,34 +86,38 @@
         "product": "TV strip 1",
         "productId": "9300000032517844",
         "productTitle": "Lideka - TV LED strip - 2 Meter - Auto USB - RGB - met Afstandsbediening - Gaming accesoires - Verlichting - Led Lights - Led Light Strip - Licht strip",
-        "keywords": ["led strip tv lideka", "led verlichting tv lideka", "gaming lights lideka"],
+        "keywords": ["led strip tv", "led verlichting tv", "gaming lights", "led verlichting", "led verlichting strips", "led strip met afstandsbediening", "led strip 2 meter"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+tv&view=list&12194=20-21&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=gaming+lights", "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting", "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting+strips", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+2+meter"],
         "isRunning" : false 
     },
     {
       "id": "VM-2-0010",
         "marketplace": "Bol.com",
-        "product": "RGBW Strip 2",
+        "product": "RGBW Strip 5m",
         "productId": "9300000129847288",
         "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 5 Meter - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
-        "keywords": ["ledstrip rgbw", "rgbw led strip", "led strip met afstandsbediening", "led strip"],
+        "keywords": ["ledstrip rgbw", "rgbw led strip", "led strip met afstandsbediening", "led verlichting", "led verlichting strips", "led strip 5 meter", "led strip","led lights", "led light strip"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=ledstrip+rgbw", "https://www.bol.com/nl/nl/s/?searchtext=rgbw+led+strip", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting&view=list&12194=43-44&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&12194=43-44&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+5+meter", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=43-44&rating=all"],
         "isRunning" : false 
     },
     {
       "id": "VM-2-0011",
         "marketplace": "Bol.com",
-        "product": "RGBIC Strip 1",
+        "product": "RGBIC Strip 10m",
         "productId": "9300000032504732",
         "productTitle": "Lideka® - LED strip 10 Meter (2x5) - RGB-IC - Dreamcolor - Special effects - met App - Verlichting - Led Lights - Led Light Strip - Licht strip",
-        "keywords": ["led strip 10 meter", "led-strips", "lichtstrip", "led strip"],
+        "keywords": ["led strip 10 meter", "led-strips", "lichtstrip", "led verlichting", "led verlichting strips", "led strip met afstandsbediening", "led strip", "led lights", "led light strip"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+10+meter", "https://www.bol.com/nl/nl/s/?searchtext=led-strips", "https://www.bol.com/nl/nl/s/?searchtext=lichtstrip", "led verlichting", "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting+strips", "https://www.bol.com/nl/nl/s/?searchtext=led+strip", "https://www.bol.com/nl/nl/s/?searchtext=led+lights", "https://www.bol.com/nl/nl/s/?searchtext=led+light+strip", ""],
         "isRunning" : false
     },
     {
       "id": "VM-2-0012",
         "marketplace": "Bol.com",
-        "product": "NEON Strip 1",
+        "product": "NEON LED strip RGB",
         "productId": "9300000137732718",
         "productTitle": "Lideka Slimme NEON RGB LED Strip 3 meter - LED Strips Met 16 Miljoen Kleuren - Muziekoptie",
-        "keywords": ["smart led strip", "neon verlichting", "neon lamp"],
+        "keywords": ["smart led strip", "led verlichting", "led verlichting strips", "led strip met afstandsbediening", "led strip 3 meter", "led strip 3 meter",  "neon verlichting", "neon led strip buiten", "led lights", "led light strip", "neon lamp", "led strip"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=smart+led+strip", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting&view=list&12194=45-46&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&12194=45-46&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+3+meter", "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+verlichting&view=list&12194=45-46&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+led+strip+buiten&view=list&12194=45-46&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+lamp&view=list&12194=45-46&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=45-46&rating=all"],
         "isRunning" : false 
     }
   ]
