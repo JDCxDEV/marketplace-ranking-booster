@@ -107,7 +107,7 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
-      
+
       await booster.addRandomTimeGap(3, 6);
 
       // Step 1: Click Accept Terms button on init
@@ -192,7 +192,7 @@ export const triggerBolBooster = async (thread, product) => {
   for (let index = 1; index <= thread; index++) {
     try {
 
-      let productThreads = 10;
+      let productThreads = 4;
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
@@ -256,7 +256,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 5;
+        let productThreads = 4;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {

@@ -64,16 +64,23 @@
       "steps": "product-page"
     },
     {
+      "id": 10,
+      "marketplace": "Bol.com",
+      "key": "VM-10",
+      "name": "Virtual Machine 10",
+      "steps": "product-page"
+    },
+    {
       "id": 11,
       "marketplace": "Bol.com",
-      "key": "VM-11",
+      "key": "VM-1",
       "name": "Virtual Machine 11",
       "steps": "product-page"
     },
     {
       "id": 12,
       "marketplace": "Bol.com",
-      "key": "VM-12",
+      "key": "VM-4",
       "name": "Virtual Machine 12",
       "steps": "product-page"
     }   
