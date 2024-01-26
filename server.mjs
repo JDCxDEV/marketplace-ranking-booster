@@ -16,32 +16,29 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const getRequestTriggerBooster = async (req, res) => {
+    const { product, currentMP, currentVM, thread } = req.body;
 
-    if(req.body.product) {
-        if(req.body.currentMP == 'bol') {
-            const currentMP = req.body.currentMP; 
-            const currentVM = req.body.currentVM; 
-            
-            const productJsonFile = await dynamicallyImportJsonFile((currentVM ? currentVM  : 'VM-1') + '.json', currentMP)
-            const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system')
-            const product = productJsonFile.products.filter( item => item.id == req.body.product)[0];
-            const vm = vmJsonFile.vms.filter(item => item.key == currentVM)[0];
-            triggerBolBooster(req.body.thread, product, vm.steps);
+    if (product && currentMP === 'bol') {
+        const productJsonFile = await dynamicallyImportJsonFile((currentVM || 'VM-1') + '.json', currentMP);
+        const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
+        const product = productJsonFile.products.find(item => item.id === product);
+        const vm = vmJsonFile.vms.find(item => item.key === currentVM);
+
+        if (product) {
+            triggerBolBooster(thread, product, vm?.steps);
         }
-    }else {
-        if(req.body.currentMP == 'bol') {
-            const currentVM = req.body.currentVM; 
-            const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system')
-            const vm = vmJsonFile.vms.filter(item => item.key == currentVM)[0];
-            triggerAllBolBooster(req.body.thread, req.body.currentVM, vm.steps);
-        }else if(req.body.currentMP == 'kaufland'){
-            triggerAllBolKaufland(req.body.thread, req.body.currentVM);
+    } else {
+        if (currentMP === 'bol') {
+            const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
+            const vm = vmJsonFile.vms.find(item => item.key === currentVM);
+            await triggerAllBolBooster(thread, currentVM, vm?.steps);
+        } else if (currentMP === 'kaufland') {
+            triggerAllBolKaufland(thread, currentVM);
         }
     }
 
-  
     return res.status(200).json({ message: 'POST request successful', data: req.body });
-}
+};
 
 const getTriggerDownloadProxies = async (req, res) => {
     await downloadProxies();

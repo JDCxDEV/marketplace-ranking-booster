@@ -3,19 +3,20 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
-import { executablePath  } from 'puppeteer';
 
 const initBooster = async (product, threadTimer = 300, steps) => {
   
+  // Set stealth plugin
+  const stealthPlugin = StealthPlugin();
+  puppeteer.use(stealthPlugin);
+
   // Set a timer to close the browser and the method after the specified duration
   let browser = null;
 
   setTimeout(async () => {
-    if(browser) {
+    if (browser) {
       console.log(`Browser closed after ${threadTimer} seconds.`);
       await browser.close();
-    }else {
-      return;
     }
   }, threadTimer * 1000);
 
@@ -32,10 +33,6 @@ const initBooster = async (product, threadTimer = 300, steps) => {
 
   const productId =  product.productId
   const proxy = await booster.getRandomProxy('proxies-nl')
-
-  // Set stealth plugin
-  const stealthPlugin = StealthPlugin();
-  puppeteer.use(stealthPlugin);
 
   // Create random user-agent to be set through plugin
   const userAgent = new UserAgent({ deviceCategory: 'desktop' });
@@ -54,7 +51,6 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   try {
     browser = await puppeteer.launch({ 
       headless: false,
-      executablePath: executablePath(),
       args: [
         `--proxy-server=${proxy}`,
         '--window-position=0,0',
@@ -71,7 +67,7 @@ const initBooster = async (product, threadTimer = 300, steps) => {
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
     });
   }catch(error) {
-    return true;
+    return;
   }
 
   let page = null;
@@ -86,7 +82,6 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     return;
   } 
 
-
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
@@ -96,25 +91,11 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   // Intercept requests
   if(page) {
     try {
-      await page.setRequestInterception(true);
-
-      await page.on('request', (request) => {
-        // Continue with the request if it's not a forbidden page
-        if (!booster.isForbiddenPage(request)) {
-          request.continue();
-        } else {
-          browser.close();
-        }
-      });
-  
       url = await page.url();
       content = await page.content();
     }catch(error) {
-      console.log(error);
-
       return;
     }
-
   }else {
     return;
   }
@@ -124,8 +105,8 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     
       /* log session information */
       
-      // console.log(`proxy: ${proxy}`)
-      // console.log(`user-agent: ${userAgentStr}`)
+      console.log(`proxy: ${proxy}`)
+      console.log(`user-agent: ${userAgentStr}`)
       await booster.addRandomTimeGap(3, 6);
 
       // Step 1: Click Accept Terms button on init
@@ -179,10 +160,11 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       // Step 6: Add to wishlist
 
       try {
-        await booster.addRandomTimeGap(3, 7);
-        await booster.scrollToElementAndClickIt(page, '.show-more-button')
-        await booster.addRandomTimeGap(3, 7);
-        await booster.scrollToElementAndClickIt(page, '.ui-btn--favorite')
+        // Wait for the element with the specified global-id to be available
+        await page.waitForSelector(`[global-id="${globalId}"]`);
+
+        // Click the element
+        await page.click(`[global-id="${productId}"]`);
       }catch (error) {
         if(browser) {
           browser.close();

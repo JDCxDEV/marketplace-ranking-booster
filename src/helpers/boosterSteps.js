@@ -166,7 +166,6 @@ export const scrollToElementAndClickIt = async (page, classElement, delayInMilli
 };
 
 export const getRandomScreenSize = () => {
-
   const resolutions = [
     { width: 1920, height: 1080 },
     { width: 1366, height: 768 },
