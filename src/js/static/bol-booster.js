@@ -105,8 +105,9 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     
       /* log session information */
       
-      console.log(`proxy: ${proxy}`)
-      console.log(`user-agent: ${userAgentStr}`)
+      // console.log(`proxy: ${proxy}`)
+      // console.log(`user-agent: ${userAgentStr}`)
+      
       await booster.addRandomTimeGap(3, 6);
 
       // Step 1: Click Accept Terms button on init
@@ -206,14 +207,19 @@ export const triggerBolBooster = async (thread, product) => {
         }, timeoutMilliseconds);
       });
       
-      await Promise.race([
-        Promise.all(currentBatch),
-        timeoutPromise
-      ]).then(() => {
-        console.log('current thread:' + index + ' completed');
-      }).catch(error => {
-        console.error('Error:', error.message);
-      });
+      try {
+        await Promise.race([
+          Promise.all(currentBatch),
+          timeoutPromise
+        ]).then(() => {
+          console.log('current thread:' + index + ' completed');
+        }).catch(error => {
+          console.error('Error:', error.message);
+        });
+  
+      }catch(error) {
+        return;
+      }
 
 
     }catch (error) {
