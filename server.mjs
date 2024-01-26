@@ -31,7 +31,7 @@ const getRequestTriggerBooster = async (req, res) => {
         if (currentMP === 'bol') {
             const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
             const vm = vmJsonFile.vms.find(item => item.key === currentVM);
-            await triggerAllBolBooster(thread, currentVM, vm?.steps);
+            triggerAllBolBooster(thread, currentVM, vm?.steps);
         } else if (currentMP === 'kaufland') {
             triggerAllBolKaufland(thread, currentVM);
         }
