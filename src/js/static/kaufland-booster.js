@@ -20,10 +20,10 @@ const initBooster = async (product, threadTimer = 300) => {
   setTimeout(async () => {
     console.log(`Browser closed after ${threadTimer} seconds.`);
     if(browser) {
-      return await browser.close();
-    }else {
-      return;
+      await browser.close();
     }
+
+    return;
   }, threadTimer * 1000);
 
   // Set stealth plugin
@@ -71,20 +71,7 @@ const initBooster = async (product, threadTimer = 300) => {
     await browser.close()
   }
 
-  const url = await page.url();
   const content = await page.content();
-
-  // Intercept requests
-  await page.setRequestInterception(true);
-
-  await page.on('request', (request) => {
-    // Continue with the request if it's not a forbidden page
-    if (!booster.isForbiddenPage(request)) {
-      request.continue();
-    } else {
-      browser.close();
-    }
-  });
 
   if(content) {
     try {
@@ -242,7 +229,6 @@ const dynamicallyImportJsonFile = async (file)  => {
 }
 
 export const triggerKauflandBooster = async (thread, product) => {
-
   await booster.addRandomTimeGap(3)
 
   for (let index = 0; index <= thread; index++) {
@@ -259,7 +245,6 @@ export const triggerKauflandBooster = async (thread, product) => {
 };
 
 export const triggerAllBolKaufland = async (thread, currentVM) => {
-
   await booster.addRandomTimeGap(3)
 
   const productJsonFile = await dynamicallyImportJsonFile( currentVM + '.json');
@@ -289,14 +274,18 @@ export const triggerAllBolKaufland = async (thread, currentVM) => {
           }, timeoutMilliseconds);
         });
         
-        await Promise.race([
-          Promise.all(currentBatch),
-          timeoutPromise
-        ]).then(() => {
-          console.log('current thread:' + mainIndex + ' completed');
-        }).catch(error => {
-          console.error('Error:', error.message);
-        });
+        try {
+          await Promise.race([
+            Promise.all(currentBatch),
+            timeoutPromise
+          ]).then(() => {
+            console.log('current thread:' + mainIndex + ' completed');
+          }).catch(error => {
+            console.error('Error:', error.message);
+          });
+        }catch(error) {
+          return;
+        }
 
       }
     }catch (error) {

@@ -62,6 +62,7 @@ const initBooster = async (product, threadTimer = 300, steps) => {
         '--no-first-run',
         '--no-sandbox',
         '--no-zygote',
+        '--start-maximized'
         ],
   
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
@@ -161,8 +162,6 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       // Step 6: Add to wishlist
 
       try {
-        // Wait for the element with the specified global-id to be available
-        await page.waitForSelector(`[global-id="${productId}"]`);
         // Click the element
         await page.click(`[global-id="${productId}"]`);
       }catch (error) {
