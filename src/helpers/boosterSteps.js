@@ -123,6 +123,7 @@ export const findAndScrollToAnchorByHrefContent = async (page, searchText, brows
 
       await addRandomTimeGap(3, 7);
   } catch (error) {
+    console.log(error);
     await browser.close();
   }
 };

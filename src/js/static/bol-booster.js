@@ -162,13 +162,12 @@ const initBooster = async (product, threadTimer = 300, steps) => {
 
       try {
         // Wait for the element with the specified global-id to be available
-        await page.waitForSelector(`[global-id="${globalId}"]`);
-
+        await page.waitForSelector(`[global-id="${productId}"]`);
         // Click the element
         await page.click(`[global-id="${productId}"]`);
       }catch (error) {
         if(browser) {
-          browser.close();
+          await browser.close();
         }
 
         return;
