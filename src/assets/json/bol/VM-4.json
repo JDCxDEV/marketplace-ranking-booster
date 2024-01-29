@@ -76,8 +76,8 @@
       "product": "Water bottle B",
       "productId": "9300000022722144",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Blauw",
-      "keywords": ["waterflessen", "motiverende drinkfles"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=waterflessen", "https://www.bol.com/nl/nl/s/?searchtext=motiverende+drinkfles"],
+      "keywords": ["waterflessen", "motiverende drinkfles", "motivatie waterfles", "waterfles 1 liter", "drinkfles 1 liter", "water fles"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=motiverende+drinkfles", "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=16715&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=16715&rating=all", ""],
       "isRunning" : false
     },
     {
@@ -86,8 +86,8 @@
       "product": "Water bottle G",
       "productId": "9300000045223456",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motivatie Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - Sportfles - BPA vrij - Groen",
-      "keywords": ["waterflessen", "waterfles 1 liter", "waterfles met tijdmarkeringen", "motivatie waterfles", "drinkfles 1 liter", "water fles", "waterfles", "drinkfles"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&filter_N=16719&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=16719&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+tijdmarkeringe&view=list&filter_N=16719&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=motivatie+waterfles&view=list&filter_N=16719&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=16719&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&filter_N=16719&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=16719&rating=all"],
+      "keywords": ["waterfles met tijdmarkeringen", "drinkfles 1 liter", "motivatie waterfles", "water fles", "waterflessen", "waterfles 1 liter", "waterfles", "drinkfles"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+tijdmarkeringen"],
       "isRunning" : false 
     },
     {
@@ -96,8 +96,8 @@
       "product": "Water bottle T",
       "productId": "9300000045223407",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles 1 Liter - Sportfles - BPA vrij",
-      "keywords": ["waterflessen", "drinkfles"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&12194=21-22&rating=all"],
+      "keywords": ["waterflessen", "drinkfles", "motivatie waterfles", "waterfles 1 liter", "drinkfles 1 liter", "water fles", "waterfles", "drinkflessen"],
+      "keywordLink": [],
       "isRunning" : false 
     },
     {
