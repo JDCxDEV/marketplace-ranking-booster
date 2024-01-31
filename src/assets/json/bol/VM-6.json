@@ -9,7 +9,8 @@
       "keywords": ["vershoudbakjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=vershoudbakjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0002",
@@ -20,7 +21,8 @@
       "keywords": ["diepvriesbakjes", "meal prep bakjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=diepvriesbakjes", "https://www.bol.com/nl/nl/s/?searchtext=diepvriesbakjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0003",
@@ -31,7 +33,8 @@
       "keywords": ["spatel"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=spatel"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0004",
@@ -42,7 +45,8 @@
       "keywords": ["spatel"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=spatel"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0005",
@@ -53,7 +57,8 @@
       "keywords": ["vergiet"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=vergiet"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0006",
@@ -64,7 +69,8 @@
       "keywords": ["vergiet"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=vergiet"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0007",
@@ -75,7 +81,8 @@
       "keywords": ["airfryer siliconen bakje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=airfryer+siliconen+bakje"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0008",
@@ -86,7 +93,8 @@
       "keywords": ["inductie beschermer", "inductie mat"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=inductie+beschermer", "https://www.bol.com/nl/nl/s/?searchtext=inductie+mat"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0009",
@@ -97,7 +105,8 @@
       "keywords": ["Slaapmasker"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=Slaapmasker"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0010",
@@ -108,7 +117,8 @@
       "keywords": ["steakmessen"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=steakmessen"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0011",
@@ -119,7 +129,8 @@
       "keywords": ["bestek", "bestek set"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=bestek", "https://www.bol.com/nl/nl/s/?searchtext=bestek+set"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0012",
@@ -130,7 +141,8 @@
       "keywords": ["kinderservies"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=kinderservies"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0013",
@@ -141,7 +153,8 @@
       "keywords": ["kaasrasp"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=kaasrasp"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-6-0014",
@@ -152,7 +165,8 @@
       "keywords": ["rasp"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=rasp"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0015",
@@ -163,7 +177,8 @@
       "keywords": ["messenslijper", "aanzetstaal"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=messenslijper", "https://www.bol.com/nl/nl/s/?searchtext=aanzetstaal"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-6-0016",
@@ -174,7 +189,8 @@
       "keywords": ["pizzasnijder"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=pizzasnijder"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-6-0017",
@@ -185,7 +201,8 @@
       "keywords": ["actioncam beschermhoezen", "cameratassen", "cameratas", "cameratassen", "cameratas spiegelreflexcamera"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=cameratassen", "https://www.bol.com/nl/nl/s/?searchtext=cameratas", "https://www.bol.com/nl/nl/s/?searchtext=cameratassen", "https://www.bol.com/nl/nl/s/?searchtext=cameratas+spiegelreflexcamera"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0018",
@@ -196,7 +213,8 @@
       "keywords": ["drones", "drone", "drone met camera"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=drones&view=list&12194=349-350&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone&view=list&12194=349-350&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone+met+camera&view=list&12194=349-350&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-6-0019",
@@ -207,7 +225,8 @@
       "keywords": ["drones", "drone", "drone met camera"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=drones&view=list&12194=389-390&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone&view=list&12194=389-390&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone+met+camera&view=list&12194=389-390&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-6-0020",
@@ -218,7 +237,8 @@
       "keywords": ["drone met camera", "drone", "drones"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=drone+met+camera&view=list&12194=289-290&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone&view=list&12194=289-290&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drones&view=list&12194=289-290&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     }
   ]
 }
