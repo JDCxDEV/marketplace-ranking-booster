@@ -9,7 +9,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogebandje", "https://www.bol.com/nl/nl/s/?searchtext=horlogeband","https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0002",
@@ -20,7 +21,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=19-20&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=16726&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=19-20&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0003",
@@ -31,7 +33,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282748039&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0004",
@@ -42,7 +45,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=16733&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=16733&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16733&12194=21-25&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0005",
@@ -53,7 +57,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=21-22&rating=all","https://www.bol.com/nl/nl/s/?searchtext=horlogeband","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0006",
@@ -64,7 +69,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282750884&12194=21-22&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282750884&12194=21-22&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0007",
@@ -75,7 +81,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282748039&12194=23-24&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=23-24&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=23-24&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0008",
@@ -86,7 +93,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogebandje&view=list","https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogeband&view=list","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0009",
@@ -97,7 +105,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogebandje","https://www.bol.com/nl/nl/s/?searchtext=horlogeband","https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0010",
@@ -108,7 +117,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogebandje", "https://www.bol.com/nl/nl/s/?searchtext=horlogeband", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0011",
@@ -119,7 +129,8 @@
       "keywords": ["fitbit bandje charge 4", "fitbit bandje charge 3"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&12194=26-27&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=16726&12194=26-27&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0012",
@@ -130,7 +141,8 @@
       "keywords": ["fitbit bandje inspire"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+inspire&view=list&12194=20-21&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0013",
@@ -141,7 +153,8 @@
       "keywords": ["fitbit bandje inspire"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&12194=24-25&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0014",
@@ -152,7 +165,8 @@
       "keywords": ["fitbit bandje inspire"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+inspire&view=list&12194=25-34&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0015",
@@ -163,7 +177,8 @@
       "keywords": ["fitbit luxe bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+luxe+bandje&view=list&12194=25-26&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0016",
@@ -174,7 +189,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 40 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=22-23&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&12194=22-23&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0017",
@@ -185,7 +201,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=26-27&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&12194=26-27&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&12194=26-27&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0018",
@@ -196,7 +213,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&12194=24-25&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&12194=24-25&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=16733&12194=24-25&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0019",
@@ -207,7 +225,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&12194=22-23&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4289221289+16715&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4289221289+16715&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0020",
@@ -218,7 +237,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=22-23&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4289221289+16719&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4289221289+16719&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0021",
@@ -229,7 +249,8 @@
       "keywords": ["galaxy watch bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=16726&12194=22-23&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0022",
@@ -240,7 +261,8 @@
       "keywords": ["galaxy watch bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=24-25&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0023",
@@ -251,7 +273,8 @@
       "keywords": ["galaxy watch bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=16716&12194=22-23&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0024",
@@ -262,7 +285,8 @@
       "keywords": ["galaxy watch bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=16723&12194=22-23&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0025",
@@ -273,7 +297,8 @@
       "keywords": ["samsung galaxy watch bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=16716&12194=22-23&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     }, 
     {
       "id": "VM-10-0026",
@@ -284,7 +309,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=16726&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=19-20&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0027",
@@ -295,7 +321,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=16726&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0028",
@@ -306,7 +333,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=19-20&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0029",
@@ -317,7 +345,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogebandje", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=16733&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0030",
@@ -328,7 +357,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=21-24&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0031",
@@ -339,7 +369,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282750884&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0032",
@@ -350,7 +381,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=23-24&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=23-24&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=23-24&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0033",
@@ -361,7 +393,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=17-17&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=17-17&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=17-17&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0034",
@@ -372,7 +405,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=16726&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282750884+16726&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0035",
@@ -383,7 +417,8 @@
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=16716+4282750884&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282750884+16716&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16716+4282750884&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0036",
@@ -394,7 +429,8 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogeband", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0037",
@@ -405,7 +441,8 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282751480&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282751480&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0038",
@@ -416,7 +453,8 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=19-20&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0039",
@@ -427,7 +465,8 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0040",
@@ -438,7 +477,8 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0041",
@@ -449,7 +489,8 @@
       "keywords": ["fitbit bandje", "fitbit charge 5 bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=24-25&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+5+bandje"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0042",
@@ -460,7 +501,8 @@
       "keywords": ["fitbit bandje", "fitbit charge 5 bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=24-25&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+5+bandje"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0043",
@@ -471,7 +513,8 @@
       "keywords": ["fitbit bandje", "fitbit charge 5 bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=24-25&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+5+bandje&view=list&12194=24-25&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0044",
@@ -482,7 +525,8 @@
       "keywords": ["fitbit bandje", "fitbit charge 5 bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=26-27&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=fitbit+luxe+bandje"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0045",
@@ -493,7 +537,8 @@
       "keywords": ["fitbit bandje", "fitbit charge 3 bandje", "fitbit charge 4 bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=18-18&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&12194=18-18&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&12194=18-18&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0046",
@@ -504,7 +549,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 38 mm", "apple watch bandje 40 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=18-18&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&12194=18-18&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&12194=18-18&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0047",
@@ -515,7 +561,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 42 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&12194=22-23&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&12194=22-23&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&12194=22-23&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&12194=22-23&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0048",
@@ -526,7 +573,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=38-39&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&12194=38-39&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0049",
@@ -537,7 +585,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 42 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&12194=26-27&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&12194=26-27&rating=all", "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&12194=26-27&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0050",
@@ -548,7 +597,8 @@
       "keywords": ["apple watch bandje", "apple watch bandje 42 mm", "apple watch bandje 42 mm", "apple watch bandje 45 mm"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=26-27&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&12194=26-27&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&12194=26-27&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0051",
@@ -559,7 +609,8 @@
       "keywords": ["garmin bandje"],
       "keywordLink": [],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": false
     },
     {
       "id": "VM-10-0052",
@@ -570,7 +621,8 @@
       "keywords": ["sport bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=sport+bandje&view=list&12194=18-18&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0053",
@@ -581,7 +633,8 @@
       "keywords": ["garmin bandje"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&12194=18-18&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : false
+      "isOutOfStock" : false,
+      "isMostWantedList": true
     }
   ]
 }
