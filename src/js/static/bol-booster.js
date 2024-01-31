@@ -3,6 +3,7 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
+import proxyChain from 'proxy-chain';
 
 const initBooster = async (product, threadTimer = 300, steps) => {
   
@@ -46,8 +47,6 @@ const initBooster = async (product, threadTimer = 300, steps) => {
     makeWindows: false,
   }));
     
-  // initialize booster page
-
   try {
     browser = await puppeteer.launch({ 
       headless: false,
@@ -75,8 +74,15 @@ const initBooster = async (product, threadTimer = 300, steps) => {
   let content = null;
   let url = null;
 
+  const username = 'spc6lrbc1t';
+  const password = 'wCtHJxzpls9fi742oX';
+
   try {
     page = await browser.newPage();
+    await page.authenticate({
+      username,
+      password,
+    });
     await page.setUserAgent(userAgentStr);
     await page.setViewport({ width: screenSize.width, height: screenSize.height, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
