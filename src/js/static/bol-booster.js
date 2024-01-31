@@ -31,7 +31,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
     link = booster.getRandomKeyword(product.keywordLink) 
   }
 
-  const productId =  product.productId
+  const productId = product.productId
   const proxy = await booster.getRandomProxy('proxies-nl')
 
   // Create random user-agent to be set through plugin
@@ -66,13 +66,13 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
     });
   }catch(error) {
+    console.log(error);
     return;
   }
 
   let page = null;
   let content = null;
-  let url = null;
-
+  
   const username = 'spc6lrbc1t';
   const password = 'wCtHJxzpls9fi742oX';
 
@@ -85,24 +85,33 @@ const initBooster = async (product, threadTimer = 360, steps) => {
     await page.setUserAgent(userAgentStr);
     await page.setViewport({ width: screenSize.width, height: screenSize.height, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
+    if(browser) {
+      await browser.close();
+    }
+
+    console.log(error);
     return;
   } 
 
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
+    console.log(error);
     await browser.close()
   }
 
-  // Intercept requests
   if(page) {
     try {
-      url = await page.url();
       content = await page.content();
     }catch(error) {
+      console.log(error);
       return;
     }
   }else {
+    console.log(error);
+    if(browser) {
+      await browser.close();
+    }
     return;
   }
 
@@ -164,7 +173,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
       }
 
-      // Step 5: Go to product page
+      // Step: Go to product page
       await booster.addRandomTimeGap(3, 7);
       const searchText = productId;
       await booster.findAndScrollToAnchorByHrefContent(page, searchText, browser);
@@ -174,7 +183,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         await booster.scrollToRandomClass(page, '.product-item__content', browser);
       }
 
-      // Step 6: Add to wishlist
+      // Step: Add to wishlist & Add to cart
 
       try {
         // Click the element
@@ -192,10 +201,13 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       } 
 
       
-      await booster.addRandomTimeGap(10, 10);
+      await booster.addRanodmTimeGap(3, 6);
 
     }catch(error) {
-      await browser.close();
+      console.log(error);
+      if(browser) {
+        await browser.close();
+      }
     }
   }
 
@@ -299,11 +311,13 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
             console.error('Error:', error.message);
           });
         }catch(error) {
+          console.log(error.message)
           return;
         }
 
       }
     }catch (error) {
+      console.log(error.message)
       if(!process.env.TURN_OFF_LOGS) {
         console.error(error);
       }
