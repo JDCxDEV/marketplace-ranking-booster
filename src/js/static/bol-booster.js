@@ -164,6 +164,10 @@ const initBooster = async (product, threadTimer = 300, steps) => {
       try {
         // Click the element
         await page.click(`[global-id="${productId}"]`);
+        await booster.addRandomTimeGap(3, 7);
+        await page.click('.modal__window--close-hitarea');
+        await booster.addRandomTimeGap(3,7);
+        await page.click(`.ui-btn--buy`);
       }catch (error) {
         if(browser) {
           await browser.close();
