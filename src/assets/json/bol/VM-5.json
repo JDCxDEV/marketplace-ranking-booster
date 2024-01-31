@@ -529,6 +529,66 @@
       "keywords": ["Buitenverlichting", "Solar tuinverlichting"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=Buitenverlichting", "https://www.bol.com/nl/nl/s/?searchtext=Solar+tuinverlichting"],
       "isRunning" : false
+    },
+    {
+      "id": "VM-5-0054",
+      "marketplace": "Bol.com",
+      "product": "RGB LED strip 30 meter",
+      "productId": "9300000123487430",
+      "productTitle": "Lideka® - LED-strip 30 Meter - Pakket Van 15 + 15 - Incl. afstandsbediening en App - Multi-colour - Light Strips - Licht Strip - Led Verlichting",
+      "keywords": ["led strip 30 meter"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+30+meter&view=list&filter_N=4296707626&rating=all"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0055",
+      "marketplace": "Bol.com",
+      "product": "RGBIC LED strip 30 meter",
+      "productId": "9300000137548633",
+      "productTitle": "Lideka® - RGBIC LED Strip 30 meter (6x5m) - Zelfklevend met Afstandsbediening - Wifi & App - Smart - Alexa & Google Kompatibel - SMD 5050 - 12V - Dimbaar - Waterdicht",
+      "keywords": ["led strip 30 meter"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=2&searchtext=led+strip+30+meter&view=list"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0056",
+      "marketplace": "Bol.com",
+      "product": "RGBW LED strip 30 meter",
+      "productId": "9300000132267090",
+      "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit (3 sets van 10m) - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
+      "keywords": ["led strip 30 meter"],
+      "keywordLink": [],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0057",
+      "marketplace": "Bol.com",
+      "product": "RGB LED strip 15 meter",
+      "productId": "9300000032504791",
+      "productTitle": "Lideka® - LED Strip 15 Meter (2x7.5) - RGB - Google, Alexa & Siri - 3.0 A - 50K Branduren - met Afstandsbediening - 270 Led's - Verlichting - Led Lights - Led Light Strip - Licht strip",
+      "keywords": ["led strip 15 meter", "led strip met afstandsbediening", "led strip verlichting"],
+      "keywordLink": [],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0058",
+      "marketplace": "Bol.com",
+      "product": "RGBW LED strip 10 meter",
+      "productId": "9300000129847287",
+      "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 10 Meter (2x5) - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
+      "keywords": ["led strip 10 meter", "led strip met afstandsbediening", "led strip", "led-strips", "ledstrip rgbw", "led strip wit", "led light strip 10 meter", "ledstrip warm wit"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+10+meter", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&filter_N=4615574232&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&filter_N=4296707626+7679982693&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&filter_N=4296707626+7679982693&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=ledstrip+rgbw"],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-5-0059",
+      "marketplace": "Bol.com",
+      "product": "Neon RGBIC",
+      "productId": "9300000137732719",
+      "productTitle": "Lideka® - RGBIC Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
+      "keywords": ["neon led strip", "neon verlichting"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip","https://www.bol.com/nl/nl/s/?searchtext=neon+verlichting"],
+      "isRunning" : false
     }
   ]
 }

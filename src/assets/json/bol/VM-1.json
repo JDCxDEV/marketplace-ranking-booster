@@ -27,7 +27,7 @@
       "productId": "9300000134538251",
       "productTitle": "Lideka® - Slimme LED Smart Lampen - E14 - RGBW - met App - 6W - 600 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri",
       "keywords": ["e14 led lamp", "led lampen", "e14", "e14 led lamp dimbaar", "e14 lamp"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=e14+led+lamp", "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626+7679982693&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led+lamp+dimbaar&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=e14+lamp"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=e14+led+lamp", "https://www.bol.com/nl/nl/s/?page=5&searchtext=led+lampen&view=list&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=e14", "https://www.bol.com/nl/nl/s/?searchtext=e14+led+lamp+dimbaar", "https://www.bol.com/nl/nl/s/?searchtext=e14+lamp"],
       "isRunning" : false 
     },
     {
@@ -56,8 +56,8 @@
       "product": "Reading Lamp",
       "productId": "9300000048093676",
       "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar - Voor in Bed",
-      "keywords": ["led leeslampje", "leeslampje klem", "leeslampje boek", "klemlampen", "leeslampje voor in bed", "leeslampje met klem", "leeslampje voor boek", "leeslampje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+leeslampje", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+klem", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+boek", "https://www.bol.com/nl/nl/s/?searchtext=klemlampen", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+in+bed", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+met+klem", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+boek", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+boek"],
+      "keywords": ["leeslampje voor boek", "leeslampje", "led leeslampje", "leeslampje klem", "leeslampje boek", "klemlampen", "leeslampje voor in bed", "leeslampje met klem", "oplaadbaar lampje", "oplaadbare lamp"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+boek", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje", "https://www.bol.com/nl/nl/s/?searchtext=led+leeslampje", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+klem", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+boek", "https://www.bol.com/nl/nl/s/?searchtext=klemlampen", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+in+bed", "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+met+klem", "https://www.bol.com/nl/nl/s/?searchtext=oplaadbaar+lampje", ""],
       "isRunning" : false 
     },
     {
