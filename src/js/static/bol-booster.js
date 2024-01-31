@@ -125,13 +125,13 @@ const initBooster = async (product, threadTimer = 360, steps) => {
 
       await booster.addRandomTimeGap(3, 6);
 
-      // Step 1: Click Accept Terms button on init
+      // Step: Click Accept Terms button on init
       const acceptTermsButton = '#js-first-screen-accept-all-button';
       await page.waitForSelector(acceptTermsButton);
       await page.click(acceptTermsButton);
       await booster.addRandomTimeGap(3, 6);
 
-      // Step 2: Click Accept Terms button on init
+      // Step: Click Accept Terms button on init
       const countryButton = '.js-country-language-btn';
       await page.waitForSelector(countryButton);
       await page.click(countryButton);
@@ -150,11 +150,11 @@ const initBooster = async (product, threadTimer = 360, steps) => {
           });
 
 
-          // Step 3: Type into search box.
+          // Step: Type into search box.
           await booster.addRandomTimeGap(3, 6);
           await page.type('.js-search-input', keyword, {delay: 300});
 
-          // Step 4: Search Product
+          // Step: Search Product
 
           try {
             await booster.addRandomTimeGap(3, 7);
@@ -186,7 +186,6 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       // Step: Add to wishlist & Add to cart
 
       try {
-        // Click the element
         await page.click(`[global-id="${productId}"]`);
         await booster.addRandomTimeGap(3, 7);
         await page.click('.modal__window--close-hitarea');
@@ -204,7 +203,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       await booster.addRanodmTimeGap(3, 6);
 
     }catch(error) {
-      console.log(message.error);
+      console.log(error.message);
       if(browser) {
         await browser.close();
       }
