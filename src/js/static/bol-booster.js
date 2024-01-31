@@ -89,7 +89,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       await browser.close();
     }
 
-    console.log(error);
+    console.log(error.message);
     return;
   } 
 
@@ -204,7 +204,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       await booster.addRanodmTimeGap(3, 6);
 
     }catch(error) {
-      console.log(error);
+      console.log(message.error);
       if(browser) {
         await browser.close();
       }
