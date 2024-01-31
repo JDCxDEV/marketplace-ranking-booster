@@ -4,7 +4,7 @@ import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
 
-const initBooster = async (product, threadTimer = 300, steps) => {
+const initBooster = async (product, threadTimer = 360, steps) => {
   
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
