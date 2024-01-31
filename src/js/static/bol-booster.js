@@ -135,14 +135,24 @@ const initBooster = async (product, threadTimer = 300, steps) => {
             }
           });
 
+
           // Step 3: Type into search box.
           await booster.addRandomTimeGap(3, 6);
           await page.type('.js-search-input', keyword, {delay: 300});
 
           // Step 4: Search Product
-          await booster.addRandomTimeGap(3, 7);
-          await page.keyboard.press('Enter');
-          await booster.addRandomTimeGap(3, 7);
+
+          try {
+            await booster.addRandomTimeGap(3, 7);
+            await page.keyboard.press('Enter');
+            await booster.addRandomTimeGap(3, 7);
+
+            await page.waitForSelector('#sort');
+            await booster.selectOptionById(page, 'sort', 'wishListRank1');
+          }catch (error) {
+            console.log(error.message);
+          }
+
       }
 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
@@ -258,7 +268,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 4;
+        let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {

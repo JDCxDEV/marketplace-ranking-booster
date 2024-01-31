@@ -103,6 +103,7 @@ export const scrollToRandomClass = async (page, elementClass, browser) => {
         element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
     }, randomProduct);
   }catch(error){
+    console.log(error);
     await browser.close();
   }
 };
@@ -178,5 +179,31 @@ export const getRandomScreenSize = () => {
   const randomIndex = Math.floor(Math.random() * resolutions.length);
   return resolutions[randomIndex];
 }
+
+export const autoScrollAllImages = async(page, numberOfImagesToScroll) => {
+  const images = await page.$$('img');
+
+  if (images.length === 0) {
+    console.error('No images found on the page.');
+    return;
+  }
+
+  for (let i = 0; i < Math.min(numberOfImagesToScroll, images.length); i++) {
+    const image = images[i];
+
+    await image.scrollIntoView({
+      behavior: 'smooth',
+      block: 'center',
+      inline: 'center',
+    });
+
+    await page.waitForTimeout(1000);
+  }
+}
+
+export const selectOptionById = async(page, dropdownId, optionValue) =>{
+  await page.select(`#${dropdownId}`, optionValue);
+}
+
 
 
