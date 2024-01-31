@@ -3,7 +3,6 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
-import { executablePath } from 'puppeteer';
 
 const initBooster = async (product, threadTimer = 300) => {
 
@@ -33,6 +32,7 @@ const initBooster = async (product, threadTimer = 300) => {
   // Create random user-agent to be set through plugin
   const userAgent = new UserAgent();
   const userAgentStr = userAgent.toString();
+  const screenSize = booster.getRandomScreenSize();
 
   // Use the anonymize user agent plugin with custom user agent string
   await puppeteer.use(pluginAnonymizeUA({
@@ -42,28 +42,51 @@ const initBooster = async (product, threadTimer = 300) => {
   }));
     
   // initialize booster page
-  browser = await puppeteer.launch({ 
-    headless: false,
-    executablePath: executablePath(),
-    args: [
-      `--proxy-server=${proxy}`,
-      '--window-position=0,0',
-      '--ignore-certificate-errors',
-      '--single-process',
-      '--disable-gpu',
-      '--disable-dev-shm-usage',
-      '--disable-accelerated-2d-canvas',
-      '--no-first-run',
-      '--no-sandbox',
-      '--no-zygote',
-      ],
+  try {
+    browser = await puppeteer.launch({ 
+      headless: false,
+      args: [
+        `--proxy-server=${proxy}`,
+        '--window-position=0,0',
+        '--ignore-certificate-errors',
+        '--single-process',
+        '--disable-gpu',
+        '--disable-dev-shm-usage',
+        '--disable-accelerated-2d-canvas',
+        '--no-first-run',
+        '--no-sandbox',
+        '--no-zygote',
+        '--start-maximized'
+        ],
+  
+        ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
+    });
+  }catch(error) {
+    console.log(error);
+    return;
+  }
 
-      ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
-  });
-    
-  const page = await browser.newPage();
-  await page.setUserAgent(userAgentStr);
-  await page.setViewport({ width: 1920, height: 1080});
+  const username = 'uxelthrc-rotate';
+  const password = 'zqb4oopibzo2';
+
+  let page = null;
+
+  try {
+    page = await browser.newPage();
+    await page.authenticate({
+      username,
+      password,
+    });
+    await page.setUserAgent(userAgentStr);
+    await page.setViewport({ width: screenSize.width, height: screenSize.height, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
+  }catch(error) {
+    if(browser) {
+      await browser.close();
+    }
+
+    console.log(error.message);
+    return;
+  } 
 
   try {
     await page.goto(link);
@@ -79,19 +102,18 @@ const initBooster = async (product, threadTimer = 300) => {
 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
+      await booster.addTimeGap(2000);
 
-      await booster.addTimeGap(1000);
-
-      // Step 1: Click Accept Terms button on init
+      // Step: Click Accept Terms button on init
       const acceptTermsButton = '#onetrust-accept-btn-handler';
       await page.waitForSelector(acceptTermsButton);
       await page.click(acceptTermsButton);
 
-      // Step 2: Type into search box.
+      // Step: Type into search box.
       await booster.addTimeGap(4000);
       await page.type('input[name="search_value"]', keyword, {delay: 300});
 
-      // Step 3: Wait for suggest overlay to appear and click "show all results".
+      // Step: Wait for suggest overlay to appear and click "show all results".
       await booster.addTimeGap(2000);
       await page.$$eval(".rh-search__button", els => 
         els.forEach((el) =>{
@@ -284,15 +306,13 @@ export const triggerAllBolKaufland = async (thread, currentVM) => {
             console.error('Error:', error.message);
           });
         }catch(error) {
+          console.log(error.message)
           return;
         }
 
       }
     }catch (error) {
-      if(!process.env.TURN_OFF_LOGS) {
-        console.error(error);
-      }
-
+      console.log(error.message);
       return;
     }
   }
