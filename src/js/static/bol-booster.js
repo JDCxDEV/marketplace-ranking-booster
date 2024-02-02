@@ -73,8 +73,8 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   let page = null;
   let content = null;
   
-  const username = 'spc6lrbc1t';
-  const password = 'wCtHJxzpls9fi742oX';
+  const username = 'booster';
+  const password = 'rgVYgrasOzl1Vc43n5';
 
   try {
     page = await browser.newPage();
@@ -159,9 +159,10 @@ const initBooster = async (product, threadTimer = 360, steps) => {
           try {
             await booster.addRandomTimeGap(3, 7);
             await page.keyboard.press('Enter');
-            await booster.addRandomTimeGap(3, 7);
-
-            await page.waitForSelector('#sort');
+            await booster.addRandomTimeGap(10, 12);
+            await page.keyboard.press('Enter');
+            await booster.addRandomTimeGap(10, 12);
+     
             await booster.selectOptionById(page, 'sort', 'wishListRank1');
           }catch (error) {
             console.log(error.message);
@@ -200,7 +201,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       } 
 
       
-      await booster.addRanodmTimeGap(3, 6);
+      await booster.addRandomTimeGap(3, 6);
 
     }catch(error) {
       console.log(error.message);

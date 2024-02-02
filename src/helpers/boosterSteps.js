@@ -202,6 +202,10 @@ export const autoScrollAllImages = async(page, numberOfImagesToScroll) => {
 }
 
 export const selectOptionById = async(page, dropdownId, optionValue) =>{
+  await page.waitForSelector('#sort');
+  await addRandomTimeGap(3, 7);
+  await page.click('#sort');
+  await addRandomTimeGap(3, 7);
   await page.select(`#${dropdownId}`, optionValue);
 }
 
