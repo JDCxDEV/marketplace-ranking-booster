@@ -1,0 +1,126 @@
+{
+    "products": [
+      {
+        "id": "VM-12-0001",
+        "marketplace": "Bol.com",
+        "product": "Opbergmand 1",
+        "productId": "9300000029386064",
+        "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Wit Stiksel groot) - Wasmand - Waszak - 57 L",
+        "keywords": ["opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand"],
+        "keywordLink": [],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0002",
+        "marketplace": "Bol.com",
+        "product": "Opbergmand 2",
+        "productId": "9300000031951527",
+        "productTitle": "Mand van Sophie Nordinn® - Opbergmand Boras (Donkergrijs) - Mandjes Opbergen - Milieuvriendelijk Manden - Katoen",
+        "keywords": ["opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=opbergmanden", "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand", "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0003",
+        "marketplace": "Bol.com",
+        "product": "Opbergmand 3",
+        "productId": "9300000118407935",
+        "productTitle": "Mand van Sophie Nordinn® - Opbergmand Stockholm (Light blue) - Wasmand - Wasmanden - 40 Liter",
+        "keywords": ["opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0004",
+        "marketplace": "Bol.com",
+        "product": "Wasmand 1",
+        "productId": "9300000000237551",
+        "productTitle": "Wasmand van Sophie Nordinn® - Mand Tumba Wit (Special Edition) - Opbergmand Zeegras/Katoen",
+        "keywords": ["opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=2&searchtext=opbergmanden&view=list", "https://www.bol.com/nl/nl/s/?page=2&searchtext=opberg+mand&view=list", "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=2&searchtext=opbergmand&view=list", "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0005",
+        "marketplace": "Bol.com",
+        "product": "Placemat Abisko",
+        "productId": "9300000029386052",
+        "productTitle": "Placemats van Sophie Nordinn® - Placemat Abisko (Verloop) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
+        "keywords": ["placemat rond", "placemat", "placemats"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=7678451647&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=7678451647&rating=all"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0006",
+        "marketplace": "Bol.com",
+        "product": "Placemat Vaxjo",
+        "productId": "9300000010054871",
+        "productTitle": "Placemats van Sophie Nordinn® - Placemat Vaxjo (Donkergrijs) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
+        "keywords": ["placemat rond", "placemat", "placemats"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof", "https://www.bol.com/nl/nl/s/?page=2&searchtext=placemat&view=list", "https://www.bol.com/nl/nl/s/?page=2&searchtext=placemats&view=list"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0007",
+        "marketplace": "Bol.com",
+        "product": "Keukenschort Malmö (Mintgroen)",
+        "productId": "9300000029386059",
+        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Malmö (Mintgroen) - Schorten voor vrouwen - 87 x 77 cm",
+        "keywords": ["keukenschort vrouw", "keukenshort", "keukenschorten", "keukenschort dames"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=keukenschort+vrouw", "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=3&searchtext=keukenschorten&view=list", "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0008",
+        "marketplace": "Bol.com",
+        "product": "Keukenschort Malmö (Roze)",
+        "productId": "9300000029386060",
+        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Malmö (Roze) - Schorten voor vrouwen - 87 x 77 cm",
+        "keywords": ["keukenschort vrouw", "keukenshort", "keukenschorten", "keukenschort dames"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=3&searchtext=keukenschort+vrouw&view=list", "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschorten&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0009",
+        "marketplace": "Bol.com",
+        "product": "Opbergmand Orebro",
+        "productId": "9300000000207542",
+        "productTitle": "Mand van Sophie Nordinn® - Opbergmand Orebro (Graanschil Katoen/zwart) - Milieuvriendelijk Plantenmand",
+        "keywords": ["plantenmand", "plantenmand binnen", "mand", "opbergmand"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=plantenmand", "https://www.bol.com/nl/nl/s/?page=2&searchtext=plantenmand+binnen&view=list"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0010",
+        "marketplace": "Bol.com",
+        "product": "Kledinghangers",
+        "productId": "9300000116538243",
+        "productTitle": "Kledinghangers van Sophie Nordinn® - Organizer Umea (Beige) - Kleding Organizer - Opbergtas - 93x38 cm",
+        "keywords": ["kleding hangers", "kledinghanger", "kledinghangers"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=kleding+hangers&view=list&filter_N=53648&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=kledinghanger&view=list&filter_N=53648&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=kledinghangers&view=list&filter_N=53648&rating=all"],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0011",
+        "marketplace": "Bol.com",
+        "product": "Schoenenkast",
+        "productId": "9300000016839634",
+        "productTitle": "Sophie Nordinn® - Schoenenrek Linkoping Grijs (2 stuks) - Schoenenopbergers - Schoenen Organizer - Opbergsysteem - 26x24x15 cm",
+        "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=16718+4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=5&searchtext=schoenen+opbergsysteem&view=list", ""],
+        "isRunning" : false,
+        "isMostWantedList": true
+      }
+    ]
+  }
+  
