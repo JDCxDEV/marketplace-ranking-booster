@@ -424,7 +424,7 @@
       "product": "RGB 3",
       "productId": "9300000032504808",
       "productTitle": "Lideka® - LED Strip 3 Meter - Google & Alexa - RGB - incl. Afstandsbediening - incl. Kleurverandering - Zelfklevend - 90 Leds - Super Helder - 50K Branduren - 12V - Verlichting - Led Lights - Led Light Strip - Licht strip",
-      "keywords": ["led strip 3 meter"],
+      "keywords": ["led strip 3 meter", "led lights", "led light strip", "led strip"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+3+meter"],
       "isRunning" : false,
       "isMostWantedList": false
@@ -446,7 +446,7 @@
       "product": "RGB 15",
       "productId": "9300000160767481",
       "productTitle": "Lideka - LED Strip 15 Meter (2x7.5) - RGB - 3.0 A - 50K Branduren - met Afstandsbediening - 270 Led's - Verlichting - Led Lights - Led Light Strip - Licht strip - Vaderdag cadeau",
-      "keywords": ["led strip 15 meter"],
+      "keywords": ["led strip 15 meter", "led lights", "led light strip"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+15+meter"],
       "isRunning" : false,
       "isMostWantedList": true
@@ -641,11 +641,22 @@
     {
       "id": "VM-5-0059",
       "marketplace": "Bol.com",
-      "product": "Neon RGBIC",
+      "product": "LED strip NEON IC 3 meter",
       "productId": "9300000137732719",
       "productTitle": "Lideka® - RGBIC Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
-      "keywords": ["neon led strip", "neon verlichting"],
+      "keywords": ["neon led strip", "neon verlichting", "neon lamp", "led strip", "neon verlichting"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip","https://www.bol.com/nl/nl/s/?searchtext=neon+verlichting"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-5-0060",
+      "marketplace": "Bol.com",
+      "product": "LED strip RGB 20m",
+      "productId": "9300000076758957",
+      "productTitle": "Lideka® Smart LED strip 20 meter - 2x10 - RGB - Verlichting - 360 kristal heldere SMD 5050 LEDs",
+      "keywords": ["led strip 20 meter", "led lights 20 meter", "led 20 meter", "ledstrip 20 meter"],
+      "keywordLink": [],
       "isRunning" : false,
       "isMostWantedList": true
     }
