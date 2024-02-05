@@ -130,7 +130,8 @@
         "keywords": ["keukenhandschoenen", "ovenwanten", "ovenhandschoenen"],
         "keywordLink": [],
         "isRunning" : false,
-        "isMostWantedList": false
+        "isMostWantedList": false,
+        "isOutOfStock": true
       },
       {
         "id": "VM-12-0013",
@@ -141,7 +142,8 @@
         "keywords": ["keukenhandschoenen", "ovenwanten", "ovenhandschoenen"],
         "keywordLink": [],
         "isRunning" : false,
-        "isMostWantedList": false
+        "isMostWantedList": false,
+        "isOutOfStock": true
       },
       {
         "id": "VM-12-0014",
@@ -152,7 +154,8 @@
         "keywords": ["keukenhandschoenen", "ovenwanten", "ovenhandschoenen"],
         "keywordLink": [],
         "isRunning" : false,
-        "isMostWantedList": false
+        "isMostWantedList": false,
+        "isOutOfStock": true
       }
     ]
   }
