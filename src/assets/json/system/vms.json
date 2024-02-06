@@ -31,7 +31,7 @@
     {
       "id": 5,
       "marketplace": "Bol.com",
-      "key": "VM-5",
+      "key": "VM-1",
       "name": "Virtual Machine 5",
       "steps": "homepage"
     },
@@ -73,16 +73,44 @@
     {
       "id": 11,
       "marketplace": "Bol.com",
-      "key": "VM-1",
+      "key": "VM-11",
       "name": "Virtual Machine 11",
       "steps": "homepage"
     },
     {
       "id": 12,
       "marketplace": "Bol.com",
-      "key": "VM-4",
+      "key": "VM-12",
       "name": "Virtual Machine 12",
       "steps": "homepage"
-    }   
+    },
+    {
+      "id": 13,
+      "marketplace": "Bol.com",
+      "key": "VM-1",
+      "name": "Virtual Machine 13",
+      "steps": "homepage"
+    } , 
+    {
+      "id": 14,
+      "marketplace": "Bol.com",
+      "key": "VM-2",
+      "name": "Virtual Machine 14",
+      "steps": "homepage"
+    },
+    {
+      "id": 15,
+      "marketplace": "Bol.com",
+      "key": "VM-3",
+      "name": "Virtual Machine 15",
+      "steps": "homepage"
+    }, 
+    {
+      "id": 16,
+      "marketplace": "Bol.com",
+      "key": "VM-4",
+      "name": "Virtual Machine 16",
+      "steps": "homepage"
+    }  
   ]
 }
