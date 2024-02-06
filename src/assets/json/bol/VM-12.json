@@ -3,9 +3,9 @@
       {
         "id": "VM-12-0001",
         "marketplace": "Bol.com",
-        "product": "Opbergmand 1",
+        "product": "Opbergmand Zwart",
         "productId": "9300000029386040",
-        "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Wit Stiksel groot) - Wasmand - Waszak - 57 L",
+        "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Zwart groot) - Wasmand - Waszak - 57 L",
         "keywords": ["opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand"],
         "keywordLink": [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=16726&12194=39-40&rating=all",
@@ -127,42 +127,6 @@
         "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=16718+4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all", "https://www.bol.com/nl/nl/s/?page=5&searchtext=schoenen+opbergsysteem&view=list", ""],
         "isRunning" : false,
         "isMostWantedList": true
-      },
-      {
-        "id": "VM-12-0012",
-        "marketplace": "Bol.com",
-        "product": "Ovenhandschoen 1",
-        "productId": "9200000127644460",
-        "productTitle": "Sophie Nordinn® - Ovenwanten - Ovenhandschoenen - Lund (Lijnen Geel) - Universele wanten 2 stuks - Katoen",
-        "keywords": ["keukenhandschoenen", "ovenwanten", "ovenhandschoenen"],
-        "keywordLink": [],
-        "isRunning" : false,
-        "isMostWantedList": false,
-        "isOutOfStock": true
-      },
-      {
-        "id": "VM-12-0013",
-        "marketplace": "Bol.com",
-        "product": "Ovenhandschoen 2",
-        "productId": "9200000127644446",
-        "productTitle": "Sophie Nordinn® - Ovenwanten - Ovenhandschoenen - Handschoen Lund (Raster Zwart) - Universele wanten 2 stuks - Katoen",
-        "keywords": ["keukenhandschoenen", "ovenwanten", "ovenhandschoenen"],
-        "keywordLink": [],
-        "isRunning" : false,
-        "isMostWantedList": false,
-        "isOutOfStock": true
-      },
-      {
-        "id": "VM-12-0014",
-        "marketplace": "Bol.com",
-        "product": "Ovenhandschoen 3",
-        "productId": "9300000029386062",
-        "productTitle": "Sophie Nordinn® - Ovenwanten - Ovenhandschoenen - Handschoen Nora (Blauw) - Universele wanten 2 Stuks",
-        "keywords": ["keukenhandschoenen", "ovenwanten", "ovenhandschoenen"],
-        "keywordLink": [],
-        "isRunning" : false,
-        "isMostWantedList": false,
-        "isOutOfStock": true
       }
     ]
   }
