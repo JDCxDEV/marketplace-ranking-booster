@@ -75,14 +75,14 @@
       "marketplace": "Bol.com",
       "key": "VM-11",
       "name": "Virtual Machine 11",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 12,
       "marketplace": "Bol.com",
       "key": "VM-12",
       "name": "Virtual Machine 12",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 13,

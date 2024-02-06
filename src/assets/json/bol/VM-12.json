@@ -4,10 +4,17 @@
         "id": "VM-12-0001",
         "marketplace": "Bol.com",
         "product": "Opbergmand 1",
-        "productId": "9300000029386064",
+        "productId": "9300000029386040",
         "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Wit Stiksel groot) - Wasmand - Waszak - 57 L",
         "keywords": ["opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand"],
-        "keywordLink": [],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=16726&12194=39-40&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=16726&12194=39-40&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=2&searchtext=wasmanden&view=list&filter_N=16726&12194=39-40&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=waszak&view=list&filter_N=16726&12194=39-40&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=16726&12194=39-40&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=2&searchtext=wasmand&view=list&filter_N=16726&12194=39-40&rating=all"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       },
