@@ -214,18 +214,18 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   await browser.close();
 }
 
-export const triggerBolBooster = async (thread, product) => {
+export const triggerBolBooster = async (thread, product, steps = 'homepage') => {
 
   await booster.addRandomTimeGap(3)
 
   for (let index = 1; index <= thread; index++) {
     try {
 
-      let productThreads = 4;
+      let productThreads = 7;
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-        currentBatch.push(initBooster(product));
+        currentBatch.push(initBooster(product, 300, steps));
       }   
     
       const timeoutMilliseconds = 300000; // 5 minutes

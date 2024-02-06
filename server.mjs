@@ -21,11 +21,11 @@ const getRequestTriggerBooster = async (req, res) => {
     if (product && currentMP === 'bol') {
         const productJsonFile = await dynamicallyImportJsonFile((currentVM || 'VM-1') + '.json', currentMP);
         const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
-        const product = productJsonFile.products.find(item => item.id === product);
+        const selectedProduct = productJsonFile.products.find(item => item.id === product);
         const vm = vmJsonFile.vms.find(item => item.key === currentVM);
 
-        if (product) {
-            triggerBolBooster(thread, product, vm?.steps);
+        if (selectedProduct) {
+            triggerBolBooster(thread, selectedProduct, vm?.steps);
         }
     } else {
         if (currentMP === 'bol') {
