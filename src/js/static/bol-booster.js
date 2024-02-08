@@ -66,7 +66,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
     });
   }catch(error) {
-    console.log(error);
+    console.log(error.message);
     return;
   }
 
@@ -104,11 +104,10 @@ const initBooster = async (product, threadTimer = 360, steps) => {
     try {
       content = await page.content();
     }catch(error) {
-      console.log(error);
+      console.log(error.message);
       return;
     }
   }else {
-    console.log(error);
     if(browser) {
       await browser.close();
     }
