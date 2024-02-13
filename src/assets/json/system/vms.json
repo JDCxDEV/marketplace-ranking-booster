@@ -33,7 +33,7 @@
       "marketplace": "Bol.com",
       "key": "VM-1",
       "name": "Virtual Machine 5",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 6,
