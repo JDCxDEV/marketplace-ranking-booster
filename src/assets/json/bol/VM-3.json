@@ -128,6 +128,25 @@
       "keywordLink": [],
       "isRunning" : false,
       "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0010",
+      "marketplace": "Bol.com",
+      "product": "BorstKolf",
+      "productId": "9300000021841114",
+      "productTitle": "NurtureGoods Dual Efficient Borstkolf - Smart 3.0 - Vernieuwd 2023 model - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu - Inclusief 2x180 ml Babyfles, Kolfdagboek en Speen - Borstkolf Electrisch Dubbel",
+      "keywords": ["borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "borstkolf dubbel", "draadloze borstkolf", "breast pump", "kolf"],
+      "prioKeywords": ["borstkolf", "elektrische borstkolf"],
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=kolf&view=list",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=elektrische+borstkolf&view=list",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=borstkolf+electrisch+dubbel&view=list",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=borstkolf+dubbel&view=list",
+        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+borstkolf",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=kolf&view=list"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
     }
   ]
 }
