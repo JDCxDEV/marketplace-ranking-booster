@@ -44,15 +44,15 @@
     },
     {
       "id": 7,
-      "marketplace": "Kaufland",
+      "marketplace": "Bol.com",
       "key": "VM-7",
       "name": "Virtual Machine 7",
       "steps": "homepage"
     },
     {
       "id": 8,
-      "marketplace": "Kaufland",
-      "key": "VM-8",
+      "marketplace": "Bol.com",
+      "key": "VM-7",
       "name": "Virtual Machine 8",
       "steps": "homepage"
     },
