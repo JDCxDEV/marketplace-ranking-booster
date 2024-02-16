@@ -1,302 +1,152 @@
 {
-    "products": [
-      {
-        "id": "VM-8-0001",
-        "marketplace": "Kaufland",
-        "product": "Baby camera White",
-        "productTitle": "Babyphone mit Kamera und App Weiß – WLAN – FULL HD – Bewegungs- und Geräuscherkennung – Innenbereich – Nachtsicht für Baby/Kindermädchen/Haustier/älte",
-        "productId": "479444940",
-        "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0002",
-        "marketplace": "Kaufland",
-        "product": "Baby camera Black",
-        "productTitle": "Babyphone mit Kamera und App Schwarz – WLAN – FULL HD – Bewegungs- und Geräuscherkennung – Innenbereich – Nachtsicht für Baby/Kindermädchen/Haustier",
-        "productId": "479445987",
-        "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone kamera innen", "babyphone überwachungskamera für innen"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0003",
-        "marketplace": "Kaufland",
-        "product": "Robot Toy Blue",
-        "productTitle": "QuchiQ™ 6 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 482 Bausteine",
-        "productId": "443566009",
-        "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0004",
-        "marketplace": "Kaufland",
-        "product": "Solar Powerbank",
-        "productTitle": "Lideka® Solar Powerbank 30,000mAh, Lideka Tragbare Solar Ladegerät 3A USB-C Power Bank mit 5 Ausgängen Schnellladung Externer Akku für Smartphones",
-        "productId": "432693120",
-        "keywords": ["Solar Powerbank", "Power bank lideka", "powerbank 30000mah", "powerbank", "anker powerbank"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0005",
-        "marketplace": "Kaufland",
-        "product": "Power Bank-K8",
-        "productTitle": "QuchiQ™ 20000mAh Drahtlose Powerbank - Mobiler Akkulader - Externer wiederaufladbarer Akku - Micro USB & USB-C Eingang - LED-Lampen",
-        "productId": "479047515",
-        "keywords": ["powerbank 20000 mah", "powerbank QuchiQ", "power 20000 mah bank", "powerbanks für iphone", "powerbank handy", "powerbank"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0006",
-        "marketplace": "Kaufland",
-        "product": "Power Bank-A36",
-        "productTitle": "QuchiQ™ Drahtlose Powerbank 20000mAh - Mobiler Lader - kabelloses Laden - Externer wiederaufladbarer Akku - Micro-USB & USB-C Eingang - LED-Lichter",
-        "productId": "479104287",
-        "keywords": ["powerbank 20000 mah", "powerbank QuchiQ", "power 20000 mah bank", "powerbanks für iphone", "powerbank handy", "powerbank"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0007",
-        "marketplace": "Kaufland",
-        "product": "Mini Power Bank",
-        "productTitle": "QuchiQ™ Powerbank 20000 mAh - Mini Powerbank - Mobiler Akkulader - Externer wiederaufladbarer Akku - Micro USB & USB-C Eingang - LED-Lampen",
-        "productId": "479041891",
-        "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 20000mah bank", "powerbanks für iphone"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0008",
-        "marketplace": "Kaufland",
-        "product": "LKNRGBIC-2",
-        "productTitle": "Lideka® Neon LED Strip 6m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 436x SMD",
-        "productId": "461186183",
-        "keywords": ["neon streifen", "neon led streifen", "led streifen", "led leiste", "led strip", "rgbic"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0009",
-        "marketplace": "Kaufland",
-        "product": "LKNRGBIC-3",
-        "productTitle": "Lideka® Neon LED Strip 9m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD",
-        "productId": "461186150",
-        "keywords": ["led strip", "led streifen", "led leiste", "neon streifen", "neon led streifen", "rgbic"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0010",
-        "marketplace": "Kaufland",
-        "product": "LKNRGBIC-3",
-        "productTitle": "Lideka® Neon LED Strip 9m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD",
-        "productId": "461186150",
-        "keywords": ["led strip", "led streifen", "led leiste", "neon streifen", "neon led streifen", "rgbic"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0011",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-L52",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - Bluetooth Kopfhörer - Sport-Ohrhörer - Aktive Geräuschunterdrückung ANC - Schwarz",
-        "productId": "479446317",
-        "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "kopfhörer kabellos", "bluetooth kopfhörer in ear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0012",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-E7S",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
-        "productId": "479465924",
-        "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "kopfhörer kabellos", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0013",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-A30",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Weiß",
-        "productId": "479447264",
-        "keywords": ["bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0014",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-L21",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - extra Bass - Schwarz",
-        "productId": "479447274",
-        "keywords": ["bluetooth kopfhörer in ear", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kopfhörer kabellos", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0015",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-J80",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
-        "productId": "479447294",
-        "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0016",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-M48",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
-        "productId": "479447294",
-        "keywords": ["kopfhörer kabellos ear", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-
-      {
-        "id": "VM-8-0017",
-        "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-2",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 2 pack",
-        "productId": "461186204",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0018",
-        "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-3",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 3 pack",
-        "productId": "461186203",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0019",
-        "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-4",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 4 pack",
-        "productId": "461186202",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne lideka", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0020",
-        "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-5",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 5 pack",
-        "productId": "461186201",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0021",
-        "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-6",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 6 pack",
-        "productId": "471532779",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0022",
-        "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-7",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 7 pack",
-        "productId": "471532780",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0023",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-2",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 2 pack",
-        "productId": "461186224",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0024",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-3",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 3 pack",
-        "productId": "461186222",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0025",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-4",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 4 pack",
-        "productId": "461186218",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0026",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-5",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 5 pack",
-        "productId": "461186213",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0027",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-6",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 6 pack",
-        "productId": "471532772",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0028",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-7",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 7 pack",
-        "productId": "471532775",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0029",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-3",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 3 pack",
-        "productId": "461186615",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0030",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-4",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 4 pack",
-        "productId": "461186615",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0031",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-5",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 5 pack",
-        "productId": "461186612",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0032",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-6",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 6 pack",
-        "productId": "461186208",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-8-0033",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-7",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 7 pack",
-        "productId": "461186206",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      }
-    ]
-  }
+  "products": [
+    {
+      "id": "VM-3-0001",
+      "marketplace": "Bol.com",
+      "product": "LED strip",
+      "productId": "9300000003262228",
+      "productTitle": "Lideka - LED Strip - 5 Meter - met Afstandsbediening - RGB - 3 Honderd Led lights - Led Light Strip - 10 mm Breed - 2 Jaar Garantie - 30W - 2.0 A - Om 15 CM Knippen - TV - Smart Verlichting - Licht strip",
+      "keywords": ["led strip", "led-strips"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=rgb+led+strip", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+5+meter", "https://www.bol.com/nl/nl/s/?searchtext=smart+led+strip", "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting+strips", "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0002",
+      "marketplace": "Bol.com",
+      "product": "BabyFoon Black",
+      "productId": "9300000163662094",
+      "productTitle": "Babyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Zwart",
+      "keywords": ["babyfoon", "babyfoon met camera", "baby monitor"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=babyfoon", "https://www.bol.com/nl/nl/s/?searchtext=babyfoons", "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app", "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+camera", "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera", "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0003",
+      "marketplace": "Bol.com",
+      "product": "BabyFoon White",
+      "productId": "9300000163662072",
+      "productTitle": "BabyBabyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Wit",
+      "keywords": ["babyfoon", "babyfoon met camera", "baby monitor"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+camera&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoons&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=35-36&rating=all"],
+      "isRunning" : false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-3-0004",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 1",
+      "productId": "9300000160670428",
+      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes",
+      "keywords": ["powerbank 20000 mah", "powerbank iphone"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0005",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 2",
+      "productId": "9300000160670427",
+      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes",
+      "keywords": ["powerbank 20000 mah", "draadloze powerbank", "powerbank iphone"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0006",
+      "marketplace": "Bol.com",
+      "product": "Powerbank 3",
+      "productId": "9300000160670426",
+      "productTitle": "Powerbank 20000 mah - Mini power bank - Mobiele oplader - Externe oplaadbare batterij - Micro usb & C input - LED lampjes",
+      "keywords": ["powerbank iphone", "powerbank 20000 mah", "draadloze powerbank"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=mini+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0007",
+      "marketplace": "Bol.com",
+      "product": "Earplugs Party",
+      "productId": "9300000165423620",
+      "productTitle": "QuchiQ™ - Oordoppen - Slaap Oordoppen - Partyplug - Festival oordopjes - HSP Gehoorbescherming - Siliconen plug met filter - 23 dB protection – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs",
+      "keywords": ["oordoppen", "oordoppen slapen"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=earplugs&view=list&12194=17-18&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs", "https://www.bol.com/nl/nl/s/?searchtext=slaapoordoppen", "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen", "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes", "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken", "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen", "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen&view=list&12194=17-18&rating=all"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0008",
+      "marketplace": "Bol.com",
+      "product": "Vegetable Cutter",
+      "productId": "9300000032558171",
+      "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
+      "keywords": ["groentesnijder", "mandoline", "mandoline keukensnijder"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=mandolines", 
+        "https://www.bol.com/nl/nl/s/?searchtext=mandoline+groentesnijder", 
+        "https://www.bol.com/nl/nl/s/?searchtext=uiensnijder", 
+        "https://www.bol.com/nl/nl/s/?searchtext=mandoline", 
+        "https://www.bol.com/nl/nl/s/?searchtext=mandoline+keukensnijder", 
+        "https://www.bol.com/nl/nl/s/?searchtext=groentesnijder"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0009",
+      "marketplace": "Bol.com",
+      "product": "Water bottle GR",
+      "productId": "9300000032558171",
+      "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
+      "keywords": ["waterfles", "drinkfles"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=uiensnijder&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=motivatie+waterfles&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=water+fles&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&filter_N=4296450201&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&filter_N=4296450201&12194=22-23&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0009",
+      "marketplace": "Bol.com",
+      "product": "Spiral Cutter",
+      "productId": "9200000129572821",
+      "productTitle": "Lekro Spiraalsnijder + E-book met Recepten - Groentesnijder - Spirelli - Spiralizer - 3 standen - Zwart/Wit",
+      "keywords": ["spiraalsnijder", "spirelli spiraalsnijder"],
+      "keywordLink": [],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0010",
+      "marketplace": "Bol.com",
+      "product": "BorstKolf",
+      "productId": "9300000021841114",
+      "productTitle": "NurtureGoods Dual Efficient Borstkolf - Smart 3.0 - Vernieuwd 2023 model - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu - Inclusief 2x180 ml Babyfles, Kolfdagboek en Speen - Borstkolf Electrisch Dubbel",
+      "keywords": ["borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "borstkolf dubbel", "draadloze borstkolf", "breast pump", "kolf"],
+      "prioKeywords": ["borstkolf", "elektrische borstkolf"],
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=kolf&view=list",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=elektrische+borstkolf&view=list",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=borstkolf+electrisch+dubbel&view=list",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=borstkolf+dubbel&view=list",
+        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+borstkolf",
+        "https://www.bol.com/nl/nl/s/?page=2&searchtext=kolf&view=list"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    }
+  ]
+}
