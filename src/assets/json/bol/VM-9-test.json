@@ -1,0 +1,37 @@
+{
+    "products": [
+      {
+        "id": "VM-9-test-0001",
+        "marketplace": "Bol.com",
+        "product": "8720938074011",
+        "productId": "9300000143661396",
+        "productTitle": "SmartphoneClip® Horlogeband - Nylon Gevlochten Elastisch - 20mm - Roze",
+        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
+        "keywordLink": 
+        [
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-9-test-0002",
+        "marketplace": "Bol.com",
+        "product": "8720254257464",
+        "productId": "9300000014830199",
+        "productTitle": "SmartphoneClip® Elastische band zwart zilver geschikt voor Apple Watch 38mm, 40mm en 41mm (alle generaties)",
+        "keywords": ["apple watch bandje", "apple watch bandje 38 mm", "apple watch bandje 40 mm"],
+        "keywordLink": 
+        [
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&filter_N=4278199321&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&filter_N=4278199321&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      }
+    ]
+  }
+  
