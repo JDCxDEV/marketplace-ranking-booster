@@ -15,7 +15,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
 
   setTimeout(async () => {
     if (browser) {
-      console.log(`Browser closed after ${threadTimer} seconds.`);
+      // console.log(`Browser closed after ${threadTimer} seconds.`);
       await browser.close();
     }
   }, threadTimer * 1000);
@@ -271,7 +271,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
 
   await booster.addRandomTimeGap(1, 3)
 
-  const productJsonFile = await dynamicallyImportJsonFile( currentVM + '.json');
+  const productJsonFile = await dynamicallyImportJsonFile(currentVM + '.json');
   const products = productJsonFile.products.filter( item => !item.isOutOfStock);
 
   console.log(products.length);
@@ -282,7 +282,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 4;
+        let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
