@@ -9,6 +9,11 @@
       "id": 2,
       "key": "kaufland",
       "name": "Kaufland.com"
+    },
+    {
+      "id": 3,
+      "key": "blokker",
+      "name": "Blokker.nl"
     }
   ]
 }

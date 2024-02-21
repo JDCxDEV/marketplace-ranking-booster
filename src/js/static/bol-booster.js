@@ -77,11 +77,14 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   const password = 'rgVYgrasOzl1Vc43n5';
 
   try {
+
     page = await browser.newPage();
+    
     await page.authenticate({
       username,
       password,
     });
+
     await page.setUserAgent(userAgentStr);
     await page.setViewport({ width: screenSize.width, height: screenSize.height, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
