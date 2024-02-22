@@ -1,0 +1,199 @@
+{
+  "products": [
+    {
+      "id": "VM-1-0001",
+      "marketplace": "mediamarkt.de",
+      "product": "Powerbank 20.000 mAh 1",
+      "productId": "135708876",
+      "productTitle": "QUCHIQ Drahtlose Power bank - Schnellladung - Für iPhone, Samsung, Apple - Micro-USB & C-Eingang Powerbank 20000mAh Black",
+      "keywords": [
+        "power bank"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0002",
+      "marketplace": "mediamarkt.de",
+      "product": "Powerbank 20.000 mAh 2",
+      "productId": "136183987",
+      "productTitle": "QUCHIQ Drahtlose Power Bank - Schnellladung - LED - Für iPhone, Samsung - Micro-USB & C-Eingang Power bank 20000mAh Black",
+      "keywords": [
+        "power bank"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0003",
+      "marketplace": "mediamarkt.de",
+      "product": "Powerbank Mini",
+      "productId": "135708877",
+      "productTitle": "QUCHIQ Mini Power bank Schnellladung - Mini Ladegerät - Micro-USB & C - LED - iPhone, Samsung,Apple PowerBank 20000mAh Black",
+      "keywords": [
+        "power bank"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0003",
+      "marketplace": "mediamarkt.de",
+      "product": "Earphones-S42",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [
+        "Bluetooth Kopfhörer"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0004",
+      "marketplace": "mediamarkt.de",
+      "product": "Earphones-L52",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [
+        "Bluetooth Kopfhörer"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0005",
+      "marketplace": "mediamarkt.de",
+      "product": "Earphones-L21",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [
+        "Bluetooth Kopfhörer"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0006",
+      "marketplace": "mediamarkt.de",
+      "product": "Earphones-J58 W",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [
+        "Bluetooth Kopfhörer"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0007",
+      "marketplace": "mediamarkt.de",
+      "product": "Earphones-J58 B",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [
+        "Bluetooth Kopfhörer"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0008",
+      "marketplace": "mediamarkt.de",
+      "product": "LED Strips 5m RGBIC",
+      "productId": "135666742",
+      "productTitle": "LIDEKA RGBIC led strip 5m - Outdoor - App-Steuerung - Dimmbar - Kompatibel mit Google Home,Alexa,Siri Led strip RGBIC",
+      "keywords": [
+        "led strip"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0009",
+      "marketplace": "mediamarkt.de",
+      "product": "LED Strips 10m RGBIC",
+      "productId": "135666767",
+      "productTitle": "LIDEKA RGBIC led strip 10m - Outdoor - App-Steuerung - Dimmbar - Kompatibel mit Google Home,Alexa,Siri RGBIC led strip RGBIC",
+      "keywords": [
+        "led strip"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0010",
+      "marketplace": "mediamarkt.de",
+      "product": "LED Strips 10m RGB",
+      "productId": "135263219",
+      "productTitle": "LIDEKA RGB led Streifen 10m - Outdoor - App-Steuerung - Dimmbar - Kompatibel mit Google Home,Alexa,Siri led Streifen RGB",
+      "keywords": [
+        "led strip"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0011",
+      "marketplace": "mediamarkt.de",
+      "product": "LED Strips 15m RGB",
+      "productId": "135263236",
+      "productTitle": "LIDEKA RGB led Streifen 3m- Outdoor - App-Steuerung - Dimmbar - Kompatibel mit Google Home,Alexa,Siri led Streifen RGB",
+      "keywords": [
+        "led strip"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0012",
+      "marketplace": "mediamarkt.de",
+      "product": "LED TV Lights 2m RGB",
+      "productId": "135666783",
+      "productTitle": "LIDEKA TV LED strip RGB 2m – Gaming-Lichtleiste – App-Steuerung – kompatibel mit Google Home, Alexa, Siri LED Strips RGB",
+      "keywords": [
+        "led strip"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0013",
+      "marketplace": "mediamarkt.de",
+      "product": "Neon LED Lights 3m RGB",
+      "productId": "135581120",
+      "productTitle": "LIDEKA Neon led strip RGB 3m - Outdoor - App-Steuerung - Dimmbar - Kompatibel mit Google Home, Alexa,Siri RGB neon led strip Multicolors",
+      "keywords": [
+        "led strip"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    },
+    {
+      "id": "VM-1-0014",
+      "marketplace": "mediamarkt.de",
+      "product": "Neon LED Lights 3m RGBIC",
+      "productId": "135581065",
+      "productTitle": "LIDEKA Neon led strip RGBIC 3m - Outdoor - App-Steuerung - Dimmbar - Kompatibel mit Google Home, Alexa,Siri RGBIC neon led strip Multi Colors",
+      "keywords": [
+        "led strip"
+      ],
+      "keywordLink": [],
+      "isRunning": false,
+      "isMostWantedList": false
+    }
+  ]
+}
