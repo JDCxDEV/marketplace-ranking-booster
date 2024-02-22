@@ -210,7 +210,7 @@ async function getSystemInfo() {
             });
 
             /** Kaufland */
-            const kauflandVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Kaufland"));
+            const kauflandVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Kaufland.com"));
             const vmSelectorKaufland = document.getElementById('vmSelectorKaufland');
             await kauflandVms.forEach(option => {
                 const optionElement = document.createElement('option');
@@ -220,7 +220,7 @@ async function getSystemInfo() {
             });
             
             /** Kaufland */
-            const blokkerVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Blokker"));
+            const blokkerVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Blokker.nl"));
             const vmSelectorBlokker = document.getElementById('vmSelectorBlokker');
             await blokkerVms.forEach(option => {
                 const optionElement = document.createElement('option');
