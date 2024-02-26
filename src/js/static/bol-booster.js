@@ -178,8 +178,17 @@ const initBooster = async (product, threadTimer = 360, steps) => {
 
       // Step: Go to product page
       await booster.addRandomTimeGap(3, 7);
-      const searchText = productId;
-      await booster.findAndScrollToAnchorByHrefContent(page, searchText, browser);
+
+      const selector = `[data-config='{"product_id": "${productId}"}']`;
+
+      // Wait for the element to be present in the DOM
+      await page.waitForSelector(selector);
+    
+      // Click the element
+      await page.click(selector);
+
+
+      // await booster.findAndScrollToAnchorByHrefContent(page, searchText, browser);
 
       await booster.addRandomTimeGap(3, 7);
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
