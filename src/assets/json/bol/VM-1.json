@@ -51,15 +51,9 @@
       "product": "Security Camera Black",
       "productId": "9200000124101802",
       "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
-      "keywords": ["beveiligingscamera's", "beveiligingscamera", "beveiligingscamera binnen", "hondencamera", "bewakingscamera voor binnen", "petcam", "huisdiercamera met app", "hondencamera met app", "indoor camera"],
-      "prioKeywords":["beveiligingscamera's", "beveiligingscamera", "huisdiercamera"],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera+binnen",
-        "https://www.bol.com/nl/nl/s/?searchtext=hondencamera",
-        "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera%27s",
-        "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera"
-      ],
+      "keywords": ["beveiligingscamera binnen", "hondencamera", "beveiligingscamera's", "beveiligingscamera", "bewakingscamera voor binnen", "petcam", "huisdiercamera", "huisdiercamera met app", "hondencamera met app", "indoor camera"],
+      "prioKeywords": ["beveiligingscamera's", "beveiligingscamera", "huisdiercamera"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera+binnen", "https://www.bol.com/nl/nl/s/?searchtext=hondencamera", "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera%27s", "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera"],
       "isRunning" : false,
       "isMostWantedList": true
     },

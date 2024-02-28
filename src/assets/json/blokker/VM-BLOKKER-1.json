@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "VM-1-0001",
+      "marketplace": "Blokker.nl",
+      "product": "Teken en verf set 86-delig",
+      "productId": "3955728",
+      "productTitle": "Grafix - Teken en verf set 86-delig in houten koffer hobbymateriaal - Tekendozen",
+      "keywords": ["verf set"],
+      "keywordLink": ["https://www.blokker.nl/search?q=verf%20set"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    }
+  ]
+}

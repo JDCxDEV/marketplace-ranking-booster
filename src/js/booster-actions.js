@@ -81,17 +81,18 @@ function runBoosterFunction(product = null, initAllBooster = false) {
 }
 
 function showMarketPlace() {
-    var mpSelector = document.getElementById("mpSelector");
-    var vmSelectorBol = document.getElementById("vmSelectorBol");
-    var vmSelectorKaufland = document.getElementById("vmSelectorKaufland");
+    const mpSelector = document.getElementById("mpSelector");
+    const vmSelectorBol = document.getElementById("vmSelectorBol");
+    const vmSelectorKaufland = document.getElementById("vmSelectorKaufland");
+    const vmSelectorBlokker = document.getElementById("vmSelectorBlokker");
 
-    if (mpSelector.value === "bol") {
-        vmSelectorBol.classList.remove("hidden");
-        vmSelectorKaufland.classList.add("hidden");
-    } else if (mpSelector.value === "kaufland") {
-        vmSelectorBol.classList.add("hidden");
-        vmSelectorKaufland.classList.remove("hidden");
-    }
+    const bolVisible = mpSelector.value === "bol";
+    const kauflandVisible = mpSelector.value === "kaufland";
+    const blokkerVisible = mpSelector.value === "blokker";
+
+    vmSelectorBol.classList.toggle("hidden", !bolVisible);
+    vmSelectorKaufland.classList.toggle("hidden", !kauflandVisible);
+    vmSelectorBlokker.classList.toggle("hidden", !blokkerVisible);
 
     sendPostRequest(false);
 }
@@ -118,6 +119,9 @@ async function sendPostRequest(initialize = true) {
         currentVM = vmSelector.options[vmSelector.selectedIndex].value;
     }else if(currentMP == 'kaufland'){
         vmSelector = document.getElementById("vmSelectorKaufland");
+        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+    }else if(currentMP == 'blokker'){
+        vmSelector = document.getElementById("vmSelectorBlokker");
         currentVM = vmSelector.options[vmSelector.selectedIndex].value;
     }
 
@@ -206,14 +210,24 @@ async function getSystemInfo() {
             });
 
             /** Kaufland */
-            const kauflandVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Kaufland"));
+            const kauflandVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Kaufland.com"));
             const vmSelectorKaufland = document.getElementById('vmSelectorKaufland');
             await kauflandVms.forEach(option => {
                 const optionElement = document.createElement('option');
                 optionElement.value = option.key;
                 optionElement.text = option.name;
                 vmSelectorKaufland.appendChild(optionElement);
-            });            
+            });
+            
+            /** Kaufland */
+            const blokkerVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Blokker.nl"));
+            const vmSelectorBlokker = document.getElementById('vmSelectorBlokker');
+            await blokkerVms.forEach(option => {
+                const optionElement = document.createElement('option');
+                optionElement.value = option.key;
+                optionElement.text = option.name;
+                vmSelectorBlokker.appendChild(optionElement);
+            });       
         });
 }
 

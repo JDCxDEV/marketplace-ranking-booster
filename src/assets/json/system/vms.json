@@ -111,6 +111,13 @@
       "key": "VM-4",
       "name": "Virtual Machine 16",
       "steps": "homepage"
+    },
+    {
+      "id": 17,
+      "marketplace": "Blokker.nl",
+      "key": "VM-BLOKKER-1",
+      "name": "Testing VM for Blokker",
+      "steps": "homepage"
     }  
   ]
 }
