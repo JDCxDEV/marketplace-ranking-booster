@@ -246,6 +246,23 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true
+      },
+      {
+        "id": "VM-11-0009",
+        "marketplace": "Bol.com",
+        "product": "Vertical Tuin",
+        "productId": "9200000132275156",
+        "productTitle": "GreenGrounds™ Verticale Tuin met Watersysteem - 18 Ruime Vakken - 50x100 cm - Moestuin - Hangende Plantenzak",
+        "keywords": ["Verticale Tuin", "verticale tuin met watersysteem", "verticale moestuin", "moestuin"],
+        "prioKeywords": ["borstkolf", "elektrische borstkolf"],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/p/greengrounds-verticale-tuin-met-watersysteem-18-ruime-vakken-50x100-cm-moestuin-hangende-plantenzak/9200000132275156/",
+          "https://www.bol.com/nl/nl/s/?searchtext=verticale+tuin+met+watersysteem",
+          "https://www.bol.com/nl/nl/s/?searchtext=verticale+moestuin",
+          "https://www.bol.com/nl/nl/s/?searchtext=moestuin+Green+Grounds"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
       }
     ]
   }
