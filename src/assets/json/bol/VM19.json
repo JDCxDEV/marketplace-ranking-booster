@@ -25,10 +25,9 @@
         "keywords": ["endoscoop", "inspectiecamera", "endoscoop inspectie camera", "endoscoop camera"],
         "keywordLink": 
         [
-            "",
-            "",
-            "",
-            ""
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=endoscoop&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=inspectiecamera&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=endoscoop+inspectie+camera&view=list&filter_N=7557342718&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -42,11 +41,11 @@
         "keywords": ["video deurbel", "video deurbel met camera", "video deurbel met camera en wifi", "videodeurbel", "video deurbel draadloos"],
         "keywordLink": 
         [
-            "",
-            "",
-            "",
-            "",
-            ""
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=video+deurbel&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=video+deurbel+met+camera&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=video+deurbel+met+camera+en+wifi&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=videodeurbel&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=video+deurbel+draadloos&view=list&filter_N=7557342718&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -60,8 +59,8 @@
         "keywords": ["achteruitrijcamera", "achteruitrijcamera's"],
         "keywordLink": 
         [
-            "",
-            ""
+            "https://www.bol.com/nl/nl/s/?searchtext=achteruitrijcamera",
+            "https://www.bol.com/nl/nl/s/?searchtext=achteruitrijcamera%27s"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -75,10 +74,9 @@
         "keywords": ["huisdiercamera", "beveiligingscamera", "hondencamera", "indoor camera"],
         "keywordLink": 
         [
-            "",
-            "",
-            "",
-            ""
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=huisdiercamera&view=list&12194=37-38&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera&view=list&12194=37-38&rating=all",
+            "https://www.bol.com/nl/nl/s/?searchtext=hondencamera"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -92,10 +90,8 @@
         "keywords": ["huisdiercamera", "beveiligingscamera", "hondencamera", "indoor camera"],
         "keywordLink": 
         [
-            "",
-            "",
-            "",
-            ""
+            "https://www.bol.com/nl/nl/s/?searchtext=huisdiercamera",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera&view=list&filter_N=7557342718&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -109,10 +105,10 @@
         "keywords": ["beveiligingscamera", "beveiligingscamera buiten", "bewakingscamera voor buiten", "bewakingscamera"],
         "keywordLink": 
         [
-            "",
-            "",
-            "",
-            ""
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera&view=list&12194=83-84&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera+buiten&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=bewakingscamera+voor+buiten&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=bewakingscamera&view=list&12194=83-84&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -126,9 +122,9 @@
         "keywords": ["dashcam", "dashcam voor auto", "dashcams"],
         "keywordLink": 
         [
-            "",
-            "",
-            ""
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam+voor+auto&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcams&view=list&filter_N=7557342718&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -142,7 +138,24 @@
         "keywords": ["dashcam", "dashcam voor auto", "dashcams", "dashcam voor auto voor en achter", "dashcam voor en achter"],
         "keywordLink": 
         [
-            "",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam+voor+auto&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcams&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam+voor+auto+voor+en+achter&view=list&filter_N=7557342718&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam+voor+en+achter&view=list&filter_N=7557342718&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-19-0010",
+        "marketplace": "Bol.com",
+        "product": "AyeWay Smart Plug - Energy Meter",
+        "productId": "9300000144265711",
+        "productTitle": "AyeWay Slimme Stekker met Energiemeter - Smart Plug - WiFi Stopcontact - Werkt met Google Home & Alexa - iOS & Android - 1 Stuk",
+        "keywords": ["slimme stekker"],
+        "keywordLink": 
+        [
             "",
             "",
             "",
@@ -152,7 +165,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0010",
+        "id": "VM-19-0011",
         "marketplace": "Bol.com",
         "product": "AyeWay Smart Plug - Energy Meter",
         "productId": "9300000144265711",
@@ -169,7 +182,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0011",
+        "id": "VM-19-0012",
         "marketplace": "Bol.com",
         "product": "Digital Photo Frame - 10.1 Inch",
         "productId": "",
@@ -180,7 +193,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0012",
+        "id": "VM-19-0013",
         "marketplace": "Bol.com",
         "product": "AyeWay Bodygroomer PRO - Men",
         "productId": "AyeWay 4 in 1 Trimmer",
@@ -191,7 +204,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0013",
+        "id": "VM-19-0014",
         "marketplace": "Bol.com",
         "product": "AyeWay 5 in 1 Shaver",
         "productId": "",
@@ -202,7 +215,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0014",
+        "id": "VM-19-0015",
         "marketplace": "Bol.com",
         "product": "AyeWay Full HD Webcam",
         "productId": "",
@@ -213,7 +226,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0015",
+        "id": "VM-19-0016",
         "marketplace": "Bol.com",
         "product": "AyeWay Professional Massage Gun",
         "productId": "",
@@ -224,7 +237,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0016",
+        "id": "VM-19-0017",
         "marketplace": "Bol.com",
         "product": "AyeWay Clothes Steamer - 180ML",
         "productId": "",
@@ -235,7 +248,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0017",
+        "id": "VM-19-0018",
         "marketplace": "Bol.com",
         "product": "AyeWay Smartwatch - Black",
         "productId": "",
@@ -246,7 +259,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0018",
+        "id": "VM-19-0019",
         "marketplace": "Bol.com",
         "product": "AyeWay Smartwatch - Pink",
         "productId": "",
@@ -257,7 +270,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0019",
+        "id": "VM-19-0020",
         "marketplace": "Bol.com",
         "product": "AyeWay Smartwatch - Steel Black",
         "productId": "",
@@ -268,7 +281,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0020",
+        "id": "VM-19-0021",
         "marketplace": "Bol.com",
         "product": "AyeWay Smartwatch - Steel Pink",
         "productId": "",
@@ -279,7 +292,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0021",
+        "id": "VM-19-0022",
         "marketplace": "Bol.com",
         "product": "AyeWay Smartwatch - Round Pink",
         "productId": "",
@@ -290,7 +303,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-19-0022",
+        "id": "VM-19-0023",
         "marketplace": "Bol.com",
         "product": "AyeWay Smartwatch - Round Black",
         "productId": "",
