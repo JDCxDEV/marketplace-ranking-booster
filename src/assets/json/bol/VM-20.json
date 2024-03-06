@@ -48,16 +48,16 @@
         "product": "Wasmanden - Wit",
         "productId": "9300000029386044",
         "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Wit groot) - Wasmand - Wasmanden - Waszak - 57 L",
-        "keywords": ["mand", "opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand", "wasmanden"],
+        "keywords": ["mand", "opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=3&searchtext=mand&view=list&12194=36-37",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=waszak&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -71,10 +71,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          ""
+          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -88,10 +88,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=33-34&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=33-34&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=33-34&rating=all", 
+          "https://www.bol.com/nl/nl/s/?page=3&searchtext=wasmand&view=list&12194=33-34&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -105,10 +105,9 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -122,7 +121,7 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
         "keywordLink":
         [
-          "",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=36-37&rating=all",
           "",
           "", 
           ""
