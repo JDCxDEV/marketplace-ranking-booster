@@ -122,9 +122,8 @@
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=36-37&rating=all",
-          "",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=26-27&rating=all", 
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=26-27&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
