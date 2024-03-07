@@ -28,7 +28,11 @@ const initBooster = async (product, threadTimer = 360, steps) => {
     link = 'https://www.bol.com/nl/nl/m/klantenservice/'
     keyword = booster.getRandomKeyword(product.keywords) 
   }else {
-    link = booster.getRandomKeyword(product.keywordLink) 
+    if(product.keywordLink.length) {
+      link = booster.getRandomKeyword(product.keywordLink) 
+    }else {
+      return;
+    }
   }
 
   const productId = product.productId
