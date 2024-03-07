@@ -75,7 +75,7 @@
       "marketplace": "Bol.com",
       "key": "VM-11",
       "name": "Virtual Machine 11",
-      "steps": "per-page"
+      "steps": "homepage"
     },
     {
       "id": 12,
@@ -90,7 +90,7 @@
       "key": "VM-1",
       "name": "Virtual Machine 13",
       "steps": "homepage"
-    } , 
+    }, 
     {
       "id": 14,
       "marketplace": "Bol.com",
@@ -114,10 +114,24 @@
     },
     {
       "id": 17,
-      "marketplace": "Blokker.nl",
-      "key": "VM-BLOKKER-1",
-      "name": "Testing VM for Blokker",
-      "steps": "homepage"
+      "marketplace": "Bol.com",
+      "key": "VM-17",
+      "name": "Virtual Machine 17",
+      "steps": "per-page"
+    },
+    {
+      "id": 18,
+      "marketplace": "Bol.com",
+      "key": "VM-18",
+      "name": "Virtual Machine 18",
+      "steps": "per-page"
+    },
+    {
+      "id": 19,
+      "marketplace": "Bol.com",
+      "key": "VM-19",
+      "name": "Virtual Machine 19",
+      "steps": "per-page"
     }  
   ]
 }
