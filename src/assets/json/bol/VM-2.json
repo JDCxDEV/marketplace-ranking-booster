@@ -48,7 +48,7 @@
       "product": "Earplugs",
       "productId": "9300000082254510",
       "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart -",
-      "keywords": ["oordoppen", "oordoppen slapen", "earplugs", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen slapen siliconen", "oordoppen slapen snurken", "oordopjes snurken", "snurken"],
+      "keywords": ["oordoppen", "oordoppen slapen", "earplugs", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "oordoppen snurken"],
       "prioKeywords": ["oordoppen", "oordoppen slapen"],
       "keywordLink": 
       [
@@ -247,7 +247,7 @@
       "productId": "9300000137732719",
       "productTitle": "Lideka® - RGBIC Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
       "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon lamp", "neon led strip buiten", "neon verlichting"],
-      "prioKeywords": 
+      "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&filter_N=4296707626&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&filter_N=4296707626&rating=all",
@@ -258,7 +258,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip+buiten",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+verlichting&view=list&filter_N=4296707626&12194=59-60&rating=all"
       ],
-      "keywordLink": [],
+      "prioKeywords": [],
       "isRunning" : false,
       "isMostWantedList": true
     }
