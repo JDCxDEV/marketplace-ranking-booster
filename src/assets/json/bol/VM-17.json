@@ -7,7 +7,11 @@
         "productId": "9300000072549190",
         "productTitle": "AyeKids Kindertablet - 32GB Opslag - Ouder Control App - Incl. Touchscreen Pen, Beschermhoes, Oortjes & Screenprotector - Tablet Kinderen - Rood",
         "keywords": ["tablet kinderen", "kindertablet", "kinder tablet"],
-        "keywordLink": [],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=tablet+kinderen&view=list&filter_N=16722&12194=69-70&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kindertablet&view=list&filter_N=16722&12194=69-70&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kinder+tablet&view=list&filter_N=16722&12194=69-70&rating=all"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       },
@@ -81,56 +85,61 @@
         "productId": "9300000135486083",
         "productTitle": "AyeKids Fotoprinter Printer - Bluetooth - Draadloos - Incl. 1 Rol Fotopapier - Mini Printer - Roze",
         "keywords": ["fotoprinter", "foto printer", "mini printer", "pocket printer"],
-        "keywordLink": [],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fotoprinter+roze&view=list&12194=27-28&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=foto+printer&view=list&12194=26-28&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mini+printer+roze&view=list&12194=26-28&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=pocket+printer+roze&view=list&12194=26-28&rating=all"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
         "id": "VM-17-0007",
         "marketplace": "Bol.com",
-        "product": "AyeKids Sticker Paper - Blue",
-        "productId": "9300000124229424",
-        "productTitle": "AyeKids Fotoprinter - Incl. 6 Rollen Stickerpapier - Bluetooth - Draadloos - Mini Printer - Pocket Printer - Blauw",
+        "product": "AyeKids Color Paper - Pink",
+        "productId": "9300000143074397",
+        "productTitle": "AyeKids Fotoprinter - Incl. 6 Rollen Kleurpapier - Bluetooth - Draadloos - Mini Printer - Pocket Printer - Roze",
         "keywords": ["fotoprinter", "foto printer", "mini printer", "pocket printer"],
         "keywordLink": [],
         "isRunning" : false,
+        "isOutofStock" : true,
         "isMostWantedList": true
       },
       {
         "id": "VM-17-0008",
         "marketplace": "Bol.com",
-        "product": "AyeKids Color Paper - Blue",
-        "productId": "9300000143074397",
-        "productTitle": "AyeKids Fotoprinter - Incl. 6 Rollen Kleurpapier - Bluetooth - Draadloos - Mini Printer - Pocket Printer - Roze",
+        "product": "AyeKids Paper Printer - Blue",
+        "productId": "9300000137372756",
+        "productTitle": "AyeKids Fotoprinter - Incl. 6 Rollen Papier - Bluetooth - Draadloos - Mini Printer - Pocket Printer - Blauw",
         "keywords": ["fotoprinter", "foto printer", "mini printer", "pocket printer"],
-        "keywordLink": [],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fotoprinter&view=list&12194=37-38&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=foto+printer&view=list&12194=37-38&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mini+printer&view=list&12194=37-38&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=pocket+printer&view=list&12194=37-38&rating=all"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
         "id": "VM-17-0009",
         "marketplace": "Bol.com",
-        "product": "AyeKids Paper Printer - Blue",
-        "productId": "9300000137372756",
-        "productTitle": "AyeKids Fotoprinter - Incl. 6 Rollen Papier - Bluetooth - Draadloos - Mini Printer - Pocket Printer - Blauw",
+        "product": "AyeKids Paper Printer - Pink",
+        "productId": "9300000143074907",
+        "productTitle": "AyeKids Fotoprinter - Incl. 6 Rollen Papier - Bluetooth - Draadloos - Mini Printer - Pocket Printer - Roze",
         "keywords": ["fotoprinter", "foto printer", "mini printer", "pocket printer"],
-        "keywordLink": [],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fotoprinter+roze&view=list&12194=37-38&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fotoprinter+roze&view=list&12194=37-38&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mini+printer+roze&view=list&12194=37-38&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=pocket+printer+roze&view=list&12194=37-38&rating=all"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
         "id": "VM-17-0010",
-        "marketplace": "Bol.com",
-        "product": "AyeKids Paper Printer - Pink",
-        "productId": "9300000143074907",
-        "productTitle": "AyeKids Fotoprinter - Incl. 6 Rollen Papier - Bluetooth - Draadloos - Mini Printer - Pocket Printer - Roze",
-        "keywords": ["fotoprinter", "foto printer", "mini printer", "pocket printer"],
-        "keywordLink": [],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-17-0011",
         "marketplace": "Bol.com",
         "product": "AyeKids Sticker Paper - Pink",
         "productId": "9300000143073776",
@@ -147,7 +156,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0012",
+        "id": "VM-17-0011",
         "marketplace": "Bol.com",
         "product": "AyeKids Walkie Talkie - Pink",
         "productId": "9300000113248116",
@@ -163,7 +172,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0013",
+        "id": "VM-17-0012",
         "marketplace": "Bol.com",
         "product": "AyeKids Karaoke Microphone - Gold",
         "productId": "9300000021984383",
@@ -180,7 +189,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0014",
+        "id": "VM-17-0013",
         "marketplace": "Bol.com",
         "product": "AyeKids Karaoke Microphone - Black",
         "productId": "9300000021989384",
@@ -191,7 +200,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0015",
+        "id": "VM-17-0014",
         "marketplace": "Bol.com",
         "product": "AyeKids Smartwatch - Black",
         "productId": "9300000058780667",
@@ -207,7 +216,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0016",
+        "id": "VM-17-0015",
         "marketplace": "Bol.com",
         "product": "AyeKids Smartwatch - Blue",
         "productId": "9300000058781050",
@@ -223,7 +232,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0017",
+        "id": "VM-17-0016",
         "marketplace": "Bol.com",
         "product": "AyeKids Smartwatch - Pink",
         "productId": "9300000058781135",
@@ -239,7 +248,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0018",
+        "id": "VM-17-0017",
         "marketplace": "Bol.com",
         "product": "AyeKids GPS Watch - Pink",
         "productId": "9300000117274210",
@@ -254,7 +263,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0019",
+        "id": "VM-17-0018",
         "marketplace": "Bol.com",
         "product": "AyeKids GPS Watch - Blue",
         "productId": "9300000117274353",
@@ -269,7 +278,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0020",
+        "id": "VM-17-0019",
         "marketplace": "Bol.com",
         "product": "AyeKids GPS Watch - Black",
         "productId": "9300000117274363",
@@ -284,7 +293,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0021",
+        "id": "VM-17-0020",
         "marketplace": "Bol.com",
         "product": "AyeKids Instant Camera - Pink",
         "productId": "9300000144265712",
@@ -299,18 +308,21 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0022",
+        "id": "VM-17-0021",
         "marketplace": "Bol.com",
         "product": "AyeKids Instant Camera - Blue",
         "productId": "9300000144265714",
         "productTitle": "AyeKids Instant Print Kindercamera - Thermische Mini Printer - Fotoprinter - Inclusief 3 rollen & 12 Kleur Stiften - Blauw",
         "keywords": ["kindercamera", "kinder camera"],
-        "keywordLink": [],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kindercamera+Blauw&view=list&12194=62-64&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kinder+camera+blauw&view=list&12194=62-64&rating=all"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0023",
+        "id": "VM-17-0022",
         "marketplace": "Bol.com",
         "product": "AyeKids Camera - Pink",
         "productId": "9300000105038177",
@@ -325,13 +337,16 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-0024",
+        "id": "VM-17-0023",
         "marketplace": "Bol.com",
         "product": "AyeKids Camera - Blue",
         "productId": "9300000105037937",
         "productTitle": "AyeKids Kindercamera 2 in 1 - Voor & Achter Camera - Incl. 32GB SD - Fototoestel voor Kinderen - Blauw",
         "keywords": ["kindercamera", "kinder camera"],
-        "keywordLink": [],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kindercamera+Blauw&view=list&12194=46-47&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kinder+camera+blauw&view=list&12194=46-47&rating=all"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       }
