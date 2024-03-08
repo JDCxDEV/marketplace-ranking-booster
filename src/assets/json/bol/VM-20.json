@@ -290,9 +290,7 @@
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -306,11 +304,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -324,11 +319,9 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
+          "https://www.bol.com/nl/nl/s/?page=2&searchtext=placemat&view=list",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -342,11 +335,9 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -360,11 +351,9 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -378,12 +367,11 @@
         "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+opbergsysteem&view=list&12194=17-18", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+organizer&view=list&12194=17-18",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenrek&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -397,12 +385,11 @@
         "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+opbergsysteem&view=list&12194=17-18",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+organizer&view=list&12194=17-18",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenrek&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
