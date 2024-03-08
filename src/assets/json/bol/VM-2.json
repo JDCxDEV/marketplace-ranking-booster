@@ -261,30 +261,6 @@
       "keywordLink": [],
       "isRunning" : false,
       "isMostWantedList": true
-    },
-    {
-      "id": "VM-2-0014",
-      "marketplace": "Bol.com",
-      "product": "LED strip NEON RGB 6m",
-      "productId": "9300000130919989",
-      "productTitle": "Lideka - LED Strip 6 Meter NEON RGB - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
-      "keywords": ["led strip 6 meter"],
-      "prioKeywords": [],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+6+meter&view=list&filter_N=4296707626&12194=83-84&rating=all"],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-2-0015",
-      "marketplace": "Bol.com",
-      "product": "LED strip NEON IC 6m",
-      "productId": "9300000130919989",
-      "productTitle": "Lideka - LED Strip 6 Meter NEON RGB + IC - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
-      "keywords": ["led strip 6 meter"],
-      "prioKeywords": [],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+6+meter"],
-      "isRunning" : false,
-      "isMostWantedList": true
     }
   ]
 }
