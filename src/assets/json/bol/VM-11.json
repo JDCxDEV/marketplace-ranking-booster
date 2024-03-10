@@ -263,6 +263,27 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true
+      },
+      {
+        "id": "VM-11-0009",
+        "marketplace": "Bol.com",
+        "product": "ComfyCentre Bed Bridge",
+        "productId": "9300000092095073",
+        "productTitle": "ComfyCentre Matraswig met band - Extra Brede Liefdesbrug voor Matrassen - Matraswiggen - Bedbinder - Matrasbinder De Luxe - 200x30cm",
+        "keywords": ["matraswig", "bedbinder", "liefdesbrug", "matrasbinder", "matraswig met band", "matras wig", "matraswiggen", "matraswig de luxe"],
+        "prioKeywords": ["matraswig"],
+        "keywordLink": [
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswig",
+          "https://www.bol.com/nl/nl/s/?searchtext=bedbinder",
+          "https://www.bol.com/nl/nl/s/?searchtext=liefdesbrug",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matrasbinder&view=list&filter_N=7559656032&12194=39-40&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswig+met+band",
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswiggen",
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswig+de+luxe",
+          "https://www.bol.com/nl/nl/s/?searchtext=matras+wig"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
       }
     ]
   }
