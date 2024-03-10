@@ -290,9 +290,7 @@
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -306,11 +304,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -324,11 +319,9 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
+          "https://www.bol.com/nl/nl/s/?page=2&searchtext=placemat&view=list",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -342,11 +335,9 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -360,11 +351,9 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -378,12 +367,11 @@
         "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+opbergsysteem&view=list&12194=17-18", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+organizer&view=list&12194=17-18",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenrek&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -397,12 +385,11 @@
         "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+opbergsysteem&view=list&12194=17-18",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+organizer&view=list&12194=17-18",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenrek&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -416,15 +403,15 @@
         "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschorten&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+vrouw&view=list&filter_N=4267462047&rating=all", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+dames&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+mannen&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -438,15 +425,15 @@
         "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschorten&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+vrouw&view=list&filter_N=4267462047&rating=all", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+dames&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+mannen&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -460,37 +447,15 @@
         "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-20-0028",
-        "marketplace": "Bol.com",
-        "product": "Kitchen Apron Women -  Rood",
-        "productId": "9300000038693369",
-        "productTitle": "hort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Rood) - 87 x 77 cm",
-        "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
-        "keywordLink":
-        [
-          "",
-          "",
-          "", 
-          "",
-          "",
-          "",
-          "",
-          "",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschorten&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+vrouw&view=list&filter_N=4267462047&rating=all", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+dames&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+mannen&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
