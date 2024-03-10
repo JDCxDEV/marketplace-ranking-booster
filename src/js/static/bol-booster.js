@@ -238,7 +238,8 @@ export const triggerBolBooster = async (thread, product, steps = 'homepage') => 
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-        currentBatch.push(initBooster(product, 300, steps));
+
+        currentBatch.push(initBooster(product, 300, product.isPerPage ? 'per-page' : steps));
       }   
     
       const timeoutMilliseconds = 300000; // 5 minutes
@@ -303,7 +304,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
           await booster.addRandomTimeGap(2, 2);
-          currentBatch.push(initBooster(products[index], 300, steps));
+          currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : steps));
         }   
       
         const timeoutMilliseconds = 300000; // 5 minutes
