@@ -132,6 +132,13 @@
       "key": "VM-19",
       "name": "Virtual Machine 19",
       "steps": "per-page"
+    },
+    {
+      "id": 20,
+      "marketplace": "Bol.com",
+      "key": "VM-21",
+      "name": "Virtual Machine 21",
+      "steps": "per-page"
     }  
   ]
 }
