@@ -147,6 +147,28 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0011",
+      "marketplace": "Bol.com",
+      "product": "Sleepmask",
+      "productId": "9300000048501922",
+      "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
+      "keywords": ["slaapmasker", "oogmasker", "slaapmaskers"],
+      "prioKeywords": ["slaapmasker", "oogmasker"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmaskers",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+vrouwen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+mannen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+3d",
+        "https://www.bol.com/nl/nl/s/?searchtext=zijden+slaapmasker",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker",
+        "https://www.bol.com/nl/nl/s/?searchtext=oogmasker",
+        ""
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
     }
   ]
 }
