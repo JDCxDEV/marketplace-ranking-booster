@@ -3,11 +3,16 @@
     {
       "id": "VM-10-0001",
       "marketplace": "Bol.com",
-      "product": "8719325732337",
-      "productId": "9200000129736784",
-      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 20mm - zilver - Horlogebandjes",
-      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogebandje", "https://www.bol.com/nl/nl/s/?searchtext=horlogeband","https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
+      "product": "8720828005835",
+      "productId": "9300000143609348",
+      "productTitle": "SmartphoneClip® Horlogeband - Siliconen - 20 mm - Zwart met witte stiksels",
+      "keywords": ["horlogebandje", "horlogeband", "horlogebandje 20mm", "horlogebandjes"],
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=12-13&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=12-13&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&12194=12-13&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=12-13&rating=all"
+      ],
       "isRunning" : false,
       "isOutOfStock" : false,
       "isMostWantedList": true
@@ -19,7 +24,10 @@
       "productId": "9300000143660192",
       "productTitle": "SmartphoneClip® - Horlogeband - Nylon Gevlochten Elastisch - 18mm - Zwart - Horlogebandjes",
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=19-20&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=16726&12194=19-20&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=19-20&rating=all"],
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=8-9&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=8-9&rating=all", 
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=8-9&rating=all"],
       "isRunning" : false,
       "isOutOfStock" : false,
       "isMostWantedList": true
@@ -31,7 +39,11 @@
       "productId": "9300000143614345",
       "productTitle": "SmartphoneClip® - Horlogeband - Vintage Leer - 18 mm - Cognac - Horlogebandjes",
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282748039&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=14-15&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=14-15&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"
+      ],
       "isRunning" : false,
       "isOutOfStock" : false,
       "isMostWantedList": true
@@ -80,18 +92,6 @@
       "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel Luxe - 18mm Zilver - Horlogebandjes",
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282748039&12194=23-24&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=23-24&rating=all","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=23-24&rating=all"],
-      "isRunning" : false,
-      "isOutOfStock" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-10-0008",
-      "marketplace": "Bol.com",
-      "product": "8720938074110",
-      "productId": "9300000148252756",
-      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 22mm - Zilver Zwart - Horlogebandjes",
-      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogebandje&view=list","https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogeband&view=list","https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"],
       "isRunning" : false,
       "isOutOfStock" : false,
       "isMostWantedList": true
@@ -339,23 +339,11 @@
     {
       "id": "VM-10-0029",
       "marketplace": "Bol.com",
-      "product": "8719325732351",
+      "product": "8720828005927",
       "productId": "9200000130160906",
       "productTitle": "SmartphoneClip® Horlogeband - Milanees - 20mm - zilver - Horlogebandjes",
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogebandje", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=16733&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
-      "isRunning" : false,
-      "isOutOfStock" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-10-0030",
-      "marketplace": "Bol.com",
-      "product": "8719325732344",
-      "productId": "9200000130160739",
-      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 20mm - zwart - Horlogebandjes",
-      "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=21-24&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16726&12194=21-22&rating=all"],
       "isRunning" : false,
       "isOutOfStock" : false,
       "isMostWantedList": true
@@ -416,30 +404,6 @@
       "productTitle": "SmartphoneClip® Horlogeband - Vintage Leer - 20 mm - Bruin - Horlogebandjes",
       "keywords": ["horlogebandje", "horlogeband", "horlogebandjes"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=16716+4282750884&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282750884+16716&12194=21-22&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=16716+4282750884&12194=21-22&rating=all"],
-      "isRunning" : false,
-      "isOutOfStock" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-10-0036",
-      "marketplace": "Bol.com",
-      "product": "8720828005248",
-      "productId": "9300000117489022",
-      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 22mm - zwart - Horlogebandjes",
-      "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=horlogeband", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
-      "isRunning" : false,
-      "isOutOfStock" : false,
-      "isMostWantedList": false
-    },
-    {
-      "id": "VM-10-0037",
-      "marketplace": "Bol.com",
-      "product": "8720828005187",
-      "productId": "9300000117489021",
-      "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel - 22mm - zilver - Horlogebandjes",
-      "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282751480&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282751480&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"],
       "isRunning" : false,
       "isOutOfStock" : false,
       "isMostWantedList": true
