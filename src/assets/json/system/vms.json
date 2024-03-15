@@ -66,9 +66,9 @@
     {
       "id": 10,
       "marketplace": "Bol.com",
-      "key": "VM-10",
+      "key": "VM-22",
       "name": "Virtual Machine 10",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 11,
