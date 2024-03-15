@@ -9,12 +9,12 @@
         "keywords": ["opbergmanden", "opberg mand", "opbergmand zwart", "wasmand zwart", "opbergmand", "wasmand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=16726&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand+zwart&view=list&12194=39-40",
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=wasmand+zwart&view=list&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=16726&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=wasmand&view=list&filter_N=16726&12194=39-40&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=16726&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand+zwart&view=list&12194=29-30",
+          "https://www.bol.com/nl/nl/s/?page=2&searchtext=wasmand+zwart&view=list&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=16726&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=2&searchtext=wasmand&view=list&filter_N=16726&12194=29-30&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -69,7 +69,7 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?page=2&searchtext=opbergmand&view=list",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=16724+4267462047&12194=39-40&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=16724+4267462047&12194=29-30&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -207,15 +207,16 @@
         "keywords": ["opbergmanden", "wasmanden", "waszak", "opbergmand", "wasmand", "opbergmand wit"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=waszak&view=list&filter_N=4267462047&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=39-40&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand+wit&view=list&12194=39-40"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=waszak&view=list&filter_N=4267462047&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand+wit&view=list&12194=29-30"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isPerPage": true
       },
       {
         "id": "VM-12-0013",
