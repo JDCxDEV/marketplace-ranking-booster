@@ -219,9 +219,11 @@
         "keywords": ["opbergmanden", "opberg mand", "opbergmand", "wasmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
+          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
+          "https://www.bol.com/nl/nl/s/?page=6&searchtext=wasmand&view=list&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=8&searchtext=mand&view=list&12194=29-30"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -235,10 +237,11 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
+          "https://www.bol.com/nl/nl/s/?page=7&searchtext=wasmand&view=list&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=8&searchtext=mand&view=list&12194=29-30"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -252,10 +255,11 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
+          "https://www.bol.com/nl/nl/s/?page=7&searchtext=wasmand&view=list&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=8&searchtext=mand&view=list&12194=29-30"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -267,7 +271,14 @@
         "productId": "9300000029386068",
         "productTitle": "Bestseller #1 Mand van Sophie Nordinn® - Opbergmand Goteborg (Zwart klein) - Wasmand - Wasmanden - 22 L",
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
-        "keywordLink": [],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=3&searchtext=wasmand&view=list&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=4&searchtext=mand&view=list&12194=26-27"
+        ],
         "isRunning" : false,
         "isMostWantedList": true
       },
@@ -280,10 +291,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?searchtext=mand"
+          "https://www.bol.com/nl/nl/s/?page=10&searchtext=opberg+mand&view=list&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=10&searchtext=opbergmanden&view=list&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=10&searchtext=opbergmand&view=list&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=6&searchtext=mand&view=list&12194=24-25"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -297,9 +308,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=10&searchtext=opberg+mand&view=list&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=10&searchtext=opbergmanden&view=list&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=10&searchtext=opbergmand&view=list&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=6&searchtext=mand&view=list&12194=24-25"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -313,8 +325,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -329,8 +341,8 @@
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=placemat&view=list",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -344,9 +356,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&12194=24-25&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -361,8 +372,8 @@
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -376,11 +387,11 @@
         "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+opbergsysteem&view=list&12194=17-18", 
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+organizer&view=list&12194=17-18",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenrek&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=schoenen+opbergsysteem",
+          "https://www.bol.com/nl/nl/s/?searchtext=schoenen+organizer",
+          "https://www.bol.com/nl/nl/s/?searchtext=schoenrek"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -394,11 +405,11 @@
         "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+opbergsysteem&view=list&12194=17-18",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+organizer&view=list&12194=17-18",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenrek&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=schoenen+opbergsysteem",
+          "https://www.bol.com/nl/nl/s/?searchtext=schoenen+organizer",
+          "https://www.bol.com/nl/nl/s/?searchtext=schoenrek"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -412,15 +423,15 @@
         "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschorten&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+vrouw&view=list&filter_N=4267462047&rating=all", 
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+dames&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+mannen&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschorten",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenshort",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+vrouw",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+dames",
+          "https://www.bol.com/nl/nl/s/?searchtext=schort",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+dames",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+mannen",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -434,15 +445,15 @@
         "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschorten&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+vrouw&view=list&filter_N=4267462047&rating=all", 
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+dames&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+mannen&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschorten",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenshort",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+vrouw",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+dames",
+          "https://www.bol.com/nl/nl/s/?searchtext=schort",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+dames",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+mannen",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -456,15 +467,15 @@
         "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschorten&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+vrouw&view=list&filter_N=4267462047&rating=all", 
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort+dames&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+dames&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kookschort+mannen&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschorten",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenshort",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+vrouw",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+dames",
+          "https://www.bol.com/nl/nl/s/?searchtext=schort",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+dames",
+          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+mannen",
+          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort"
         ],
         "isRunning" : false,
         "isMostWantedList": true
