@@ -77,8 +77,8 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   let page = null;
   let content = null;
   
-  const username = 'booster';
-  const password = 'rgVYgrasOzl1Vc43n5';
+  const username = 'sp54szgndr';
+  const password = 'y6p7gahxuATr2SBp4_';
 
   try {
 
