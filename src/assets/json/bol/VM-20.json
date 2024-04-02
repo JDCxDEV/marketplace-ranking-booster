@@ -384,7 +384,7 @@
         "product": "Schoenenrek - Roze 2 stuks",
         "productId": "9300000016839655",
         "productTitle": "Sophie Nordinn® - Schoenenrek Linkoping Roze (2 stuks) - Schoenenopbergers - Schoenen Organizer - Opbergsysteem - Schoenrek - 26x24x15 cm",
-        "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
+        "keywords": ["schoenenrek", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&12194=17-18&rating=all",
@@ -412,7 +412,8 @@
           "https://www.bol.com/nl/nl/s/?searchtext=schoenrek"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock" : true
       },
       {
         "id": "VM-20-0025",
