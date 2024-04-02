@@ -25,7 +25,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   let keyword = null;
 
   if(steps == 'homepage') {
-    link = 'https://www.bol.com/nl/nl/m/klantenservice/'
+    link = booster.getRandomStartingUrl()
     keyword = booster.getRandomKeyword(product.keywords) 
   }else {
     if(product.keywordLink.length) {
