@@ -271,10 +271,11 @@
         "keywords": ["tapijtreiniger", "tapijtreinigers", "vlekkenreiniger", "tapijtreiniger machine", "tapijtreiniger stofzuiger", "tapijtreiniger apparaat"],
         "keywordLink": 
         [
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=tapijtreiniger&view=list&filter_N=7678470267&rating=all",
+            "https://www.bol.com/nl/nl/s/?searchtext=tapijtreiniger",
             "https://www.bol.com/nl/nl/s/?searchtext=tapijtreinigers",
-            "https://www.bol.com/nl/nl/s/?searchtext=tapijtreiniger+stofzuiger",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=tapijtreiniger+apparaat&view=list&12194=89-90&rating=all"
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=vlekkenreiniger&view=list&12194=89-90&rating=all",
+            "https://www.bol.com/nl/nl/s/?searchtext=tapijtreiniger+machine",
+            "https://www.bol.com/nl/nl/s/?searchtext=tapijtreiniger+stofzuiger"
         ],
         "isRunning" : false,
         "isMostWantedList": true

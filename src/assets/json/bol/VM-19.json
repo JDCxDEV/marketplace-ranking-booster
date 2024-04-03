@@ -122,9 +122,9 @@
         "keywords": ["dashcam", "dashcam voor auto", "dashcams"],
         "keywordLink": 
         [
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam&view=list&filter_N=7557342718&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcam+voor+auto&view=list&filter_N=7557342718&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=dashcams&view=list&filter_N=7557342718&rating=all"
+            "https://www.bol.com/nl/nl/s/?searchtext=dashcam",
+            "https://www.bol.com/nl/nl/s/?searchtext=dashcam+voor+auto",
+            "https://www.bol.com/nl/nl/s/?searchtext=dashcams"
         ],
         "isRunning" : false,
         "isMostWantedList": true

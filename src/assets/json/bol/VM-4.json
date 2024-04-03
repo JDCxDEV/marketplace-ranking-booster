@@ -86,8 +86,22 @@
       "product": "Water bottle G",
       "productId": "9300000045223456",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motivatie Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - Sportfles - BPA vrij - Groen",
-      "keywords": ["waterflessen met rietje", "motivatie waterfles", "waterflessen volwassenen", "waterflessen kinderen", "drinkfles volwassenen", "drinkfles kinderen", "drinkflessen volwassenen", "drinkfles kind", "drinkfles 1 liter", "waterfles 1 liter", "waterflessen", "waterfles met fruit filter", "motiverende drinkfles", "water fles", "waterfles met rietje volwassenen"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+tijdmarkeringen"],
+      "keywords": ["drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter", "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen", "drinkfles kinderen", "drinkflessen volwassenen"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=water+fles",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+volwassenen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen+volwassenen"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
