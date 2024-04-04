@@ -6,23 +6,6 @@
         "product": "8720828005842",
         "productId": "9300000143609356",
         "productTitle": "SmartphoneClip® Horlogeband - Siliconen - 22 mm - Zwart met witte stiksels - Horlogebandjes",
-        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-22-0002",
-        "marketplace": "Bol.com",
-        "product": "8720828005842",
-        "productId": "9300000143609356",
-        "productTitle": "SmartphoneClip® Horlogeband - Siliconen - 22 mm - Zwart met witte stiksels - Horlogebandjes",
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 18mm"],
         "keywordLink":
         [
@@ -32,31 +15,32 @@
           "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+18mm"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0003",
+        "id": "VM-22-0002",
         "marketplace": "Bol.com",
         "product": "8720828005910",
         "productId": "9300000143614345",
         "productTitle": "SmartphoneClip® - Horlogeband - Vintage Leer - 18 mm - Cognac - Horlogebandjes",
-        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
+        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 18mm"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
           "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes",
+          ""
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0004",
+        "id": "VM-22-0003",
         "marketplace": "Bol.com",
-        "product": "9300000143664570",
-        "productId": "9300000143664570  ",
+        "product": "8720938074080",
+        "productId": "9300000143664570",
         "productTitle": "SmartphoneClip® Horlogeband - Metaal Schakel Luxe - 22mm Zilver - Horlogebandjes",
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 22mm"],
         "keywordLink":
@@ -72,7 +56,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0005",
+        "id": "VM-22-0004",
         "marketplace": "Bol.com",
         "product": "8720938074103",
         "productId": "9300000148258603",
@@ -80,16 +64,17 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&12194=17-18&rating=all"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0006",
+        "id": "VM-22-0005",
         "marketplace": "Bol.com",
         "product": "8720828005712",
         "productId": "9300000143664559",
@@ -106,7 +91,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0007",
+        "id": "VM-22-0006",
         "marketplace": "Bol.com",
         "product": "8720828005873",
         "productId": "9300000143612384",
@@ -119,11 +104,11 @@
           "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0008",
+        "id": "VM-22-0007",
         "marketplace": "Bol.com",
         "product": "8719325732368",
         "productId": "9200000130160942",
@@ -137,16 +122,16 @@
           "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+20mm"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0009",
+        "id": "VM-22-0008",
         "marketplace": "Bol.com",
         "product": "8720828005538",
         "productId": "9300000133450022",
         "productTitle": "SmartphoneClip® Horlogeband - Leer Luxe - 18mm - Cognac - Horlogebandjes",
-        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"],
+        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 18mm"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
@@ -159,7 +144,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0010",
+        "id": "VM-22-0009",
         "marketplace": "Bol.com",
         "product": "8720938074127",
         "productId": "9300000148258614",
@@ -177,7 +162,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0011",
+        "id": "VM-22-0010",
         "marketplace": "Bol.com",
         "product": "8720938074066",
         "productId": "9300000143664564",
@@ -185,11 +170,11 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"],
         "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&12194=18-19&rating=all"],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0012",
+        "id": "VM-22-0011",
         "marketplace": "Bol.com",
         "product": "8720828005958",
         "productId": "9300000143660194",
@@ -203,27 +188,23 @@
             "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+20mm"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0013",
+        "id": "VM-22-0012",
         "marketplace": "Bol.com",
         "product": "8720828005897",
         "productId": "9300000143613285",
         "productTitle": "SmartphoneClip® Horlogeband - Vintage Leer - 20 mm - Zwart - Horlogebandjes",
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
-        "keywordLink": 
-        [
-            "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all"
-        ],
+        "keywordLink": [],
         "isRunning" : false,
         "isOutOfStock" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0014",
+        "id": "VM-22-0013",
         "marketplace": "Bol.com",
         "product": "8720828005903",
         "productId": "9300000143613287",
@@ -240,7 +221,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0015",
+        "id": "VM-22-0014",
         "marketplace": "Bol.com",
         "product": "8720828005576",
         "productId": "9300000133450029",
@@ -253,11 +234,11 @@
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=9-10&rating=all"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0016",
+        "id": "VM-22-0015",
         "marketplace": "Bol.com",
         "product": "8720828005323",
         "productId": "9300000127360655",
@@ -275,7 +256,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0017",
+        "id": "VM-22-0016",
         "marketplace": "Bol.com",
         "product": "8720828005866",
         "productId": "9300000143612381",
@@ -292,7 +273,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0018",
+        "id": "VM-22-0017",
         "marketplace": "Bol.com",
         "product": "8720938074110",
         "productId": "9300000148252756",
@@ -305,11 +286,11 @@
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=21-22&rating=all"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0019",
+        "id": "VM-22-0018",
         "marketplace": "Bol.com",
         "product": "8720828005835",
         "productId": "9300000143609348",
@@ -317,8 +298,27 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandje 20mm", "horlogebandjes"],
         "keywordLink": 
         [
-            "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogeband&view=list&12194=11-12&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&12194=11-12&rating=all"
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-22-0019",
+        "marketplace": "Bol.com",
+        "product": "8720828005361",
+        "productId": "9300000127361099",
+        "productTitle": "SmartphoneClip® Horlogeband - Leer - 22mm - Bruin - Horlogebandjes",
+        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 22mm"],
+        "keywordLink": 
+        [
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all",
+            "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+22mm"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -326,24 +326,6 @@
       },
       {
         "id": "VM-22-0020",
-        "marketplace": "Bol.com",
-        "product": "8720828005361",
-        "productId": "9300000127361099",
-        "productTitle": "SmartphoneClip® Horlogeband - Leer - 22mm - Bruin - Horlogebandjes",
-        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
-        "keywordLink": 
-        [
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all"
-
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-22-0021",
         "marketplace": "Bol.com",
         "product": "8719992528707",
         "productId": "9200000110514336",
@@ -356,11 +338,11 @@
             "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0022",
+        "id": "VM-22-0021",
         "marketplace": "Bol.com",
         "product": "8720618313331",
         "productId": "9300000070638314",
@@ -374,11 +356,11 @@
             "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+charge+5"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0023",
+        "id": "VM-22-0022",
         "marketplace": "Bol.com",
         "product": "8720618313522",
         "productId": "9300000071436464",
@@ -392,11 +374,11 @@
             "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+charge+5"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0024",
+        "id": "VM-22-0023",
         "marketplace": "Bol.com",
         "product": "8720828005620",
         "productId": "9300000144341398",
@@ -411,11 +393,11 @@
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&12194=16-17&rating=all"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0025",
+        "id": "VM-22-0024",
         "marketplace": "Bol.com",
         "product": "8719992214099",
         "productId": "9200000100092385",
@@ -430,11 +412,11 @@
             "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+3+bandje"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0026",
+        "id": "VM-22-0025",
         "marketplace": "Bol.com",
         "product": "8720254862606",
         "productId": "9300000046673860",
@@ -446,11 +428,11 @@
             "https://www.bol.com/nl/nl/s/?searchtext=fitbit+luxe+bandje"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0027",
+        "id": "VM-22-0026",
         "marketplace": "Bol.com",
         "product": "8720618313232",
         "productId": "9300000064657828",
@@ -468,7 +450,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0028",
+        "id": "VM-22-0027",
         "marketplace": "Bol.com",
         "product": "8720618313782",
         "productId": "9300000089363849",
@@ -476,15 +458,18 @@
         "keywords": ["fitbit sense bandje", "fitbit versa 3 bandje", "fitbit versa bandje", "fitbit bandje", "fitbit bandje versa 3"],
         "keywordLink": 
         [
-            "https://www.bol.com/nl/nl/s/?page=2&searchtext=fitbit+sense+bandje&view=list&12194=11-12&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=2&searchtext=fitbit+versa+3+bandje&view=list&12194=11-12&rating=all"
+            "https://www.bol.com/nl/nl/s/?searchtext=fitbit+sense+bandje",
+            "https://www.bol.com/nl/nl/s/?searchtext=fitbit+versa+3+bandje",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&12194=14-15&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=14-15&rating=all",
+            "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+versa+3"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0029",
+        "id": "VM-22-0028",
         "marketplace": "Bol.com",
         "product": "8719992528288",
         "productId": "9200000108670948",
@@ -499,11 +484,11 @@
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&12194=15-16&rating=all"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0030",
+        "id": "VM-22-0029",
         "marketplace": "Bol.com",
         "product": "8719992528295",
         "productId": "9200000108670935",
@@ -518,7 +503,7 @@
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&12194=15-16&rating=all"
         ],
         "isRunning" : false,
-        "isOutOfStock" : false,
+        "isOutOfStock" : true,
         "isMostWantedList": true
       }
     ]
