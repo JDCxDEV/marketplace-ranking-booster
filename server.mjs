@@ -2,6 +2,7 @@ import express from 'express';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import { triggerKauflandBooster, triggerAllBolKaufland } from './src/js/static/kaufland-booster.js';
+import { triggerAllBlokkerBooster } from './src/js/static/blokker-booster.js';
 import { triggerBolBooster, triggerAllBolBooster } from './src/js/static/bol-booster.js';
 import { downloadProxies } from './src/helpers/boosterSteps.js';
 import 'dotenv/config'
@@ -28,12 +29,15 @@ const getRequestTriggerBooster = async (req, res) => {
             triggerBolBooster(thread, selectedProduct, vm?.steps);
         }
     } else {
+        const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
+        const vm = vmJsonFile.vms.find(item => item.key === currentVM);
+        
         if (currentMP === 'bol') {
-            const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
-            const vm = vmJsonFile.vms.find(item => item.key === currentVM);
             triggerAllBolBooster(thread, currentVM, vm?.steps);
         } else if (currentMP === 'kaufland') {
             triggerAllBolKaufland(thread, currentVM);
+        }else if (currentMP === 'blokker') {
+            triggerAllBlokkerBooster(thread, currentVM, vm?.steps);
         }
     }
 

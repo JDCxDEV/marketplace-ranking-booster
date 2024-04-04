@@ -209,15 +209,16 @@ export const selectOptionById = async(page, dropdownId, optionValue) =>{
   await page.select(`#${dropdownId}`, optionValue);
 }
 
-export const getRandomStartingUrl = () =>{
+export const getRandomStartingUrl = (urls = []) =>{
   try {
-    const links = [
-      'https://www.bol.com/nl/nl/m/klantenservice/',
-      'https://www.bol.com/nl/nl/klantenservice/sb/5657512099446784/bestellen',
-      'https://www.bol.com/nl/nl/klantenservice/sb/5767040140836864/garantie-reparatie',
-      'https://www.bol.com/nl/nl/l/cameralenzen/21080/',
-      'https://www.bol.com/nl/nl/cmp/speelgoeddeals/1889/'
-    ];
+    const defaultUrl = [      
+    'https://www.bol.com/nl/nl/m/klantenservice/',
+    'https://www.bol.com/nl/nl/klantenservice/sb/5657512099446784/bestellen',
+    'https://www.bol.com/nl/nl/klantenservice/sb/5767040140836864/garantie-reparatie',
+    'https://www.bol.com/nl/nl/l/cameralenzen/21080/',
+    'https://www.bol.com/nl/nl/cmp/speelgoeddeals/1889/'
+    ]
+    const links = urls.length ? urls.length : defaultUrl
   
     return links[generateNumberBetween(0, links.length - 1)];
   }catch(error) {
