@@ -4,12 +4,24 @@
       "id": "VM-1-0001",
       "marketplace": "Blokker.nl",
       "product": "Teken en verf set 86-delig",
-      "productId": "3955728",
-      "productTitle": "Grafix - Teken en verf set 86-delig in houten koffer hobbymateriaal - Tekendozen",
-      "keywords": ["verf set"],
-      "keywordLink": ["https://www.blokker.nl/search?q=verf%20set"],
+      "productId": "4562316",
+      "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Zwart",
+      "keywords": ["keukenweegschalen"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0002",
+      "marketplace": "Blokker.nl",
+      "product": "TSpiral Cutter",
+      "productId": "4562298",
+      "productTitle": "Lekro Spiraalsnijder - Groentesnijder - Spirelli - Spiralizer - 3 standen - Zwart",
+      "keywords": ["spiraalsnijder"],
+      "keywordLink": ["https://www.blokker.nl/search?q=spiraalsnijder"],
+      "isRunning" : false,
+      "isMostWantedList": true
+
     }
   ]
 }

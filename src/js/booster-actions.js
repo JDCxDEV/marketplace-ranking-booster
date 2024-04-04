@@ -50,6 +50,9 @@ function runBoosterFunction(product = null, initAllBooster = false) {
       }else if(currentMP == 'kaufland'){
         vmSelector = document.getElementById("vmSelectorKaufland");
         currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+      }else if(currentMP == 'blokker'){
+        vmSelector = document.getElementById("vmSelectorBlokker");
+        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
       }
       
       const data = {
@@ -125,6 +128,7 @@ async function sendPostRequest(initialize = true) {
         currentVM = vmSelector.options[vmSelector.selectedIndex].value;
     }
 
+    console.log(currentVM)
     const data = {
         currentMP: currentMP,
         currentVM: currentVM,

@@ -148,11 +148,18 @@
       "steps": "per-page"
     },
     {
-      "id": 21,
+      "id": 22,
       "marketplace": "Bol.com",
       "key": "VM-22",
       "name": "Virtual Machine 22",
       "steps": "per-page"
-    }  
+    },
+    {
+      "id": 23,
+      "marketplace": "Blokker.nl",
+      "key": "VM-BLOKKER-1",
+      "name": "Virtual Machine 23",
+      "steps": "per-page"
+    }
   ]
 }
