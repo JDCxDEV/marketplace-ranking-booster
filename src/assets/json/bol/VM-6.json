@@ -248,7 +248,7 @@
       "keywords": ["drone met camera", "drone", "drones"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=drone+met+camera&view=list&12194=289-290&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone&view=list&12194=289-290&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=drones&view=list&12194=289-290&rating=all"],
       "isRunning" : false,
-      "isOutOfStock" : true,
+      "isOutOfStock" : false,
       "isMostWantedList": true
     },
     {
@@ -264,7 +264,7 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drones&view=list&12194=429-430&rating=all"
       ],
       "isRunning" : false,
-      "isOutOfStock" : true,
+      "isOutOfStock" : false,
       "isMostWantedList": true,
       "isPerPage": true
     }
