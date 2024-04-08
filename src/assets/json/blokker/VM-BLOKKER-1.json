@@ -178,7 +178,7 @@
     {
       "id": "VM-1-0014",
       "marketplace": "Blokker.nl",
-      "product": "Water bottle BB",
+      "product": "Water bottle RB",
       "productId": "4548085",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Roze/Blauw",
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
@@ -203,7 +203,8 @@
         "https://www.blokker.nl/search?q=drinkflessen&pmin=19&pmax=20"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-1-0016",
