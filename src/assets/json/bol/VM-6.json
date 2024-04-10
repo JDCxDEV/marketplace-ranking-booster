@@ -105,7 +105,7 @@
       "keywords": ["Slaapmasker"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=Slaapmasker"],
       "isRunning" : false,
-      "isOutOfStock" : false,
+      "isOutOfStock" : true,
       "isMostWantedList": true
     },
     {
@@ -142,7 +142,7 @@
       "keywords": ["kinderservies"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=kinderservies"],
       "isRunning" : false,
-      "isOutOfStock" : false,
+      "isOutOfStock" : true,
       "isMostWantedList": true
     },
     {
