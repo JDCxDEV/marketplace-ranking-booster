@@ -1,0 +1,65 @@
+{
+    "products": [
+      {
+        "id": "VM-23-0001",
+        "marketplace": "Bol.com",
+        "product": "LAKOO BabyGuard Kitty",
+        "productId": "9300000155386506",
+        "productTitle": "Lakoo® BabyGuard Kitty - Babyfoon - baby monitor - Babyfoon met Camera - uitbreidbaar - bewegingsdetectie - Gratis App - 720HD, Wifi - Nachtzicht - Terugspreekfunctie - Slaapmuziek - Draaibaar - Uitbreidbaar - Tempratuurweergave",
+        "keywords": ["babyfoon met camera", "baby monitor", "babyfoon met camera en app"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-23-0002",
+        "marketplace": "Bol.com",
+        "product": "LAKOO BabyGuard HD PRO",
+        "productId": "9300000150088115",
+        "productTitle": "Lakoo® BabyGuard HD PRO - Beste verkochte Babyfoon van 2024 - baby monitor-Babyfoon met Camera en Beeldscherm - 1080p Full HD - Nachtzicht - Bewegingsdetectie - Terugspreekfunctie - Slaapmuziek - Draaibaar - Uitbreidbaar",
+        "keywords": ["babyfoon met camera", "baby monitor"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=93-9433&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-23-0003",
+        "marketplace": "Bol.com",
+        "product": "LAKOO-Hands-Free borstkolf",
+        "productId": "9300000165933420",
+        "productTitle": "Lakoo® Hands-Free borstkolf – borstkolf electrisch dubbel - Borstkolf - Dubbele elektrische handsfree borstkolf – Draagbaar - Transparant/Geel",
+        "keywords": ["borstkolf electrisch dubbel", "elektrische borstkolf", "handsfree borstkolf"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?searchtext=borstkolf+electrisch+dubbel",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=elektrische+borstkolf&view=list&12194=99-100&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=handsfree+borstkolf"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-23-0004",
+        "marketplace": "Bol.com",
+        "product": "LAKOO - White noise machine-baby",
+        "productId": "9300000165933767",
+        "productTitle": "Lakoo® - White noise machine-baby - Met lamp 8 Verschillende kleuren - 20 verschillende geluiden - met timer - Witte ruis machine",
+        "keywords": ["white noise", "muziekmobiel baby"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=white+noise&view=list&12194=39-40&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      }
+    ]
+  }
+  

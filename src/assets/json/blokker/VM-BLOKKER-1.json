@@ -221,7 +221,6 @@
       "isRunning" : false,
       "isMostWantedList": true
     },
-
     {
       "id": "VM-1-0016",
       "marketplace": "Blokker.nl",
@@ -234,6 +233,57 @@
         "https://www.blokker.nl/search?q=waterfles&pmin=16&pmax=17",
         "https://www.blokker.nl/search?q=drinkflessen&pmin=16&pmax=17"
       ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0017",
+      "marketplace": "Blokker.nl",
+      "product": "Powerbank 3",
+      "productId": "4565183",
+      "productTitle": "QuchiQ Mini Powerbank 10000 mah Quick Charge - Powerbank Geschikt voor Iphone, Samsung en Apple",
+      "keywords": ["powerbank 10000 mah"],
+      "keywordLink": ["https://www.blokker.nl/search?q=powerbank%2010000%20mah"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0018",
+      "marketplace": "Blokker.nl",
+      "product": "Earphone 2",
+      "productId": "4562323",
+      "productTitle": "QuchiQ Draadloze oordopjes - Sport, ruisonderdrukking, microfoon, oordopjes, compatibel met iPhone/Samsung",
+      "keywords": ["bluetooth oordopjes", "oortjes"],
+      "keywordLink": ["https://www.blokker.nl/search?q=oortjes&pmin=25&pmax=26"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0019",
+      "marketplace": "Blokker.nl",
+      "product": "Earphone 4",
+      "productId": "4562321",
+      "productTitle": "QuchiQ Draadloze Bluetooth-oordopjes: in het oor, sport, ruisonderdrukking, microfoon, compatibel met iPhone/Samsung",
+      "keywords": ["Draadloze Oordopjes", "bluetooth oordopjes", "Oordopjes Draadloos", "oortjes draadloos", "oortjes"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=Draadloze%20Oordopjes&pmin=27&pmax=28",
+        "https://www.blokker.nl/search?q=bluetooth%20oordopjes&pmin=27&pmax=28",
+        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos&pmin=27&pmax=28",
+        "https://www.blokker.nl/search?q=oortjes%20draadloos&pmin=27&pmax=28",
+        "https://www.blokker.nl/search?q=oortjes&pmin=27&pmax=28"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0020",
+      "marketplace": "Blokker.nl",
+      "product": "Earplugs Party",
+      "productId": "4569993",
+      "productTitle": "QuchiQ Oordoppen - Slaap Oordoppen - Partyplug - Siliconen plug met filter - 23 dB protection",
+      "keywords": ["oordopjes slapen"],
+      "keywordLink": [""],
       "isRunning" : false,
       "isMostWantedList": true
     }
