@@ -160,6 +160,13 @@
       "key": "VM-BLOKKER-1",
       "name": "Virtual Machine 23",
       "steps": "per-page"
+    },
+    {
+      "id": 24,
+      "marketplace": "Bol.com",
+      "key": "VM-23",
+      "name": "Virtual Machine 23",
+      "steps": "per-page"
     }
   ]
 }
