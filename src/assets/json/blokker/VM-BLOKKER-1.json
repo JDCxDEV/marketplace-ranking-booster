@@ -36,7 +36,7 @@
     {
       "id": "VM-1-0004",
       "marketplace": "Blokker.nl",
-      "product": "Kitchen scale White ",
+      "product": "Kitchen scale White",
       "productId": "4562314",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Wit",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
@@ -222,7 +222,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-1-0016",
+      "id": "VM-1-0017",
       "marketplace": "Blokker.nl",
       "product": "Water bottle GR",
       "productId": "4548086",
@@ -237,29 +237,41 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-1-0017",
+      "id": "VM-1-0018",
       "marketplace": "Blokker.nl",
       "product": "Powerbank 3",
       "productId": "4565183",
       "productTitle": "QuchiQ Mini Powerbank 10000 mah Quick Charge - Powerbank Geschikt voor Iphone, Samsung en Apple",
-      "keywords": ["powerbank 10000 mah"],
-      "keywordLink": ["https://www.blokker.nl/search?q=powerbank%2010000%20mah"],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0018",
-      "marketplace": "Blokker.nl",
-      "product": "Earphone 2",
-      "productId": "4562323",
-      "productTitle": "QuchiQ Draadloze oordopjes - Sport, ruisonderdrukking, microfoon, oordopjes, compatibel met iPhone/Samsung",
-      "keywords": ["bluetooth oordopjes", "oortjes"],
-      "keywordLink": ["https://www.blokker.nl/search?q=oortjes&pmin=25&pmax=26"],
+      "keywords": ["powerbank iphone", "powerbank 10000 mah", "powerbank"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=powerbank%20iphone",
+        "https://www.blokker.nl/search?q=powerbank%2010000%20mah",
+        "https://www.blokker.nl/powerbanks"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
       "id": "VM-1-0019",
+      "marketplace": "Blokker.nl",
+      "product": "Earphone 2",
+      "productId": "4562323",
+      "productTitle": "QuchiQ Draadloze oordopjes - Sport, ruisonderdrukking, microfoon, oordopjes, compatibel met iPhone/Samsung",
+      "keywords": ["bluetooth oordopjes", "Draadloze Oordopjes", "Oordopjes Draadloos", "Sport Oordopjes", "oortjes"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=oortjes&pmin=25&pmax=26",
+        "https://www.blokker.nl/search?q=Draadloze%20Oordopjes",
+        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos&pmin=25&pmax=26",
+        "https://www.blokker.nl/search?q=Sport%20Oordopjes",
+        "https://www.blokker.nl/search?q=oortjes&pmin=25&pmax=26"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0020",
       "marketplace": "Blokker.nl",
       "product": "Earphone 4",
       "productId": "4562321",
@@ -271,19 +283,281 @@
         "https://www.blokker.nl/search?q=bluetooth%20oordopjes&pmin=27&pmax=28",
         "https://www.blokker.nl/search?q=Oordopjes%20Draadloos&pmin=27&pmax=28",
         "https://www.blokker.nl/search?q=oortjes%20draadloos&pmin=27&pmax=28",
+        "https://www.blokker.nl/search?q=Sport%20Oordopjes",
         "https://www.blokker.nl/search?q=oortjes&pmin=27&pmax=28"
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-1-0020",
+      "id": "VM-1-0021",
       "marketplace": "Blokker.nl",
       "product": "Earplugs Party",
       "productId": "4569993",
       "productTitle": "QuchiQ Oordoppen - Slaap Oordoppen - Partyplug - Siliconen plug met filter - 23 dB protection",
-      "keywords": ["oordopjes slapen"],
-      "keywordLink": [""],
+      "keywords": ["oordoppen", "oordoppen slapen", "oordopjes slapen"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=oordoppen&pmin=15&pmax=16",
+        "https://www.blokker.nl/search?q=oordoppen%20slapen&pmin=15&pmax=16"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0022",
+      "marketplace": "Blokker.nl",
+      "product": "BabyFoon Black",
+      "productId": "4562306",
+      "productTitle": "BS Producten Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie-Zwart",
+      "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera", "babyfoon"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=beveiligingscamera&pmin=33&pmax=34",
+        "https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=33&pmax=34",
+        "https://www.blokker.nl/search?q=huisdiercamera&pmin=33&pmax=34"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0023",
+      "marketplace": "Blokker.nl",
+      "product": "BabyFoon White",
+      "productId": "4562299",
+      "productTitle": "BS Producten Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Wit",
+      "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera", "babyfoon"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=beveiligingscamera&pmin=29&pmax=30",
+        "https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=29&pmax=30",
+        "https://www.blokker.nl/search?q=huisdiercamera"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0024",
+      "marketplace": "Blokker.nl",
+      "product": "Security Cam Black",
+      "productId": "4562307",
+      "productTitle": "BS Producten Babyfoon met Camera en App - WiFi - FULL HD - Zwart",
+      "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera"],
+      "keywordLink": ["https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=29&pmax=30"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0025",
+      "marketplace": "Blokker.nl",
+      "product": "Security Cam White",
+      "productId": "4562300",
+      "productTitle": "BS Producten Babyfoon met Camera en App - WiFi - FULL HD - Wit",
+      "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera"],
+      "keywordLink": ["https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=30&pmax=31"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0026",
+      "marketplace": "Blokker.nl",
+      "product": "Lamp",
+      "productId": "4567729",
+      "productTitle": "Daglichtlamp LED 10.000 lux - Lichttherapie Lamp - Tabletvorm - Intelligente Timer - Daylight Lamp.",
+      "keywords": ["lichttherapie lamp", "daglichtlamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=lichttherapie%20lamp",
+        "https://www.blokker.nl/search?q=daglichtlamp"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0027",
+      "marketplace": "Blokker.nl",
+      "product": "Powerbank 1",
+      "productId": "4565181",
+      "productTitle": "QuchiQ Draadloze Powerbank 20000mAh Quick Charge - Powerbank Geschikt voor Iphone, Samsung en Apple",
+      "keywords": ["powerbank iphone", "powerbank 20000 mah", "powerbank"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=powerbank%2020000%20mah",
+        "https://www.blokker.nl/search?q=powerbank%20iphone",
+        "https://www.blokker.nl/powerbanks"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0028",
+      "marketplace": "Blokker.nl",
+      "product": "Powerbank 2",
+      "productId": "4565182",
+      "productTitle": "QuchiQ Draadloze Powerbank 20000mAh Quick Charge - Powerbank Geschikt voor Iphone, Samsung en Apple",
+      "keywords": ["powerbank 20000 mah", "powerbank iphone", "powerbank"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=powerbank%2020000%20mah",
+        "https://www.blokker.nl/search?q=powerbank%20iphone",
+        "https://www.blokker.nl/powerbanks"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0029",
+      "marketplace": "Blokker.nl",
+      "product": "Earphone 3",
+      "productId": "4562318",
+      "productTitle": "QuchiQ Draadloze Bluetooth-oordopjes: ANC, microfoon, sportpods, compatibel met iPhone/Samsung",
+      "keywords": ["Draadloze Oordopjes", "Oordopjes Draadloos", "bluetooth oordopjes", "oortjes draadloos", "Sport Oordopjes", "oortjes"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=Draadloze%20Oordopjes&pmin=23&pmax=24",
+        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos&pmin=23&pmax=24",
+        "https://www.blokker.nl/search?q=bluetooth%20oordopjes&pmin=23&pmax=24",
+        "https://www.blokker.nl/search?q=oortjes%20draadloos&pmin=23&pmax=24",
+        "https://www.blokker.nl/search?q=oortjes&pmin=23&pmax=24"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0030",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E14 1x",
+      "productId": "4562283",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 1 - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e14 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=20&pmax=21",
+        "https://www.blokker.nl/search?q=e14%20led%20lamp&pmin=20&pmax=21"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0031",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E14 2x",
+      "productId": "4562290",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 2 - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e14 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=33&pmax=34",
+        "https://www.blokker.nl/search?q=e14%20led%20lamp&pmin=33&pmax=34"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0032",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E14 3x",
+      "productId": "4562293",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 3 - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e14 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=43&pmax=44",
+        "https://www.blokker.nl/search?q=e14%20led%20lamp&pmin=43&pmax=44"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0033",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb GU10 1x",
+      "productId": "4562288",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 1 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=20&pmax=21",
+        "https://www.blokker.nl/search?q=gu10%20led%20lamp&pmin=20&pmax=21"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0033",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb GU10 2x",
+      "productId": "4562279",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 2 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=29&pmax=30",
+        "https://www.blokker.nl/search?q=gu10%20led%20lamp&pmin=29&pmax=30"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0034",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb GU10 3x",
+      "productId": "4562281",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 3 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=44&pmax=45",
+        "https://www.blokker.nl/search?q=gu10%20led%20lamp&pmin=44&pmax=45"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0035",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E27 1x",
+      "productId": "4562287",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e27 led lamp", "e27"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=19&pmax=20",
+        "https://www.blokker.nl/search?q=e27%20led%20lamp&pmin=19&pmax=20",
+        "https://www.blokker.nl/search?q=e27&pmin=19&pmax=20"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0036",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E27 2x",
+      "productId": "4562295",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 2 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e27 led lamp", "e27"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=30&pmax=31",
+        "https://www.blokker.nl/search?q=e27%20led%20lamp&pmin=30&pmax=31",
+        "https://www.blokker.nl/search?q=e27&pmin=30&pmax=31"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0037",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E27 3x",
+      "productId": "4562282",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 3 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e27 led lamp", "e27"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen?pmin=43&pmax=44",
+        "https://www.blokker.nl/search?q=e27%20led%20lamp&pmin=43&pmax=44",
+        "https://www.blokker.nl/search?q=e27&pmin=43&pmax=44"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     }
