@@ -29,7 +29,7 @@
       "productId": "4562315",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Zwart",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen?pmin=18&pmax=19"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -40,7 +40,7 @@
       "productId": "4562314",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Wit",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen?pmin=18&pmax=19"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -139,8 +139,8 @@
       "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - 12-delig",
       "keywords": ["mandoline", "groentesnijder"],
       "keywordLink": [
-        "https://www.blokker.nl/search?q=mandoline&pmin=28&pmax=29",
-        "https://www.blokker.nl/search?q=groentesnijder&pmin=28&pmax=29"
+        "https://www.blokker.nl/search?q=mandoline",
+        "https://www.blokker.nl/search?q=groentesnijder"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -153,9 +153,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Rosé Goud",
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink": [
-        "https://www.blokker.nl/search?q=drinkfles&pmin=18&pmax=19",
-        "https://www.blokker.nl/search?q=waterfles&pmin=18&pmax=19",
-        "https://www.blokker.nl/search?q=drinkflessen&pmin=18&pmax=19"
+        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -168,9 +167,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Blauw",
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink": [
-        "https://www.blokker.nl/search?q=drinkfles&pmin=18&pmax=19",
-        "https://www.blokker.nl/search?q=waterfles&pmin=18&pmax=19",
-        "https://www.blokker.nl/search?q=drinkflessen&pmin=18&pmax=19"
+        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -183,9 +181,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Roze/Blauw",
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink": [
-        "https://www.blokker.nl/search?q=drinkfles&pmin=16&pmax=17",
-        "https://www.blokker.nl/search?q=waterfles&pmin=16&pmax=17",
-        "https://www.blokker.nl/search?q=drinkflessen&pmin=16&pmax=17"
+        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -198,9 +195,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Groen",
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink": [
-        "https://www.blokker.nl/search?q=drinkfles&pmin=19&pmax=20",
-        "https://www.blokker.nl/search?q=waterfles&pmin=19&pmax=20",
-        "https://www.blokker.nl/search?q=drinkflessen&pmin=19&pmax=20"
+        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen/groen?pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -214,9 +210,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Turquoise",
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink": [
-        "https://www.blokker.nl/search?q=drinkfles&pmin=18&pmax=19",
-        "https://www.blokker.nl/search?q=waterfles&pmin=18&pmax=19",
-        "https://www.blokker.nl/search?q=drinkflessen&pmin=18&pmax=19"
+        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -229,9 +224,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Grijs",
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink": [
-        "https://www.blokker.nl/search?q=drinkfles&pmin=16&pmax=17",
-        "https://www.blokker.nl/search?q=waterfles&pmin=16&pmax=17",
-        "https://www.blokker.nl/search?q=drinkflessen&pmin=16&pmax=17"
+        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/search?q=drinkflessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true

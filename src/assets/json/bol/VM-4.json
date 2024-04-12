@@ -67,7 +67,8 @@
       "keywords": ["Earpods Draadloos", "Wireless Earphones", "in-ear oordopjes", "earbuds wireless", "oortjes draadloos", "bluetooth oordopjes", "Sport Oordopjes", "Bluetooth Oortjes", "draadloze oordopjes", "draadloze oortjes bluetooth", "oortjes", "oortjes samsung", "oortjes iphone", "draadloze oordopjes samsung", "draadloze oordopjes iphone", "draadloze oordopjes sport", "oortjes bluetooth", "draadloze oortjes samsung", "draadloze oortjes bluetooth noise cancelling", "oortjes draadloos sport oordopjes", "oortjes draadloos met microfoon", "oordopjes draadloos sport bluetooth", "Oordopjes Draadloos"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=Bluetooth+Oortjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=Wireless+Earphones", "https://www.bol.com/nl/nl/s/?page=1&searchtext=in-ear+oordopjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=earbuds+wireless&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=oortjes+draadloos&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=bluetooth+oordopjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=Sport+Oordopjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=Oordopjes+Draadloos&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=Draadloze+Oordopjes&view=list&12194=29-30&rating=all"],
       "isRunning" : false,
-      "isMostWantedList": false
+      "isMostWantedList": false,
+      "isOutOfStock": true
     },
     {
       "id": "VM-4-0008",
@@ -125,7 +126,8 @@
       "keywords": ["robot bouwpakket", "robot speelgoed jongens", "robot speelgoed"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket", "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed+jongens"],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-4-0012",
@@ -136,7 +138,8 @@
       "keywords": ["robot bouwpakket", "robot speelgoed jongens", "robot speelgoed"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket", "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed+jongens"],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-4-0013",
@@ -147,7 +150,8 @@
       "keywords": ["robot bouwpakket", "bouwset", "speelgoed"],
       "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket", "https://www.bol.com/nl/nl/s/?searchtext=bouwset"],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     }
   ]
 }
