@@ -3,11 +3,27 @@
     {
       "id": "VM-3-0001",
       "marketplace": "Bol.com",
-      "product": "LED strip",
+      "product": "LED strip RGB 5m",
       "productId": "9300000003262228",
       "productTitle": "Lideka - LED Strip - 5 Meter - met Afstandsbediening - RGB - 3 Honderd Led lights - Led Light Strip - 10 mm Breed - 2 Jaar Garantie - 30W - 2.0 A - Om 15 CM Knippen - TV - Smart Verlichting - Licht strip",
       "keywords": ["rgb led strip", "led strip 5 meter", "smart led strip", "led verlichting strips", "led verlichting", "led strip met afstandsbediening", "lichtstrip", "lightstrip", "lichtstrips zelfklevend", "lichtstrip met afstandsbediening"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=rgb+led+strip", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+5+meter", "https://www.bol.com/nl/nl/s/?searchtext=smart+led+strip", "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting+strips", "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting", "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=rgb+led+strip",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+5+meter",
+        "https://www.bol.com/nl/nl/s/?searchtext=smart+led+strip",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting+strips",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip",
+        "https://www.bol.com/nl/nl/s/?searchtext=led-strips",
+        "https://www.bol.com/nl/nl/s/?searchtext=ledstrip",
+        "https://www.bol.com/nl/nl/s/?searchtext=lichtstrip",
+        "https://www.bol.com/nl/nl/s/?searchtext=led",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+light",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+licht",
+        "https://www.bol.com/nl/nl/s/?searchtext=gaming+lights",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+light+strip"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -18,7 +34,15 @@
       "productId": "9300000163662094",
       "productTitle": "Babyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Zwart",
       "keywords": ["babyfoon","babyfoon met camera", "baby monitor", "babyfoons", "babyfoon met camera en app", "babyfoon camera", "baby camera", "babyfoon met app", "babyfoon met camera en app wifi", "babyfoon met camera bestverkocht"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=babyfoon", "https://www.bol.com/nl/nl/s/?searchtext=babyfoons", "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app", "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+camera", "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera", "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoons",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+camera",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera",
+        "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -29,7 +53,15 @@
       "productId": "9300000163662072",
       "productTitle": "BabyBabyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Wit",
       "keywords": ["babyfoon met camera en app", "baby monitor", "babyfoon camera", "babyfoons", "babyfoon", "babyfoon met camera"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+camera&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoons&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon&view=list&12194=35-36&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=35-36&rating=all"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&12194=35-36&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+camera&view=list&12194=35-36&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoons&view=list&12194=35-36&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon&view=list&12194=35-36&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=35-36&rating=all"
+      ],
       "isRunning" : false,
       "isMostWantedList": false
     },
@@ -40,7 +72,15 @@
       "productId": "9300000160670428",
       "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes",
       "keywords": ["externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "draadloze powerbank", "powerbank 20000 mah", "powerbank iphone", "powerbank samsung", "powerbank apple", "powerbank 20000 mah quick charge", "powerbank"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos",
+        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -51,7 +91,15 @@
       "productId": "9300000160670427",
       "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes",
       "keywords": ["externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "draadloze powerbank", "powerbank 20000 mah", "powerbank iphone", "powerbank samsung", "powerbank apple", "powerbank 20000 mah quick charge", "powerbank 10000 mah", "powerbank 10.000 mah", "powerbank"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos",
+        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -62,7 +110,16 @@
       "productId": "9300000160670426",
       "productTitle": "Powerbank 20000 mah - Mini power bank - Mobiele oplader - Externe oplaadbare batterij - Micro usb & C input - LED lampjes",
       "keywords": ["mini powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "externe oplader powerbank", "externe batterij powerbank", "draadloze powerbank", "powerbank 20000 mah", "powerbank iphone", "powerbank samsung", "powerbank apple", "powerbank 20000 mah quick charge", "powerbank"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=mini+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank", "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=mini+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -73,7 +130,17 @@
       "productId": "9300000165423620",
       "productTitle": "QuchiQ™ - Oordoppen - Slaap Oordoppen - Partyplug - Festival oordopjes - HSP Gehoorbescherming - Siliconen plug met filter - 23 dB protection – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs",
       "keywords": ["oordoppen snurken", "slaapoordoppen", "oordoppen slapen", "sleep plugs", "oordopjes slapen", "slaap oordopjes", "festival oordopjes", "earplugs", "oordoppen"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=earplugs&view=list&12194=17-18&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs", "https://www.bol.com/nl/nl/s/?searchtext=slaapoordoppen", "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen", "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes", "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken", "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen", "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen&view=list&12194=17-18&rating=all"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=earplugs&view=list&12194=17-18&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapoordoppen",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen&view=list&12194=17-18&rating=all"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -126,7 +193,15 @@
       "productId": "9200000129572821",
       "productTitle": "Lekro Spiraalsnijder + E-book met Recepten - Groentesnijder - Spirelli - Spiralizer - 3 standen - Zwart/Wit",
       "keywords": ["spiraalsnijder", "spirelli spiraalsnijder", "spirelli", "spiralizer", "spiraalsnijders", "courgettesnijder spiraal"],
-      "keywordLink": [],
+      "keywordLink": 
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=spiraalsnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=spirelli+spiraalsnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=spirelli",
+        "https://www.bol.com/nl/nl/s/?searchtext=spiralizer",
+        "https://www.bol.com/nl/nl/s/?searchtext=spiraalsnijders",
+        "https://www.bol.com/nl/nl/s/?searchtext=courgettesnijder+spiraal"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -138,7 +213,8 @@
       "productTitle": "NurtureGoods Dual Efficient Borstkolf - Smart 3.0 - Vernieuwd 2023 model - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu - Inclusief 2x180 ml Babyfles, Kolfdagboek en Speen - Borstkolf Electrisch Dubbel",
       "keywords": ["borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "borstkolf dubbel", "draadloze borstkolf", "breast pump", "kolf"],
       "prioKeywords": ["borstkolf", "elektrische borstkolf"],
-      "keywordLink": [
+      "keywordLink":
+      [
         "https://www.bol.com/nl/nl/s/?page=2&searchtext=kolf&view=list",
         "https://www.bol.com/nl/nl/s/?page=2&searchtext=elektrische+borstkolf&view=list",
         "https://www.bol.com/nl/nl/s/?page=2&searchtext=borstkolf+electrisch+dubbel&view=list",

@@ -200,7 +200,8 @@
       "productId": "9300000155114539",
       "productTitle": "Tedroka® professionele camerarugzak&reistas- waterdichte universele cameratas -laptoptas- anti-diefstal waterafstotend",
       "keywords": ["actioncam beschermhoezen", "cameratassen", "cameratas", "cameratassen", "cameratas spiegelreflexcamera"],
-      "keywordLink": [
+      "keywordLink":
+      [
         "https://www.bol.com/nl/nl/s/?searchtext=cameratassen",
         "https://www.bol.com/nl/nl/s/?searchtext=cameratas",
         "https://www.bol.com/nl/nl/s/?searchtext=cameratassen",
@@ -217,7 +218,8 @@
       "productId": "9300000156268265",
       "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen&draagbaretas en 64 GB SD kaart",
       "keywords": ["drones", "drone", "drone met camera"],
-      "keywordLink": [
+      "keywordLink": 
+      [
         "https://www.bol.com/nl/nl/s/?searchtext=drones",
         "https://www.bol.com/nl/nl/s/?searchtext=drone", 
         "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera"
@@ -234,7 +236,8 @@
       "productId": "9300000160202760",
       "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen, powerbank 10.000 mah&draagbaretas en 64 GB SD kaart",
       "keywords": ["drones", "drone", "drone met camera"],
-      "keywordLink": [
+      "keywordLink":
+      [
         "https://www.bol.com/nl/nl/s/?searchtext=drones",
         "https://www.bol.com/nl/nl/s/?searchtext=drone", 
         "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera"
@@ -251,7 +254,8 @@
       "productId": "9300000119994059",
       "productTitle": "Tedroka® K911 Max-Drone met 4K camera- Drone met obstakelvermijding -Inclusief GPS-Drone met camera voor volwassenen-Geen vliegbewijs nodig-800 m bereik -Borstelloze motoren-Inclusief draagbare tas, twee batterijen",
       "keywords": ["drone met camera", "drone", "drones"],
-      "keywordLink": [
+      "keywordLink":
+      [
         "https://www.bol.com/nl/nl/s/?searchtext=drones",
         "https://www.bol.com/nl/nl/s/?searchtext=drone", 
         "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera"
@@ -267,7 +271,8 @@
       "productId": "9300000168665744",
       "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera - vliegtijd 52 minuten - 4K UHD-video - inclusief 2 batterijen, Tedroka® cameratas, draagbare tas & SD kaart",
       "keywords": ["drone met camera", "drone", "drones"],
-      "keywordLink": [
+      "keywordLink":
+      [
         "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone&view=list&12194=429-430&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drones&view=list&12194=429-430&rating=all"
@@ -284,9 +289,7 @@
       "productId": "9300000167744817",
       "productTitle": "HI NATURE™ Kinder Bestek 4 Delig - Kinderbestek - Kinderbestekset Zilver - Bestekset kinderen - Bestek kinderen - RVS - Zilverwit Edelstaal 18/10",
       "keywords": ["kinderbestek"],
-      "keywordLink": [
-        "https://www.bol.com/nl/nl/s/?searchtext=kinderbestek"
-      ],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=kinderbestek"],
       "isRunning" : false,
       "isOutOfStock" : false,
       "isMostWantedList": true,
