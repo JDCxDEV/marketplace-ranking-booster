@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": "VM-2-0001",
+      "marketplace": "Blokker.nl",
+      "product": "Induction Mat set 4X",
+      "productId": "4591139",
+      "productTitle": "HI NATURE™ Inductie Beschermer set 4 Stuks - Inductie mat - Pannenonderzetter - Hittebestendig",
+      "keywords": ["spiraalsnijder"],
+      "keywordLink": ["https://www.blokker.nl/search?q=spiraalsnijder"],
+      "isRunning" : false,
+      "isMostWantedList": true
+    }
+  ]
+}
