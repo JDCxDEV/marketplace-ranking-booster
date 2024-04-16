@@ -878,7 +878,7 @@
       "marketplace": "Blokker.nl",
       "product": "Placemat Abisko Verloop",
       "productId": "4581460",
-      "productTitle": "Sophie Nordinn Placemats - Placemat Abisko (Verloop) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
+      "productTitle": "Sophie Nordinn Placemats - Placemat Vaxjo (Lichtblauw) - Placemats Kunststof - Set 4 stuks- 30x40 cm",
       "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
       "keywordLink": 
       [
@@ -890,13 +890,15 @@
     {
       "id": "VM-1-0057",
       "marketplace": "Blokker.nl",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": [""],
+      "product": "Placemat Vaxjo Blue",
+      "productId": "4581459",
+      "productTitle": "Sophie Nordinn Placemats - Placemat Vaxjo (Lichtblauw) - Placemats Kunststof - Set 4 stuks- 30x40 cm",
+      "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
       "keywordLink": 
       [
-        ""
+        "https://www.blokker.nl/placemats?pmin=20&pmax=21",
+        "https://www.blokker.nl/placemats?pmax=21&pmin=20&start=24&sz=24",
+        "https://www.blokker.nl/search?q=placemat%20rond&pmin=20&pmax=21"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -904,13 +906,14 @@
     {
       "id": "VM-1-0058",
       "marketplace": "Blokker.nl",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": [""],
+      "product": "Schoenenrek - Grijs 2 stuks",
+      "productId": "4581469",
+      "productTitle": "Sophie Nordinn Schoenenrek Linkoping (2 stuks) - Schoenenopbergers/Schoenen Organizer - 26x24x15 cm",
+      "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen opbergsysteem", "schoenrek", "schoenen rek", "schoenen organizer"],
       "keywordLink": 
       [
-        ""
+        "https://www.blokker.nl/search?q=schoenrek&pmin=28&pmax=29",
+        "https://www.blokker.nl/search?q=schoenen%20organizer&pmin=28&pmax=29"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -918,13 +921,16 @@
     {
       "id": "VM-1-0059",
       "marketplace": "Blokker.nl",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": [""],
+      "product": "Placemat Abisko Grey",
+      "productId": "4581465",
+      "productTitle": "Sophie Nordinn Placemats - Placemat Abisko (Donkergrijs) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
+      "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
       "keywordLink": 
       [
-        ""
+        "https://www.blokker.nl/placemats?pmin=20&pmax=21",
+        "https://www.blokker.nl/placemats?pmin=20&pmax=21",
+        "https://www.blokker.nl/search?q=placemat%20rond&pmin=20&pmax=21",
+        "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -932,13 +938,16 @@
     {
       "id": "VM-1-0060",
       "marketplace": "Blokker.nl",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": [""],
+      "product": "Wasmanden  - Roze",
+      "productId": "4581429",
+      "productTitle": "Sophie Nordinn Opbergmand Stockholm (Roze) - Wasmand - Wasmanden - 40 Liter",
+      "keywords": ["wasmand", "opbergmand", "mand", "wasmanden", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        ""
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
+        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -946,13 +955,17 @@
     {
       "id": "VM-1-0061",
       "marketplace": "Blokker.nl",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": [""],
+      "product": "Wasmanden - Wit",
+      "productId": "4581435",
+      "productTitle": "Sophie Nordinn Opbergmand - Mand Goteborg (Wit groot) - Wasmand - Wasmanden - Waszak - 57 L",
+      "keywords": ["wasmand", "opbergmand", "mand", "wasmanden", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        ""
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
+        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27",
+        "https://www.blokker.nl/search?q=waszak&pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -960,13 +973,15 @@
     {
       "id": "VM-1-0062",
       "marketplace": "Blokker.nl",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": [""],
+      "product": "Opbergmand - Bruin Wit",
+      "productId": "4581551",
+      "productTitle": "Sophie Nordinn Opbergmand Goteborg (Bruin/wit Groot) - Wasmand - Wasmanden",
+      "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        ""
+        "https://www.blokker.nl/opbergmanden?pmin=29&pmax=30",
+        "https://www.blokker.nl/opbergmanden?pmin=29&pmax=30",
+        "https://www.blokker.nl/opbergmanden?pmin=29&pmax=30"
       ],
       "isRunning" : false,
       "isMostWantedList": true
