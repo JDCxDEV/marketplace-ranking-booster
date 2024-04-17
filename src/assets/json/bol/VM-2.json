@@ -201,7 +201,6 @@
       "productId": "9300000032517889",
       "productTitle": "Lideka - TV USB LED Strip 3 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 90 LED Lights - 10mm Breed - Zelfklevend Led Licht - Ook Voor TV",
       "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip", "gaming", "rgb led strip", "gaming lights", "led strip usb", "led strip tv", "led strip voor tv", "ambilight strip", "led strip 3 meter"],
-      "prioKeywords": [],
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=24-25&rating=all",
@@ -218,7 +217,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+3+meter"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isPerPage": true
     },
     {
       "id": "VM-2-0011",
@@ -238,7 +238,6 @@
       "productId": "9300000137732718",
       "productTitle": "Lideka - LED Strip 3 Meter NEON RGB - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
       "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon led strip buiten"],
-      "prioKeywords": [],
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=43-44&rating=all",
@@ -253,7 +252,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip+buiten"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isPerPage": true
     },
     {
       "id": "VM-2-0013",
@@ -261,7 +261,7 @@
       "product": "LED strip NEON RGBIC 3m",
       "productId": "9300000137732719",
       "productTitle": "Lideka® - RGBIC Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
-      "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon lamp", "neon led strip buiten", "neon verlichting"],
+      "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon lamp", "neon led strip buiten", "neon verlichting"],
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip",
@@ -274,7 +274,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=neon+verlichting"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isPerPage": true
     }
   ]
 }
