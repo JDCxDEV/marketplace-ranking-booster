@@ -79,7 +79,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-2-0005",
@@ -96,7 +97,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-2-0006",
@@ -113,7 +115,8 @@
         "https://www.bol.com/nl/nl/s/?page=2&searchtext=speelgoed&view=list&12194=26-27&rating=all"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-2-0007",
@@ -168,7 +171,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=led+lampen"
       ],
       "isRunning" : false,
-      "isMostWantedList": false
+      "isMostWantedList": false,
+      "isPerPage": true
     },
     {
       "id": "VM-2-0009",
