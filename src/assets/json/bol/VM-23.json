@@ -59,6 +59,22 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true
+      },
+      {
+        "id": "VM-23-0005",
+        "marketplace": "Bol.com",
+        "product": "Lakoo BabyGuard Royal Heritage",
+        "productId": "9300000175672284",
+        "productTitle": "Lakoo® BabyGuard Royal Heritage - Babyfoon met Camera en app - Babyfoon met monitor - wifi - Uitbreid baar - nachtzicht - Gratis app - BesteVerkocht - Terugspreekfunctie - Tempratuurweergave",
+        "keywords": ["babyfoon met camera", "baby monitor", "babyfoon met camera en app"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&12194=149-150&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=149-150&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+monitor&view=list&12194=149-150&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
       }
     ]
   }
