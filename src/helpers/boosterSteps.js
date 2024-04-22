@@ -213,10 +213,6 @@ export const getRandomStartingUrl = (urls = []) =>{
   try {
     const defaultUrl = [      
     'https://www.bol.com/nl/nl/m/klantenservice/',
-    'https://www.bol.com/nl/nl/klantenservice/sb/5657512099446784/bestellen',
-    'https://www.bol.com/nl/nl/klantenservice/sb/5767040140836864/garantie-reparatie',
-    'https://www.bol.com/nl/nl/l/cameralenzen/21080/',
-    'https://www.bol.com/nl/nl/cmp/speelgoeddeals/1889/'
     ]
     const links = urls.length ? urls.length : defaultUrl
   
