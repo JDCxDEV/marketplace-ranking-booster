@@ -169,7 +169,6 @@ const initBooster = async (product, threadTimer = 360, steps) => {
             await page.keyboard.press('Enter');
             await booster.addRandomTimeGap(10, 12);
      
-            await booster.selectOptionById(page, 'sort', 'wishListRank1');
           }catch (error) {
             console.log(error.message);
           }
@@ -202,6 +201,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       // Step: Add to wishlist & Add to cart
 
       try {
+        const willAddToWishlist = Math.floor(Math.random() * 2);
         await page.click(`[global-id="${productId}"]`);
         await booster.addRandomTimeGap(3, 7);
         await page.click('.modal__window--close-hitarea');
