@@ -17,7 +17,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal",
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+digitaal",
         "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal",
-        "https://www.bol.com/nl/nl/s/?searchtext=precisie+weegschaal"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&sort=wishListRank1&12194=25-529"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -40,7 +40,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+oplaadbaar",
         "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal",
         "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
-        "https://www.bol.com/nl/nl/s/?searchtext=precisie+weegschaal"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=23-529"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -56,12 +56,12 @@
       [
         "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera%27s",
         "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera",
-        "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera+binnen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera+binnen&view=list&12194=36-37&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=hondencamera",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=bewakingscamera+voor+binnen&view=list",
         "https://www.bol.com/nl/nl/s/?searchtext=petcam",
-        "https://www.bol.com/nl/nl/s/?searchtext=huisdiercamera+met+app",
-        "https://www.bol.com/nl/nl/s/?searchtext=hondencamera+met+app",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=huisdiercamera+met+app&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=hondencamera+met+app&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=indoor+camera"
       ],
       "isRunning" : false,
@@ -80,7 +80,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=computerbril",
         "https://www.bol.com/nl/nl/s/?searchtext=blue+light+glasses",
         "https://www.bol.com/nl/nl/s/?searchtext=bluelight+glasses",
-        "https://www.bol.com/nl/nl/s/?searchtext=blue+light+bril",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=blue+light+bril&view=list&filter_N=16722&rating=all ",
         "https://www.bol.com/nl/nl/s/?searchtext=beeldschermbril",
         "https://www.bol.com/nl/nl/s/?searchtext=blauw+licht+bril+zonder+sterkte"
       ],
@@ -242,20 +242,6 @@
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
         "https://www.bol.com/nl/nl/s/?searchtext=water+fles",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0012",
-      "marketplace": "Bol.com",
-      "product": "Security Camera White",
-      "productId": "9300000163662072",
-      "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
-      "keywords": ["huisdiercamera", "beveiligingscamera", "beveiligingscamera's", "beveiligingscamera binnen", "hondencamera", "bewakingscamera voor binnen", "huisdiercamera met app", "petcam", "hondencamera met app", "indoor camera"],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=indoor+camera&view=list&12194=35-36&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
