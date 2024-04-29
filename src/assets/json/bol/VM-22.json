@@ -200,6 +200,24 @@
         "isMostWantedList": true
       },
       {
+        "id": "VM-22-0012",
+        "marketplace": "Bol.com",
+        "product": "8720618313324",
+        "productId": "9300000070634643",
+        "productTitle": "SmartphoneClip® Twist Leer Bruin Bandje geschikt voor Fitbit Charge 5 en 6",
+        "keywords": ["fitbit bandje", "fitbit charge 5 bandje", "fitbit charge 6 bandje", "fitbit bandje charge 5"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=15-16&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+5+bandje",
+          "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+6+bandje",
+          "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+charge+5"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
         "id": "VM-22-0013",
         "marketplace": "Bol.com",
         "product": "8720828005903",
@@ -235,17 +253,55 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-22-0017",
+        "id": "VM-22-0015",
         "marketplace": "Bol.com",
-        "product": "8720828005859",
-        "productId": "9300000143612378",
-        "productTitle": "SmartphoneClip® Horlogeband - Vintage Leer - 18 mm - Bruin - Horlogebandjes",
-        "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
+        "product": "7107106754547",
+        "productId": "9200000076516019",
+        "productTitle": "SmartphoneClip® Metaal schakel Zwart bandje geschikt voor Fitbit Charge 2",
+        "keywords": ["fitbit bandje", "fitbit charge 2 bandje", "fitbit bandje charge 2"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogeband&view=list&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=14-15&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=21-22&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+2+bandje&view=list&12194=21-22&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&12194=21-22&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-22-0016",
+        "marketplace": "Bol.com",
+        "product": "8719992214181",
+        "productId": "9200000100092479",
+        "productTitle": "SmartphoneClip® Leer zwart Bandje geschikt voor Fitbit Charge 3 / Charge 4",
+        "keywords": ["fitbit bandje", "fitbit bandje charge 3", "fitbit charge 4 bandje", "fitbit bandje charge 4", "fitbit charge 3 bandje"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=20-21&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&12194=20-21&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&12194=20-21&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&12194=20-21&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&12194=20-21&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-22-0017",
+        "marketplace": "Bol.com",
+        "product": "8720254257662",
+        "productId": "9300000015336767",
+        "productTitle": "SmartphoneClip® Leer Bruin Bandje geschikt voor Fitbit Versa 3 en Fitbit Sense",
+        "keywords": ["fitbit bandje", "fitbit versa 3 bandje", "fitbit versa bandje", "fitbit sense bandje", "fitbit bandje versa 3"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=15-16&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+3+bandje&view=list&12194=15-16&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&12194=15-16&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&12194=15-16&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+3&view=list&12194=15-16&rating=all"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -263,6 +319,23 @@
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-22-0019",
+        "marketplace": "Bol.com",
+        "product": "7107102296867",
+        "productId": "9200000077512929",
+        "productTitle": "Milanees bandje Zilver - geschikt voor Fitbit Alta en Alta HR",
+        "keywords": ["fitbit alta hr bandje", "fitbit alta bandje", "fitbit bandje"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+hr+bandje&view=list&12194=10-10&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+bandje&view=list&12194=10-10&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=10-10&rating=all"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -321,6 +394,22 @@
         "isMostWantedList": true
       },
       {
+        "id": "VM-22-0023",
+        "marketplace": "Bol.com",
+        "product": "7111608781574",
+        "productId": "9200000094767745",
+        "productTitle": "SmartphoneClip® Sport Fitbit Bandje Leopard Small - geschikt voor Fitbit Alta HR of Alta HR",
+        "keywords": ["fitbit alta hr bandje", "fitbit alta bandje", "fitbit bandje"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+hr+bandje&view=list&12194=11-12&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+bandje&view=list&12194=11-12&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
         "id": "VM-22-0024",
         "marketplace": "Bol.com",
         "product": "8719325643183",
@@ -352,6 +441,59 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&12194=20-21&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&12194=20-21&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+charge+4"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-22-0026",
+        "marketplace": "Bol.com",
+        "product": "7110531423070",
+        "productId": "9200000087578169",
+        "productTitle": "SmartphoneClip® Sport Bandje Black Flowers Small - geschikt voor Fitbit Charge 2",
+        "keywords": ["fitbit bandje charge 2", "fitbit charge 2 bandje", "fitbit bandje"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&12194=16-17&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+2+bandje&view=list&12194=16-17&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-22-0027",
+        "marketplace": "Bol.com",
+        "product": "8719325643701",
+        "productId": "9200000118009482",
+        "productTitle": "SmartphoneClip® Metaal double chain Bandje zwart geschikt voor Fitbit Versa (Versa 2, Versa Lite)",
+        "keywords": ["fitbit bandje", "fitbit versa bandje", "fitbit bandje versa 2", "fitbit bandje versa"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=21-22&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&12194=21-22&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&12194=21-22&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&12194=21-22&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-22-0028",
+        "marketplace": "Bol.com",
+        "product": "8720254257754",
+        "productId": "9300000015391416",
+        "productTitle": "SmartphoneClip® Metaal schakel bandje goud geschikt voor Fitbit Versa 3 en Fitbit Sense",
+        "keywords": ["fitbit bandje versa 3", "fitbit sense bandje", "fitbit versa bandje", "fitbit versa 3 bandje", "fitbit bandje"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+3&view=list&12194=18-19&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&12194=18-19&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&12194=18-19&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+3+bandje&view=list&12194=18-19&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=2&searchtext=fitbit+bandje&view=list&12194=18-19&rating=all"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
