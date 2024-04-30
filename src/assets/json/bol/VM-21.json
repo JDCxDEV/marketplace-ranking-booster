@@ -34,14 +34,13 @@
         "product": "LED strip RGBW 10m",
         "productId": "9300000129847287",
         "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 10 Meter (2x5) - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
-        "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips", "lichtstrip", "gaming", "rgb led strip", "led", "led light", "led licht", "gaming lights", "led light strip", "led strip 10 meter", "led light strip 10 meter"],
+        "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led", "led strip 10 meter", "led light strip 10 meter"],
         "keywordLink": 
         [
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=40-41&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&12194=40-41&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&12194=40-41&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&12194=40-41&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&12194=40-41&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&12194=40-41&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+10+meter&view=list&12194=40-41&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip+10+meter&view=list&12194=40-41&rating=all"
@@ -125,7 +124,7 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&12194=105-106&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&12194=105-106&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+20+meter&view=list&12194=105-106&rating=all",
-          ""
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip&view=list&12194=105-106&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -172,21 +171,21 @@
         "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips", "lichtstrip", "gaming", "rgb led strip", "led", "led light", "led licht", "gaming lights", "led light strip", "smart led strip", "led strip 5 meter"],
         "keywordLink":
         [
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&12194=47-49",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=smart+led+strip&view=list&12194=47-49&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+5+meter&view=list&12194=47-49&rating=all"
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&12194=49-50",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=smart+led+strip&view=list&12194=49-50&rating=all",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+5+meter&view=list&12194=49-50&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -213,7 +212,7 @@
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&12194=54-55&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&12194=54-55&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip&view=list&12194=54-55&rating=all",
-            "https://www.bol.com/nl/nl/s/?searchtext=led+strip+10+meter",
+            "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+10+meter&view=list&12194=54-55&rating=all",
             "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip+10+meter&view=list&12194=54-55&rating=all"
         ],
         "isRunning" : false,
@@ -333,11 +332,11 @@
         "keywords": ["solar charger", "solar panel", "solar oplader", "draagbaar zonnepaneel", "opvouwbaar zonnepaneel"],
         "keywordLink": 
         [
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+charger&view=list&12194=58-59",
+           "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+charger&view=list&12194=52-53",
            "https://www.bol.com/nl/nl/s/?searchtext=solar+panel",
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+oplader&view=list&12194=58-59",
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=draagbaar+zonnepaneel&view=list&12194=58-59&rating=all",
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opvouwbaar+zonnepaneel&view=list&12194=58-59&rating=all"
+           "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+oplader&view=list&12194=52-53",
+           "https://www.bol.com/nl/nl/s/?page=1&searchtext=draagbaar+zonnepaneel&view=list&12194=52-53&rating=all",
+           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opvouwbaar+zonnepaneel&view=list&12194=52-53&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
