@@ -158,7 +158,7 @@
       "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=Bluetooth+Oortjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?searchtext=Wireless+Earphones", "https://www.bol.com/nl/nl/s/?page=1&searchtext=in-ear+oordopjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=earbuds+wireless&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=oortjes+draadloos&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=bluetooth+oordopjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=Sport+Oordopjes&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=Oordopjes+Draadloos&view=list&12194=29-30&rating=all", "https://www.bol.com/nl/nl/s/?page=1&searchtext=Draadloze+Oordopjes&view=list&12194=29-30&rating=all"],
       "isRunning" : false,
       "isMostWantedList": false,
-      "isOutOfStock": true
+      "isOutOfStock": false
     },
     {
       "id": "VM-4-0008",
@@ -262,7 +262,7 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true,
-      "isOutOfStock": true
+      "isOutOfStock": false
     },
     {
       "id": "VM-4-0013",
@@ -278,7 +278,7 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true,
-      "isOutOfStock": true
+      "isOutOfStock": false
     }
   ]
 }
