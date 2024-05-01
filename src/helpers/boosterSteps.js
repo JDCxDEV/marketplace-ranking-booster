@@ -222,5 +222,19 @@ export const getRandomStartingUrl = (urls = []) =>{
   }
 }
 
+export const getSearchTextFromURL = (url) => {
+  try {
+      // Create a URL object
+      const parsedUrl = new URL(url);
+
+      // Get the value of the 'searchtext' parameter
+      const searchText = parsedUrl.searchParams.get('searchtext');
+
+      return searchText;
+  } catch (error) {
+      return null; // Return null if an error occurs
+  }
+}
+
 
 

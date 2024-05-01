@@ -182,16 +182,22 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       // Step: Go to product page
       await booster.addRandomTimeGap(3, 7);
 
-      const selector = `[data-config='{"product_id": "${productId}"}']`;
+      try {
+        const selector = `[data-config='{"product_id": "${productId}"}']`;
 
-      // Wait for the element to be present in the DOM
-      await page.waitForSelector(selector);
-    
-      // Click the element
-      await page.click(selector);
+        // Wait for the element to be present in the DOM
+        await page.waitForSelector(selector);
+      
+        // Click the element
+        await page.click(selector);
 
+      }catch(error) {
+        if(browser) {
+          await browser.close();
+        }
 
-      // await booster.findAndScrollToAnchorByHrefContent(page, searchText, browser);
+        return;
+      }
 
       await booster.addRandomTimeGap(3, 7);
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
@@ -201,14 +207,20 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       // Step: Add to wishlist & Add to cart
 
       try {
-        const willAddToWishlist = Math.floor(Math.random() * 2);
         await page.click(`[global-id="${productId}"]`);
         await booster.addRandomTimeGap(3, 7);
         await page.click('.modal__window--close-hitarea');
       }catch (error) {
+        if(steps == 'homepage') {
+          console.log(`error at ${productId} : keyword ${keyword}`)
+        }else {
+          const searchKeyword = booster.getSearchTextFromURL(link)
+          console.log(`error at ${productId} : keyword ${searchKeyword}`)
+        }
         if(browser) {
           await browser.close();
         }
+
 
         return;
       } 
