@@ -5,7 +5,7 @@
       "marketplace": "Bol.com", 
       "key": "VM-1",
       "name": "Virtual Machine 1",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 2,
@@ -19,21 +19,21 @@
       "marketplace": "Bol.com",
       "key": "VM-3",
       "name": "Virtual Machine 3",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 4,
       "marketplace": "Bol.com",
       "key": "VM-4",
       "name": "Virtual Machine 4",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 5,
       "marketplace": "Bol.com",
       "key": "VM-1",
       "name": "Virtual Machine 5",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 6,
