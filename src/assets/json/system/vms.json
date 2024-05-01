@@ -12,7 +12,7 @@
       "marketplace": "Bol.com",
       "key": "VM-2",
       "name": "Virtual Machine 2",
-      "steps": "homepage"
+      "steps": "per-page"
     },
     {
       "id": 3,
