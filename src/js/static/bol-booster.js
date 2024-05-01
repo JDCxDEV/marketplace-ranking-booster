@@ -220,8 +220,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         if(browser) {
           await browser.close();
         }
-
-
+        
         return;
       } 
 
