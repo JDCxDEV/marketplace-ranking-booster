@@ -201,7 +201,10 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         return;
       }
 
+      await booster.scrollDown(page);
       await booster.addRandomTimeGap(3, 7);
+      await page.waitForSelector('.product-item__content');
+
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
         await booster.scrollToRandomClass(page, '.product-item__content', browser);
       }
@@ -209,24 +212,12 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       // Step: Add to wishlist & Add to cart
 
       try {
+        await booster.scrollDown(page);
         await booster.addRandomTimeGap(5, 10);
         await page.waitForSelector(`[global-id="${productId}"]`);
-
-          await page.evaluate((selector) => {
-            const element = document.querySelector(selector);
-            if (element) {
-                element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
-            } else {
-                throw new Error(`Element with selector ${selector} not found`);
-            }
-        }, `[global-id="${productId}"]`);
         
         await booster.addRandomTimeGap(5, 10);
         await page.click(`[global-id="${productId}"]`);
-
-        await booster.addRandomTimeGap(5, 7);
-        await page.waitForSelector('.modal__window--close-hitarea');
-        await page.click('.modal__window--close-hitarea');
       }catch (error) {
         if(steps == 'homepage') {
           console.log(`error at ${productId} : keyword ${keyword}`)
@@ -240,6 +231,10 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         
         return;
       } 
+
+      await booster.addRandomTimeGap(10, 15);
+      await page.waitForSelector('.modal__window--close-hitarea');
+      await page.click('.modal__window--close-hitarea');
 
       
       await booster.addRandomTimeGap(3, 6);

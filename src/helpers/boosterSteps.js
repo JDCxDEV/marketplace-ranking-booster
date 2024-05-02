@@ -68,7 +68,7 @@ export const downloadProxies = async () => {
 
 export const scrollDown = async (page) => {
   await page.evaluate(() => {
-    const scrollStep = 50; // Adjust the scrolling step as needed
+    const scrollStep = 100; // Adjust the scrolling step as needed
     const scrollInterval = 100; // Adjust the scrolling interval (ms) as needed
 
     function smoothScroll() {
@@ -88,7 +88,7 @@ export const scrollDown = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 4000);
+    }, 8000);
   });
 }
 
