@@ -60,7 +60,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken",
         "https://www.bol.com/nl/nl/s/?searchtext=geluidsdempende+oordopjes",
         "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen",
-        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen"
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen+siliconen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -99,7 +100,7 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true,
-      "isOutOfStock": true
+      "isOutOfStock": false
     },
     {
       "id": "VM-2-0006",
@@ -112,8 +113,8 @@
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=robot+bouwpakket&view=list&filter_N=4297326722&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=bouwset",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=speelgoed&view=list&12194=26-27&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bouwset&view=list&12194=19-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=5&searchtext=speelgoed&view=list&12194=19-20&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -193,12 +194,12 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&12194=23-24&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=lichtstrip",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&filter_N=4296707626&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=rgb+led+strip",
         "https://www.bol.com/nl/nl/s/?searchtext=gaming+lights",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+voor+tv",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+2+meter",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+usb",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ambilight+strip&view=list&12194=23-24&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ambilight+strip&view=list&12194=23-24&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+tv"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -284,7 +285,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+3+meter",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+lamp&view=list&12194=55-56&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip+buiten",
-        "https://www.bol.com/nl/nl/s/?searchtext=neon+verlichting"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+verlichting&view=list&12194=55-56&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,

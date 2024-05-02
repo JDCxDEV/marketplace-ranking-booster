@@ -49,13 +49,18 @@
       "product": "Security Camera Black",
       "productId": "9200000124101802",
       "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
-      "keywords": ["beveiligingscamera's", "beveiligingscamera", "huisdiercamera"],
+      "keywords": ["beveiligingscamera's", "beveiligingscamera", "hondencamera", "beveiligingscamera binnen", "bewakingscamera voor binnen", "petcam", "huisdiercamera met app", "hondencamera met app", "indoor camera"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera+binnen",
-        "https://www.bol.com/nl/nl/s/?searchtext=hondencamera",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera+binnen&view=list&12194=36-37&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=hondencamera&view=list&12194=36-37&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera%27s",
-        "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera"
+        "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera",
+        "https://www.bol.com/nl/nl/s/?searchtext=petcam",
+        "https://www.bol.com/nl/nl/s/?searchtext=huisdiercamera+met+app",
+        "https://www.bol.com/nl/nl/s/?searchtext=hondencamera+met+app",
+        "https://www.bol.com/nl/nl/s/?searchtext=indoor+camera",
+        "https://www.bol.com/nl/nl/s/?searchtext=bewakingscamera+voor+binnen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -199,10 +204,10 @@
       "id": "VM-1-0012",
       "marketplace": "Bol.com",
       "product": "Security Camera White",
-      "productId": "9200000124101802",
+      "productId": "9300000163662072",
       "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
-      "keywords": ["waterfles", "drinkfles"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera+binnen", "https://www.bol.com/nl/nl/s/?searchtext=hondencamera", "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera%27s", "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera"],
+      "keywords": ["beveiligingscamera's", "beveiligingscamera", "hondencamera", "beveiligingscamera binnen", "bewakingscamera voor binnen", "petcam", "huisdiercamera met app", "hondencamera met app", "indoor camera"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=indoor+camera&view=list&12194=37-38&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     }
