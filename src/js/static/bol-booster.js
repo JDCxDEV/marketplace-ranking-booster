@@ -70,7 +70,6 @@ const initBooster = async (product, threadTimer = 360, steps) => {
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
     });
   }catch(error) {
-    console.log(error.message);
     return;
   }
 
@@ -129,13 +128,13 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-      await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(10, 20);
 
       // Step: Click Accept Terms button on init
       const acceptTermsButton = '#js-first-screen-accept-all-button';
       await page.waitForSelector(acceptTermsButton);
       await page.click(acceptTermsButton);
-      await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(10, 20);
 
       // Step: Click Accept Terms button on init
       const countryButton = '.js-country-language-btn';
@@ -175,6 +174,8 @@ const initBooster = async (product, threadTimer = 360, steps) => {
 
       }
 
+      await booster.scrollDown(page);
+
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
       }
@@ -183,6 +184,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       await booster.addRandomTimeGap(3, 7);
 
       try {
+        await booster.scrollDown(page);
         const selector = `[data-config='{"product_id": "${productId}"}']`;
 
         // Wait for the element to be present in the DOM
@@ -207,15 +209,18 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       // Step: Add to wishlist & Add to cart
 
       try {
+        await booster.addRandomTimeGap(5, 10);
+        await page.waitForSelector(`[global-id="${productId}"]`);
         await page.click(`[global-id="${productId}"]`);
-        await booster.addRandomTimeGap(3, 7);
+        await booster.addRandomTimeGap(5, 7);
+        await page.waitForSelector('.modal__window--close-hitarea');
         await page.click('.modal__window--close-hitarea');
       }catch (error) {
         if(steps == 'homepage') {
           console.log(`error at ${productId} : keyword ${keyword}`)
         }else {
           const searchKeyword = booster.getSearchTextFromURL(link)
-          console.log(`error at ${productId} : keyword ${searchKeyword}`)
+          console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
         }
         if(browser) {
           await browser.close();
@@ -245,7 +250,7 @@ export const triggerBolBooster = async (thread, product, steps = 'homepage') => 
   for (let index = 1; index <= thread; index++) {
     try {
 
-      let productThreads = 7;
+      let productThreads = 5;
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
@@ -270,7 +275,6 @@ export const triggerBolBooster = async (thread, product, steps = 'homepage') => 
         }).catch(error => {
           console.error('Error:', error.message);
         });
-  
       }catch(error) {
         return;
       }

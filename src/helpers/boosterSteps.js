@@ -103,8 +103,7 @@ export const scrollToRandomClass = async (page, elementClass, browser) => {
         element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
     }, randomProduct);
   }catch(error){
-    console.log(error.message);
-    await browser.close();
+    return;
   }
 };
 
