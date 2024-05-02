@@ -211,7 +211,19 @@ const initBooster = async (product, threadTimer = 360, steps) => {
       try {
         await booster.addRandomTimeGap(5, 10);
         await page.waitForSelector(`[global-id="${productId}"]`);
+
+          await page.evaluate((selector) => {
+            const element = document.querySelector(selector);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+            } else {
+                throw new Error(`Element with selector ${selector} not found`);
+            }
+        }, `[global-id="${productId}"]`);
+        
+        await booster.addRandomTimeGap(5, 10);
         await page.click(`[global-id="${productId}"]`);
+
         await booster.addRandomTimeGap(5, 7);
         await page.waitForSelector('.modal__window--close-hitarea');
         await page.click('.modal__window--close-hitarea');
