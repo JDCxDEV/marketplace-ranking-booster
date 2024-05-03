@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": "VM-3-0001",
+      "id": "VM-8-0001",
       "marketplace": "Bol.com",
       "product": "LED strip",
       "productId": "9300000003262228",
@@ -12,7 +12,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0002",
+      "id": "VM-8-0002",
       "marketplace": "Bol.com",
       "product": "BabyFoon Black",
       "productId": "9300000163662094",
@@ -23,7 +23,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0003",
+      "id": "VM-8-0003",
       "marketplace": "Bol.com",
       "product": "BabyFoon White",
       "productId": "9300000163662072",
@@ -34,7 +34,7 @@
       "isMostWantedList": false
     },
     {
-      "id": "VM-3-0004",
+      "id": "VM-8-0004",
       "marketplace": "Bol.com",
       "product": "Powerbank 1",
       "productId": "9300000160670428",
@@ -45,7 +45,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0005",
+      "id": "VM-8-0005",
       "marketplace": "Bol.com",
       "product": "Powerbank 2",
       "productId": "9300000160670427",
@@ -56,7 +56,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0006",
+      "id": "VM-8-0006",
       "marketplace": "Bol.com",
       "product": "Powerbank 3",
       "productId": "9300000160670426",
@@ -67,7 +67,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0007",
+      "id": "VM-8-0007",
       "marketplace": "Bol.com",
       "product": "Earplugs Party",
       "productId": "9300000165423620",
@@ -78,7 +78,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0008",
+      "id": "VM-8-0008",
       "marketplace": "Bol.com",
       "product": "Vegetable Cutter",
       "productId": "9300000032558171",
@@ -97,7 +97,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0009",
+      "id": "VM-8-0009",
       "marketplace": "Bol.com",
       "product": "Water bottle GR",
       "productId": "9300000022722259",
@@ -120,7 +120,7 @@
       "isPerPage": true
     },
     {
-      "id": "VM-3-0009",
+      "id": "VM-8-0010",
       "marketplace": "Bol.com",
       "product": "Spiral Cutter",
       "productId": "9200000129572821",
@@ -131,7 +131,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0010",
+      "id": "VM-8-0011",
       "marketplace": "Bol.com",
       "product": "BorstKolf",
       "productId": "9300000021841114",
