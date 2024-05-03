@@ -6,17 +6,18 @@
       "product": "Kitchen scale White",
       "productId": "9300000016708111",
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg – Tarra Functie - Wit",
-      "keywords": ["keukenweegschaal", "weegschaal keuken"],
+      "keywords": ["keukenweegschaal", "weegschaal keuken", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "precisie keukenweegschaal", "keuken weegschaal", "precisie weegschaal"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=keukenweegschaal&view=list",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&12194=24-25&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=keukenweegschaal+digitaal&view=list",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
         "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
         "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=17-18",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=keuken+weegschaal&view=list"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=24-25",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=24-25"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -27,7 +28,7 @@
       "product": "Kitchen scale USB",
       "productId": "9300000071469949",
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg – Tarra Functie - Zwart",
-      "keywords": ["keukenweegschaal", "weegschaal keuken"],
+      "keywords": ["keukenweegschaal", "weegschaal keuken", "keukenweegschaal digitaal", "digitale keukenweegschaal", "keukenweegschalen", "precisie keukenweegschaal", "keukenweegschaal oplaadbaar", "keuken weegschaal", "weegschaalkeuken", "precisie weegschaal"],
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal",
@@ -36,9 +37,10 @@
         "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
         "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=20-21",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=23-24",
         "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal",
-        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+oplaadbaar"
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+oplaadbaar",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken"
       ],
       "isRunning" : false,
       "isMostWantedList": true
