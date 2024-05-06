@@ -5,168 +5,184 @@
       "marketplace": "Bol.com", 
       "key": "VM-1",
       "name": "Virtual Machine 1",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 2,
       "marketplace": "Bol.com",
       "key": "VM-2",
       "name": "Virtual Machine 2",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 3,
       "marketplace": "Bol.com",
       "key": "VM-3",
       "name": "Virtual Machine 3",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 4,
       "marketplace": "Bol.com",
       "key": "VM-4",
       "name": "Virtual Machine 4",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 5,
       "marketplace": "Bol.com",
       "key": "VM-1",
       "name": "Virtual Machine 5",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 6,
       "marketplace": "Bol.com",
       "key": "VM-6",
       "name": "Virtual Machine 6",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 7,
       "marketplace": "Bol.com",
       "key": "VM-7",
       "name": "Virtual Machine 7",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 8,
       "marketplace": "Bol.com",
       "key": "VM-8",
       "name": "Virtual Machine 8",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 9,
       "marketplace": "Bol.com",
       "key": "VM-5",
       "name": "Virtual Machine 9",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 10,
       "marketplace": "Bol.com",
       "key": "VM-10",
       "name": "Virtual Machine 10",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 11,
       "marketplace": "Bol.com",
       "key": "VM-11",
       "name": "Virtual Machine 11",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 12,
       "marketplace": "Bol.com",
       "key": "VM-12",
       "name": "Virtual Machine 12",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 13,
       "marketplace": "Bol.com",
       "key": "VM-1",
       "name": "Virtual Machine 13",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     }, 
     {
       "id": 14,
       "marketplace": "Bol.com",
       "key": "VM-2",
       "name": "Virtual Machine 14",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 15,
       "marketplace": "Bol.com",
       "key": "VM-3",
       "name": "Virtual Machine 15",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     }, 
     {
       "id": 16,
       "marketplace": "Bol.com",
       "key": "VM-4",
       "name": "Virtual Machine 16",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 17,
       "marketplace": "Bol.com",
       "key": "VM-17",
       "name": "Virtual Machine 17",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 18,
       "marketplace": "Bol.com",
       "key": "VM-18",
       "name": "Virtual Machine 18",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 19,
       "marketplace": "Bol.com",
       "key": "VM-19",
       "name": "Virtual Machine 19",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 20,
       "marketplace": "Bol.com",
       "key": "VM-20",
       "name": "Virtual Machine 20",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 21,
       "marketplace": "Bol.com",
       "key": "VM-21",
       "name": "Virtual Machine 21",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 22,
       "marketplace": "Bol.com",
       "key": "VM-22",
       "name": "Virtual Machine 22",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     },
     {
       "id": 23,
       "marketplace": "Blokker.nl",
       "key": "VM-BLOKKER-1",
       "name": "Virtual Machine 23",
-      "steps": "per-page"
-    },
-    {
-      "id": 24,
-      "marketplace": "Bol.com",
-      "key": "VM-23",
-      "name": "Virtual Machine 23",
-      "steps": "per-page"
+      "steps": "per-page",
+      "proxy": "ip-royal-nl"
     }
   ]
 }

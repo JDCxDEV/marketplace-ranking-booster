@@ -3,8 +3,9 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
+import * as proxies from '../../helpers/proxies.js';
 
-const initBooster = async (product, threadTimer = 360, steps) => {
+const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => {
   
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
@@ -36,7 +37,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   }
 
   const productId = product.productId
-  const proxy = await booster.getRandomProxy('proxies-nl')
+  const proxy = await proxies.getAssignedProxies(proxyProvider)
 
   // Create random user-agent to be set through plugin
   const userAgent = new UserAgent({ deviceCategory: 'desktop' });
@@ -49,12 +50,14 @@ const initBooster = async (product, threadTimer = 360, steps) => {
     stripHeadless: true,
     makeWindows: false,
   }));
+
+  console.log(proxy)
     
   try {
     browser = await puppeteer.launch({ 
       headless: false,
       args: [
-        `--proxy-server=${proxy}`,
+        `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
         '--ignore-certificate-errors',
         '--single-process',
@@ -76,8 +79,8 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   let page = null;
   let content = null;
   
-  const username = 'sp54szgndr';
-  const password = 'y6p7gahxuATr2SBp4_';
+  const username = proxy.username;
+  const password = proxy.password;
 
   try {
 
@@ -306,7 +309,7 @@ const dynamicallyImportJsonFile = async (file)  => {
   return jsonObject
 }
 
-export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage') => {
+export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {}) => {
 
   await booster.addRandomTimeGap(1, 3)
 
@@ -326,7 +329,7 @@ export const triggerAllBolBooster = async (thread, currentVM, steps = 'homepage'
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
           await booster.addRandomTimeGap(2, 2);
-          currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : steps));
+          currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
       
         const timeoutMilliseconds = 300000; // 5 minutes

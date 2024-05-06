@@ -33,7 +33,7 @@ const getRequestTriggerBooster = async (req, res) => {
         const vm = vmJsonFile.vms.find(item => item.key === currentVM);
         
         if (currentMP === 'bol') {
-            triggerAllBolBooster(thread, currentVM, vm?.steps);
+            triggerAllBolBooster(thread, currentVM, vm);
         } else if (currentMP === 'kaufland') {
             triggerAllBolKaufland(thread, currentVM);
         }else if (currentMP === 'blokker') {
