@@ -50,8 +50,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
     stripHeadless: true,
     makeWindows: false,
   }));
-
-  console.log(proxy)
     
   try {
     browser = await puppeteer.launch({ 
@@ -217,10 +215,15 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       try {
         await booster.scrollDown(page);
         await booster.addRandomTimeGap(5, 10);
-        await page.waitForSelector(`[global-id="${productId}"]`);
         
+        // await page.waitForSelector(`[global-id="${productId}"]`);
+        // await booster.addRandomTimeGap(5, 10);
+        // await page.click(`[global-id="${productId}"]`);
+
+        await page.waitForSelector('.ui-btn--favorite');
         await booster.addRandomTimeGap(5, 10);
-        await page.click(`[global-id="${productId}"]`);
+        await page.click('.ui-btn--favorite');
+       
       }catch (error) {
         if(steps == 'homepage') {
           console.log(`error at ${productId} : keyword ${keyword}`)
