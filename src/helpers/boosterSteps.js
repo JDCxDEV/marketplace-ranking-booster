@@ -47,6 +47,13 @@ const openProxiesFile = async (fileName = 'proxies') => {
 
   return arr[(Math.floor(Math.random() * arr.length))]
 }
+
+const cleanText = (text) => {
+  text = text.trim();
+
+  text = text.replace(/^'|',?$/g, '');
+  return text;
+}
   
 export const getRandomProxy = async (fileName) => {
     let proxies = null;
@@ -59,7 +66,7 @@ export const getRandomProxy = async (fileName) => {
         }
     }
 
-    return proxies
+    return cleanText(proxies)
 }
 
 export const downloadProxies = async () => {
@@ -234,6 +241,7 @@ export const getSearchTextFromURL = (url) => {
       return null; // Return null if an error occurs
   }
 }
+
 
 
 

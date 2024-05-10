@@ -159,34 +159,6 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-11-0006",
-        "marketplace": "Bol.com",
-        "product": "ComfyCentre Matrasbeschermer",
-        "productId": "9300000076504065",
-        "productTitle": "ComfyCentre Matrasbeschermer Waterdicht 90x200cm - Hoogwaardige Matrashoes - Incontinentie Onderleggers - Waterdichte Hoeslaken voor Matras - Bedovertrek - Volledig Dekkend",
-        "keywords": 
-        [
-          "incontinentie onderleggers", "matrashoes", "bedovertrek", "matrasbeschermer", "hoeslaken",
-          "dekbedovertrek", "dekbedovertrek 90x200", "hoeslaken 90x200", "dekbedovertrekken", "matrasovertrek",
-          "matrasbeschermer 90x200"
-        ],
-        "prioKeywords": ["matrasbeschermer", "hoeslaken", "dekbedovertrek"],
-        "keywordLink": 
-        [
-          "https://www.bol.com/nl/nl/s/?page=3&searchtext=incontinentie+onderleggers&view=list",
-          "https://www.bol.com/nl/nl/s/?page=5&searchtext=matrashoes&view=list",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=bedovertrek&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matrasbeschermer&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=hoeslaken&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=dekbedovertrek&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=dekbedovertrekken&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?searchtext=matrasovertrek"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true,
-        "isOutOfStock": true
-      },
-      {
         "id": "VM-11-0007",
         "marketplace": "Bol.com",
         "product": "ComfyCentre Ergonomisch Rugkussen",

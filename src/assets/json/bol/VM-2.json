@@ -22,27 +22,6 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0002", 
-      "marketplace": "Bol.com",
-      "product": "Sleepglasses Yellow",
-      "productId": "9300000074423396",
-      "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Geel Kleurige Lenzen – Voor Overdag of ‘s Avonds – Wraparound Fitting - Licht Gewicht - Blue Light Glasses Blokkeert Blauw Licht tot 75%",
-      "keywords": ["blue light glasses", "computerbril", "beeldschermbril", "bluelight glasses", "blue light bril", "blue light glasses zonder sterkte", "blue light bril zonder sterkte", "blue light blocking glasses"],
-      "prioKeywords": ["blue light glasses", "computerbril"],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=blue+light+glasses&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=computerbril&view=list&filter_N=7557062794&rating=all", 
-        "https://www.bol.com/nl/nl/s/?searchtext=beeldschermbril",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=bluelight+glasses&view=list",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=blue+light+bril&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=blue+light+blocking+glasses&view=list&12194=21-22&rating=all"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true,
-      "isOutOfStock": true
-    },
-    {
       "id": "VM-2-0003",
       "marketplace": "Bol.com",
       "product": "Earplugs",
@@ -64,24 +43,6 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true
-    },
-    {
-      "id": "VM-2-0004",
-      "marketplace": "Bol.com",
-      "product": "Robot 1 - Unbranded",
-      "productId": "9300000039131026",
-      "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 356 bouwstenen",
-      "keywords": ["robot bouwpakket", "robot speelgoed jongens", "robot speelgoed"],
-      "prioKeywords": ["robot speelgoed"],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket",
-        "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed+jongens",
-        "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true,
-      "isOutOfStock": true
     },
     {
       "id": "VM-2-0005",
