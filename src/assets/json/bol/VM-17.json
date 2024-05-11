@@ -51,6 +51,95 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true
+      },
+      {
+        "id": "VM-7-0004",
+        "marketplace": "Bol.com",
+        "product": "Camera BagPack",
+        "productId": "9300000155114539",
+        "productTitle": "Tedroka® professionele camerarugzak&reistas- waterdichte universele cameratas -laptoptas- anti-diefstal waterafstotend",
+        "keywords": ["actioncam beschermhoezen", "cameratassen", "cameratas", "cameratassen", "cameratas spiegelreflexcamera"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?searchtext=cameratassen",
+          "https://www.bol.com/nl/nl/s/?searchtext=cameratas",
+          "https://www.bol.com/nl/nl/s/?searchtext=cameratassen",
+          "https://www.bol.com/nl/nl/s/?searchtext=cameratas+spiegelreflexcamera"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-7-0005",
+        "marketplace": "Bol.com",
+        "product": "Drone C-Fly-Mini",
+        "productId": "9300000156268265",
+        "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen&draagbaretas en 64 GB SD kaart",
+        "keywords": ["drones", "drone", "drone met camera"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?searchtext=drones",
+          "https://www.bol.com/nl/nl/s/?searchtext=drone", 
+          "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": false,
+        "isPerPage": true
+      },
+      {
+        "id": "VM-7-0006",
+        "marketplace": "Bol.com",
+        "product": "Drone C-Fly-Mini With Powerbank",
+        "productId": "9300000160202760",
+        "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera | Vliegtijd van 52 minuten | FPV Borstelloze Drone | Professionele Drone | 4K UHD-video | inclusief 2 batterijen, powerbank 10.000 mah&draagbaretas en 64 GB SD kaart",
+        "keywords": ["drones", "drone", "drone met camera"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?searchtext=drones",
+          "https://www.bol.com/nl/nl/s/?searchtext=drone", 
+          "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true,
+        "isPerPage": true
+      },
+      {
+        "id": "VM-7-0007",
+        "marketplace": "Bol.com",
+        "product": "Drone K911Max",
+        "productId": "9300000119994059",
+        "productTitle": "Tedroka® K911 Max-Drone met 4K camera- Drone met obstakelvermijding -Inclusief GPS-Drone met camera voor volwassenen-Geen vliegbewijs nodig-800 m bereik -Borstelloze motoren-Inclusief draagbare tas, twee batterijen",
+        "keywords": ["drone met camera", "drone", "drones"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?searchtext=drones",
+          "https://www.bol.com/nl/nl/s/?searchtext=drone", 
+          "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-7-0008",
+        "marketplace": "Bol.com",
+        "product": "Drone with GPS 4K Camera",
+        "productId": "9300000168665744",
+        "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera - vliegtijd 52 minuten - 4K UHD-video - inclusief 2 batterijen, Tedroka® cameratas, draagbare tas & SD kaart",
+        "keywords": ["drone met camera", "drone", "drones"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera",
+          "https://www.bol.com/nl/nl/s/?searchtext=drone",
+          "https://www.bol.com/nl/nl/s/?searchtext=drones"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true,
+        "isPerPage": true
       }
     ]
   }
