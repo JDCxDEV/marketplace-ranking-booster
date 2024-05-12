@@ -9,10 +9,9 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 18mm"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+18mm"
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -27,10 +26,10 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 22mm"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+22mm&view=list&12194=11-12&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes",
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+22mm"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -45,10 +44,10 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
           "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&12194=11-12&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes",
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+20mm"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -66,7 +65,7 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&12194=11-12&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+22mm&view=list&12194=11-12&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+22mm"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
