@@ -216,13 +216,13 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         await booster.scrollDown(page);
         await booster.addRandomTimeGap(5, 10);
         
-        // await page.waitForSelector(`[global-id="${productId}"]`);
-        // await booster.addRandomTimeGap(5, 10);
-        // await page.click(`[global-id="${productId}"]`);
-
-        await page.waitForSelector('.ui-btn--favorite');
+        await page.waitForSelector(`[global-id="${productId}"]`);
         await booster.addRandomTimeGap(5, 10);
-        await page.click('.ui-btn--favorite');
+        await page.click(`[global-id="${productId}"]`);
+
+        // await page.waitForSelector('.ui-btn--favorite');
+        // await booster.addRandomTimeGap(5, 10);
+        // await page.click('.ui-btn--favorite');
        
       }catch (error) {
         if(steps == 'homepage') {
