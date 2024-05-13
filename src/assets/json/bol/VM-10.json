@@ -3,37 +3,27 @@
     {
       "id": "VM-10-0001",
       "marketplace": "Bol.com",
-      "product": "8719325643893",
-      "productId": "9200000124366828",
-      "productTitle": "SmartphoneClip® Bandje kalfsleer bruin Bandje geschikt voor Apple Watch Bandje 42, 44, 45, & 49mm (alle generaties)",
-      "keywords": ["apple watch bandje", "bandje apple watch", "apple watch bandje 42 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "apple watch bandje 49 mm", "bandje apple watch 44 mm"],
+      "product": "",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [""],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&12194=20-909&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&12194=20-21&rating=all"
+        ""
       ],
-      "isRunning" : false,
+      "isRunning" : false, 
       "isMostWantedList": true
     },
     {
       "id": "VM-10-0002",
       "marketplace": "Bol.com",
-      "product": "8719325643930",
-      "productId": "9200000120923914",
-      "productTitle": "SmartphoneClip® Leer leopard Bandje geschikt voor Apple Watch 38mm, 40 mm en 41mm",
-      "keywords": ["apple watch bandje 41 mm", "bandje apple watch 40mm", "apple watch bandje 40 mm", "apple watch bandje 38 mm", "bandje apple watch", "apple watch bandje"],
+      "product": "",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [""],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+41+mm&view=list&12194=17-18&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&12194=17-18&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&12194=17-18&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&12194=17-18&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=17-18&rating=all"
+        ""
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -47,13 +37,13 @@
       "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "bandje apple watch", "apple watch bandje 42 mm", "apple watch bandje 49 mm", "bandje apple watch 44 mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje",
         "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+44+mm",
         "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+45+mm",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=bandje+apple+watch",
         "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+42+mm",
         "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+49+mm",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&12194=20-21&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=bandje+apple+watch+44+mm"
       ],
       "isRunning" : false,
       "isMostWantedList": true
