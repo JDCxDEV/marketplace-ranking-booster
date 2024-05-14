@@ -23,9 +23,9 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogeband&view=list&12194=11-12&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogebandje&view=list&12194=11-12&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogebandjes&view=list&12194=11-12&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&12194=11-12&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -59,12 +59,12 @@
       "keywords": ["apple watch bandje", "bandje apple watch", "apple watch bandje 38 mm", "apple watch bandje 40 mm", "bandje apple watch 40mm", "apple watch bandje 41 mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=3&searchtext=apple+watch+bandje&view=list",
-        "https://www.bol.com/nl/nl/s/?page=3&searchtext=bandje+apple+watch&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+38+mm&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+40+mm&view=list",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=17-18&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&12194=17-18&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&12194=17-18&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&12194=17-18&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=bandje+apple+watch+40mm",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+41+mm&view=list"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+41+mm&view=list&12194=17-18&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -78,11 +78,11 @@
       "keywords": ["apple watch bandje", "apple watch bandje 38 mm", "apple watch bandje 40 mm", "bandje apple watch", "apple watch bandje 41 mm", "bandje apple watch 40mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+38+mm&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+40+mm&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=bandje+apple+watch&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+41+mm&view=list",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+41+mm&view=list&12194=11-12&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=bandje+apple+watch+40mm"
       ],
       "isRunning" : false,
@@ -148,13 +148,13 @@
       "keywords": ["apple watch bandje", "apple watch bandje 42 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "bandje apple watch", "apple watch bandje 49 mm", "bandje apple watch 44 mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=5&searchtext=apple+watch+bandje&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+42+mm&view=list",
-        "https://www.bol.com/nl/nl/s/?page=3&searchtext=apple+watch+bandje+44+mm&view=list",
-        "https://www.bol.com/nl/nl/s/?page=3&searchtext=apple+watch+bandje+45+mm&view=list",
-        "https://www.bol.com/nl/nl/s/?page=5&searchtext=bandje+apple+watch&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=apple+watch+bandje+49+mm&view=list",
-        "https://www.bol.com/nl/nl/s/?page=3&searchtext=bandje+apple+watch+44+mm&view=list"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&12194=11-12&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -168,7 +168,7 @@
       "keywords": ["fitbit bandje", "fitbit charge 2 bandje", "fitbit bandje charge 2"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=6&searchtext=fitbit+bandje&view=list&12194=13-14&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=13-14&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+2+bandje&view=list&12194=13-14&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&12194=13-14&rating=all"
       ],
@@ -184,8 +184,8 @@
       "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje", "bandje samsung galaxy watch 3"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=4&searchtext=galaxy+watch+bandje&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=samsung+galaxy+watch+bandje&view=list&12194=18-19&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=18-19&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=18-19&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&12194=18-19&rating=all"
       ],
       "isRunning" : false,
@@ -231,9 +231,9 @@
       "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje", "bandje samsung galaxy watch 3"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=samsung+galaxy+watch+bandje&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=samsung+galaxy+watch+bandje&view=list",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=bandje+samsung+galaxy+watch+3&view=list"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=19-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=19-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&12194=19-20&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -247,7 +247,7 @@
       "keywords": ["fitbit bandje", "fitbit versa 4 bandje", "fitbit versa bandje", "fitbit sense 2 bandje", "fitbit sense bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=fitbit+bandje&view=list&12194=16-17&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=16-17&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+4+bandje&view=list&12194=16-17&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&12194=16-17&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+2+bandje&view=list&12194=16-17&rating=all",
@@ -259,14 +259,15 @@
     {
       "id": "VM-10-0016",
       "marketplace": "Bol.com",
-      "product": "8719325643091",
-      "productId": "9200000114663526",
-      "productTitle": "SmartphoneClip® Metaal schakel Dots Zwart bandje geschikt voor Samsung Galaxy Watch 46mm",
-      "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "product": "8719325643756",
+      "productId": "9200000118022460",
+      "productTitle": "SmartphoneClip® Leer Bruin Ibiza style bandje geschikt voor Samsung Galaxy Watch 46mm en Gear S3",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=17-18&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=17-18&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&12194=22-23&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -280,8 +281,8 @@
       "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=17-18&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=17-18&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=galaxy+watch+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=samsung+galaxy+watch+bandje"
     ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -296,8 +297,8 @@
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&12194=16-17&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=galaxy+watch+bandje&view=list&12194=16-17&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=samsung+galaxy+watch+bandje&view=list&12194=16-17&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=16-17&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=16-17&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -305,14 +306,15 @@
     {
       "id": "VM-10-0019",
       "marketplace": "Bol.com",
-      "product": "8719325643022",
-      "productId": "9200000114664235",
-      "productTitle": "SmartphoneClip® Leer zwart Samsung galaxy watch bandje geschikt voor Samsung Galaxy Watch 42mm, Galaxy Watch Active/Active 2, Samsung Gear Sport",
-      "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje"],
+      "product": "8719325643671",
+      "productId": "9200000116697764",
+      "productTitle": "SmartphoneClip® Bruin leer/siliconen Bandje geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=galaxy+watch+bandje&view=list&12194=17-18&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=2&searchtext=samsung+galaxy+watch+bandje&view=list&12194=17-18&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=22-23&rating=all",
+        ""
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -350,7 +352,7 @@
       "productId": "9200000104601055",
       "productTitle": "SmartphoneClip® Sportbandje geschikt voor Polar A360 / A370 neongroen",
       "keywords": ["sport bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=7&searchtext=sport+bandje&view=list&12194=13-14&rating=all"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=sport+bandje&view=list&filter_N=4278199321&12194=13-14&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -361,7 +363,7 @@
       "productId": "9200000132444058",
       "productTitle": "SmartphoneClip® Leer Zwart bandje geschikt voor TomTom Runner 3 / Spark 3",
       "keywords": ["tomtom bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=tomtom+bandje&view=list&12194=13-14&rating=all"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=tomtom+bandje"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -372,7 +374,7 @@
       "productId": "9200000097872452",
       "productTitle": "SmartphoneClip® Sportbandje Grijs Large geschikt voor Polar M400 of M430",
       "keywords": ["sport bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=2&searchtext=sport+bandje&view=list&12194=15-16"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=sport+bandje&view=list&filter_N=4278199321&12194=15-16&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -383,7 +385,7 @@
       "productId": "9300000132278718",
       "productTitle": "SmartphoneClip® Milanees Bandje Zilver geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&12194=11-12&rating=all"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -394,7 +396,7 @@
       "productId": "9300000132278720",
       "productTitle": "SmartphoneClip® Milanees Zwart Bandje geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&12194=14-15&rating=all"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -437,7 +439,7 @@
       "productId": "9300000132278857",
       "productTitle": "SmartphoneClip® Leer Zwart Bandje geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&12194=12-13&rating=all"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
       "isRunning" : false,
       "isMostWantedList": true
     }
