@@ -94,9 +94,9 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogeband&view=list",
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogebandje&view=list",
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=horlogebandjes&view=list"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&12194=14-15&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&12194=14-15&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&12194=14-15&rating=all"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -485,7 +485,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=fitbit+sense+bandje",
           "https://www.bol.com/nl/nl/s/?searchtext=fitbit+versa+bandje",
           "https://www.bol.com/nl/nl/s/?searchtext=fitbit+versa+3+bandje",
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=fitbit+bandje&view=list"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=18-19&rating=all"
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -500,7 +500,7 @@
         "keywords": ["fitbit bandje", "fitbit charge 5 bandje", "fitbit charge 6 bandje", "fitbit bandje charge 5"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=2&searchtext=fitbit+bandje&view=list&12194=17-18&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&12194=17-18&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+5+bandje&view=list&12194=17-18&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+6+bandje&view=list&12194=17-18&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+5&view=list&12194=17-18&rating=all"

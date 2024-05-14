@@ -18,7 +18,7 @@
       "productId": "4562316",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg - Zwart",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen", "https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -29,7 +29,7 @@
       "productId": "4562315",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Zwart",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen", "https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -40,7 +40,7 @@
       "productId": "4562314",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Wit",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen", "https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -122,22 +122,6 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-1-0010",
-      "marketplace": "Blokker.nl",
-      "product": "Earplugs",
-      "productId": "4562325",
-      "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - Zwart",
-      "keywords": ["oordoppen", "oordopjes slapen", "oordoppen slapen"],
-      "keywordLink":
-      [
-        "https://www.blokker.nl/search?q=oordoppen",
-        "https://www.blokker.nl/search?q=oordopjes%20slapen",
-        "https://www.blokker.nl/search?q=oordoppen%20slapen"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
       "id": "VM-1-0011",
       "marketplace": "Blokker.nl",
       "product": "Vegetable Cutter",
@@ -161,7 +145,8 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles",
         "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
@@ -176,7 +161,8 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles",
         "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
@@ -191,7 +177,8 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles",
         "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
@@ -206,8 +193,9 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
-        "https://www.blokker.nl/drinkflessen/groen?pmin=0%2C00"
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles",
+        "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -222,7 +210,8 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles",
         "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
@@ -237,8 +226,9 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=waterfles&pmin=22&pmax=23",
-        "https://www.blokker.nl/search?q=drinkflessen"
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles",
+        "https://www.blokker.nl/drinkflessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -268,45 +258,10 @@
       "keywords": ["bluetooth oordopjes", "Draadloze Oordopjes", "Oordopjes Draadloos", "Sport Oordopjes", "oortjes"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=oortjes&pmin=25&pmax=26",
         "https://www.blokker.nl/search?q=Draadloze%20Oordopjes",
-        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos&pmin=25&pmax=26",
+        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos",
         "https://www.blokker.nl/search?q=Sport%20Oordopjes",
-        "https://www.blokker.nl/search?q=oortjes&pmin=25&pmax=26"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0020",
-      "marketplace": "Blokker.nl",
-      "product": "Earphone 4",
-      "productId": "4562321",
-      "productTitle": "QuchiQ Draadloze Bluetooth-oordopjes: in het oor, sport, ruisonderdrukking, microfoon, compatibel met iPhone/Samsung",
-      "keywords": ["Draadloze Oordopjes", "bluetooth oordopjes", "Oordopjes Draadloos", "oortjes draadloos", "oortjes"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=Draadloze%20Oordopjes&pmin=27&pmax=28",
-        "https://www.blokker.nl/search?q=bluetooth%20oordopjes&pmin=27&pmax=28",
-        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos&pmin=27&pmax=28",
-        "https://www.blokker.nl/search?q=oortjes%20draadloos&pmin=27&pmax=28",
-        "https://www.blokker.nl/search?q=Sport%20Oordopjes",
-        "https://www.blokker.nl/search?q=oortjes&pmin=27&pmax=28"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0021",
-      "marketplace": "Blokker.nl",
-      "product": "Earplugs Party",
-      "productId": "4569993",
-      "productTitle": "QuchiQ Oordoppen - Slaap Oordoppen - Partyplug - Siliconen plug met filter - 23 dB protection",
-      "keywords": ["oordoppen", "oordoppen slapen", "oordopjes slapen"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=oordoppen&pmin=15&pmax=16",
-        "https://www.blokker.nl/search?q=oordoppen%20slapen&pmin=15&pmax=16"
+        "https://www.blokker.nl/search?q=oortjes&pmin=29&pmax=30"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -320,9 +275,9 @@
       "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera", "babyfoon"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=beveiligingscamera&pmin=33&pmax=34",
-        "https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=33&pmax=34",
-        "https://www.blokker.nl/search?q=huisdiercamera&pmin=33&pmax=34"
+        "https://www.blokker.nl/search?q=beveiligingscamera&pmin=36&pmax=37",
+        "https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=36&pmax=37",
+        "https://www.blokker.nl/search?q=huisdiercamera&pmin=36&pmax=37"
       ],
       "isRunning" : false,
       "isMostWantedList": true
