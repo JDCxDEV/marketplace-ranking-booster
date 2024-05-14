@@ -2,9 +2,10 @@ import puppeteer from 'puppeteer-extra';
 import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
-import * as booster  from '../../helpers/boosterSteps.js'
+import * as booster  from '../../helpers/boosterSteps.js';
+import * as proxies from '../../helpers/proxies.js';
 
-const initBooster = async (product, threadTimer = 360, steps) => {
+const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => {
   
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
@@ -37,7 +38,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   }
 
   const productId = product.productId
-  const proxy = await booster.getRandomProxy('proxies-nl')
+  const proxy = await proxies.getAssignedProxies(proxyProvider)
 
   // Create random user-agent to be set through plugin
   const userAgent = new UserAgent({ deviceCategory: 'desktop' });
@@ -55,7 +56,7 @@ const initBooster = async (product, threadTimer = 360, steps) => {
     browser = await puppeteer.launch({ 
       headless: false,
       args: [
-        `--proxy-server=${proxy}`,
+        `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
         '--ignore-certificate-errors',
         '--single-process',
@@ -78,8 +79,8 @@ const initBooster = async (product, threadTimer = 360, steps) => {
   let page = null;
   let content = null;
   
-  const username = 'sp54szgndr';
-  const password = 'y6p7gahxuATr2SBp4_';
+  const username = proxy.username;
+  const password = proxy.password;
 
   try {
 
@@ -133,14 +134,16 @@ const initBooster = async (product, threadTimer = 360, steps) => {
 
       await booster.addRandomTimeGap(6, 10);
 
-      // Step: Click Accept Terms button on init
-      // await booster.addRandomTimeGap(3, 6);
-      // const acceptTermsButton = '.js-cookie-button';
-      // await page.waitForSelector(acceptTermsButton);
-      // await page.click(acceptTermsButton);
-      // await booster.addRandomTimeGap(3, 6);
-
-
+      try {
+        const promoModal = '.js-content-modal-close';
+        
+        await page.waitForSelector(promoModal, { timeout: 10000 });
+        
+        await page.click(promoModal);
+        await booster.addRandomTimeGap(3, 6);
+      } catch (error) {
+          // no modal
+      }
 
       await booster.scrollDown(page);
       await booster.addRandomTimeGap(3, 6);
@@ -160,7 +163,6 @@ const initBooster = async (product, threadTimer = 360, steps) => {
           await page.type('.search-field', keyword, {delay: 300});
 
           // Step: Search Product
-
           try {
             await booster.addRandomTimeGap(3, 7);
             await page.keyboard.press('Enter');
@@ -233,7 +235,7 @@ const dynamicallyImportJsonFile = async (file)  => {
   return jsonObject
 }
 
-export const triggerAllBlokkerBooster = async (thread, currentVM, steps = 'homepage') => {
+export const triggerAllBlokkerBooster = async (thread, currentVM, virtualMachine = {}) => {
 
   await booster.addRandomTimeGap(1, 3)
 
@@ -253,7 +255,7 @@ export const triggerAllBlokkerBooster = async (thread, currentVM, steps = 'homep
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
           await booster.addRandomTimeGap(2, 2);
-          currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : steps));
+          currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
       
         const timeoutMilliseconds = 300000; // 5 minutes

@@ -10,7 +10,7 @@ const initBooster = async (product, threadTimer = 300) => {
   const keyword = booster.getRandomKeyword(product.keywords) 
   const link = 'https://www.kaufland.de/'
   const productLink =  product.productId
-  const proxy = await booster.getRandomProxy('proxies-de')
+  const proxy = await proxies.getAssignedProxies(proxyProvider)
 
   // Set a timer to close the browser and the method after the specified duration
 
@@ -46,7 +46,7 @@ const initBooster = async (product, threadTimer = 300) => {
     browser = await puppeteer.launch({ 
       headless: false,
       args: [
-        `--proxy-server=${proxy}`,
+        `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
         '--ignore-certificate-errors',
         '--single-process',
@@ -66,8 +66,8 @@ const initBooster = async (product, threadTimer = 300) => {
     return;
   }
 
-  const username = 'uxelthrc-rotate';
-  const password = 'zqb4oopibzo2';
+  const username = proxy.username;
+  const password = proxy.password;
 
   let page = null;
 

@@ -37,7 +37,7 @@ const getRequestTriggerBooster = async (req, res) => {
         } else if (currentMP === 'kaufland') {
             triggerAllBolKaufland(thread, currentVM);
         }else if (currentMP === 'blokker') {
-            triggerAllBlokkerBooster(thread, currentVM, vm?.steps);
+            triggerAllBlokkerBooster(thread, currentVM, vm);
         }
     }
 
