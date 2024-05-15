@@ -15,8 +15,8 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=donut%20kussen",
-        "https://www.blokker.nl/search?q=donut&pmin=31&pmax=32",
-        "https://www.blokker.nl/search?q=zitring&pmin=31&pmax=32",
+        "https://www.blokker.nl/search?q=donut",
+        "https://www.blokker.nl/search?q=zitring",
         "https://www.blokker.nl/search?q=zitring%20kussen",
         "https://www.blokker.nl/search?q=donut%20kussen%20stuitje",
         "https://www.blokker.nl/search?q=donut%20kussen%20piercing"
@@ -52,7 +52,9 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/opbergmanden?pmin=37&pmax=38",
+        "https://www.blokker.nl/opbergmanden?pmin=37&pmax=38",
         "https://www.blokker.nl/search?q=wasmand%20zwart&pmin=37&pmax=38",
+        "https://www.blokker.nl/opbergmanden?pmin=37&pmax=38",
         "https://www.blokker.nl/search?q=opbergmand%20zwart&pmin=37&pmax=38"
       ],
       "isRunning" : false,
@@ -64,11 +66,12 @@
       "product": "Opbergmand Orebro",
       "productId": "4581420",
       "productTitle": "Sophie Nordinn Mand - Opbergmand Orebro (Graanschil Katoen/zwart) - Milieuvriendelijk Plantenmand",
-      "keywords": ["opbergmand", "mand", "plantenmand", "plantenmand binnen"],
+      "keywords": ["opbergmanden", "mand", "plantenmand", "plantenmand binnen"],
       "keywordLink": 
       [
+        "https://www.blokker.nl/opbergmanden?pmin=22&pmax=23",
         "https://www.blokker.nl/search?q=mand&pmin=22&pmax=23",
-        "https://www.blokker.nl/search?q=plantenmand&pmin=22&pmax=23"
+        "https://www.blokker.nl/search?q=plantenmand"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -82,6 +85,7 @@
       "keywords": ["wasmand", "opbergmand", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
         "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
         "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
       ],
@@ -98,7 +102,9 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/opbergmanden?pmin=24&pmax=25",
-        "https://www.blokker.nl/search?q=mand&pmin=24&pmax=25"
+        "https://www.blokker.nl/search?q=mand&pmin=24&pmax=25",
+        "https://www.blokker.nl/opbergmanden?pmin=24&pmax=25",
+        "https://www.blokker.nl/opbergmanden?pmin=24&pmax=25"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -106,13 +112,13 @@
     {
       "id": "VM-2-0051",
       "marketplace": "Blokker.nl",
-      "product": "LED strip RGB 40m",
-      "productId": "4562253",
-      "productTitle": "Lideka Slimme RGB LED Strip 40 M",
-      "keywords": ["led strip 40 meter"],
+      "product": "",
+      "productId": "",
+      "productTitle": "",
+      "keywords": [""],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=LED%20strip%20RGB%2040m"
+        ""
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -126,11 +132,11 @@
       "keywords": ["schort", "keukenschort dames", "keukenschort", "keukenschorten", "keukenshort", "kookschort", "keukenschort vrouw", "kookschort mannen", "kookschort dames"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=schort&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=keukenschort&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=keukenschorten&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=kookschort&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=keukenschort%20vrouw&pmin=10&pmax=11",
+        "https://www.blokker.nl/search?q=schort",
+        "https://www.blokker.nl/search?q=keukenschort",
+        "https://www.blokker.nl/search?q=keukenschorten",
+        "https://www.blokker.nl/search?q=kookschort",
+        "https://www.blokker.nl/search?q=keukenschort%20vrouw",
         "https://www.blokker.nl/search?q=kookschort%20mannen"
       ],
       "isRunning" : false,
@@ -139,18 +145,18 @@
     {
       "id": "VM-2-0053",
       "marketplace": "Blokker.nl",
-      "product": "Keukenschort Malmö (Roze)",
+      "product": "Kitchen Apron Women -  Roze",
       "productId": "4581423",
       "productTitle": "Sophie Nordinn Keukenschort Dames - Schorten voor Vrouwen en Mannen/Kookschort voor Vrouw/87 x 77 cm",
       "keywords": ["schort", "keukenschort dames", "keukenschort", "keukenschorten", "keukenshort", "kookschort", "keukenschort vrouw", "kookschort mannen", "kookschort dames"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=schort&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=keukenschort%20dames&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=keukenschort&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=keukenschorten&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=kookschort&pmin=10&pmax=11",
-        "https://www.blokker.nl/search?q=keukenschort%20vrouw&pmin=10&pmax=11",
+        "https://www.blokker.nl/search?q=schort",
+        "https://www.blokker.nl/search?q=keukenschort%20dames",
+        "https://www.blokker.nl/search?q=keukenschort",
+        "https://www.blokker.nl/search?q=keukenschorten",
+        "https://www.blokker.nl/search?q=kookschort",
+        "https://www.blokker.nl/search?q=keukenschort%20vrouw",
         "https://www.blokker.nl/search?q=kookschort%20mannen",
         "https://www.blokker.nl/search?q=kookschort%20dames"
       ],
@@ -166,8 +172,9 @@
       "keywords": ["kledinghangers", "kledinghanger", "kleding hangers"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/kledinghangers?pmin=9&pmax=10",
-        "https://www.blokker.nl/kledinghangers?pmin=9&pmax=10"
+        "https://www.blokker.nl/kledinghangers",
+        "https://www.blokker.nl/kledinghangers",
+        "https://www.blokker.nl/kledinghangers"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -181,8 +188,9 @@
       "keywords": ["placemats", "placemat", "placemat kunststof", "placemats rond"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/placemats?pmin=20&pmax=21",
-        "https://www.blokker.nl/search?q=placemat%20kunststof&pmin=20&pmax=21"
+        "https://www.blokker.nl/placemats",
+        "https://www.blokker.nl/placemats",
+        "https://www.blokker.nl/search?q=placemat%20kunststof"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -196,7 +204,8 @@
       "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/placemats?pmax=21&pmin=20&start=24&sz=24"
+        "https://www.blokker.nl/placemats?pmin=20&pmax=21",
+        "https://www.blokker.nl/placemats?pmin=20&pmax=21"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -207,12 +216,13 @@
       "product": "Placemat Vaxjo Blue",
       "productId": "4581459",
       "productTitle": "Sophie Nordinn Placemats - Placemat Vaxjo (Lichtblauw) - Placemats Kunststof - Set 4 stuks- 30x40 cm",
-      "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
+      "keywords": ["placemats", "placemat", "placemat kunststof", "placemats rond"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/placemats?pmin=20&pmax=21",
-        "https://www.blokker.nl/placemats?pmax=21&pmin=20&start=24&sz=24",
-        "https://www.blokker.nl/search?q=placemat%20rond&pmin=20&pmax=21"
+        "https://www.blokker.nl/placemats",
+        "https://www.blokker.nl/placemats",
+        "https://www.blokker.nl/search?q=placemat%20kunststof",
+        "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -226,8 +236,7 @@
       "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen opbergsysteem", "schoenrek", "schoenen rek", "schoenen organizer"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=schoenrek&pmin=28&pmax=29",
-        "https://www.blokker.nl/search?q=schoenen%20organizer&pmin=28&pmax=29"
+        "https://www.blokker.nl/search?q=schoenen%20organizer"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -241,7 +250,8 @@
       "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/placemats?pmin=20&pmax=21",
+        "https://www.blokker.nl/placemats",
+        "https://www.blokker.nl/placemats",
         "https://www.blokker.nl/search?q=placemat%20rond&pmin=20&pmax=21",
         "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
       ],
@@ -258,7 +268,9 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
-        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27"
+        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -272,9 +284,10 @@
       "keywords": ["wasmand", "opbergmand", "mand", "wasmanden", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
         "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27",
-        "https://www.blokker.nl/search?q=waszak&pmin=26&pmax=27"
-
+        "https://www.blokker.nl/search?q=waszak&pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -288,6 +301,8 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
+        "https://www.blokker.nl/opbergmanden?pmin=29&pmax=30",
+        "https://www.blokker.nl/opbergmanden?pmin=29&pmax=30",
         "https://www.blokker.nl/opbergmanden?pmin=29&pmax=30"
       ],
       "isRunning" : false,
@@ -302,6 +317,8 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
+        "https://www.blokker.nl/opbergmanden?pmin=20&pmax=21",
+        "https://www.blokker.nl/opbergmanden?pmin=20&pmax=21",
         "https://www.blokker.nl/opbergmanden?pmin=20&pmax=21"
       ],
       "isRunning" : false,
