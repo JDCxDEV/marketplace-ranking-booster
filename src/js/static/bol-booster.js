@@ -140,7 +140,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await page.waitForSelector(countryButton);
       await page.click(countryButton);
 
-      await booster.addRandomTimeGap(15, 20);
+      await booster.addRandomTimeGap(10, 15);
 
       let addedToWishlist = false;
       try {
