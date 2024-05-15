@@ -67,7 +67,7 @@
     {
       "id": 9,
       "marketplace": "Bol.com",
-      "key": "VM-5",
+      "key": "VM-1",
       "name": "Virtual Machine 9",
       "steps": "per-page",
       "proxy": "smart-proxy-nl"

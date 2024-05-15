@@ -129,22 +129,25 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-      await booster.addRandomTimeGap(10, 20);
+      await booster.addRandomTimeGap(15, 20);
 
       // Step: Click Accept Terms button on init
       const acceptTermsButton = '#js-first-screen-accept-all-button';
       await page.waitForSelector(acceptTermsButton);
       await page.click(acceptTermsButton);
-      await booster.addRandomTimeGap(10, 20);
+
+      await booster.addRandomTimeGap(10, 15);
 
       // Step: Click Accept Terms button on init
       const countryButton = '.js-country-language-btn';
       await page.waitForSelector(countryButton);
       await page.click(countryButton);
 
-      await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(15, 20);
+
       await booster.scrollDown(page);
-      await booster.addRandomTimeGap(3, 6);
+
+      await booster.addRandomTimeGap(10, 15);
 
       if(steps == 'homepage') {
           // Scroll to the element
@@ -175,8 +178,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       }
 
-      await booster.scrollDown(page);
-
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
       }
@@ -185,7 +186,13 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await booster.addRandomTimeGap(3, 7);
 
       try {
+        await booster.addRandomTimeGap(5, 5);
+
         await booster.scrollDown(page);
+
+        await booster.addRandomTimeGap(10, 15);
+
+
         const selector = `[data-config='{"product_id": "${productId}"}']`;
 
         // Wait for the element to be present in the DOM
@@ -202,8 +209,10 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         return;
       }
 
+      await booster.addRandomTimeGap(15, 20);
+
       await booster.scrollDown(page);
-      await booster.addRandomTimeGap(3, 7);
+
       await page.waitForSelector('.product-item__content');
 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
@@ -213,8 +222,9 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // Step: Add to wishlist & Add to cart
 
       try {
+        await booster.addRandomTimeGap(15, 20);
+
         await booster.scrollDown(page);
-        await booster.addRandomTimeGap(5, 10);
         
         await page.waitForSelector(`[global-id="${productId}"]`);
         await booster.addRandomTimeGap(5, 10);
@@ -243,7 +253,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await page.click('.modal__window--close-hitarea');
 
       
-      await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(5, 5);
 
     }catch(error) {
       console.log(error.message);
@@ -331,7 +341,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-          await booster.addRandomTimeGap(2, 2);
+          await booster.addRandomTimeGap(5, 5);
           currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
       
