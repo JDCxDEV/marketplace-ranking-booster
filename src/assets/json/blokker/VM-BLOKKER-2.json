@@ -110,20 +110,6 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0051",
-      "marketplace": "Blokker.nl",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": [""],
-      "keywordLink": 
-      [
-        ""
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
       "id": "VM-2-0052",
       "marketplace": "Blokker.nl",
       "product": "Kitchen Apron Women -  Green",
@@ -315,7 +301,7 @@
       "productId": "4581552",
       "productTitle": "Sophie Nordinn Opbergmand Boras (Lichtgrijs) - Mandjes Opbergen - Milieuvriendelijk Manden - Katoen",
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
-      "keywordLink": 
+      "keywordLink":  
       [
         "https://www.blokker.nl/opbergmanden?pmin=20&pmax=21",
         "https://www.blokker.nl/opbergmanden?pmin=20&pmax=21",
