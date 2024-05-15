@@ -75,7 +75,7 @@ export const downloadProxies = async () => {
 
 export const scrollDown = async (page) => {
   await page.evaluate(() => {
-    const scrollStep = 100; // Adjust the scrolling step as needed
+    const scrollStep = 160; // Adjust the scrolling step as needed
     const scrollInterval = 100; // Adjust the scrolling interval (ms) as needed
 
     function smoothScroll() {
@@ -95,7 +95,7 @@ export const scrollDown = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 8000);
+    }, 12000);
   });
 }
 
@@ -240,6 +240,29 @@ export const getSearchTextFromURL = (url) => {
   } catch (error) {
       return null; // Return null if an error occurs
   }
+}
+
+export const ensureSelectorExists = async (page, selector, timeout = 5000, maxRetries = 5) => {
+  let retries = 0;
+  while (retries < maxRetries) {
+      try {
+          await page.waitForSelector(selector, { timeout });
+          return true; // Selector found
+      } catch (error) {
+          retries++;
+          console.log(`Attempt ${retries} failed: Selector ${selector} not found. Reloading the page...`);
+          try {
+              await page.reload();
+              await booster.addRandomTimeGap(10, 15); // Add random time gap after reload
+              await booster.scrollDown(page); // Scroll down again after reload
+          } catch (reloadError) {
+              console.log(`Failed to reload the page on attempt ${retries}: ${reloadError.message}`);
+              return false; // Return false if reload fails
+          }
+      }
+  }
+  console.log(`Failed to find selector ${selector} after ${maxRetries} attempts`);
+  return false; // Return false if the selector is not found after max retries
 }
 
 

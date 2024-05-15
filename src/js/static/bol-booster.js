@@ -57,13 +57,10 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       args: [
         `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
-        '--ignore-certificate-errors',
-        '--single-process',
         '--disable-gpu',
         '--disable-dev-shm-usage',
         '--disable-accelerated-2d-canvas',
         '--no-first-run',
-        '--no-sandbox',
         '--no-zygote',
         '--start-maximized'
         ],
@@ -129,22 +126,52 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-      await booster.addRandomTimeGap(10, 20);
+      await booster.addRandomTimeGap(15, 20);
 
       // Step: Click Accept Terms button on init
       const acceptTermsButton = '#js-first-screen-accept-all-button';
       await page.waitForSelector(acceptTermsButton);
       await page.click(acceptTermsButton);
-      await booster.addRandomTimeGap(10, 20);
+
+      await booster.addRandomTimeGap(10, 15);
 
       // Step: Click Accept Terms button on init
       const countryButton = '.js-country-language-btn';
       await page.waitForSelector(countryButton);
       await page.click(countryButton);
 
-      await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(15, 20);
+
+      let addedToWishlist = false;
+      try {
+
+        await booster.addRandomTimeGap(10, 15); 
+        
+        await page.evaluate((productId) => {
+          return new Promise((resolve, reject) => {
+            const element = document.querySelector(`[global-id="${productId}"]`);
+            if (element) {
+              element.click();
+              resolve();
+            }
+          });
+        }, productId);
+
+        await booster.addRandomTimeGap(10, 15);
+        addedToWishlist = true;
+
+        await booster.addRandomTimeGap(10, 15);
+        await page.waitForSelector('.modal__window--close-hitarea');
+        await page.click('.modal__window--close-hitarea');
+
+
+      }catch(error) {
+        addedToWishlist = false;
+      }
+
       await booster.scrollDown(page);
-      await booster.addRandomTimeGap(3, 6);
+
+      await booster.addRandomTimeGap(10, 15);
 
       if(steps == 'homepage') {
           // Scroll to the element
@@ -175,8 +202,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       }
 
-      await booster.scrollDown(page);
-
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
       }
@@ -184,8 +209,15 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // Step: Go to product page
       await booster.addRandomTimeGap(3, 7);
 
+      
       try {
+        await booster.addRandomTimeGap(5, 5);
+
         await booster.scrollDown(page);
+
+        await booster.addRandomTimeGap(10, 15);
+
+
         const selector = `[data-config='{"product_id": "${productId}"}']`;
 
         // Wait for the element to be present in the DOM
@@ -202,8 +234,10 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         return;
       }
 
+      await booster.addRandomTimeGap(15, 20);
+
       await booster.scrollDown(page);
-      await booster.addRandomTimeGap(3, 7);
+
       await page.waitForSelector('.product-item__content');
 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
@@ -211,39 +245,44 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       }
 
       // Step: Add to wishlist & Add to cart
+      if(!addedToWishlist) {
+        try {
+          await booster.addRandomTimeGap(10, 15);
+  
+          await booster.scrollDown(page);
+          
+          await page.waitForSelector(`[global-id="${productId}"]`);
+          await booster.addRandomTimeGap(15, 20);
+          await page.click(`[global-id="${productId}"]`);
+  
+          // await page.waitForSelector('.ui-btn--favorite');
+          // await booster.addRandomTimeGap(5, 10);
+          // await page.click('.ui-btn--favorite');
 
-      try {
-        await booster.scrollDown(page);
-        await booster.addRandomTimeGap(5, 10);
-        
-        await page.waitForSelector(`[global-id="${productId}"]`);
-        await booster.addRandomTimeGap(5, 10);
-        await page.click(`[global-id="${productId}"]`);
+          await booster.addRandomTimeGap(10, 15);
+          await page.waitForSelector('.modal__window--close-hitarea');
+          await page.click('.modal__window--close-hitarea');
+    
+         
+        }catch (error) {
+          if(steps == 'homepage') {
+            console.log(`error at ${productId} : keyword ${keyword}`)
+          }else {
+            const searchKeyword = booster.getSearchTextFromURL(link)
+            console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
+          }
+          if(browser) {
+            await browser.close();
+          }
+          
+          return;
+        } 
+      }
 
-        // await page.waitForSelector('.ui-btn--favorite');
-        // await booster.addRandomTimeGap(5, 10);
-        // await page.click('.ui-btn--favorite');
-       
-      }catch (error) {
-        if(steps == 'homepage') {
-          console.log(`error at ${productId} : keyword ${keyword}`)
-        }else {
-          const searchKeyword = booster.getSearchTextFromURL(link)
-          console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
-        }
-        if(browser) {
-          await browser.close();
-        }
-        
-        return;
-      } 
 
-      await booster.addRandomTimeGap(10, 15);
-      await page.waitForSelector('.modal__window--close-hitarea');
-      await page.click('.modal__window--close-hitarea');
 
       
-      await booster.addRandomTimeGap(3, 6);
+      await booster.addRandomTimeGap(5, 5);
 
     }catch(error) {
       console.log(error.message);
@@ -331,7 +370,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-          await booster.addRandomTimeGap(2, 2);
+          await booster.addRandomTimeGap(5, 5);
           currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
       
