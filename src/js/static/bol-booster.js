@@ -157,7 +157,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           });
         }, productId);
 
-        await booster.addRandomTimeGap(10, 15);
         addedToWishlist = true;
 
         await booster.addRandomTimeGap(10, 15);
