@@ -95,7 +95,7 @@ export const scrollDown = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 12000);
+    }, 8000);
   });
 }
 

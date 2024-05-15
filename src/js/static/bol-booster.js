@@ -126,7 +126,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-      await booster.addRandomTimeGap(15, 20);
+      await booster.addRandomTimeGap(10, 15);
 
       // Step: Click Accept Terms button on init
       const acceptTermsButton = '#js-first-screen-accept-all-button';
@@ -140,7 +140,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await page.waitForSelector(countryButton);
       await page.click(countryButton);
 
-      await booster.addRandomTimeGap(10, 15);
+      await booster.addRandomTimeGap(5, 10);
 
       let addedToWishlist = false;
       try {
@@ -159,7 +159,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
         addedToWishlist = true;
 
-        await booster.addRandomTimeGap(10, 15);
+        await booster.addRandomTimeGap(7, 8);
         await page.waitForSelector('.modal__window--close-hitarea');
         await page.click('.modal__window--close-hitarea');
 
@@ -170,7 +170,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await booster.scrollDown(page);
 
-      await booster.addRandomTimeGap(5, 10);
+      await booster.addRandomTimeGap(7, 7);
 
       if(steps == 'homepage') {
           // Scroll to the element
@@ -211,11 +211,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       try {
         await booster.addRandomTimeGap(5, 5);
 
-        await booster.scrollDown(page);
-
-        await booster.addRandomTimeGap(10, 15);
-
-
         const selector = `[data-config='{"product_id": "${productId}"}']`;
 
         // Wait for the element to be present in the DOM
@@ -245,19 +240,19 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // Step: Add to wishlist & Add to cart
       if(!addedToWishlist) {
         try {
-          await booster.addRandomTimeGap(10, 15);
+          await booster.addRandomTimeGap(5, 10);
   
           await booster.scrollDown(page);
           
           await page.waitForSelector(`[global-id="${productId}"]`);
-          await booster.addRandomTimeGap(10, 15);
+
+          await booster.addRandomTimeGap(7, 7);
           await page.click(`[global-id="${productId}"]`);
   
           // await page.waitForSelector('.ui-btn--favorite');
           // await booster.addRandomTimeGap(5, 10);
           // await page.click('.ui-btn--favorite');
 
-          await booster.addRandomTimeGap(10, 15);
           await page.waitForSelector('.modal__window--close-hitarea');
           await page.click('.modal__window--close-hitarea');
     
