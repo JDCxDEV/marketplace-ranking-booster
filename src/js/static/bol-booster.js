@@ -57,8 +57,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       args: [
         `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
-        '--ignore-certificate-errors',
-        '--single-process',
         '--disable-gpu',
         '--disable-dev-shm-usage',
         '--disable-accelerated-2d-canvas',
@@ -144,6 +142,33 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(15, 20);
 
+      let addedToWishlist = false;
+      try {
+
+        await booster.addRandomTimeGap(10, 15); 
+        
+        await page.evaluate((productId) => {
+          return new Promise((resolve, reject) => {
+            const element = document.querySelector(`[global-id="${productId}"]`);
+            if (element) {
+              element.click();
+              resolve();
+            }
+          });
+        }, productId);
+
+        await booster.addRandomTimeGap(10, 15);
+        addedToWishlist = true;
+
+        await booster.addRandomTimeGap(10, 15);
+        await page.waitForSelector('.modal__window--close-hitarea');
+        await page.click('.modal__window--close-hitarea');
+
+
+      }catch(error) {
+        addedToWishlist = false;
+      }
+
       await booster.scrollDown(page);
 
       await booster.addRandomTimeGap(10, 15);
@@ -184,6 +209,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // Step: Go to product page
       await booster.addRandomTimeGap(3, 7);
 
+      
       try {
         await booster.addRandomTimeGap(5, 5);
 
@@ -219,37 +245,41 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       }
 
       // Step: Add to wishlist & Add to cart
+      if(!addedToWishlist) {
+        try {
+          await booster.addRandomTimeGap(10, 15);
+  
+          await booster.scrollDown(page);
+          
+          await page.waitForSelector(`[global-id="${productId}"]`);
+          await booster.addRandomTimeGap(15, 20);
+          await page.click(`[global-id="${productId}"]`);
+  
+          // await page.waitForSelector('.ui-btn--favorite');
+          // await booster.addRandomTimeGap(5, 10);
+          // await page.click('.ui-btn--favorite');
 
-      try {
-        await booster.addRandomTimeGap(10, 15);
+          await booster.addRandomTimeGap(10, 15);
+          await page.waitForSelector('.modal__window--close-hitarea');
+          await page.click('.modal__window--close-hitarea');
+    
+         
+        }catch (error) {
+          if(steps == 'homepage') {
+            console.log(`error at ${productId} : keyword ${keyword}`)
+          }else {
+            const searchKeyword = booster.getSearchTextFromURL(link)
+            console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
+          }
+          if(browser) {
+            await browser.close();
+          }
+          
+          return;
+        } 
+      }
 
-        await booster.scrollDown(page);
-        
-        await page.waitForSelector(`[global-id="${productId}"]`, {timeout: 5000});
-        await booster.addRandomTimeGap(15, 20);
-        await page.click(`[global-id="${productId}"]`);
 
-        // await page.waitForSelector('.ui-btn--favorite');
-        // await booster.addRandomTimeGap(5, 10);
-        // await page.click('.ui-btn--favorite');
-       
-      }catch (error) {
-        if(steps == 'homepage') {
-          console.log(`error at ${productId} : keyword ${keyword}`)
-        }else {
-          const searchKeyword = booster.getSearchTextFromURL(link)
-          console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
-        }
-        if(browser) {
-          await browser.close();
-        }
-        
-        return;
-      } 
-
-      await booster.addRandomTimeGap(10, 15);
-      await page.waitForSelector('.modal__window--close-hitarea');
-      await page.click('.modal__window--close-hitarea');
 
       
       await booster.addRandomTimeGap(5, 5);
