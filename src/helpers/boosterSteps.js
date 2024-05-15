@@ -95,13 +95,13 @@ export const scrollDown = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 8000);
+    }, 5000);
   });
 }
 
 export const scrollToRandomClass = async (page, elementClass, browser) => {
   try {
-    await addRandomTimeGap(3, 7);
+    await addRandomTimeGap(2, 2);
     const products = await page.$$(elementClass);
     const randomIndex = Math.floor(Math.random() * products.length);
     const randomProduct = products[randomIndex];

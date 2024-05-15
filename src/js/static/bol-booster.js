@@ -126,14 +126,14 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-      await booster.addRandomTimeGap(10, 15);
+      await booster.addRandomTimeGap(7, 10);
 
       // Step: Click Accept Terms button on init
       const acceptTermsButton = '#js-first-screen-accept-all-button';
       await page.waitForSelector(acceptTermsButton);
       await page.click(acceptTermsButton);
 
-      await booster.addRandomTimeGap(10, 15);
+      await booster.addRandomTimeGap(5, 5);
 
       // Step: Click Accept Terms button on init
       const countryButton = '.js-country-language-btn';
@@ -142,10 +142,12 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(5, 10);
 
+      await booster.scrollDown(page);
+
       let addedToWishlist = false;
       try {
 
-        await booster.addRandomTimeGap(10, 15); 
+        await booster.addRandomTimeGap(7, 7); 
         
         await page.evaluate((productId) => {
           return new Promise((resolve, reject) => {
@@ -170,7 +172,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await booster.scrollDown(page);
 
-      await booster.addRandomTimeGap(7, 7);
+      await booster.addRandomTimeGap(5, 5);
 
       if(steps == 'homepage') {
           // Scroll to the element
@@ -197,7 +199,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           }catch (error) {
             console.log(error.message);
           }
-
       }
 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
@@ -205,8 +206,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       }
 
       // Step: Go to product page
-      await booster.addRandomTimeGap(3, 7);
-
       
       try {
         await booster.addRandomTimeGap(5, 5);
@@ -271,7 +270,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         } 
       }
       
-      await booster.addRandomTimeGap(5, 5);
+      await booster.addRandomTimeGap(3, 3);
 
     }catch(error) {
       console.log(error.message);
@@ -342,7 +341,7 @@ const dynamicallyImportJsonFile = async (file)  => {
 
 export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {}) => {
 
-  await booster.addRandomTimeGap(1, 3)
+  await booster.addRandomTimeGap(2, 2)
 
   const productJsonFile = await dynamicallyImportJsonFile(currentVM + '.json');
   const products = productJsonFile.products.filter( item => !item.isOutOfStock);
@@ -359,7 +358,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-          await booster.addRandomTimeGap(5, 5);
+          await booster.addRandomTimeGap(3, 3);
           currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
       
