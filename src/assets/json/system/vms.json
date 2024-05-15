@@ -62,7 +62,7 @@
       "key": "VM-8",
       "name": "Virtual Machine 8",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 9,
@@ -110,7 +110,7 @@
       "key": "VM-2",
       "name": "Virtual Machine 14",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 15,

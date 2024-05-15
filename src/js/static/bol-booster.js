@@ -63,7 +63,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         '--disable-dev-shm-usage',
         '--disable-accelerated-2d-canvas',
         '--no-first-run',
-        '--no-sandbox',
         '--no-zygote',
         '--start-maximized'
         ],
@@ -222,12 +221,12 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // Step: Add to wishlist & Add to cart
 
       try {
-        await booster.addRandomTimeGap(15, 20);
+        await booster.addRandomTimeGap(10, 15);
 
         await booster.scrollDown(page);
         
-        await page.waitForSelector(`[global-id="${productId}"]`);
-        await booster.addRandomTimeGap(5, 10);
+        await page.waitForSelector(`[global-id="${productId}"]`, {timeout: 5000});
+        await booster.addRandomTimeGap(15, 20);
         await page.click(`[global-id="${productId}"]`);
 
         // await page.waitForSelector('.ui-btn--favorite');
