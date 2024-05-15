@@ -213,7 +213,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         const selector = `[data-config='{"product_id": "${productId}"}']`;
 
         // Wait for the element to be present in the DOM
-        await page.waitForSelector(selector);
+        await page.waitForSelector(selector, {timeout: 10000});
       
         // Click the element
         await page.click(selector);
