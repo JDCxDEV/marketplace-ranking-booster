@@ -171,7 +171,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await booster.scrollDown(page);
 
-      await booster.addRandomTimeGap(10, 15);
+      await booster.addRandomTimeGap(5, 10);
 
       if(steps == 'homepage') {
           // Scroll to the element
@@ -181,7 +181,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
               element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
             }
           });
-
 
           // Step: Type into search box.
           await booster.addRandomTimeGap(3, 6);
@@ -234,7 +233,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         return;
       }
 
-      await booster.addRandomTimeGap(15, 20);
+      await booster.addRandomTimeGap(5, 10);
 
       await booster.scrollDown(page);
 
@@ -252,7 +251,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           await booster.scrollDown(page);
           
           await page.waitForSelector(`[global-id="${productId}"]`);
-          await booster.addRandomTimeGap(15, 20);
+          await booster.addRandomTimeGap(10, 15);
           await page.click(`[global-id="${productId}"]`);
   
           // await page.waitForSelector('.ui-btn--favorite');
@@ -263,14 +262,13 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           await page.waitForSelector('.modal__window--close-hitarea');
           await page.click('.modal__window--close-hitarea');
     
-         
         }catch (error) {
-          if(steps == 'homepage') {
-            console.log(`error at ${productId} : keyword ${keyword}`)
-          }else {
-            const searchKeyword = booster.getSearchTextFromURL(link)
-            console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
-          }
+          // if(steps == 'homepage') {
+          //   console.log(`error at ${productId} : keyword ${keyword}`)
+          // }else {
+          //   const searchKeyword = booster.getSearchTextFromURL(link)
+          //   console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
+          // }
           if(browser) {
             await browser.close();
           }
@@ -278,9 +276,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           return;
         } 
       }
-
-
-
       
       await booster.addRandomTimeGap(5, 5);
 
