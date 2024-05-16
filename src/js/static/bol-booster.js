@@ -19,6 +19,8 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // console.log(`Browser closed after ${threadTimer} seconds.`);
       await browser.close();
     }
+
+    return;
   }, threadTimer * 1000);
 
   // Parameters
@@ -104,6 +106,8 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
     if(browser) {
       await browser.close();
     }
+
+    return;
   }
 
   if(page) {
@@ -258,12 +262,15 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           await page.click('.modal__window--close-hitarea');
     
         }catch (error) {
+
           // if(steps == 'homepage') {
           //   console.log(`error at ${productId} : keyword ${keyword}`)
           // }else {
           //   const searchKeyword = booster.getSearchTextFromURL(link)
           //   console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
           // }
+
+          
           if(browser) {
             await browser.close();
           }
