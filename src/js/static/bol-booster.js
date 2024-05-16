@@ -78,7 +78,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
   const password = proxy.password;
 
   try {
-
     page = await browser.newPage();
     
     await page.authenticate({
@@ -93,15 +92,18 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await browser.close();
     }
 
-    console.log(error.message);
+    // console.log(error.message);
     return;
   } 
 
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
-    console.log(error);
-    await browser.close()
+    // console.log(error);
+
+    if(browser) {
+      await browser.close();
+    }
   }
 
   if(page) {
@@ -202,7 +204,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       }
 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-        await booster.scrollToRandomClass(page, '.list_page_product_tracking_target');
+        await booster.scrollToRandomClass(page, '.list_page_product_tracking_target', browser);
       }
 
       // Step: Go to product page
