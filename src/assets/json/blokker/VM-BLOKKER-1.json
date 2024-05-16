@@ -18,7 +18,7 @@
       "productId": "4562316",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg - Zwart",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen", "https://www.blokker.nl/keukenweegschalen"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -29,7 +29,7 @@
       "productId": "4562315",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Zwart",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen", "https://www.blokker.nl/keukenweegschalen"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -40,7 +40,7 @@
       "productId": "4562314",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Wit",
       "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen", "https://www.blokker.nl/keukenweegschalen"],
+      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -146,8 +146,7 @@
       "keywordLink":
       [
         "https://www.blokker.nl/drinkflessen",
-        "https://www.blokker.nl/search?q=waterfles",
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/search?q=waterfles"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -162,8 +161,7 @@
       "keywordLink":
       [
         "https://www.blokker.nl/drinkflessen",
-        "https://www.blokker.nl/search?q=waterfles",
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/search?q=waterfles"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -178,8 +176,7 @@
       "keywordLink":
       [
         "https://www.blokker.nl/drinkflessen",
-        "https://www.blokker.nl/search?q=waterfles",
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/search?q=waterfles"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -194,8 +191,7 @@
       "keywordLink":
       [
         "https://www.blokker.nl/drinkflessen",
-        "https://www.blokker.nl/search?q=waterfles",
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/search?q=waterfles"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -211,8 +207,7 @@
       "keywordLink":
       [
         "https://www.blokker.nl/drinkflessen",
-        "https://www.blokker.nl/search?q=waterfles",
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/search?q=waterfles"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -227,8 +222,7 @@
       "keywordLink":
       [
         "https://www.blokker.nl/drinkflessen",
-        "https://www.blokker.nl/search?q=waterfles",
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/search?q=waterfles"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -447,212 +441,6 @@
       [
         "https://www.blokker.nl/led-lampen",
         "https://www.blokker.nl/search?q=gu10%20led%20lamp"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0031",
-      "marketplace": "Blokker.nl",
-      "product": "LED bulb GU10 2x",
-      "productId": "4562279",
-      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 2 - RGBW - Google, Alexa en Siri",
-      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=gu10%20led%20lamp"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0032",
-      "marketplace": "Blokker.nl",
-      "product": "LED bulb GU10 3x",
-      "productId": "4562281",
-      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 3 - RGBW - Google, Alexa en Siri",
-      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=gu10%20led%20lamp"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0033",
-      "marketplace": "Blokker.nl",
-      "product": "LED bulb E27 1x",
-      "productId": "4562287",
-      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - RGBW - Google, Alexa en Siri",
-      "keywords": ["led lampen", "e27 led lamp", "e27"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e27%20led%20lamp",
-        "https://www.blokker.nl/search?q=e27"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0034",
-      "marketplace": "Blokker.nl",
-      "product": "LED bulb E27 2x",
-      "productId": "4562295",
-      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 2 - RGBW - Google, Alexa en Siri",
-      "keywords": ["led lampen", "e27 led lamp", "e27"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e27%20led%20lamp",
-        "https://www.blokker.nl/search?q=e27"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0035",
-      "marketplace": "Blokker.nl",
-      "product": "LED bulb E27 3x",
-      "productId": "4562282",
-      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 3 - RGBW - Google, Alexa en Siri",
-      "keywords": ["led lampen", "e27 led lamp", "e27"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e27%20led%20lamp",
-        "https://www.blokker.nl/search?q=e27"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0036",
-      "marketplace": "Blokker.nl",
-      "product": "LED strip RGB 30m",
-      "productId": "4562257",
-      "productTitle": "Lideka Slimme RGB LED Strip 30 Meter",
-      "keywords": ["led strip 30 meter"],
-      "keywordLink": ["https://www.blokker.nl/search?q=led%20strip%2030%20meter"],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0037",
-      "marketplace": "Blokker.nl",
-      "product": "ComfyCentre Zitkussen",
-      "productId": "4569964",
-      "productTitle": "Comfy Center Zitkussen Orthopedisch & Ergonomisch voor Auto en Bureaustoel - Wigkussen/Stuitkussen",
-      "keywords": ["zitkussen", "zitkussen orthopedisch", "stuitkussen", "zitkussen ergonomisch", "wigkussen", "zitkussens", "zit kussen", "zitkussen bed", "zitkussen bureaustoel"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=zitkussen",
-        "https://www.blokker.nl/search?q=zitkussen%20orthopedisch",
-        "https://www.blokker.nl/search?q=stuitkussen",
-        "https://www.blokker.nl/search?q=zitkussen%20ergonomisch",
-        "https://www.blokker.nl/search?q=wigkussen",
-        "https://www.blokker.nl/search?q=zitkussen%20bureaustoel"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0038",
-      "marketplace": "Blokker.nl",
-      "product": "ComfyCentre Rugkussen",
-      "productId": "4569961",
-      "productTitle": "Comfy Center Ergonomisch Rugkussen Onderrug - Voor Auto, Bureaustoel - Rugsteun - Lendensteunkussen",
-      "keywords":
-      [
-        "rugkussen", "rugkussen onderrug", "rugsteun bed", "lendekussen", "rugkussen bed",
-        "rugkussen auto", "rugsteun auto", "rug kussen", "lendekussen rugsteun", "lendekussen auto",
-        "lendesteun", "rugkussen bank", "rugkussen ergonomisch", "rugkussen onderrug voor bank", "rugkussen bureaustoel",
-        "rug kussen onderrug"
-      ],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=rugkussen",
-        "https://www.blokker.nl/search?q=rugkussen%20onderrug",
-        "https://www.blokker.nl/search?q=rugkussen%20auto",
-        "https://www.blokker.nl/search?q=rugsteun%20auto",
-        "https://www.blokker.nl/search?q=rugkussen%20ergonomisch",
-        "https://www.blokker.nl/search?q=rugkussen%20onderrug%20voor%20bank",
-        "https://www.blokker.nl/search?q=rugkussen%20bureaustoel"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0039",
-      "marketplace": "Blokker.nl",
-      "product": "ComfyCentre Hoofdkussen",
-      "productId": "4569996",
-      "productTitle": "Comfy Center Hoofdkussen - Traagschuim Kussen Tegen Nekpijn en Rugklachten_Orthopedisch",
-      "keywords": 
-      [
-        "kussen", "hoofdkussen", "hoofdkussens", "hoofdkussen nekklachten", "hoofdkussen traagschuim",
-        "pillow", "memory foam kussen", "traagschuim kussen", "hoofdkussen nekpijn", "hoofdkussen zijslaper",
-        "hoofdkussen neksteun", "kussen slapen", "traagschuim kussens"
-      ],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=kussen&pmin=49&pmax=50",
-        "https://www.blokker.nl/hoofdkussens",
-        "https://www.blokker.nl/hoofdkussens",
-        "https://www.blokker.nl/search?q=hoofdkussen%20traagschuim&pmin=49&pmax=50",
-        "https://www.blokker.nl/search?q=traagschuim%20kussen",
-        "https://www.blokker.nl/search?q=hoofdkussen%20nekpijn",
-        "https://www.blokker.nl/search?q=traagschuim%20kussens"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0040",
-      "marketplace": "Blokker.nl",
-      "product": "ComfyCentre Kniekussen Band",
-      "productId": "4569994",
-      "productTitle": "Comfy Center Kniekussen met band voor in bed - Orthopedisch & Ergonomisch Beenkussen/Zijslaapkussen",
-      "keywords": 
-      [
-        "kniekussen", "kniekussen voor in bed", "kniekussens", "zijslaapkussen volwassenen", "beenkussen",
-        "kniekussen voor in bed zijslapers", "kniekussen orthopedisch", "knie kussen", "beenkussen zijslaper", "beenkussen rugslaper",
-        "been kussen", "kniekussen voor in bed orthopesich"
-      ],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=kniekussen",
-        "https://www.blokker.nl/search?q=zijslaapkussen%20volwassenen",
-        "https://www.blokker.nl/search?q=beenkussen",
-        "https://www.blokker.nl/search?q=kniekussen%20orthopedisch",
-        "https://www.blokker.nl/search?q=beenkussen%20rugslaper"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0041",
-      "marketplace": "Blokker.nl",
-      "product": "ComfyCentre Kniekussen",
-      "productId": "4569995",
-      "productTitle": "Comfy Center Kniekussen voor in bed - Orthopedisch & Ergonomisch Beenkussen - Zijslaapkussen",
-      "keywords": 
-      [
-        "zijslaapkussen", "kniekussen", "kniekussen voor in bed", "kniekussens", "zijslaapkussen volwassenen",
-        "beenkussen", "kniekussen voor in bed zijslapers", "kniekussen orthopedisch", "knie kussen", "beenkussen zijslaper",
-        "beenkussen rugslaper", "been kussen", "kniekussen voor in bed orthopesich"
-      ],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=zijslaapkussen",
-        "https://www.blokker.nl/search?q=kniekussen",
-        "https://www.blokker.nl/search?q=zijslaapkussen%20volwassenen",
-        "https://www.blokker.nl/search?q=beenkussen",
-        "https://www.blokker.nl/search?q=kniekussen%20orthopedisch",
-        "https://www.blokker.nl/search?q=beenkussen%20rugslaper"
       ],
       "isRunning" : false,
       "isMostWantedList": true
