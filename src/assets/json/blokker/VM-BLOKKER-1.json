@@ -233,7 +233,7 @@
       "product": "Powerbank 3",
       "productId": "4565183",
       "productTitle": "QuchiQ Mini Powerbank 10000 mah Quick Charge - Powerbank Geschikt voor Iphone, Samsung en Apple",
-      "keywords": ["powerbank iphone", "powerbank 10000 mah", "powerbank"],
+      "keywords": ["powerbank iphone", "powerbank 10000 mah", "powerbanks"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=powerbank%20iphone",
@@ -255,7 +255,7 @@
         "https://www.blokker.nl/search?q=Draadloze%20Oordopjes",
         "https://www.blokker.nl/search?q=Oordopjes%20Draadloos",
         "https://www.blokker.nl/search?q=Sport%20Oordopjes",
-        "https://www.blokker.nl/search?q=oortjes&pmin=29&pmax=30"
+        "https://www.blokker.nl/search?q=oortjes"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -269,9 +269,10 @@
       "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera", "babyfoon"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=beveiligingscamera&pmin=36&pmax=37",
-        "https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=36&pmax=37",
-        "https://www.blokker.nl/search?q=huisdiercamera&pmin=36&pmax=37"
+        "https://www.blokker.nl/search?q=beveiligingscamera",
+        "https://www.blokker.nl/search?q=beveiligingscamera%27s",
+        "https://www.blokker.nl/search?q=huisdiercamera",
+        ""
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -301,8 +302,7 @@
       "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=beveiligingscamera&pmin=36&pmax=37",
-        "https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=36&pmax=37",
+        "https://www.blokker.nl/search?q=beveiligingscamera%27s",
         "https://www.blokker.nl/search?q=huisdiercamera"
       ],
       "isRunning" : false,
@@ -315,7 +315,7 @@
       "productId": "4562300",
       "productTitle": "BS Producten Babyfoon met Camera en App - WiFi - FULL HD - Wit",
       "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera"],
-      "keywordLink": ["https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=36&pmax=37"],
+      "keywordLink": ["https://www.blokker.nl/search?q=beveiligingscamera%27s"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -340,7 +340,7 @@
       "product": "Powerbank 1",
       "productId": "4565181",
       "productTitle": "QuchiQ Draadloze Powerbank 20000mAh Quick Charge - Powerbank Geschikt voor Iphone, Samsung en Apple",
-      "keywords": ["powerbank iphone", "powerbank 20000 mah", "powerbank"],
+      "keywords": ["powerbank iphone", "powerbank 20000 mah", "powerbanks"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=powerbank%2020000%20mah",
@@ -356,7 +356,7 @@
       "product": "Powerbank 2",
       "productId": "4565182",
       "productTitle": "QuchiQ Draadloze Powerbank 20000mAh Quick Charge - Powerbank Geschikt voor Iphone, Samsung en Apple",
-      "keywords": ["powerbank 20000 mah", "powerbank iphone", "powerbank"],
+      "keywords": ["powerbank 20000 mah", "powerbank iphone", "powerbanks"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=powerbank%2020000%20mah",
@@ -369,18 +369,17 @@
     {
       "id": "VM-1-0026",
       "marketplace": "Blokker.nl",
-      "product": "Earphone 3",
+      "product": "Earphone 5",
       "productId": "4562318",
       "productTitle": "QuchiQ Draadloze Bluetooth-oordopjes: ANC, microfoon, sportpods, compatibel met iPhone/Samsung",
       "keywords": ["Draadloze Oordopjes", "Oordopjes Draadloos", "bluetooth oordopjes", "oortjes draadloos", "Sport Oordopjes", "oortjes"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=Draadloze%20Oordopjes&pmin=29&pmax=30",
-        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos&pmin=29&pmax=30",
+        "https://www.blokker.nl/search?q=Draadloze%20Oordopjes",
+        "https://www.blokker.nl/search?q=Oordopjes%20Draadloos",
         "https://www.blokker.nl/search?q=bluetooth%20oordopjes",
-        "https://www.blokker.nl/search?q=oortjes%20draadloos&pmin=29&pmax=30",
-        "https://www.blokker.nl/search?q=Sport%20Oordopjes",
-        "https://www.blokker.nl/search?q=oortjes&pmin=29&pmax=30"
+        "https://www.blokker.nl/search?q=oortjes%20draadloos",
+        "https://www.blokker.nl/search?q=oortjes"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -424,7 +423,7 @@
       "keywords": ["led lampen", "e14 led lamp"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/led-lampen?pmin=43&pmax=44",
+        "https://www.blokker.nl/led-lampen",
         "https://www.blokker.nl/search?q=e14%20led%20lamp"
       ],
       "isRunning" : false,

@@ -150,7 +150,7 @@
       [
         "https://www.blokker.nl/search?q=kussen&pmin=49&pmax=50",
         "https://www.blokker.nl/hoofdkussens",
-        "https://www.blokker.nl/search?q=hoofdkussen%20traagschuim&pmin=49&pmax=50",
+        "https://www.blokker.nl/search?q=hoofdkussen%20traagschuim",
         "https://www.blokker.nl/search?q=traagschuim%20kussen",
         "https://www.blokker.nl/search?q=hoofdkussen%20nekpijn",
         "https://www.blokker.nl/search?q=traagschuim%20kussens"
@@ -256,8 +256,8 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "wasmand zwart", "opberg mand", "opbergmand zwart"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden?pmin=37&pmax=38",
-        "https://www.blokker.nl/search?q=wasmand%20zwart&pmin=37&pmax=38",
+        "https://www.blokker.nl/opbergmanden",
+        "https://www.blokker.nl/search?q=wasmand%20zwart",
         "https://www.blokker.nl/search?q=opbergmand%20zwart&pmin=37&pmax=38"
       ],
       "isRunning" : false,
@@ -272,7 +272,6 @@
       "keywords": ["opbergmanden", "mand", "plantenmand", "plantenmand binnen"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden?pmin=22&pmax=23",
         "https://www.blokker.nl/search?q=mand&pmin=22&pmax=23",
         "https://www.blokker.nl/search?q=plantenmand"
       ],
@@ -288,7 +287,7 @@
       "keywords": ["wasmand", "opbergmand", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
+        "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -303,7 +302,7 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=mand&pmin=24&pmax=25",
-        "https://www.blokker.nl/opbergmanden?pmin=24&pmax=25"
+        "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -386,7 +385,7 @@
       "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/placemats?pmin=20&pmax=21"
+        "https://www.blokker.nl/placemats"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -403,20 +402,6 @@
         "https://www.blokker.nl/placemats",
         "https://www.blokker.nl/search?q=placemat%20kunststof",
         "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-2-0054",
-      "marketplace": "Blokker.nl",
-      "product": "Schoenenrek - Grijs 2 stuks",
-      "productId": "4581469",
-      "productTitle": "Sophie Nordinn Schoenenrek Linkoping (2 stuks) - Schoenenopbergers/Schoenen Organizer - 26x24x15 cm",
-      "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen opbergsysteem", "schoenrek", "schoenen rek", "schoenen organizer"],
-      "keywordLink": 
-      [
-        "https://www.blokker.nl/search?q=schoenen%20organizer"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -462,8 +447,7 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
-        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27",
-        "https://www.blokker.nl/search?q=waszak&pmin=26&pmax=27"
+        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27"
       ],
       "isRunning" : false,
       "isMostWantedList": true
