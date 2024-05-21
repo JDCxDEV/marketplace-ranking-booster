@@ -251,24 +251,6 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true
-    },
-    {
-      "id": "VM-7-0012",
-      "marketplace": "Bol.com",
-      "product": "Security Camera White",
-      "productId": "9300000163662072",
-      "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
-      "keywords": 
-      [
-        "beveiligingscamera's", "beveiligingscamera", "hondencamera", "beveiligingscamera binnen", "bewakingscamera voor binnen",
-        "petcam", "huisdiercamera met app", "hondencamera met app", "indoor camera"
-      ],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?searchtext=indoor+camera"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
     }
   ]
 }
