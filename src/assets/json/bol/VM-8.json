@@ -174,7 +174,14 @@
       "productId": "9200000129572821",
       "productTitle": "Lekro Spiraalsnijder + E-book met Recepten - Groentesnijder - Spirelli - Spiralizer - 3 standen - Zwart/Wit",
       "keywords": ["spiraalsnijder", "spirelli spiraalsnijder"],
-      "keywordLink": [],
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?searchtext=spiraalsnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=spirelli+spiraalsnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=spirelli",
+        "https://www.bol.com/nl/nl/s/?searchtext=spiralizer",
+        "https://www.bol.com/nl/nl/s/?searchtext=spiraalsnijders",
+        "https://www.bol.com/nl/nl/s/?searchtext=courgettesnijder+s piraal"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
