@@ -407,7 +407,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0055",
+      "id": "VM-2-0054",
       "marketplace": "Blokker.nl",
       "product": "Placemat Abisko Grey",
       "productId": "4581465",
@@ -423,7 +423,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0056",
+      "id": "VM-2-0055",
       "marketplace": "Blokker.nl",
       "product": "Wasmanden  - Roze",
       "productId": "4581429",
@@ -438,7 +438,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0057",
+      "id": "VM-2-0056",
       "marketplace": "Blokker.nl",
       "product": "Wasmanden - Wit",
       "productId": "4581435",
@@ -453,7 +453,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0058",
+      "id": "VM-2-0057",
       "marketplace": "Blokker.nl",
       "product": "Opbergmand - Bruin Wit",
       "productId": "4581551",
@@ -467,7 +467,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0059",
+      "id": "VM-2-0058",
       "marketplace": "Blokker.nl",
       "product": "Opbergmand  - Lichtgrijs",
       "productId": "4581552",
@@ -481,7 +481,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0060",
+      "id": "VM-2-0059",
       "marketplace": "Blokker.nl",
       "product": "Opbergmand - Jute",
       "productId": "4581427",
@@ -490,6 +490,21 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/opbergmanden?pmin=22&pmax=23"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0060",
+      "marketplace": "Blokker.nl",
+      "product": "Opbergmand  - Brick Red",
+      "productId": "4581553",
+      "productTitle": "Sophie Nordinn Opbergmand Stockholm (Brick Red) - Wasmand - Wasmanden - 40 Liter",
+      "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=wasmand%20&pmin=26&pmax=27",
+        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
       ],
       "isRunning" : false,
       "isMostWantedList": true
