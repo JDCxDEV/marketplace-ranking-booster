@@ -9,10 +9,10 @@
         "keywords": ["beamer", "beamers", "mini beamer", "beamer mini"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamer&view=list&12194=149-150&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamers&view=list&12194=149-150&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mini+beamer&view=list&12194=149-150&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamer+mini&view=list&12194=149-150&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=beamer",
+          "https://www.bol.com/nl/nl/s/?searchtext=beamers",
+          "https://www.bol.com/nl/nl/s/?searchtext=mini+beamer",
+          "https://www.bol.com/nl/nl/s/?searchtext=beamer+mini"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -26,9 +26,9 @@
         "keywords": ["projectiescherm", "projectieschermen", "beamerscherm"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=projectiescherm&view=list&12194=164-165&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=projectieschermen&view=list&12194=164-165&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamerscherm&view=list&12194=164-165&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=projectiescherm",
+          "https://www.bol.com/nl/nl/s/?searchtext=projectieschermen",
+          "https://www.bol.com/nl/nl/s/?searchtext=beamerscherm"
         ],
         "isRunning" : false,
         "isMostWantedList": true
