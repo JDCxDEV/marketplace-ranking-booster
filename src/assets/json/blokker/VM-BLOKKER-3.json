@@ -420,7 +420,8 @@
       {
         "id": "VM-3-0088",
         "marketplace": "Blokker.nl",
-        "productId": "LED strip RGBW 10m",
+        "product": "LED strip RGBW 10m",
+        "productId": "4570198",
         "productTitle": "RGBW LED Strip Warm en Koud Wit 10 Meter (2x5) Zelfklevend met afstandsbediening App Smart LED Strip",
         "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
         "keywordLink":
