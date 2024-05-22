@@ -134,6 +134,78 @@
         "productId": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grau",
         "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
         "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0016",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Rugkussen",
+        "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
+        "productId": "488843216",
+        "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0017",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Zitkussen",
+        "productTitle": "COMFYCENTRE Orthopädisches Sitzkissen für Büro, Auto und Rollstuhl - Ergonomisches Memory Foam Steißbeinkissen - Perfekt für Rückenschmerzen",
+        "productId": "488843198",
+        "keywords": ["sitzkissen", "orthopädisches kissen", "sitzkissen orthopädisch", "keilkissen", "sitzkissen stuhl"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0018",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Hoofdkussen",
+        "productTitle": "COMFYCENTRE Orthopädisches Nackenkissen aus Memory Foam 40x60cm - Ergonomisches Kopfkissen - Seitenschläferkissen - Nackenstützkissen",
+        "productId": "488843245",
+        "keywords": ["kopfkissen", "kissen", "nackenstützkissen", "orthopädisches kissen", "Memory-Schaum-Kissen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0019",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Kniekussen Band",
+        "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer (Band) - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables",
+        "productId": "488843256",
+        "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0020",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Kniekussen",
+        "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables Visco Schlafki",
+        "productId": "495200680",
+        "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0021",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Donut Kussen",
+        "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro,",
+        "productId": "488843228",
+        "keywords": ["Donut-Kissen", "Hämorrhoidenkissen", "orthopädisches Schmerzlinderungskissen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0022",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Ergonomisch Rugkussen",
+        "productTitle": "COMFYCENTRE Ergonomisches Memory-Schaum-Rückenkissen mit antistatischem, orthopädischem Lendenkissen für Bürostuhl, Autositz, Rollstuhl, Sitzkissen",
+        "productId": "495514310",
+        "keywords": ["Ergonomisches RückenKissen", "Lendenkissen", "Lendenkissen für Bürostuhl", "Rückenkissen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0023",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Bed Bridge",
+        "productTitle": "ComfyCentre Matratzenkeil mit Riemen – Extra breite Liebesbrücke für Matratzen – Matratzenkeile – Bettbinder – Matratzenbinder De Luxe – 200 x 30 cm",
+        "productId": "495367422",
+        "keywords": ["Liebesbrücke", "Matratzenverbinder", "Matratzenkeil"],
+        "isRunning" : false 
       }
     ]
   }
