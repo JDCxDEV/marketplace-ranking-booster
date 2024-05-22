@@ -1,319 +1,138 @@
 {
     "products": [
       {
-        "id": "VM-7-0001",
+        "id": "VM-3-0001",
         "marketplace": "Kaufland",
-        "product": "LK-03-N-IC",
-        "productTitle": "Lideka® Neon LED Strip 3m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 218x SMD",
-        "productId": "463128914",
-        "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
+        "product": "Spiral Cutter",
+        "productTitle": "Lekro Spiralschneider Gemüse mit Behälter - Gemüseschneider, Leichtes Schneiden- Gemüsespaghetti, Zucchini, Karotte, Gurke, Kürbis, Kartoffel (4-in-1)",
+        "productId": "470719751",
+        "keywords": ["spiralschneider gemüse", "spiralschneider"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0002",
+        "id": "VM-3-0002",
         "marketplace": "Kaufland",
-        "product": "LK-03-N-RGB",
-        "productTitle": "Lideka® Neon LED Strip 3m, RGB Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 218x SMD 50",
-        "productId": "463128290",
-        "keywords": ["led strip lideka", "rgbic", "led streifen", "led leiste", "neon streifen", "neon led streifen"],
+        "product": "Kitchen scale USB",
+        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, USB-Aufladung, wasserdichte - hohe Präzision -Schwarz",
+        "productId": "470712972",
+        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0003",
+        "id": "VM-3-0003",
         "marketplace": "Kaufland",
-        "product": "LKNRGB-3",
-        "productTitle": "Lideka® Neon LED Strip 9m, RGB Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD 50",
-        "productId": "461186151",
-        "keywords": ["neon streifen", "neon led streifen", "led strip lideka", "rgbic", "led streifen lideka", "led leiste lideka"],
+        "product": "Kitchen scale Black",
+        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision -Schwarz",
+        "productId": "470713355",
+        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0004",
+        "id": "VM-3-0004",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Green",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Grün",
-        "productId": "468110681",
-        "keywords": ["trinkflaschen", "wasserflasche", "Grün wasserflaschen", "Grün trinkflasche", "trink flaschen", "trinkflasche"],
+        "product": "Kitchen scale White",
+        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD - Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision - Weiß",
+        "productId": "470715196",
+        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0005",
+        "id": "VM-3-0005",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Pink Blue",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Rosa/Blau",
-        "productId": "468110675",
-        "keywords": ["trinkflaschen", "wasserflasche", "trinkflaschen Rosa Blau", "wasserflasche Rosa Blau", "Rosa Blau wasserflaschen", "Rosa Blau trinkflasche", "trink flaschen", "trinkflasche"],
+        "product": "Sleepmask",
+        "productTitle": "Somnifiq Schlafmaske, Lichtblockierende, Augenmaske, Nachtmaske, Atmungsaktive 3D Schlafbrille, Verstellbarem Riemen, Bequeme & Ergonomisches Design",
+        "productId": "468093459",
+        "keywords": ["schlafmaske", "schlafmaske herren"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0006",
+        "id": "VM-3-0006",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Grey",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Grau",
-        "productId": "468110676",
-        "keywords": ["trinkflaschen", "wasserflasche", "trink flaschen", "trinkflasche", "trinkflaschen grau", "wasserflasche grau", "grau wasserflaschen", "grau trinkflasche"],
+        "product": "Reading Lamp",
+        "productTitle": "Somnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
+        "productId": "470719876",
+        "keywords": ["leselampe", "leselampe buch klemme"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0007",
+        "id": "VM-3-0007",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Rose Gold",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Roségold",
+        "product": "Steakknives",
+        "productTitle": "Lekro Steakmesser Steakmesser-Set – Spülmaschinenfest - Küchenmesser Set - Kochmesser Set - Edelstahl -Messerset Scharfe (8-tlg Steakmesser - Schwarz)",
+        "productId": "480323660",
+        "keywords": ["steakmesser", "besteck set"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0008",
+        "marketplace": "Kaufland",
+        "product": "Earplugs",
+        "productTitle": "Somnifiq Ohrstöpsel zum Schlafen -30dB Lärmschutz, Tragekomfort, Waschbare Silikon-Lärm Ohrenstöpsel, für Schlafen Festival Konzerte Arbeiten Lernen",
+        "productId": "468095054",
+        "keywords": ["ohrstöpsel zum schlafen", "ohrstöpsel", "ohrenstöpsel"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0009",
+        "marketplace": "Kaufland",
+        "product": "Vegetable Cutter",
+        "productTitle": "Lekro, Gemüseschneider, Spiralschneider, Gemüsehobel - Zwiebelschneider, Kartoffelschneider, Obstschneider - Vegetable Chopper, 12 - teilig, Weiß",
+        "productId": "470714479",
+        "keywords": ["gemüseschneider", "nicer dicer", "gemüsehobel"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0010",
+        "marketplace": "Kaufland",
+        "product": "Water bottle RG",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen-Roségold",
         "productId": "468110674",
-        "keywords": ["trinkflaschen", "wasserflasche", "trinkflaschen Roségold", "wasserflasche Roségold", "Roségold wasserflaschen", "Roségold trinkflasche", "trink flaschen", "trinkflasche"],
+        "keywords": ["trinkflasche", "waterfles", "wasserflasche"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0008",
+        "id": "VM-3-0011",
         "marketplace": "Kaufland",
-        "product": "Water Bottle T",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Türkis",
+        "product": "Water bottle BB",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Blau",
+        "productId": "468110679",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0012",
+        "marketplace": "Kaufland",
+        "product": "Water bottle RB",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, SoftTouch +Sieb, BPA-frei, Trinkflaschen-Rosa/Blau",
+        "productId": "468110675",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0013",
+        "marketplace": "Kaufland",
+        "product": "Water bottle G",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grün",
+        "productId": "468110681",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0014",
+        "marketplace": "Kaufland",
+        "product": "Water bottle T",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Türkis",
         "productId": "468110680",
-        "keywords": ["trinkflaschen", "wasserflasche", "trink flaschen", "wasserflasche Türkis", "Türkis wasserflaschen", "Türkis trinkflasche", "trinkflasche kinder", "trinkflasche"],
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
         "isRunning" : false 
       },
       {
-        "id": "VM-7-0009",
+        "id": "VM-3-0015",
         "marketplace": "Kaufland",
-        "product": "LK-03",
-        "productTitle": "Lideka® LED-Streifen 3m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "432693131",
-        "keywords": ["led strip 3m", "led leiste", "LED Streifen", "rgb led strip", "LED Strip"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0010",
-        "marketplace": "Kaufland",
-        "product": "LK-010",
-        "productTitle": "Lideka® LED-Streifen 10m (2x5) RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "432693132",
-        "keywords": ["led strip 10m", "LED Streifen", "led leiste", "rgb led strip", "LED Strip"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0011",
-        "marketplace": "Kaufland",
-        "product": "LK-015",
-        "productTitle": "Lideka® LED-Streifen 15m (2x7.5) RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "432693129",
-        "keywords": ["LED Streifen 15m", "LED Strip", "LED Streifen", "led leiste", "rgb led strip"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0012",
-        "marketplace": "Kaufland",
-        "product": "LK-020",
-        "productTitle": "Lideka® LED-Streifen 20m (2x10) RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "432693128",
-        "keywords": ["led strip 20m", "LED Streifen", "rgb led strip", "led leiste", "LED Strip"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0013",
-        "marketplace": "Kaufland",
-        "product": "LK-025",
-        "productTitle": "Lideka® LED-Streifen 25m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "461186369",
-        "keywords": ["LED-Streifen 25m", "LED-Streifen", "LED Strip", "led leiste", "rgb led strip"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0014",
-        "marketplace": "Kaufland",
-        "product": "LK-030",
-        "productTitle": "Lideka® LED-Streifen 30m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "443196709",
-        "keywords": ["led strip 30m", "LED-Streifen", "LED Strip", "led leiste", "rgb led strip"],
-        "isRunning" : false 
-      },      
-      {
-        "id": "VM-7-0015",
-        "marketplace": "Kaufland",
-        "product": "LK-035",
-        "productTitle": "Lideka® LED-Streifen 35m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "443198421",
-        "keywords": ["LED Strip 35m", "LED-Streifen", "LED Strip", "led leiste", "rgb led strip"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0016",
-        "marketplace": "Kaufland",
-        "product": "LK-050",
-        "productTitle": "Lideka® LED-Streifen 50m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "443340420",
-        "keywords": ["LED Strip 50m", "LED Streifen", "LED Strip ", "rgb led strip", "led leiste lideka"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0017",
-        "marketplace": "Kaufland",
-        "product": "LKR-40",
-        "productTitle": "Lideka® LED-Streifen 40m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
-        "productId": "432698580",
-        "keywords": ["LED Strip 40m", "LED Streifen", "rgb led strip", "LED Strip", "led leiste lideka"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0018",
-        "marketplace": "Kaufland",
-        "product": "LKR-05",
-        "productTitle": "Lideka® LED-Streifen 5m RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 150x SMD 5050 LEDs, LED Strip",
-        "productId": "461186239",
-        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0019",
-        "marketplace": "Kaufland",
-        "product": "LKR-015",
-        "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 450x SMD 5050 LEDs, LED Strip",
-        "productId": "461186239",
-        "keywords": ["led strip", "led streifen", "led leiste", "led leisten", "led streifen", "rgbic lideka"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0020",
-        "marketplace": "Kaufland",
-        "product": "LKR-020",
-        "productTitle": "Lideka® LED-Streifen 20m (2x10) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 600x SMD 5050 LEDs, LED Strip",
-        "productId": "461186231",
-        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0021",
-        "marketplace": "Kaufland",
-        "product": "LKR-030",
-        "productTitle": "Lideka® LED-Streifen 30m (3x10) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 900x SMD 5050 LEDs, LED Strip",
-        "productId": "461186227",
-        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0022",
-        "marketplace": "Kaufland",
-        "product": "LKR-040",
-        "productTitle": "Lideka® LED-Streifen 40m (8x5) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1200x SMD 5050 LEDs, LED Strip",
-        "productId": "461186226",
-        "keywords": ["led strip", "led streifen", "led leisten", "rgbic", "led leiste", "led strips"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0023",
-        "marketplace": "Kaufland",
-        "product": "LKR-050",
-        "productTitle": "Lideka® LED-Streifen 50m RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1500x SMD 5050 LEDs, LED Strip",
-        "productId": "450401297",
-        "keywords": ["led strip", "led streifen", "led leiste", "led leisten", "rgbic", "led strips"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0024",
-        "marketplace": "Kaufland",
-        "product": "LK-05-W",
-        "productTitle": "Lideka® LED-Streifen 5m RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 150x SMD 5050 LEDs, LED",
-        "productId": "463128383",
-        "keywords": ["led strip", "rgbw", "led streifen", "led leiste", "led leisten", "led strips", "rgbic"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0025",
-        "marketplace": "Kaufland",
-        "product": "LK-010-W",
-        "productTitle": "Lideka® LED-Streifen 10m (2x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED",
-        "productId": "463128417",
-        "keywords": ["led strip", "led streifen", "led strips", "led leisten", "rgbic", "led leiste"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0026",
-        "marketplace": "Kaufland",
-        "product": "RGBW-LK5-3",
-        "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 450x SMD 5050 LEDs, LED",
-        "productId": "463128426",
-        "keywords": ["led strip", "rgbic", "led streifen", "led leisten", "led leiste", "led strips"],
-        "isRunning" : false 
-      },      
-      {
-        "id": "VM-7-0027",
-        "marketplace": "Kaufland",
-        "product": "RGBW-LK10-2",
-        "productTitle": "Lideka® LED-Streifen 20m (2x10) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED",
-        "productId": "479165742",
-        "keywords": ["rgbic", "led strip", "led streifen", "led leiste", "led leisten", "led strips"],
-        "isRunning" : false 
-      },      
-      {
-        "id": "VM-7-0027",
-        "marketplace": "Kaufland",
-        "product": "RGBW-LK10-3",
-        "productTitle": "Lideka® LED-Streifen 30m (6x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 900x SMD 5050 LEDs, LED",
-        "productId": "463128460",
-        "keywords": ["led strip", "led leiste", "led leisten", "led streifen", "led strips"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0029",
-        "marketplace": "Kaufland",
-        "product": "RGBW-LK10-4",
-        "productTitle": "Lideka® LED-Streifen 40m (8x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1200x SMD 5050 LEDs, LED",
-        "productId": "463128428",
-        "keywords": ["led streifen", "led strip", "led leiste", "led leisten", "rgbic", "led strip lideka"],
-        "isRunning" : false 
-      },
-
-      {
-        "id": "VM-7-0030",
-        "marketplace": "Kaufland",
-        "product": "RGBW-LK10-5",
-        "productTitle": "Lideka® LED-Streifen 50m (10x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1500x SMD 5050 LEDs, LED",
-        "productId": "461186152",
-        "keywords": ["led strip", "led streifen", "led leisten", "led leiste", "led strips", "rgbic"],
-        "isRunning" : false 
-      },      
-      {
-        "id": "VM-7-0031",
-        "marketplace": "Kaufland",
-        "product": "SLB-E27-9W",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 1 pack",
-        "productId": "463126312",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-        "isRunning" : false 
-      },      
-      {
-        "id": "VM-7-0032",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 1 pack",
-        "productId": "463128530",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "e14"],
-        "isRunning" : false 
-      },      
-      {
-        "id": "VM-7-0033",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 1 pack",
-        "productId": "463128337",
-        "keywords": ["einbaustrahler gu10", "gu10 spot", "gu10 spot", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-7-0034",
-        "marketplace": "Kaufland",
-        "product": "TV strip 3m",
-        "productTitle": "Lideka® LED TV Hintergrundbeleuchtung, 3m RGB LED Strip kompatibel mit Alexa und Google Assistant, APP-Steuerung, USB betrieben, für 46-60 Zoll Fernse",
-        "productId": "432693125",
-        "keywords": ["LED Streifen", "TV Hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
-        "isRunning" : false 
-      },      
-      {
-        "id": "VM-7-0035",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-2",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 2 pack",
-        "productId": "461186210",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "product": "Water bottle GR",
+        "productTitle": "468110676",
+        "productId": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grau",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
         "isRunning" : false 
       }
     ]

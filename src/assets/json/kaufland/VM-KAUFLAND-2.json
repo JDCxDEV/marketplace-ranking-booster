@@ -1,7 +1,7 @@
 {
     "products": [
       {
-        "id": "VM-8-0001",
+        "id": "VM-2-0001",
         "marketplace": "Kaufland",
         "product": "Baby camera White",
         "productTitle": "Babyphone mit Kamera und App Weiß – WLAN – FULL HD – Bewegungs- und Geräuscherkennung – Innenbereich – Nachtsicht für Baby/Kindermädchen/Haustier/älte",
@@ -10,7 +10,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0002",
+        "id": "VM-2-0002",
         "marketplace": "Kaufland",
         "product": "Baby camera Black",
         "productTitle": "Babyphone mit Kamera und App Schwarz – WLAN – FULL HD – Bewegungs- und Geräuscherkennung – Innenbereich – Nachtsicht für Baby/Kindermädchen/Haustier",
@@ -19,7 +19,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0003",
+        "id": "VM-2-0003",
         "marketplace": "Kaufland",
         "product": "Robot Toy Blue",
         "productTitle": "QuchiQ™ 6 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 482 Bausteine",
@@ -28,7 +28,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0004",
+        "id": "VM-2-0004",
         "marketplace": "Kaufland",
         "product": "Solar Powerbank",
         "productTitle": "Lideka® Solar Powerbank 30,000mAh, Lideka Tragbare Solar Ladegerät 3A USB-C Power Bank mit 5 Ausgängen Schnellladung Externer Akku für Smartphones",
@@ -37,7 +37,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0005",
+        "id": "VM-2-0005",
         "marketplace": "Kaufland",
         "product": "Power Bank-K8",
         "productTitle": "QuchiQ™ 20000mAh Drahtlose Powerbank - Mobiler Akkulader - Externer wiederaufladbarer Akku - Micro USB & USB-C Eingang - LED-Lampen",
@@ -46,7 +46,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0006",
+        "id": "VM-2-0006",
         "marketplace": "Kaufland",
         "product": "Power Bank-A36",
         "productTitle": "QuchiQ™ Drahtlose Powerbank 20000mAh - Mobiler Lader - kabelloses Laden - Externer wiederaufladbarer Akku - Micro-USB & USB-C Eingang - LED-Lichter",
@@ -55,7 +55,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0007",
+        "id": "VM-2-0007",
         "marketplace": "Kaufland",
         "product": "Mini Power Bank",
         "productTitle": "QuchiQ™ Powerbank 20000 mAh - Mini Powerbank - Mobiler Akkulader - Externer wiederaufladbarer Akku - Micro USB & USB-C Eingang - LED-Lampen",
@@ -64,7 +64,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0008",
+        "id": "VM-2-0008",
         "marketplace": "Kaufland",
         "product": "LKNRGBIC-2",
         "productTitle": "Lideka® Neon LED Strip 6m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 436x SMD",
@@ -73,7 +73,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0009",
+        "id": "VM-2-0009",
         "marketplace": "Kaufland",
         "product": "LKNRGBIC-3",
         "productTitle": "Lideka® Neon LED Strip 9m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD",
@@ -82,7 +82,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0010",
+        "id": "VM-2-0010",
         "marketplace": "Kaufland",
         "product": "LKNRGBIC-3",
         "productTitle": "Lideka® Neon LED Strip 9m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD",
@@ -91,7 +91,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0011",
+        "id": "VM-2-0011",
         "marketplace": "Kaufland",
         "product": "Earplugs-L52",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - Bluetooth Kopfhörer - Sport-Ohrhörer - Aktive Geräuschunterdrückung ANC - Schwarz",
@@ -100,7 +100,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0012",
+        "id": "VM-2-0012",
         "marketplace": "Kaufland",
         "product": "Earplugs-E7S",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
@@ -109,7 +109,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0013",
+        "id": "VM-2-0013",
         "marketplace": "Kaufland",
         "product": "Earplugs-A30",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Weiß",
@@ -118,7 +118,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0014",
+        "id": "VM-2-0014",
         "marketplace": "Kaufland",
         "product": "Earplugs-L21",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - extra Bass - Schwarz",
@@ -127,7 +127,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0015",
+        "id": "VM-2-0015",
         "marketplace": "Kaufland",
         "product": "Earplugs-J80",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
@@ -136,7 +136,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0016",
+        "id": "VM-2-0016",
         "marketplace": "Kaufland",
         "product": "Earplugs-M48",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
@@ -146,7 +146,7 @@
       },
 
       {
-        "id": "VM-8-0017",
+        "id": "VM-2-0017",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W-2",
         "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 2 pack",
@@ -155,7 +155,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0018",
+        "id": "VM-2-0018",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W-3",
         "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 3 pack",
@@ -164,7 +164,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0019",
+        "id": "VM-2-0019",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W-4",
         "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 4 pack",
@@ -173,7 +173,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0020",
+        "id": "VM-2-0020",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W-5",
         "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 5 pack",
@@ -182,7 +182,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0021",
+        "id": "VM-2-0021",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W-6",
         "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 6 pack",
@@ -191,7 +191,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0022",
+        "id": "VM-2-0022",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W-7",
         "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 7 pack",
@@ -200,7 +200,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0023",
+        "id": "VM-2-0023",
         "marketplace": "Kaufland",
         "product": "SLB-E14-2",
         "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 2 pack",
@@ -209,7 +209,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0024",
+        "id": "VM-2-0024",
         "marketplace": "Kaufland",
         "product": "SLB-E14-3",
         "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 3 pack",
@@ -218,7 +218,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0025",
+        "id": "VM-2-0025",
         "marketplace": "Kaufland",
         "product": "SLB-E14-4",
         "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 4 pack",
@@ -227,7 +227,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0026",
+        "id": "VM-2-0026",
         "marketplace": "Kaufland",
         "product": "SLB-E14-5",
         "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 5 pack",
@@ -236,7 +236,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0027",
+        "id": "VM-2-0027",
         "marketplace": "Kaufland",
         "product": "SLB-E14-6",
         "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 6 pack",
@@ -245,7 +245,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0028",
+        "id": "VM-2-0028",
         "marketplace": "Kaufland",
         "product": "SLB-E14-7",
         "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 7 pack",
@@ -254,7 +254,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0029",
+        "id": "VM-2-0029",
         "marketplace": "Kaufland",
         "product": "SLB-GU10-3",
         "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 3 pack",
@@ -263,7 +263,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0030",
+        "id": "VM-2-0030",
         "marketplace": "Kaufland",
         "product": "SLB-GU10-4",
         "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 4 pack",
@@ -272,7 +272,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0031",
+        "id": "VM-2-0031",
         "marketplace": "Kaufland",
         "product": "SLB-GU10-5",
         "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 5 pack",
@@ -281,7 +281,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0032",
+        "id": "VM-2-0032",
         "marketplace": "Kaufland",
         "product": "SLB-GU10-6",
         "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 6 pack",
@@ -290,7 +290,7 @@
         "isRunning" : false 
       },
       {
-        "id": "VM-8-0033",
+        "id": "VM-2-0033",
         "marketplace": "Kaufland",
         "product": "SLB-GU10-7",
         "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 7 pack",
