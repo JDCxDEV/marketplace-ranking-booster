@@ -244,13 +244,13 @@
         "keywords": ["matraswig", "bedbinder", "liefdesbrug", "matraswig met band", "matras wig", "matraswiggen", "matraswig de luxe"],
         "prioKeywords": ["matraswig", "bedbinder", "liefdesbrug", "matraswig met band"],
         "keywordLink": [
-          "https://www.bol.com/nl/nl/s/?searchtext=matraswig",
-          "https://www.bol.com/nl/nl/s/?searchtext=bedbinder",
-          "https://www.bol.com/nl/nl/s/?searchtext=liefdesbrug",
-          "https://www.bol.com/nl/nl/s/?searchtext=matraswig+met+band",
-          "https://www.bol.com/nl/nl/s/?searchtext=matras+wig",
-          "https://www.bol.com/nl/nl/s/?searchtext=matraswiggen",
-          "https://www.bol.com/nl/nl/s/?searchtext=matraswig+de+luxe"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswig&view=list&sort=wishListRank1&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=bedbinder&view=list&sort=wishListRank1&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=liefdesbrug&view=list&sort=wishListRank1&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswig+met+band&view=list&sort=wishListRank1&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matras+wig&view=list&sort=wishListRank1&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswiggen&view=list&sort=wishListRank1&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswig+de+luxe&view=list&sort=wishListRank1&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
