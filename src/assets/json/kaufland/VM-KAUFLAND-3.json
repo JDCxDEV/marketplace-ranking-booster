@@ -1,0 +1,211 @@
+{
+    "products": [
+      {
+        "id": "VM-3-0001",
+        "marketplace": "Kaufland",
+        "product": "Spiral Cutter",
+        "productTitle": "Lekro Spiralschneider Gemüse mit Behälter - Gemüseschneider, Leichtes Schneiden- Gemüsespaghetti, Zucchini, Karotte, Gurke, Kürbis, Kartoffel (4-in-1)",
+        "productId": "470719751",
+        "keywords": ["spiralschneider gemüse", "spiralschneider"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0002",
+        "marketplace": "Kaufland",
+        "product": "Kitchen scale USB",
+        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, USB-Aufladung, wasserdichte - hohe Präzision -Schwarz",
+        "productId": "470712972",
+        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0003",
+        "marketplace": "Kaufland",
+        "product": "Kitchen scale Black",
+        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision -Schwarz",
+        "productId": "470713355",
+        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0004",
+        "marketplace": "Kaufland",
+        "product": "Kitchen scale White",
+        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD - Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision - Weiß",
+        "productId": "470715196",
+        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0005",
+        "marketplace": "Kaufland",
+        "product": "Sleepmask",
+        "productTitle": "Somnifiq Schlafmaske, Lichtblockierende, Augenmaske, Nachtmaske, Atmungsaktive 3D Schlafbrille, Verstellbarem Riemen, Bequeme & Ergonomisches Design",
+        "productId": "468093459",
+        "keywords": ["schlafmaske", "schlafmaske herren"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0006",
+        "marketplace": "Kaufland",
+        "product": "Reading Lamp",
+        "productTitle": "Somnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
+        "productId": "470719876",
+        "keywords": ["leselampe", "leselampe buch klemme"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0007",
+        "marketplace": "Kaufland",
+        "product": "Steakknives",
+        "productTitle": "Lekro Steakmesser Steakmesser-Set – Spülmaschinenfest - Küchenmesser Set - Kochmesser Set - Edelstahl -Messerset Scharfe (8-tlg Steakmesser - Schwarz)",
+        "productId": "480323660",
+        "keywords": ["steakmesser", "besteck set"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0008",
+        "marketplace": "Kaufland",
+        "product": "Earplugs",
+        "productTitle": "Somnifiq Ohrstöpsel zum Schlafen -30dB Lärmschutz, Tragekomfort, Waschbare Silikon-Lärm Ohrenstöpsel, für Schlafen Festival Konzerte Arbeiten Lernen",
+        "productId": "468095054",
+        "keywords": ["ohrstöpsel zum schlafen", "ohrstöpsel", "ohrenstöpsel"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0009",
+        "marketplace": "Kaufland",
+        "product": "Vegetable Cutter",
+        "productTitle": "Lekro, Gemüseschneider, Spiralschneider, Gemüsehobel - Zwiebelschneider, Kartoffelschneider, Obstschneider - Vegetable Chopper, 12 - teilig, Weiß",
+        "productId": "470714479",
+        "keywords": ["gemüseschneider", "nicer dicer", "gemüsehobel"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0010",
+        "marketplace": "Kaufland",
+        "product": "Water bottle RG",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen-Roségold",
+        "productId": "468110674",
+        "keywords": ["trinkflasche", "waterfles", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0011",
+        "marketplace": "Kaufland",
+        "product": "Water bottle BB",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Blau",
+        "productId": "468110679",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0012",
+        "marketplace": "Kaufland",
+        "product": "Water bottle RB",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, SoftTouch +Sieb, BPA-frei, Trinkflaschen-Rosa/Blau",
+        "productId": "468110675",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0013",
+        "marketplace": "Kaufland",
+        "product": "Water bottle G",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grün",
+        "productId": "468110681",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0014",
+        "marketplace": "Kaufland",
+        "product": "Water bottle T",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Türkis",
+        "productId": "468110680",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0015",
+        "marketplace": "Kaufland",
+        "product": "Water bottle GR",
+        "productTitle": "468110676",
+        "productId": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grau",
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0016",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Rugkussen",
+        "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
+        "productId": "488843216",
+        "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0017",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Zitkussen",
+        "productTitle": "COMFYCENTRE Orthopädisches Sitzkissen für Büro, Auto und Rollstuhl - Ergonomisches Memory Foam Steißbeinkissen - Perfekt für Rückenschmerzen",
+        "productId": "488843198",
+        "keywords": ["sitzkissen", "orthopädisches kissen", "sitzkissen orthopädisch", "keilkissen", "sitzkissen stuhl"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0018",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Hoofdkussen",
+        "productTitle": "COMFYCENTRE Orthopädisches Nackenkissen aus Memory Foam 40x60cm - Ergonomisches Kopfkissen - Seitenschläferkissen - Nackenstützkissen",
+        "productId": "488843245",
+        "keywords": ["kopfkissen", "kissen", "nackenstützkissen", "orthopädisches kissen", "Memory-Schaum-Kissen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0019",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Kniekussen Band",
+        "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer (Band) - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables",
+        "productId": "488843256",
+        "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0020",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Kniekussen",
+        "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables Visco Schlafki",
+        "productId": "495200680",
+        "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0021",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Donut Kussen",
+        "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro,",
+        "productId": "488843228",
+        "keywords": ["Donut-Kissen", "Hämorrhoidenkissen", "orthopädisches Schmerzlinderungskissen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0022",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Ergonomisch Rugkussen",
+        "productTitle": "COMFYCENTRE Ergonomisches Memory-Schaum-Rückenkissen mit antistatischem, orthopädischem Lendenkissen für Bürostuhl, Autositz, Rollstuhl, Sitzkissen",
+        "productId": "495514310",
+        "keywords": ["Ergonomisches RückenKissen", "Lendenkissen", "Lendenkissen für Bürostuhl", "Rückenkissen"],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-3-0023",
+        "marketplace": "Kaufland",
+        "product": "ComfyCentre Bed Bridge",
+        "productTitle": "ComfyCentre Matratzenkeil mit Riemen – Extra breite Liebesbrücke für Matratzen – Matratzenkeile – Bettbinder – Matratzenbinder De Luxe – 200 x 30 cm",
+        "productId": "495367422",
+        "keywords": ["Liebesbrücke", "Matratzenverbinder", "Matratzenkeil"],
+        "isRunning" : false 
+      }
+    ]
+  }
