@@ -133,7 +133,7 @@ const initBooster = async (product, threadTimer = 300) => {
       let foundProduct = false
 
       const findProduct = async () => {
-        const anchor = await page.$$eval('a.product__wrapper', (anchors, productLink) => {
+        const anchor = await page.$$eval('name.search-griditem-click', (anchors, productLink) => {
           for (const anchor of anchors) {
             if (anchor.href.includes(productLink)) {
                 anchor.click()

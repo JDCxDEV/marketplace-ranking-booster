@@ -44,6 +44,13 @@ const proxiesCredentials = [
         username: '14a16d94bb762',
         password: 'de80a6ab74'
     },
+    {
+        id: 'brightdata',
+        name: 'brightdata',
+        host: 'http://brd.superproxy.io:22225',
+        username: 'brd-customer-hl_e48f19c5-zone-data_center',
+        password: 'thm9t2qpi0eg'
+    },
 ];
 
 const getProxiesCredential = (proxyList, proxyId) => {

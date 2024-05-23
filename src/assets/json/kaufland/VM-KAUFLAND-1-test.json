@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": "VM-3-0001",
+      "marketplace": "Kaufland",
+      "product": "Spiral Cutter",
+      "productTitle": "Lekro Spiralschneider Gemüse mit Behälter - Gemüseschneider, Leichtes Schneiden- Gemüsespaghetti, Zucchini, Karotte, Gurke, Kürbis, Kartoffel (4-in-1)",
+      "productId": "470719751",
+      "keywords": ["spiralschneider gemüse", "spiralschneider"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0002",
+      "marketplace": "Kaufland",
+      "product": "Kitchen scale USB",
+      "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, USB-Aufladung, wasserdichte - hohe Präzision -Schwarz",
+      "productId": "470712972",
+      "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0003",
+      "marketplace": "Kaufland",
+      "product": "Kitchen scale Black",
+      "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision -Schwarz",
+      "productId": "470713355",
+      "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+      "isRunning" : false 
+    }
+  ]
+}
