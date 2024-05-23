@@ -6,14 +6,28 @@
       "product": "LED strip",
       "productId": "9300000003262228",
       "productTitle": "Lideka - LED Strip - 5 Meter - met Afstandsbediening - RGB - 3 Honderd Led lights - Led Light Strip - 10 mm Breed - 2 Jaar Garantie - 30W - 2.0 A - Om 15 CM Knippen - TV - Smart Verlichting - Licht strip",
-      "keywords": ["led strip", "led-strips"],
-      "keywordLink": [
-        "https://www.bol.com/nl/nl/s/?searchtext=rgb+led+strip",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+5+meter",
-        "https://www.bol.com/nl/nl/s/?searchtext=smart+led+strip",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting+strips",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+verlichting",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening"
+      "keywords":
+      [
+        "rgb led strip", "led strip 5 meter", "smart led strip", "led verlichting strips", "led strip met afstandsbediening",
+        "lichtstrip", "led strip", "led-strips", "led", "ldestrip",
+        "led light", "led licht", "gaming lights", "led light strip"
+      ],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+5+meter&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=smart+led+strip&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&sort=wishListRank1&12194=36-37&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip&view=list&sort=wishListRank1&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
