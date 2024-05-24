@@ -312,13 +312,13 @@
         "keywords": ["powerbank solar", "powerbank", "powerbank zonneenergie", "solar powerbank", "powerbank iphone", "powerbank samsung", "powerbank apple"],
         "keywordLink": 
         [
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+solar&view=list&12194=129-130&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&12194=129-130&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+zonneenergie&view=list&12194=129-130&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+powerbank&view=list&12194=129-130&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&12194=129-130&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+samsung&view=list&12194=129-130&rating=all",
-            "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+apple&view=list&12194=129-130&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+solar&view=list&sort=wishListRank1&12194=123-124&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&sort=wishListRank1&12194=123-124&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+zonneenergie&view=list&sort=wishListRank1&12194=123-124&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+powerbank&view=list&sort=wishListRank1&12194=123-124&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&sort=wishListRank1&12194=123-124&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+samsung&view=list&sort=wishListRank1&12194=123-124&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+apple&view=list&sort=wishListRank1&12194=123-124&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -332,11 +332,11 @@
         "keywords": ["solar charger", "solar panel", "solar oplader", "draagbaar zonnepaneel", "opvouwbaar zonnepaneel"],
         "keywordLink": 
         [
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+charger&view=list&12194=52-53",
-           "https://www.bol.com/nl/nl/s/?searchtext=solar+panel",
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+oplader&view=list&12194=52-53",
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=draagbaar+zonnepaneel&view=list&12194=52-53&rating=all",
-           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opvouwbaar+zonnepaneel&view=list&12194=52-53&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+charger&view=list&sort=wishListRank1&12194=59-60",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+panel&view=list&sort=wishListRank1",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+oplader&view=list&sort=wishListRank1&12194=59-60",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=draagbaar+zonnepaneel&view=list&sort=wishListRank1",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opvouwbaar+zonnepaneel&view=list&sort=wishListRank1"
         ],
         "isRunning" : false,
         "isMostWantedList": true

@@ -215,15 +215,15 @@
       "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon led strip buiten"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=43-44&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&12194=43-44&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&12194=43-44&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening",
-        "https://www.bol.com/nl/nl/s/?searchtext=lichtstrip",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&filter_N=4296707626&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=rgb+led+strip",
-        "https://www.bol.com/nl/nl/s/?searchtext=gaming+lights",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+3+meter",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&sort=wishListRank1&12194=47-48&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&sort=wishListRank1&12194=47-48&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&sort=wishListRank1&12194=47-48&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&sort=wishListRank1&12194=47-48&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+3+meter&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip+buiten"
       ],
       "isRunning" : false,
@@ -239,15 +239,39 @@
       "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon lamp", "neon led strip buiten", "neon verlichting"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip",
-        "https://www.bol.com/nl/nl/s/?searchtext=led-strips",
-        "https://www.bol.com/nl/nl/s/?searchtext=ledstrip",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening",
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+3+meter",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+lamp&view=list&12194=55-56&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip+buiten",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+verlichting&view=list&12194=55-56&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&sort=wishListRank1&12194=56-57&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&sort=wishListRank1&12194=56-57&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&sort=wishListRank1&12194=56-57&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&sort=wishListRank1&12194=56-57&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+3+meter&view=list&sort=wishListRank1&12194=56-57&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+lamp&view=list&sort=wishListRank1&12194=56-57&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+led+strip+buiten&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+verlichting&view=list&sort=wishListRank1&12194=56-57&rating=all"
       ],
+      "isRunning" : false,
+      "isMostWantedList": true,
+      "isPerPage": true
+    },
+    {
+      "id": "VM-2-0014",
+      "marketplace": "Bol.com",
+      "product": "LED strip NEON RGB 6m",
+      "productId": "9300000130919989",
+      "productTitle": "Lideka - LED Strip 6 Meter NEON RGB - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
+      "keywords": ["led strip 6 meter"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+6+meter&view=list&sort=wishListRank1&rating=all"],
+      "isRunning" : false,
+      "isMostWantedList": true,
+      "isPerPage": true
+    },
+    {
+      "id": "VM-2-0015",
+      "marketplace": "Bol.com",
+      "product": "LED strip NEON IC 6m",
+      "productId": "9300000130919987",
+      "productTitle": "Lideka - LED Strip 6 Meter NEON RGB + IC - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
+      "keywords": ["led strip 6 meter"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+6+meter&view=list&sort=wishListRank1&12194=99-100&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true,
       "isPerPage": true
