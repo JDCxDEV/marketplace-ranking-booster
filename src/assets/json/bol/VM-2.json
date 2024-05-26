@@ -229,7 +229,7 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+3+meter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=neon+led+strip+buiten"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=neon+led+strip+buiten&view=list&sort=wishListRank1&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
