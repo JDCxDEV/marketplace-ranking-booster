@@ -10,13 +10,13 @@
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaal+keuken&view=list&sort=wxishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&sort=wishListRank1&12194=20-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&sort=wishListRank1&12194=20-25",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaalkeuken&view=list&sort=wishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=digitale+keukenweegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschalen&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+keukenweegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=digitale+keukenweegschaal&view=list&sort=wishListRank1&12194=20-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschalen&view=list&sort=wishListRank1&12194=20-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&sort=wishListRank1&12194=20-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+keukenweegschaal&view=list&sort=wishListRank1&12194=20-25&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -131,7 +131,7 @@
       "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank", "powerbank samsung", "powerbank apple", "powerbank solara"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&sort=wishListRank1&12194=89-90&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&filter_N=4296707626&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+zonneenergie&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+powerbank&view=list&sort=wishListRank1&rating=all",
