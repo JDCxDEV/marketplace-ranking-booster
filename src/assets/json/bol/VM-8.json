@@ -148,12 +148,12 @@
       "keywords": ["groentesnijder", "mandoline", "mandoline keukensnijder"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandolines&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandoline+groentesnijder&view=list&sort=wishListRank1&rating=all", 
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=uiensnijder&view=list&sort=wishListRank1&rating=all", 
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandoline&view=list&sort=wishListRank1&rating=all", 
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandoline+keukensnijder&view=list&sort=wishListRank1&rating=all", 
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=groentesnijder&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=mandolines",
+        "https://www.bol.com/nl/nl/s/?searchtext=mandoline+groentesnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=uiensnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=mandoline",
+        "https://www.bol.com/nl/nl/s/?searchtext=mandoline+keukensnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=groentesnijder"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -167,14 +167,14 @@
       "keywords": ["waterfles", "drinkfles", "waterfles 1 liter", "drinkflessen", "waterflessen", "waterfles met fruit filter", "drinkfles kind", "motivatie waterfles", "drinkfles 1 liter"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+fruit+filter&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kind&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&sort=wishListRank1&12194=20-20&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -189,12 +189,12 @@
       "keywords": ["spiraalsnijder", "spirelli spiraalsnijder"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=spiraalsnijder&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=spirelli+spiraalsnijder&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=spirelli&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=spiralizer&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=spiraalsnijders&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=courgettesnijder+spiraal&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=spiraalsnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=spirelli+spiraalsnijder",
+        "https://www.bol.com/nl/nl/s/?searchtext=spirelli",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=spiralizer&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=spiraalsnijders",
+        "https://www.bol.com/nl/nl/s/?searchtext=courgettesnijder+spiraal"
       ],
       "isRunning" : false,
       "isMostWantedList": true

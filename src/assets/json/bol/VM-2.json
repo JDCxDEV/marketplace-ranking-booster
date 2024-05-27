@@ -10,13 +10,13 @@
       "prioKeywords": ["slaapmasker", "oogmasker"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+vrouwen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+mannen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+3d&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=zijden+slaapmasker&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmaskers&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oogmasker&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+vrouwen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+mannen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+3d",
+        "https://www.bol.com/nl/nl/s/?searchtext=zijden+slaapmasker",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmaskers",
+        "https://www.bol.com/nl/nl/s/?searchtext=oogmasker"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -32,19 +32,18 @@
         "oordoppen", "oordoppen slapen", "earplugs", "sleep plugs", "oordopjes slapen",
         "slaap oordopjes", "oordoppen snurken", "geluidsdempende oordopjes", "oordoppen slapen siliconen", "slaapoordoppen"
       ],
-      "prioKeywords": ["oordoppen", "oordoppen slapen"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=earplugs&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=sleep+plugs&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordopjes+slapen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaap+oordopjes&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+snurken&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=geluidsdempende+oordopjes&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+slapen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen&view=list&sort=wishListRank1&12194=23-24&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+slapen+siliconen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapoordoppen&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen",
+        "https://www.bol.com/nl/nl/s/?searchtext=earplugs",
+        "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken",
+        "https://www.bol.com/nl/nl/s/?searchtext=geluidsdempende+oordopjes",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen+siliconen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapoordoppen"
       ],
       "isRunning" : false,
       "isMostWantedList": true

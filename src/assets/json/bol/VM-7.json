@@ -9,14 +9,14 @@
       "keywords": ["weegschaal keuken", "keukenweegschaal", "precisie weegschaal", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal", "precisie keukenweegschaal"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaal+keuken&view=list&sort=wxishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaalkeuken&view=list&sort=wishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=digitale+keukenweegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschalen&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+keukenweegschaal&view=list&sort=wishListRank1&12194=20-20&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=precisie+weegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
+        "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -34,16 +34,16 @@
       ],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaal+keuken&view=list&sort=wishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaalkeuken&view=list&sort=wishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=digitale+keukenweegschaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschalen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+keukenweegschaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&sort=wishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal+digitaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal+oplaadbaar&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
+        "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=21-22",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+digitaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+oplaadbaar"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -102,25 +102,24 @@
       [
         "leeslampje", "leeslampje voor boek", "leeslampje voor in bed", "led leeslampje", "leeslampje klem",
         "leeslampje boek", "klemlampen", "leeslampje met klem", "oplaadbaar lampje", "leeslampje voor boek oplaadbaar usb",
-        "leeslampje met klem", "leeslampje volwassenen", "leeslampje slaapkamer", "leeslampje kind", "klemlamp"
+        "leeslampje volwassenen", "leeslampje slaapkamer", "leeslampje kind", "klemlamp"
       ],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+voor+boek&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+voor+in+bed&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+leeslampje&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+klem&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+boek&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=klemlampen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+met+klem&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oplaadbaar+lampje&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+voor+boek+oplaadbaar+usb&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+met+klem&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+volwassenen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+slaapkamer&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=leeslampje+kind&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=klemlamp&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+boek",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+in+bed",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+leeslampje",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+klem",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+boek",
+        "https://www.bol.com/nl/nl/s/?searchtext=klemlampen",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+met+klem",
+        "https://www.bol.com/nl/nl/s/?searchtext=oplaadbaar+lampje",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+voor+boek+oplaadbaar+usb",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+volwassenen",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+slaapkamer",
+        "https://www.bol.com/nl/nl/s/?searchtext=leeslampje+kind",
+        "https://www.bol.com/nl/nl/s/?searchtext=klemlamp"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -134,11 +133,11 @@
       "keywords": ["steakmessen", "steakmessen vaatwasserbestendig", "steakmessen zwart", "steakmes", "vleesmessen"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=steakmessen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=steakmessen+vaatwasserbestendig&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=steakmessen+zwart&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=steakmes&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=vleesmessen&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=steakmessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=steakmessen+vaatwasserbestendig",
+        "https://www.bol.com/nl/nl/s/?searchtext=steakmessen+zwart",
+        "https://www.bol.com/nl/nl/s/?searchtext=steakmes",
+        "https://www.bol.com/nl/nl/s/?searchtext=vleesmessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -178,23 +177,23 @@
       ],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=water+fles&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+fruit+filter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+volwassenen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+met+rietje&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+volwassenen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen+volwassenen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+kinderen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kind&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=motiverende+drinkfles&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+rietje+volwassenen&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=water+fles",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+volwassenen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen+volwassenen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+kinderen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=motiverende+drinkfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+rietje+volwassenen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -208,13 +207,13 @@
       "keywords": ["weegschaal keuken", "keukenweegschaal", "keukenweegschaal digitaal", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaal+keuken&view=list&sort=wishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal+digitaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaalkeuken&view=list&sort=wishListRank1",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=digitale+keukenweegschaal&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschalen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+digitaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
+        "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -232,16 +231,16 @@
       ],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+tijdmarkeringen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+fruit+filter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kind&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+tijdmarkeringen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -260,18 +259,18 @@
       ],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+fruit+filter&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+volwassenen&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kind&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+met+rietje&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=water+fles&view=list&sort=wishListRank1&12194=20-21&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&sort=wishListRank1&12194=20-21&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
+        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
+        "https://www.bol.com/nl/nl/s/?searchtext=water+fles",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
