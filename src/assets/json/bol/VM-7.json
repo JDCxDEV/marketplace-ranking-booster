@@ -72,6 +72,27 @@
       "isMostWantedList": true
     },
     {
+      "id": "VM-7-0004",
+      "marketplace": "Bol.com",
+      "product": "Sleepglasses Red",
+      "productId": "9300000074423022",
+      "productTitle": "Somnifiq Slaapbril – Blauw Licht Bril – Beeldschermbril - Beter Slapen - Computerbril - Rood Kleurige Lenzen – Blue Light Glasses Voor ‘s Avonds Zonder Sterkte – Wraparound Fitting - Licht Gewicht - Blokkeert Blauw Licht tot 98%",
+      "keywords": ["blauw licht bril", "computerbril", "blue light glasses", "bluelight glasses", "blue light bril", "beeldschermbril", "blauw licht bril zonder sterkte"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=blauw+licht+bril",
+        "https://www.bol.com/nl/nl/s/?searchtext=computerbril",
+        "https://www.bol.com/nl/nl/s/?searchtext=blue+light+glasses",
+        "https://www.bol.com/nl/nl/s/?searchtext=bluelight+glasses",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=blue+light+bril&view=list&12194=26-27&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=beeldschermbril",
+        "https://www.bol.com/nl/nl/s/?searchtext=blauw+licht+bril+zonder+sterkte"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true,
+      "isOutOfStock": true
+    },
+    {
       "id": "VM-7-0005",
       "marketplace": "Bol.com",
       "product": "Reading Lamp",
@@ -152,7 +173,8 @@
       [
         "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter",
         "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
-        "drinkfles kinderen", "drinkflessen volwassenen"
+        "drinkfles kinderen", "drinkflessen volwassenen", "waterflessen kinderen", "drinkfles kind", "waterfles 1 liter",
+        "motiverende drinkfles", "waterfles met rietje volwassenen"
       ],
       "keywordLink": 
       [
@@ -167,7 +189,12 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+met+rietje&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+volwassenen&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen+volwassenen&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen+volwassenen&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+kinderen&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kind&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=motiverende+drinkfles&view=list&sort=wishListRank1&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+rietje+volwassenen&view=list&sort=wishListRank1&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -181,6 +208,7 @@
       "keywords": ["weegschaal keuken", "keukenweegschaal", "keukenweegschaal digitaal", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal"],
       "keywordLink":
       [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaal+keuken&view=list&sort=wishListRank1",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal+digitaal&view=list&sort=wishListRank1&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=weegschaalkeuken&view=list&sort=wishListRank1",
@@ -232,18 +260,18 @@
       ],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles", 
-        "https://www.bol.com/nl/nl/s/?searchtext=water+fles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+fruit+filter&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+volwassenen&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kind&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+met+rietje&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=water+fles&view=list&sort=wishListRank1&12194=20-21&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&sort=wishListRank1&12194=20-21&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
