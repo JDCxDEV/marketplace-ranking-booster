@@ -123,17 +123,17 @@
       "keywords": ["led spot", "gu10 lamp", "led lampen gu10", "gu10", "gu10 led lamp dimbaar", "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "led spot gu10", "ledlamp", "led lampen"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+lamp&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+gu10&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10&view=list&filter_N=4296707626&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+dimbaar&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+warm+white&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot+gu10&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp&view=list&sort=wishListRank1&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&sort=wishListRank1&12194=20-20&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot&view=list&filter_N=4296707626&12194=20-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+lamp&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+gu10&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+dimbaar&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+warm+white&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot+gu10&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp&view=list&filter_N=4296707626&12194=20-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&12194=20-20&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": false,

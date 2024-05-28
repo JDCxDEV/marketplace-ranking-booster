@@ -9,12 +9,12 @@
       "keywords": ["led lampen", "e14", "e14 led lamp", "e14 lamp", "e14 led", "led lamp e14"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led+lamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ee14+lamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led+lamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e14&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=e14",
+        "https://www.bol.com/nl/nl/s/?searchtext=e14+led+lamp",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+lamp&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=e14 led",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+lamp+e14"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -28,12 +28,12 @@
       "keywords": ["ledlamp", "e14", "e14 led lamp", "e14 lamp", "e14 led", "led lamp e14"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led+lamp&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+lamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e14&view=list&sort=wishListRank1&12194=32-33&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&filter_N=4296707626&12194=32-33&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14&view=list&filter_N=4296707626&12194=32-33&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led+lamp&view=list&filter_N=4296707626&12194=32-33&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+lamp&view=list&filter_N=4296707626&12194=32-33&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led&view=list&filter_N=4296707626&12194=32-33&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e14&view=list&filter_N=4296707626&12194=32-33&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -47,13 +47,11 @@
       "keywords": ["e14", "e14 led lamp", "e14 lamp", "e14 led", "led lamp e14", "ledlamp", "led lampen"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14&view=list&filter_N=4296707626&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led+lamp&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+lamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e14&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&sort=wishListRank1&12194=41-42&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led+lamp&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+lamp&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e14+led&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e14&view=list&filter_N=4296707626&12194=41-42&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -67,17 +65,17 @@
       "keywords": ["led spot", "gu10 lamp", "led lampen gu10", "gu10", "gu10 led lamp dimbaar", "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "led spot gu10", "ledlamp" , "led lampen"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+lamp&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+gu10&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+dimbaar&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+warm+white&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot+gu10&view=list&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&sort=wishListRank1&12194=27-28&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&sort=wishListRank1&12194=27-28&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+lamp&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+gu10&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+dimbaar&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+warm+white&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot+gu10&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&&view=list&filter_N=4296707626&12194=27-28&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&&view=list&filter_N=4296707626&12194=27-28&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -91,17 +89,17 @@
       "keywords": ["led spot", "gu10 lamp", "led lampen gu10", "gu10", "gu10 led lamp dimbaar", "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "led spot gu10", "ledlamp" , "led lampen"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+lamp&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+gu10&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+dimbaar&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+warm+white&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot+gu10&view=list&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=41-42&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&sort=wishListRank1&12194=41-42&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+lamp&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+gu10&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+dimbaar&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led+lamp+warm+white&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gu10+led&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+spot+gu10&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&filter_N=4296707626&12194=41-42&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&12194=41-42&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -115,16 +113,16 @@
       "keywords": ["ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27", "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e27&view=list&filter_N=4296707626&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27&view=list&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27&view=list&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp&view=list&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+lamp&view=list&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp+dimbaar&view=list&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led&view=list&sort=wishListRank1&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27+dimbaar&view=list&sort=wishListRank1&12194=22-23&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=ledlamp",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&12194=16-17&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e27&view=list&filter_N=4296707626&12194=16-17&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+lampen+e27",
+        "https://www.bol.com/nl/nl/s/?searchtext=e27",
+        "https://www.bol.com/nl/nl/s/?searchtext=e27+led+lamp",
+        "https://www.bol.com/nl/nl/s/?searchtext=e27+lamp",
+        "https://www.bol.com/nl/nl/s/?searchtext=e27+led+lamp+dimbaar",
+        "https://www.bol.com/nl/nl/s/?searchtext=e27+led",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+lampen+e27+dimbaar"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -138,16 +136,16 @@
       "keywords": ["ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27", "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e27&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27&view=list&filter_N=4296707626&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+lamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp+dimbaar&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led&view=list&sort=wishListRank1&12194=32-33&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27+dimbaar&view=list&sort=wishListRank1&12194=32-33&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e27&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+lamp&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp+dimbaar&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led&view=list&filter_N=4296707626&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27+dimbaar&view=list&filter_N=4296707626&12194=24-25&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -161,16 +159,15 @@
       "keywords": ["ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27", "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e27&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp+dimbaar&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27+dimbaar&view=list&filter_N=4296707626&sort=wishListRank1&12194=39-40&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledlamp&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lamp+e27&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led+lamp+dimbaar&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=e27+led&view=list&filter_N=4296707626&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+lampen+e27+dimbaar&view=list&filter_N=4296707626&12194=34-35&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -184,18 +181,18 @@
       "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips", "lichtstrip", "rgb led strip", "led", "led light", "led licht", "gaming lights","led light strip"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&filter_N=4296707626&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&sort=wishListRank1&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip&view=list&sort=wishListRank1&12194=34-35&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&12194=34-35&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light+strip&view=list&12194=34-35&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
