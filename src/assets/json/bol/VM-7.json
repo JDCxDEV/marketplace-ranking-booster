@@ -151,13 +151,13 @@
       "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank", "powerbank samsung", "powerbank apple", "powerbank solara"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&sort=wishListRank1&12194=89-90&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+zonneenergie&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=solar+powerbank&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+samsung&view=list&sort=wishListRank1&12194=89-90&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+apple&view=list&sort=wishListRank1&12194=89-90&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+solara&view=list&sort=wishListRank1&12194=89-90&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+iphone",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+zonneenergie",
+        "https://www.bol.com/nl/nl/s/?searchtext=solar+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+samsung",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+apple",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+solara"
       ],
       "isRunning" : false,
       "isMostWantedList": true
