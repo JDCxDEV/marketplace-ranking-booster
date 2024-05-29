@@ -253,21 +253,19 @@
         "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips", "lichtstrip", "gaming", "rgb led strip", "led", "led light", "led licht", "gaming lights", "led strip 20 meter", "led light strip"],
         "keywordLink":
         [
-          "",
-          
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&sort=wishListRank1&12194=91-92&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+20+meter&view=list&sort=wishListRank1&12194=91-92&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+verlichting+strips&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+light&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+licht&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&12194=91-92&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+20+meter&view=list&12194=91-92&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -279,7 +277,7 @@
         "productId": "9300000127935978",
         "productTitle": "Lideka - LED Strip 30 (6x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 750 LED Lights - Zelfklevend Led Licht",
         "keywords": ["led strip 30 meter"],
-        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+30+meter&view=list&sort=wishListRank1&rating=all"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+30+meter"],
         "isRunning" : false,
         "isMostWantedList": true
       },
@@ -290,7 +288,7 @@
         "productId": "9300000127935977",
         "productTitle": "Lideka - LED Strip 40 (8x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 1200 LED Lights - Zelfklevend Led Licht",
         "keywords": ["led strip 40 meter"],
-        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+40+meter&view=list&sort=wishListRank1&rating=all"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+40+meter"],
         "isRunning" : false,
         "isMostWantedList": true
       },
@@ -301,7 +299,7 @@
         "productId": "9300000137057509",
         "productTitle": "Lideka - LED Strip 50 (10x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 1500 LED Lights - Zelfklevend Led Licht",
         "keywords": ["led strip 40 meter"],
-        "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+50+meter&view=list&sort=wishListRank1&rating=all"],
+        "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=led+strip+50+meter"],
         "isRunning" : false,
         "isMostWantedList": true
       },

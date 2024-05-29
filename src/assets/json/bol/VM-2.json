@@ -152,19 +152,18 @@
       ],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&sort=wishListRank1&12194=23-24&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&sort=wishListRank1&12194=23-24&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&sort=wishListRank1&12194=23-24&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+met+afstandsbediening&view=list&sort=wishListRank1&12194=23-24&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichtstrip&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&sort=wishListRank1&12194=23-24&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=rgb+led+strip&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming+lights&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+voor+tv&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+2+meter&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+usb&view=list&sort=wishListRank1&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ambilight+strip&view=list&sort=wishListRank1&12194=23-24&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip+tv&view=list&sort=wishListRank1&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip",
+        "https://www.bol.com/nl/nl/s/?searchtext=led-strips",
+        "https://www.bol.com/nl/nl/s/?searchtext=ledstrip",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening",
+        "https://www.bol.com/nl/nl/s/?searchtext=lichtstrip",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=gaming&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=rgb+led+strip",
+        "https://www.bol.com/nl/nl/s/?searchtext=gaming+lights",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+voor+tv",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+2+meter",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+usb",
+        "https://www.bol.com/nl/nl/s/?searchtext=led+strip+tv"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -182,6 +181,8 @@
       ],
       "keywordLink": 
       [
+        "",
+        
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&sort=wishListRank1&12194=21-22&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&sort=wishListRank1&12194=21-22&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&sort=wishListRank1&12194=21-22&rating=all",
