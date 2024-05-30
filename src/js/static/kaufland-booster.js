@@ -3,34 +3,51 @@ import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
+import * as proxies from '../../helpers/proxies.js';
 
-const initBooster = async (product, threadTimer = 300) => {
-
-  // Parameters
-  const keyword = booster.getRandomKeyword(product.keywords) 
-  const link = 'https://www.kaufland.de/'
-  const productLink =  product.productId
-  const proxy = await proxies.getAssignedProxies(proxyProvider)
+const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => {
+  
+  // Set stealth plugin
+  const stealthPlugin = StealthPlugin();
+  puppeteer.use(stealthPlugin);
 
   // Set a timer to close the browser and the method after the specified duration
-
   let browser = null;
 
   setTimeout(async () => {
-    console.log(`Browser closed after ${threadTimer} seconds.`);
-    if(browser) {
+    if (browser) {
+      // console.log(`Browser closed after ${threadTimer} seconds.`);
       await browser.close();
     }
 
     return;
   }, threadTimer * 1000);
 
-  // Set stealth plugin
-  const stealthPlugin = StealthPlugin();
-  puppeteer.use(stealthPlugin);
+  // Parameters
+  let link = null;
+  let keyword = null;
+
+  try {
+    if(steps == 'homepage') {
+      link = booster.getRandomStartingUrl()
+      keyword = booster.getRandomKeyword(product.keywords) 
+    }else {
+      if(product.keyword.length) {
+        keyword = booster.getRandomKeyword(product.keyword) 
+      }else {
+        return;
+      }
+    }
+   
+  }catch(error) {
+    console.log(error);
+  }
+
+  const productId = product.productId
+  const proxy = await proxies.getAssignedProxies(proxyProvider)
 
   // Create random user-agent to be set through plugin
-  const userAgent = new UserAgent();
+  const userAgent = new UserAgent({ deviceCategory: 'desktop' });
   const userAgentStr = userAgent.toString();
   const screenSize = booster.getRandomScreenSize();
 
@@ -41,20 +58,17 @@ const initBooster = async (product, threadTimer = 300) => {
     makeWindows: false,
   }));
     
-  // initialize booster page
+
   try {
     browser = await puppeteer.launch({ 
       headless: false,
       args: [
         `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
-        '--ignore-certificate-errors',
-        '--single-process',
         '--disable-gpu',
         '--disable-dev-shm-usage',
         '--disable-accelerated-2d-canvas',
         '--no-first-run',
-        '--no-sandbox',
         '--no-zygote',
         '--start-maximized'
         ],
@@ -62,21 +76,24 @@ const initBooster = async (product, threadTimer = 300) => {
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
     });
   }catch(error) {
-    console.log(error);
+    console.log(error.message)
     return;
   }
 
+  let page = null;
+  let content = null;
+  
   const username = proxy.username;
   const password = proxy.password;
 
-  let page = null;
-
   try {
     page = await browser.newPage();
+    
     await page.authenticate({
       username,
       password,
     });
+
     await page.setUserAgent(userAgentStr);
     await page.setViewport({ width: screenSize.width, height: screenSize.height, isMobile: false, isLandscape: true, hasTouch: false, deviceScaleFactor: 1 });
   }catch(error) {
@@ -89,12 +106,31 @@ const initBooster = async (product, threadTimer = 300) => {
   } 
 
   try {
-    await page.goto(link);
+    await page.goto(keyword.link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
-    await browser.close()
+    // console.log(error);
+
+    if(browser) {
+      await browser.close();
+    }
+
+    return;
   }
 
-  const content = await page.content();
+  if(page) {
+    try {
+      content = await page.content();
+    }catch(error) {
+      console.log(error.message);
+      return;
+    }
+  }else {
+    console.log(error.message);
+    if(browser) {
+      await browser.close();
+    }
+    return;
+  }
 
   if(content) {
     try {
@@ -102,7 +138,9 @@ const initBooster = async (product, threadTimer = 300) => {
 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
-      await booster.addTimeGap(2000);
+
+
+      await booster.addTimeGap(5000);
 
       // Step: Click Accept Terms button on init
       const acceptTermsButton = '#onetrust-accept-btn-handler';
@@ -110,129 +148,151 @@ const initBooster = async (product, threadTimer = 300) => {
       await page.click(acceptTermsButton);
 
       // Step: Type into search box.
-      await booster.addTimeGap(4000);
-      await page.type('input[name="search_value"]', keyword, {delay: 300});
+      // await booster.addTimeGap(4000);
+      // await page.type('input[name="search_value"]', keyword, {delay: 300});
 
       // Step: Wait for suggest overlay to appear and click "show all results".
-      await booster.addTimeGap(2000);
-      await page.$$eval(".rh-search__button", els => 
-        els.forEach((el) =>{
-          if(el.className == 'rh-search__button rd-button rd-button--icon') {
-            el.click()
-          }
-        })
-      )
 
-      await booster.addTimeGap(2000)
-      for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-        await booster.scrollToRandomClass(page, '.product--hasBadges');
-      }
+      // await booster.addTimeGap(2000);
+      // await page.$$eval(".rh-search__button", els => 
+      //   els.forEach((el) =>{
+      //     if(el.className == 'rh-search__button rd-button rd-button--icon') {
+      //       el.click()
+      //     }
+      //   })
+      // )
 
-      await booster.addTimeGap(4000)
+      // await booster.addTimeGap(2000)
 
-      let foundProduct = false
+      // for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
+      //   await booster.scrollToRandomClass(page, '.product--hasBadges', browser);
+      // }
 
-      const findProduct = async () => {
-        const anchor = await page.$$eval('name.search-griditem-click', (anchors, productLink) => {
-          for (const anchor of anchors) {
-            if (anchor.href.includes(productLink)) {
-                anchor.click()
-                return true;
-            }
-          }
-          return null; 
-        }, productLink);
-      
-        if (anchor) {
-          foundProduct = true
-        }else {
-          await page.waitForSelector('nav.rd-pagination');
+      await booster.addRandomTimeGap(10, 12)
 
-          try {
-            const paginationButtons = await page.$$('nav.rd-pagination button');
+      try {
+        const href = `/product/${productId}/?search_value=${keyword.name}`;
+        const [element] = await page.$x(`//a[@href='${href}']`);
   
-            if (paginationButtons.length > 0) {
-              await booster.addTimeGap(5000)
-              await paginationButtons[paginationButtons.length - 1].click();
-            }
-          }catch (error) {
-            await browser.close();
-          }
-        
-          return false
+        if (element) {
+          await element.click();
+          console.log('Element clicked');
+        } else {
+          console.log('Element not found');
         }
+        
+      }catch(error) {
+        console.log(error)
       }
 
-      const scrollDown = async (page) => {
-        await page.evaluate(() => {
-          const scrollStep = 250;
-          const scrollInterval = 150;
-  
-          function smoothScroll() {
-            let scrollFrom = window.scrollY;
-            let scrollTo = scrollFrom + scrollStep;
-            if (scrollTo >= document.body.scrollHeight) {
-              scrollTo = 0;
-            }
-  
-            window.scroll({
-              top: scrollTo,
-              behavior: 'smooth',
-            });
-          }
-  
-          const scrollIntervalId = setInterval(smoothScroll, scrollInterval);
-  
-          setTimeout(() => {
-            clearInterval(scrollIntervalId);
-          }, 7000);
-        });
-      } 
 
-      while(foundProduct !== true) {
-        await booster.addTimeGap(7000)
-        await scrollDown(page)
+      await booster.addRandomTimeGap(10, 12)
 
-        try {
-          await Promise.race([
-            page.waitForSelector('.results--slider'),
-            page.waitForSelector('.results--grid')
-          ], 30000);
+
+      // let foundProduct = false
+
+      // const findProduct = async () => {
+      //   const anchor = await page.$$eval('name.search-griditem-click', (anchors, productId) => {
+      //     for (const anchor of anchors) {
+      //       if (anchor.href.includes(productId)) {
+      //           anchor.click()
+      //           return true;
+      //       }
+      //     }
+      //     return null; 
+      //   }, productId);
+      
+      //   if (anchor) {
+      //     foundProduct = true
+      //   }else {
+      //     await page.waitForSelector('nav.rd-pagination');
+
+      //     try {
+      //       const paginationButtons = await page.$$('nav.rd-pagination button');
+  
+      //       if (paginationButtons.length > 0) {
+      //         await booster.addTimeGap(5000)
+      //         await paginationButtons[paginationButtons.length - 1].click();
+      //       }
+      //     }catch (error) {
+      //       await browser.close();
+      //     }
+        
+      //     return false
+      //   }
+      // }
+
+      // const scrollDown = async (page) => {
+      //   await page.evaluate(() => {
+      //     const scrollStep = 250;
+      //     const scrollInterval = 150;
+  
+      //     function smoothScroll() {
+      //       let scrollFrom = window.scrollY;
+      //       let scrollTo = scrollFrom + scrollStep;
+      //       if (scrollTo >= document.body.scrollHeight) {
+      //         scrollTo = 0;
+      //       }
+  
+      //       window.scroll({
+      //         top: scrollTo,
+      //         behavior: 'smooth',
+      //       });
+      //     }
+  
+      //     const scrollIntervalId = setInterval(smoothScroll, scrollInterval);
+  
+      //     setTimeout(() => {
+      //       clearInterval(scrollIntervalId);
+      //     }, 7000);
+      //   });
+      // } 
+
+      // while(foundProduct !== true) {
+      //   await booster.addTimeGap(7000)
+      //   await scrollDown(page)
+
+      //   try {
+      //     await Promise.race([
+      //       page.waitForSelector('.results--slider'),
+      //       page.waitForSelector('.results--grid')
+      //     ], 30000);
           
-          console.log('One of the selectors is present.');
-        } catch (error) {
-          console.error('Both selectors are not present within the timeout.');
-        } 
+      //     console.log('One of the selectors is present.');
+      //   } catch (error) {
+      //     console.error('Both selectors are not present within the timeout.');
+      //   } 
 
-        await findProduct()
+      //   await findProduct()
 
-        await booster.addTimeGap(5000)
-      }
+      //   await booster.addTimeGap(5000)
+      // }
 
-      await booster.addTimeGap(4000)
+      // await booster.addTimeGap(4000)
 
       // Step 6: hover to page image.
-      await page.waitForSelector('a[data-cs-override-id="image-gallery-thumbnail-1"]', {
-        visible: true,
-      })
+      // await page.waitForSelector('a[data-cs-override-id="image-gallery-thumbnail-1"]', {
+      //   visible: true,
+      // })
 
-      for (let i = 1; i <= 5; i++) {
-        await page.hover(`a[data-cs-override-id="image-gallery-thumbnail-${booster.generateNumberBetween(1, 6)}"]`)
-        await booster.addRandomTimeGap(3, 10)
-      }
+      // for (let i = 1; i <= 5; i++) {
+      //   await page.hover(`a[data-cs-override-id="image-gallery-thumbnail-${booster.generateNumberBetween(1, 6)}"]`)
+      //   await booster.addRandomTimeGap(3, 10)
+      // }
 
-      // Step 7: go to product information
-      await booster.addRandomTimeGap(3, 10)
-      await booster.addTimeGap(2000);
+      // // Step 7: go to product information
+      // await booster.addRandomTimeGap(3, 10)
+      // await booster.addTimeGap(2000);
 
-      await page.$$eval(".rd-button--link-overwrite", els => 
-        els.forEach((el) =>{
-          if(el.className == 'rd-link rd-link--primary rd-button--link-overwrite') {
-            el.click()
-          }
-        })
-      )
+      // await page.$$eval(".rd-button--link-overwrite", els => 
+      //   els.forEach((el) =>{
+      //     if(el.className == 'rd-link rd-link--primary rd-button--link-overwrite') {
+      //       el.click()
+      //     }
+      //   })
+      // )
     }catch(error) {
+      console.log(error)
       await browser.close();
     }
   }
@@ -250,26 +310,10 @@ const dynamicallyImportJsonFile = async (file)  => {
   return jsonObject
 }
 
-export const triggerKauflandBooster = async (thread, product) => {
-  await booster.addRandomTimeGap(3)
+export const triggerAllBolKaufland = async (thread, currentVM, virtualMachine = {}) => {
+  await booster.addRandomTimeGap(2, 2)
 
-  for (let index = 0; index <= thread; index++) {
-    try {
-      await initBooster(product) 
-    }catch (error) {
-      await booster.downloadProxies(product)
-
-      if(!process.env.TURN_OFF_LOGS) {
-        console.error(error);
-      }
-    }
-  }
-};
-
-export const triggerAllBolKaufland = async (thread, currentVM) => {
-  await booster.addRandomTimeGap(3)
-
-  const productJsonFile = await dynamicallyImportJsonFile( currentVM + '.json');
+  const productJsonFile = await dynamicallyImportJsonFile(currentVM + '.json');
   const products = productJsonFile.products.filter( item => !item.isOutOfStock);
 
   console.log(products.length);
@@ -279,15 +323,15 @@ export const triggerAllBolKaufland = async (thread, currentVM) => {
     console.log('current thread:' + mainIndex);
     try {
       for (let index = 0; index < products.length; index++) {
-        await booster.addRandomTimeGap(3);
 
-        let productThreads = 4;
+        let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-          currentBatch.push(initBooster(products[index]));
+          await booster.addRandomTimeGap(3, 3);
+          currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
-        
+      
         const timeoutMilliseconds = 300000; // 5 minutes
 
         const timeoutPromise = new Promise((_, reject) => {
@@ -309,10 +353,13 @@ export const triggerAllBolKaufland = async (thread, currentVM) => {
           console.log(error.message)
           return;
         }
-
       }
     }catch (error) {
-      console.log(error.message);
+      console.log(error.message)
+      if(!process.env.TURN_OFF_LOGS) {
+        console.error(error);
+      }
+
       return;
     }
   }

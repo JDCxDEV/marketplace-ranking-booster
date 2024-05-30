@@ -1,7 +1,7 @@
 import express from 'express';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
-import { triggerKauflandBooster, triggerAllBolKaufland } from './src/js/static/kaufland-booster.js';
+import { triggerAllBolKaufland } from './src/js/static/kaufland-booster.js';
 import { triggerAllBlokkerBooster } from './src/js/static/blokker-booster.js';
 import { triggerBolBooster, triggerAllBolBooster } from './src/js/static/bol-booster.js';
 import { downloadProxies } from './src/helpers/boosterSteps.js';
@@ -35,7 +35,7 @@ const getRequestTriggerBooster = async (req, res) => {
         if (currentMP === 'bol') {
             triggerAllBolBooster(thread, currentVM, vm);
         } else if (currentMP === 'kaufland') {
-            triggerAllBolKaufland(thread, currentVM);
+            triggerAllBolKaufland(thread, currentVM, vm);
         }else if (currentMP === 'blokker') {
             triggerAllBlokkerBooster(thread, currentVM, vm);
         }

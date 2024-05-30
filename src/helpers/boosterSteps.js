@@ -157,7 +157,6 @@ export const findAndScrollToAnchorByText = async (page, searchText, browser) => 
   }
 }
 
-
 export const scrollToElementAndClickIt = async (page, classElement, delayInMilliseconds = 2000) => {
   await page.waitForSelector(classElement); // Wait for the element to be present
 
@@ -218,7 +217,7 @@ export const selectOptionById = async(page, dropdownId, optionValue) =>{
 export const getRandomStartingUrl = (urls = []) =>{
   try {
     const defaultUrl = [      
-    'https://www.bol.com/nl/nl/m/klantenservice/',
+      'https://www.bol.com/nl/nl/m/klantenservice/',
     ]
     const links = urls.length ? urls.length : defaultUrl
   
