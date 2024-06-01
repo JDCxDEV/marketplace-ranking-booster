@@ -34,9 +34,9 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&12194=26-27&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&12194=26-27&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -56,7 +56,8 @@
           "https://www.bol.com/nl/nl/s/?page=3&searchtext=wasmand&view=list&12194=32-33&rating=all"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-20-0004",
@@ -67,13 +68,14 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
         "keywordLink":
         [
+
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=29-30&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=29-30&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=29-30&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=6&searchtext=wasmand&view=list&12194=29-30&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=29-30&rating=all"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-20-0005",
@@ -86,7 +88,8 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
+          "https://www.bol.com/nl/nl/s/?searchtext=wasmand"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -106,7 +109,8 @@
           "https://www.bol.com/nl/nl/s/?page=3&searchtext=wasmand&view=list&12194=22-23&rating=all"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-20-0007",
@@ -117,10 +121,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=7&searchtext=wasmand&view=list&12194=24-25&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -175,7 +179,8 @@
           "https://www.bol.com/nl/nl/s/?page=3&searchtext=mand&view=list&12194=33-34"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-20-0011",
@@ -189,8 +194,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=6&searchtext=wasmand&view=list&12194=29-30&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=7&searchtext=mand&view=list&12194=29-30"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&12194=26-27&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -207,8 +211,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=6&searchtext=wasmand&view=list&12194=29-30&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=7&searchtext=mand&view=list&12194=29-30"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=26-27&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -222,11 +225,11 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=7&searchtext=wasmand&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=6&searchtext=mand&view=list&12194=24-25"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&12194=22-23&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&12194=22-23&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&12194=22-23&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=22-23&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&12194=22-23&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -240,10 +243,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=12&searchtext=opberg+mand&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=12&searchtext=opbergmanden&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=12&searchtext=opbergmand&view=list&12194=24-25&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=6&searchtext=mand&view=list&12194=24-25"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -257,10 +260,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=16724+4267462047&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=16724+4267462047&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=16724+4267462047&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=16724+4267462047&12194=22-23&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -274,7 +277,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat"
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -304,8 +308,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&12194=22-23&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -342,7 +346,8 @@
           "https://www.bol.com/nl/nl/s/?searchtext=schoenrek"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-20-0021",
