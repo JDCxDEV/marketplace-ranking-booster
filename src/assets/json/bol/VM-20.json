@@ -52,8 +52,7 @@
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=32-33&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=32-33&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=32-33&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=3&searchtext=wasmand&view=list&12194=32-33&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=32-33&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
@@ -105,8 +104,7 @@
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=22-23&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=3&searchtext=wasmand&view=list&12194=22-23&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=22-23&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
@@ -174,9 +172,7 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=3&searchtext=wasmand&view=list&12194=33-34&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=3&searchtext=mand&view=list&12194=33-34"
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
