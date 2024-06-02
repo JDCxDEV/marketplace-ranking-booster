@@ -7,7 +7,6 @@
       "productId": "9300000048501922",
       "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
       "keywords": ["slaapmasker", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmaskers", "oogmasker"],
-      "prioKeywords": ["slaapmasker", "oogmasker"],
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker",
@@ -55,7 +54,6 @@
       "productId": "9300000043283281",
       "productTitle": "QuchiQ™ Robot speelgoed - Robots - Bouwsets - speelgoed - Speelgoed auto - Politie - Brandweerauto - Bouwpakket - Speelfiguren sets - 345 bouwstenen",
       "keywords": ["robot bouwpakket", "robot speelgoed jongens", "robot speelgoed"],
-      "prioKeywords": ["robot speelgoed"],
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket",
@@ -73,12 +71,10 @@
       "productId": "9300000087795314",
       "productTitle": "Robot speelgoed bouwpakket - STEM speelgoed - Bouwsets - Robot auto Speelgoed - Politie - Brandweerauto - Speelfiguren sets - 482 bouwstenen",
       "keywords": ["robot bouwpakket", "bouwset", "speelgoed"],
-      "prioKeywords": ["speelgoed"],
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=robot+bouwpakket&view=list&filter_N=4297326722&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bouwset&view=list&12194=19-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=5&searchtext=speelgoed&view=list&12194=19-20&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bouwset&view=list&12194=19-20&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,

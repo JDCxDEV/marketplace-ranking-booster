@@ -70,7 +70,8 @@
           "https://www.bol.com/nl/nl/s/?searchtext=wasmanden"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-12-0005",
