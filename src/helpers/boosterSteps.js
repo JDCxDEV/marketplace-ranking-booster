@@ -75,8 +75,10 @@ export const downloadProxies = async () => {
 
 export const scrollDown = async (page) => {
   await page.evaluate(() => {
-    const scrollStep = 160; // Adjust the scrolling step as needed
-    const scrollInterval = 100; // Adjust the scrolling interval (ms) as needed
+    const getRandom = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+
+    const scrollStep = getRandom(160, 200); // Randomize the scrolling step between 160 and 200
+    const scrollInterval = getRandom(100, 300); // Randomize the scrolling interval (ms) between 100 and 300
 
     function smoothScroll() {
       let scrollFrom = window.scrollY;
@@ -95,8 +97,39 @@ export const scrollDown = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
+    }, 7000);
+  });
+}
+
+export const scrollUp = async (page) => {
+  await page.evaluate(() => {
+    const getRandom = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+
+    const scrollStep = getRandom(160, 200); // Randomize the scrolling step between 160 and 200
+    const scrollInterval = getRandom(100, 300); // Randomize the scrolling interval (ms) between 100 and 300
+
+    function smoothScrollUp() {
+      let scrollFrom = window.scrollY;
+      let scrollTo = scrollFrom - scrollStep; // Scroll up by subtracting the scroll step
+      if (scrollTo <= 0) {
+        scrollTo = document.body.scrollHeight; // Scroll to the bottom if already at the top
+      }
+
+      window.scroll({
+        top: scrollTo,
+        behavior: 'smooth',
+      });
+    }
+
+    const scrollIntervalId = setInterval(smoothScrollUp, scrollInterval);
+
+    setTimeout(() => {
+      clearInterval(scrollIntervalId);
     }, 5000);
   });
+
+  // Optionally add a random delay to simulate human-like behavior
+  await addRandomTimeGap(3, 6);
 }
 
 export const scrollToRandomClass = async (page, elementClass, browser) => {

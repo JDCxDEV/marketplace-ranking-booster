@@ -148,35 +148,48 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(5, 10);
 
-      await booster.scrollDown(page);
+      const minSequenceLength = 5;
+      const maxSequenceLength = 10;
+      
+      // Function to generate a random sequence of scroll directions
+      const generateScrollSequence = () => {
+        const sequenceLength = Math.floor(Math.random() * (maxSequenceLength - minSequenceLength + 1)) + minSequenceLength;
+        const sequence = [];
+      
+        for (let i = 0; i < sequenceLength; i++) {
+          const direction = Math.random() < 0.5 ? 'up' : 'down'; // Randomly choose between 'up' and 'down'
+          sequence.push(direction);
+        }
+      
+        return sequence;
+      }
+      
+      // Function to execute the scroll sequence
+      const executeScrollSequence = async (page) => {
+        const scrollSequence = generateScrollSequence();
+      
+        for (const direction of scrollSequence) {
+          if (direction === 'up') {
+            await booster.scrollUp(page);
+          } else {
+            await booster.scrollDown(page);
+          }
+        }
+      }
+      
+      // Execute the scroll sequence
+      await executeScrollSequence(page);
 
-      let addedToWishlist = false;
-      try {
-
-        await booster.addRandomTimeGap(7, 7); 
-        
-        await page.evaluate((productId) => {
-          return new Promise((resolve, reject) => {
-            const element = document.querySelector(`[global-id="${productId}"]`);
-            if (element) {
-              element.click();
-              resolve();
-            }
-          });
-        }, productId);
-
-        addedToWishlist = true;
-
-        await booster.addRandomTimeGap(7, 8);
-        await page.waitForSelector('.modal__window--close-hitarea');
-        await page.click('.modal__window--close-hitarea');
-
-
-      }catch(error) {
-        addedToWishlist = false;
+      for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
+        await booster.scrollToRandomClass(page, '.list_page_product_tracking_target', browser);
       }
 
-      await booster.scrollDown(page);
+
+
+      let addedToWishlist = false;
+
+
+
 
       await booster.addRandomTimeGap(5, 5);
 
@@ -234,49 +247,104 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(5, 10);
 
+      // hover new to the image
+      try {
+        const elementSelector = 'wsp-selected-item-image-zoom-modal-application';
+      
+        await page.waitForSelector(elementSelector, { timeout: 10000 });
+      
+        await booster.addRandomTimeGap(5, 7);
+      
+        // Hover over the custom element
+        await page.hover(elementSelector);
+        console.log('Hovered over the custom element');
+      
+        // Add a random time gap after hovering (if needed)
+        await booster.addRandomTimeGap(3, 5);
+      } catch (error) {
+        // continue if caught error
+      }
+
+      try {
+        await booster.addRandomTimeGap(3, 5);
+
+        const carouselClicked = `[data-test="carousel-next"]`;
+
+        // Wait for the element to be present in the DOM
+        await page.waitForSelector(carouselClicked, {timeout: 10000});
+      
+        // Click the element
+        await page.click(carouselClicked);
+
+      }catch(error) {
+        // continue if get error
+      }
+
+    
       await booster.scrollDown(page);
 
-      await page.waitForSelector('.product-item__content');
+      try { 
+        await page.waitForSelector('.product-item__content');
 
-      for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-        await booster.scrollToRandomClass(page, '.product-item__content', browser);
+        for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
+          await booster.scrollToRandomClass(page, '.product-item__content', browser);
+        }
+      }catch(error) {
+        // continue if get error
       }
 
       // Step: Add to wishlist & Add to cart
       if(!addedToWishlist) {
-        try {
-          await booster.addRandomTimeGap(5, 10);
-  
-          await booster.scrollDown(page);
-          
-          await page.waitForSelector(`[global-id="${productId}"]`);
+        const maxRetries = 5;
+        let attempts = 0;
+        let success = false;
 
-          await booster.addRandomTimeGap(7, 7);
-          await page.click(`[global-id="${productId}"]`);
-  
-          // await page.waitForSelector('.ui-btn--favorite');
-          // await booster.addRandomTimeGap(5, 10);
-          // await page.click('.ui-btn--favorite');
+        while (attempts < maxRetries && !success) {
+          try {
+            const xpath = `//*[@global-id='${productId}']`;
 
-          await page.waitForSelector('.modal__window--close-hitarea');
-          await page.click('.modal__window--close-hitarea');
-    
-        }catch (error) {
+            // Wait for the XPath selector with a timeout of 10 seconds (adjust as needed)
+            await page.waitForXPath(xpath, { timeout: 10000 });
 
-          // if(steps == 'homepage') {
-          //   console.log(`error at ${productId} : keyword ${keyword}`)
-          // }else {
-          //   const searchKeyword = booster.getSearchTextFromURL(link)
-          //   console.log(`error at ${productId} : keyword ${searchKeyword} : ${error.message}`)
-          // }
+            // Find the element using XPath
+            const [element] = await page.$x(xpath);
 
-          
-          if(browser) {
-            await browser.close();
+            if (element) {
+              // Add a random time gap before clicking
+              await booster.addRandomTimeGap(5, 7);
+
+              // Click the element
+              await element.click();
+              console.log('Element clicked');
+
+              await booster.addRandomTimeGap(5, 7);
+              
+              // Wait for and click the modal close button
+              await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
+              await page.click('.modal__window--close-hitarea');
+
+              // Add a random time gap after clicking (if needed)
+              await booster.addRandomTimeGap(3, 5);
+
+              success = true; // Set success to true if click is successful
+            } else {
+              console.log('Element not found');
+            }
+          } catch (error) {
+            // continue
           }
+
+          attempts++;
           
-          return;
-        } 
+          // Wait before the next attempt (optional, for better pacing)
+          if (!success) {
+            await booster.addRandomTimeGap(3, 5);
+          }
+        }
+
+        if (!success) {
+          console.log(`Failed to click the element after ${maxRetries} attempts.`);
+        }
       }
       
       await booster.addRandomTimeGap(3, 3);
