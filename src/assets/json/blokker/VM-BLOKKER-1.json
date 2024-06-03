@@ -73,7 +73,8 @@
         "https://www.blokker.nl/search?q=computerbril"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-1-0007",
@@ -89,7 +90,8 @@
         "https://www.blokker.nl/search?q=computerbril"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-1-0008",
@@ -115,7 +117,7 @@
       "keywords": ["steakmessen", "steakmessen vaatwasserbestendig"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=steakmessen&pmin=12&pmax=13",
+        "https://www.blokker.nl/search/lekro?q=steakmessen&pmin=0%2C00",
         "https://www.blokker.nl/search?q=steakmessen%20vaatwasserbestendig"
       ],
       "isRunning" : false,
@@ -130,8 +132,7 @@
       "keywords": ["mandoline", "groentesnijder"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=mandoline",
-        "https://www.blokker.nl/search?q=groentesnijder"
+        "https://www.blokker.nl/search?q=mandoline"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -146,7 +147,7 @@
       "keywordLink":
       [
         "https://www.blokker.nl/drinkflessen",
-        "https://www.blokker.nl/search?q=waterfles"
+        "https://www.blokker.nl/search/lekro?q=waterfles&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -306,7 +307,8 @@
         "https://www.blokker.nl/search?q=huisdiercamera"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-1-0022",
