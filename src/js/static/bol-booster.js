@@ -188,9 +188,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       let addedToWishlist = false;
 
-
-
-
       await booster.addRandomTimeGap(5, 5);
 
       if(steps == 'homepage') {
