@@ -9,7 +9,7 @@
         "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -23,8 +23,8 @@
         "keywords": ["wasmand", "opbergmand", "waszak", "wasmanden", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden?pmin=21&pmax=22",
-          "https://www.blokker.nl/search?q=mand&pmin=21&pmax=22"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -38,8 +38,8 @@
         "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden?pmin=30&pmax=31",
-          "https://www.blokker.nl/search?q=mand&pmin=30&pmax=31"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -53,8 +53,8 @@
         "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
-          "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -68,8 +68,8 @@
         "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden?pmin=22&pmax=23",
-          "https://www.blokker.nl/search?q=mand&pmin=22&pmax=23"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -83,8 +83,8 @@
         "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden?pmin=22&pmax=23",
-          "https://www.blokker.nl/search?q=mand&pmin=22&pmax=23"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search?q=mand"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -98,7 +98,8 @@
         "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search?q=mand&pmin=22&pmax=23"
+          "https://www.blokker.nl/search?q=mand",
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -113,7 +114,7 @@
         "keywordLink": 
         [
           "https://www.blokker.nl/placemats",
-          "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
+          "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -127,8 +128,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search?q=placemat%20kunststof",
-          "https://www.blokker.nl/placemats"
+          "https://www.blokker.nl/search/sophie-nordinn?q=placemat%20kunststof&pmin=0%2C00",
+          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -142,7 +143,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats"
+          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00",
+          ""
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -156,9 +158,9 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search?q=placemat%20kunststof",
-          "https://www.blokker.nl/placemats",
-          "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
+          "https://www.blokker.nl/search/sophie-nordinn?q=placemat%20kunststof&pmin=0%2C00",
+          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -194,7 +196,8 @@
           "https://www.blokker.nl/search?q=kookschort%20mannen"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-3-0074",
@@ -205,10 +208,10 @@
         "keywords": ["schort", "keukenschort dames", "keukenschort", "keukenschorten", "keukenshort", "kookschort", "keukenschort vrouw", "kookschort mannen", "kookschort dames"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search?q=schort&pmin=10&pmax=11",
-          "https://www.blokker.nl/search?q=keukenschort&pmin=10&pmax=11",
-          "https://www.blokker.nl/search?q=keukenschorten&pmin=10&pmax=11",
-          "https://www.blokker.nl/search?q=kookschort",
+          "https://www.blokker.nl/search/sophie-nordinn?q=schort&pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort&pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=keukenschorten&pmin=0%2C00",
+          "https://www.blokker.nl/search/sophie-nordinn?q=kookschort&pmin=0%2C00",
           "https://www.blokker.nl/search?q=keukenschort%20vrouw",
           "https://www.blokker.nl/search?q=kookschort%20mannen"
         ],
@@ -224,7 +227,7 @@
         "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 10 meter", "lichtstrip"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search?q=led%20strip&pmin=79&pmax=80",
+          "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=79&pmax=80",
           "https://www.blokker.nl/search?q=led%20strip%2010%20meter"
         ],
         "isRunning" : false,
@@ -295,10 +298,9 @@
         "keywords": ["led strip", "rgb led strip", "led strip 3 meter", "neon led strip buiten"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search?q=led%20strip&pmin=39&pmax=40",
-          "https://www.blokker.nl/search?q=rgb%20led%20strip",
-          "https://www.blokker.nl/search?q=led%20strip%203%20meter",
-          "https://www.blokker.nl/search?q=neon%20led%20strip%20buiten"
+          "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=44&pmax=45",
+          "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=44&pmax=45",
+          "https://www.blokker.nl/search?q=led%20strip%203%20meter"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -312,9 +314,8 @@
         "keywords": ["led strip", "rgb led strip", "ledstrip", "led strip 3 meter", "neon led strip buiten"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=led%20strip&pmin=54&pmax=55",
-          "https://www.blokker.nl/search?q=led%20strip%203%20meter",
-          "https://www.blokker.nl/search?q=neon%20led%20strip%20buiten"
+          "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=54&pmax=55",
+          "https://www.blokker.nl/search?q=led%20strip%203%20meter"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -329,7 +330,7 @@
         "keywordLink":
         [
           "https://www.blokker.nl/powerbanks",
-          "https://www.blokker.nl/search?q=powerbank%20zonneenergie&pmin=89&pmax=90",
+          "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
           "https://www.blokker.nl/search?q=solar%20powerbank"
         ],
         "isRunning" : false,
@@ -344,8 +345,8 @@
         "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
         "keywordLink":
         [
-          "https://www.blokker.nl/powerbanks",
-          "https://www.blokker.nl/search?q=powerbank%20zonneenergie&pmin=129&pmax=130",
+          "https://www.blokker.nl/powerbanks/lideka?pmin=0%2C00",
+          "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
           "https://www.blokker.nl/search?q=solar%20powerbank"
         ],
         "isRunning" : false,
@@ -393,8 +394,8 @@
         "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=led%20strip&pmin=134&pmax=135",
-          "https://www.blokker.nl/search?q=rgb%20led%20strip&pmin=134&pmax=135",
+          "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=134&pmax=135",
+          "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=134%2C00&pmax=135%2C00",
           "https://www.blokker.nl/search?q=led%20verlichting%20strips"
         ],
         "isRunning" : false,
@@ -409,9 +410,9 @@
         "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 20 meter"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=led%20strip&pmin=97&pmax=98",
-          "https://www.blokker.nl/search?q=rgb%20led%20strip&pmin=97&pmax=98",
-          "https://www.blokker.nl/search?q=led-strips&pmin=97&pmax=98",
+          "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=97&pmax=98",
+          "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=97%2C00&pmax=98%2C00",
+          "https://www.blokker.nl/search/lideka?q=led-strips&pmin=97%2C00&pmax=98%2C00",
           "https://www.blokker.nl/search?q=led%20strip%2020%20meter"
         ],
         "isRunning" : false,
@@ -426,8 +427,8 @@
         "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=led%20strip&pmin=44&pmax=45",
-          "https://www.blokker.nl/search?q=led-strips&pmin=44&pmax=45",
+          "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=44%2C00&pmax=45%2C00",
+          "https://www.blokker.nl/search/lideka?q=led-strips&pmin=44%2C00&pmax=45%2C00",
           "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
           "https://www.blokker.nl/search?q=led%20strip%2010%20meter"
         ],

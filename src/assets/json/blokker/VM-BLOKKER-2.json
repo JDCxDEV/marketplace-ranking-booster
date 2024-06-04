@@ -156,7 +156,8 @@
         "https://www.blokker.nl/search?q=traagschuim%20kussens"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-2-0040",
@@ -256,9 +257,9 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "wasmand zwart", "opberg mand", "opbergmand zwart"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden",
-        "https://www.blokker.nl/search?q=wasmand%20zwart",
-        "https://www.blokker.nl/search?q=opbergmand%20zwart&pmin=37&pmax=38"
+        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+        "https://www.blokker.nl/search/sophie-nordinn?q=wasmand%20zwart&pmin=0%2C00",
+        "https://www.blokker.nl/search/sophie-nordinn?q=opbergmand%20zwart&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -272,7 +273,7 @@
       "keywords": ["opbergmanden", "mand", "plantenmand", "plantenmand binnen"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=mand&pmin=22&pmax=23",
+        "https://www.blokker.nl/search?q=mand",
         "https://www.blokker.nl/search?q=plantenmand"
       ],
       "isRunning" : false,
@@ -301,7 +302,7 @@
       "keywords": ["wasmand", "opbergmand", "mand", "wasmanden", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=mand&pmin=24&pmax=25",
+        "https://www.blokker.nl/search?q=mand",
         "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
@@ -357,6 +358,7 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/kledinghangers"
+
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -401,7 +403,7 @@
       [
         "https://www.blokker.nl/placemats",
         "https://www.blokker.nl/search?q=placemat%20kunststof",
-        "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
+        "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -416,8 +418,8 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/placemats",
-        "https://www.blokker.nl/search?q=placemat%20rond&pmin=20&pmax=21",
-        "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
+        "https://www.blokker.nl/search/sophie-nordinn?q=placemat%20rond&pmin=0%2C00",
+        "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -431,8 +433,8 @@
       "keywords": ["wasmand", "opbergmand", "mand", "wasmanden", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
-        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27"
+        "https://www.blokker.nl/opbergmanden",
+        "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -446,8 +448,8 @@
       "keywords": ["wasmand", "opbergmand", "mand", "wasmanden", "waszak", "wasmanden", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27",
-        "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27"
+        "https://www.blokker.nl/opbergmanden",
+        "https://www.blokker.nl/search?q=mand"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -461,7 +463,7 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden?pmin=29&pmax=30"
+        "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -475,7 +477,7 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink":  
       [
-        "https://www.blokker.nl/opbergmanden?pmin=20&pmax=21"
+        "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -489,7 +491,7 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden?pmin=22&pmax=23"
+        "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -503,8 +505,7 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=wasmand%20&pmin=26&pmax=27",
-        "https://www.blokker.nl/opbergmanden?pmin=26&pmax=27"
+        "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
       "isMostWantedList": true
