@@ -4,33 +4,34 @@
         "id": "VM-1-0001",
         "marketplace": "Kaufland",
         "product": "LK-03-N-IC",
-        "productTitle": "Lideka® Neon LED Strip 3m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 218x SMD",
+        "productTitle": "Lideka® NEON LED-Streifen 3m, RGBIC Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "463128914",
         "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
-        "keyword": [
+        "keyword":
+        [
           {
             "name": "neon streifen",
             "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
           },
           {
             "name": "neon led streifen",
-            "link": ""
+            "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
           },
           {
             "name": "rgbic",
-            "link": ""
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
           },
           {
             "name": "led streifen",
-            "link": ""
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
           },
           {
             "name": "led strip",
-            "link": ""
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
           },
           {
             "name": "led leiste",
-            "link": ""
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
           }
         ],
         "isRunning" : false 
@@ -39,172 +40,565 @@
         "id": "VM-1-0002",
         "marketplace": "Kaufland",
         "product": "LK-03-N-RGB",
-        "productTitle": "Lideka® Neon LED Strip 3m, RGB Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 218x SMD 50",
+        "productTitle": "Lideka® NEON LED-Streifen 3m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "463128290",
-        "keywords": ["led strip lideka", "rgbic", "led streifen", "led leiste", "neon streifen", "neon led streifen"],
+        "keywords": ["rgbic", "led streifen", "led leiste", "neon streifen", "neon led streifen"],
+        "keyword":
+        [
+        {
+          "name": "rgbic",
+          "link": "https://www.kaufland.de/s/?search_value=rgbic"
+        },
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+        },
+        {
+          "name": "neon streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
+        },
+        {
+          "name": "neon led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
+        }
+      ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0003",
         "marketplace": "Kaufland",
         "product": "LKNRGB-3",
-        "productTitle": "Lideka® Neon LED Strip 9m, RGB Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD 50",
+        "productTitle": "Lideka® NEON LED-Streifen 9m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "461186151",
-        "keywords": ["neon streifen", "neon led streifen", "led strip lideka", "rgbic", "led streifen lideka", "led leiste lideka"],
+        "keywords": ["neon streifen", "neon led streifen", "rgbic"],
+        "keyword":
+        [
+          {
+            "name": "neon streifen",
+            "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
+          },
+          {
+            "name": "neon led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20led%20streifen"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgbic"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0004",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Green",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Grün",
+        "product": "Water Bottle G",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grün",
         "productId": "468110681",
-        "keywords": ["trinkflaschen", "wasserflasche", "Grün wasserflaschen", "Grün trinkflasche", "trink flaschen", "trinkflasche"],
+        "keywords": ["trinkflaschen", "trinkflasche 1l", "wasserflasche"],
+        "keyword":
+        [
+          {
+            "name": "trinkflaschen",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+          },
+          {
+            "name": "trinkflasche 1l",
+            "link": "https://www.kaufland.de/s/?search_value=trinkflasche%201l"
+          },
+          {
+            "name": "wasserflasche",
+            "link": "https://www.kaufland.de/s/?search_value=wasserflasche"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0005",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Pink Blue",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Rosa/Blau",
+        "product": "Water bottle RB",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, SoftTouch +Sieb, BPA-frei, Trinkflaschen-Rosa/Blau",
         "productId": "468110675",
-        "keywords": ["trinkflaschen", "wasserflasche", "trinkflaschen Rosa Blau", "wasserflasche Rosa Blau", "Rosa Blau wasserflaschen", "Rosa Blau trinkflasche", "trink flaschen", "trinkflasche"],
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "keyword":
+        [
+          {
+            "name": "trinkflasche 1l",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+          },
+          {
+            "name": "wasserflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0006",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Grey",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Grau",
+        "product": "Water bottle GR",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grau",
         "productId": "468110676",
-        "keywords": ["trinkflaschen", "wasserflasche", "trink flaschen", "trinkflasche", "trinkflaschen grau", "wasserflasche grau", "grau wasserflaschen", "grau trinkflasche"],
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "keyword":
+        [
+          {
+            "name": "trinkflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+          },
+          {
+            "name": "trinkflasche 1l",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+          },
+          {
+            "name": "wasserflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0007",
         "marketplace": "Kaufland",
-        "product": "Water Bottle Rose Gold",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Roségold",
+        "product": "Water bottle RG",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen-Roségold",
         "productId": "468110674",
-        "keywords": ["trinkflaschen", "wasserflasche", "trinkflaschen Roségold", "wasserflasche Roségold", "Roségold wasserflaschen", "Roségold trinkflasche", "trink flaschen", "trinkflasche"],
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "keyword":
+        [
+          {
+            "name": "trinkflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+          },
+          {
+            "name": "trinkflasche 1l",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+          },
+          {
+            "name": "wasserflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0008",
         "marketplace": "Kaufland",
-        "product": "Water Bottle T",
-        "productTitle": "Lekro Trinkflaschen - Trinkflaschen Auslaufsicher, Sportflasche 1L für Outdoor, Sport, Fahrrad, Gym - Hochwertige Tritan Wasserflasche - Türkis",
+        "product": "Water bottle T",
+        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Türkis",
         "productId": "468110680",
-        "keywords": ["trinkflaschen", "wasserflasche", "trink flaschen", "wasserflasche Türkis", "Türkis wasserflaschen", "Türkis trinkflasche", "trinkflasche kinder", "trinkflasche"],
+        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "keyword":
+        [
+          {
+            "name": "trinkflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+          },
+          {
+            "name": "trinkflasche 1l",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+          },
+          {
+            "name": "wasserflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0009",
         "marketplace": "Kaufland",
         "product": "LK-03",
-        "productTitle": "Lideka® LED-Streifen 3m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 3m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "432693131",
-        "keywords": ["led strip 3m", "led leiste", "LED Streifen", "rgb led strip", "LED Strip"],
+        "keywords": ["LED Streifen", "led strip 3m", "led leiste", "rgb led strip", "LED Strip"],
+        "keyword":
+        [
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led strip 3m",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip%203m"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          },
+          {
+            "name": "rgb led strip",
+            "link": "https://www.kaufland.de/s/?price=3500-3600&search_value=rgb%20led%20strip"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0010",
         "marketplace": "Kaufland",
         "product": "LK-010",
-        "productTitle": "Lideka® LED-Streifen 10m (2x5) RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 10m (2x5) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "432693132",
-        "keywords": ["led strip 10m", "LED Streifen", "led leiste", "rgb led strip", "LED Strip"],
+        "keywords": ["led strip 10m", "LED Streifen", "led leiste", "rgb led strip", "led strip"],
+        "keyword":
+        [
+          {
+            "name": "led strip 10m",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip%2010m"
+          },
+          {
+            "name": "LED Streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=LED%20Streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          },
+          {
+            "name": "rgb led strip",
+            "link": "https://www.kaufland.de/s/?price=4200-4300&search_value=rgb%20led%20strip"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0011",
         "marketplace": "Kaufland",
         "product": "LK-015",
-        "productTitle": "Lideka® LED-Streifen 15m (2x7.5) RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 15m (2x7.5) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, MusikSync, mit Alexa und Google Assistant, Deko",
         "productId": "432693129",
-        "keywords": ["LED Streifen 15m", "LED Strip", "LED Streifen", "led leiste", "rgb led strip"],
+        "keywords": ["led streifen 15m", "led strip", "led streifen", "led leiste", "rgb led strip"],
+        "keyword":
+        [
+          {
+            "name": "led streifen 15m",
+            "link": "https://www.kaufland.de/s/?search_value=led%20streifen%2015m"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          },
+          {
+            "name": "rgb led strip",
+            "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0012",
         "marketplace": "Kaufland",
         "product": "LK-020",
-        "productTitle": "Lideka® LED-Streifen 20m (2x10) RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 20m (2x10) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "432693128",
-        "keywords": ["led strip 20m", "LED Streifen", "rgb led strip", "led leiste", "LED Strip"],
+        "keywords": ["led strip 20m", "led streifen", "rgb led strip", "led leiste", "led strip"],
+        "keyword":
+        [
+          {
+            "name": "led strip 20m",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip%2020m"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+          },
+          {
+            "name": "rgb led strip",
+            "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?price=5200-5300&search_value=led%20leiste"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0013",
         "marketplace": "Kaufland",
         "product": "LK-025",
-        "productTitle": "Lideka® LED-Streifen 25m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 25m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
         "productId": "461186369",
-        "keywords": ["LED-Streifen 25m", "LED-Streifen", "LED Strip", "led leiste", "rgb led strip"],
+        "keywords": ["led-streifen 25m", "led-streifen", "led strip", "led leiste", "rgb led strip"],
+        "keyword":
+        [
+          {
+            "name": "led-streifen 25m",
+            "link": "https://www.kaufland.de/s/?search_value=led-streifen%2025m"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          },
+          {
+            "name": "rgb led strip",
+            "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0014",
         "marketplace": "Kaufland",
         "product": "LK-030",
-        "productTitle": "Lideka® LED-Streifen 30m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 30m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
         "productId": "443196709",
-        "keywords": ["led strip 30m", "LED-Streifen", "LED Strip", "led leiste", "rgb led strip"],
+        "keywords": ["led strip 30m", "led-streifen", "led strip", "led leiste", "rgb led strip"],
+        "keyword":
+        [
+          {
+            "name": "led streifen 30m",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip%2030m"
+          },
+          {
+            "name": "led-streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          },
+          {
+            "name": "rgb led strip",
+            "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=rgb%20led%20strip"
+          }
+        ],
         "isRunning" : false 
       },      
       {
         "id": "VM-1-0015",
         "marketplace": "Kaufland",
         "product": "LK-035",
-        "productTitle": "Lideka® LED-Streifen 35m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 35m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
         "productId": "443198421",
-        "keywords": ["LED Strip 35m", "LED-Streifen", "LED Strip", "led leiste", "rgb led strip"],
+        "keywords": ["led strip 35m", "led-streifen", "led strip", "rgb led strip", "led leiste"],
+        "keyword":
+        [
+          {
+            "name": "led streifen 30m",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip%2035m"
+          },
+          {
+            "name": "led-streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "rgb led strip",
+            "link": "https://www.kaufland.de/s/?price=8000-8100&search_value=rgb%20led%20strip"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0016",
         "marketplace": "Kaufland",
         "product": "LK-050",
-        "productTitle": "Lideka® LED-Streifen 50m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "productTitle": "Lideka® RGB LED-Streifen 50m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
         "productId": "443340420",
-        "keywords": ["LED Strip 50m", "LED Streifen", "LED Strip ", "rgb led strip", "led leiste lideka"],
+        "keywords": ["led strip 50m", "led streifen", "led strip ", "rgb led strip", "led leiste lideka"],
+        "keyword":
+        [
+          {
+            "name": "led streifen 50m",
+            "link": "https://www.kaufland.de/s/?search_value=led%20strip%2050m"
+          },
+          {
+            "name": "led-streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0017",
         "marketplace": "Kaufland",
-        "product": "LKR-40",
-        "productTitle": "Lideka® LED-Streifen 40m RGB, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED Strip Lichterkette",
+        "product": "LKR-05",
+        "productTitle": "Lideka® LED-Streifen 5m RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
         "productId": "432698580",
-        "keywords": ["LED Strip 40m", "LED Streifen", "rgb led strip", "LED Strip", "led leiste lideka"],
+        "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?price=4100-4200&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0018",
         "marketplace": "Kaufland",
         "product": "LKR-05",
-        "productTitle": "Lideka® LED-Streifen 5m RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 150x SMD 5050 LEDs, LED Strip",
+        "productTitle": "Lideka® LED-Streifen 5m RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
         "productId": "461186239",
-        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
+        "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0019",
         "marketplace": "Kaufland",
         "product": "LKR-015",
-        "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 450x SMD 5050 LEDs, LED Strip",
+        "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
         "productId": "461186239",
-        "keywords": ["led strip", "led streifen", "led leiste", "led leisten", "led streifen", "rgbic lideka"],
+        "keywords": ["led strip", "led streifen", "led leiste", "led leisten", "led streifen"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=9200-9300&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=9200-9300&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=9200-9300&search_value=led%20streifen"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0020",
         "marketplace": "Kaufland",
         "product": "LKR-020",
-        "productTitle": "Lideka® LED-Streifen 20m (2x10) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 600x SMD 5050 LEDs, LED Strip",
+        "productTitle": "Lideka® LED-Streifen 20m (4x5) RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
         "productId": "461186231",
-        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
-        "isRunning" : false 
+        "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          }
+        ],
+        "isRunning" : false
       },
       {
         "id": "VM-1-0021",
