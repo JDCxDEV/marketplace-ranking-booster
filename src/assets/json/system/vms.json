@@ -178,14 +178,6 @@
     },
     {
       "id": 23,
-      "marketplace": "Blokker.nl",
-      "key": "VM-BLOKKER-3",
-      "name": "Virtual Machine 23",
-      "steps": "per-page",
-      "proxy": "ip-royal-nl"
-    },
-    {
-      "id": 24,
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-1",
       "name": "Virtual Machine 1",
