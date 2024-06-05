@@ -66,11 +66,11 @@
     },
     {
       "id": 9,
-      "marketplace": "Kaufland.com",
-      "key": "VM-KAUFLAND-1",
-      "name": "Virtual Machine 1",
+      "marketplace": "Blokker.nl",
+      "key": "VM-BLOKKER-3",
+      "name": "Virtual Machine 9",
       "steps": "per-page",
-      "proxy": "smart-proxy-de"
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 10,
