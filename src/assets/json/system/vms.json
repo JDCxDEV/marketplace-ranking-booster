@@ -190,7 +190,7 @@
       "key": "VM-KAUFLAND-1-test",
       "name": "Virtual Machine 1",
       "steps": "per-page",
-      "proxy": "ip-royal-nl"
+      "proxy": "smart-proxy-de"
     }
   ]
 }

@@ -32,7 +32,7 @@ const getRandomProxy = async (fileName) => {
 const proxiesCredentials = [
     {   
         id: 'smart-proxy-nl',
-        name: 'smart proxy',
+        name: 'smart proxy nl',
         host: 'https://dc.smartproxy.com:10000',
         username: 'sp54szgndr',
         password: 'y6p7gahxuATr2SBp4_'
@@ -45,11 +45,11 @@ const proxiesCredentials = [
         password: 'de80a6ab74'
     },
     {
-        id: 'brightdata',
-        name: 'brightdata',
-        host: 'brd.superproxy.io:22225',
-        username: 'brd-customer-hl_e48f19c5-zone-data_center',
-        password: 'thm9t2qpi0eg'
+        id: 'smart-proxy-de',
+        name: 'smart proxy de',
+        host: 'https://dc.smartproxy.com:10000',
+        username: 'spjqq82as8',
+        password: 'zVzqSe5i8mBR71wt+m'
     },
 ];
 

@@ -108,7 +108,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
   try {
     await page.goto(keyword.link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
-    // console.log(error);
+    console.log(error);
 
     if(browser) {
       await browser.close();
@@ -139,7 +139,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-
       await booster.addTimeGap(5000);
 
       // Step: Click Accept Terms button on init
@@ -153,20 +152,48 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       // Step: Wait for suggest overlay to appear and click "show all results".
 
-      // await booster.addTimeGap(2000);
-      // await page.$$eval(".rh-search__button", els => 
-      //   els.forEach((el) =>{
-      //     if(el.className == 'rh-search__button rd-button rd-button--icon') {
-      //       el.click()
-      //     }
-      //   })
-      // )
+      await booster.addRandomTimeGap(5, 10);
 
-      // await booster.addTimeGap(2000)
+      
+      const minSequenceLength = 5;
+      const maxSequenceLength = 10;
+      
+      // Function to generate a random sequence of scroll directions
+      const generateScrollSequence = () => {
+        const sequenceLength = Math.floor(Math.random() * (maxSequenceLength - minSequenceLength + 1)) + minSequenceLength;
+        const sequence = [];
+      
+        for (let i = 0; i < sequenceLength; i++) {
+          const direction = Math.random() < 0.5 ? 'up' : 'down'; // Randomly choose between 'up' and 'down'
+          sequence.push(direction);
+        }
+      
+        return sequence;
+      }
 
-      // for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
-      //   await booster.scrollToRandomClass(page, '.product--hasBadges', browser);
-      // }
+      // Function to execute the scroll sequence
+      const executeScrollSequence = async (page) => {
+        const scrollSequence = generateScrollSequence();
+      
+        for (const direction of scrollSequence) {
+          if (direction === 'up') {
+            await booster.scrollUp(page);
+          } else {
+            await booster.scrollDown(page);
+          }
+        }
+      }
+      
+      // Execute the scroll sequence
+      await executeScrollSequence(page);
+
+      for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
+        try {
+          await booster.scrollToRandomClass(page, '.product', browser);
+        }catch(error) {
+          // check for product 
+        }
+      }
 
       await booster.addRandomTimeGap(10, 12)
 
@@ -187,7 +214,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
 
       await booster.addRandomTimeGap(10, 12)
-
 
       // let foundProduct = false
 
@@ -222,31 +248,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       //   }
       // }
 
-      // const scrollDown = async (page) => {
-      //   await page.evaluate(() => {
-      //     const scrollStep = 250;
-      //     const scrollInterval = 150;
-  
-      //     function smoothScroll() {
-      //       let scrollFrom = window.scrollY;
-      //       let scrollTo = scrollFrom + scrollStep;
-      //       if (scrollTo >= document.body.scrollHeight) {
-      //         scrollTo = 0;
-      //       }
-  
-      //       window.scroll({
-      //         top: scrollTo,
-      //         behavior: 'smooth',
-      //       });
-      //     }
-  
-      //     const scrollIntervalId = setInterval(smoothScroll, scrollInterval);
-  
-      //     setTimeout(() => {
-      //       clearInterval(scrollIntervalId);
-      //     }, 7000);
-      //   });
-      // } 
 
       // while(foundProduct !== true) {
       //   await booster.addTimeGap(7000)
@@ -275,10 +276,19 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       //   visible: true,
       // })
 
-      // for (let i = 1; i <= 5; i++) {
-      //   await page.hover(`a[data-cs-override-id="image-gallery-thumbnail-${booster.generateNumberBetween(1, 6)}"]`)
-      //   await booster.addRandomTimeGap(3, 10)
-      // }
+      for (let i = 1; i <= 5; i++) {
+        await booster.addRandomTimeGap(3, 10)
+        try {
+          let imageGallery = `a[data-cs-override-id="image-gallery-thumbnail-${booster.generateNumberBetween(1, 6)}"]`;
+          await page.waitForSelector(imageGallery);
+          await page.hover(imageGallery)
+          await booster.addRandomTimeGap(3, 10)
+        }catch(error) {
+          // wait and hover
+        }
+      }
+
+      await executeScrollSequence(page);
 
       // // Step 7: go to product information
       // await booster.addRandomTimeGap(3, 10)
