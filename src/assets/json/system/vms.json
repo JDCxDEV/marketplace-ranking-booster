@@ -66,11 +66,11 @@
     },
     {
       "id": 9,
-      "marketplace": "Bol.com",
-      "key": "VM-1",
-      "name": "Virtual Machine 9",
+      "marketplace": "Kaufland.com",
+      "key": "VM-KAUFLAND-1",
+      "name": "Virtual Machine 1",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "smart-proxy-de"
     },
     {
       "id": 10,
