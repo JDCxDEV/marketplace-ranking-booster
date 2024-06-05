@@ -7,6 +7,32 @@
         "productTitle": "Lideka® Neon LED Strip 3m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 218x SMD",
         "productId": "463128914",
         "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
+        "keyword": [
+          {
+            "name": "neon streifen",
+            "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
+          },
+          {
+            "name": "neon led streifen",
+            "link": ""
+          },
+          {
+            "name": "rgbic",
+            "link": ""
+          },
+          {
+            "name": "led streifen",
+            "link": ""
+          },
+          {
+            "name": "led strip",
+            "link": ""
+          },
+          {
+            "name": "led leiste",
+            "link": ""
+          }
+        ],
         "isRunning" : false 
       },
       {
