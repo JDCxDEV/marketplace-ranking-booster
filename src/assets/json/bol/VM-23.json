@@ -1,0 +1,22 @@
+{
+    "products": [
+      {
+        "id": "VM-23-0001",
+        "marketplace": "Bol.com",
+        "product": "8720254862835",
+        "productId": "9300000053477618",
+        "productTitle": "SmartphoneClip® Siliconen Bandje double zwart geschikt voor Fitbit Luxe",
+        "keywords": ["fitbit bandje", "fitbit luxe bandje", "fitbit luxe", "fitbit luxe special edition"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=16726+4278199321&12194=11-12&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+luxe+bandje&view=list&filter_N=4278199321&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+luxe&view=list&filter_N=4278199321&12194=11-12&rating=all"
+        ],
+        "isRunning" : false,
+        "isOutOfStock" : false,
+        "isMostWantedList": true
+      }
+    ]
+}
+  

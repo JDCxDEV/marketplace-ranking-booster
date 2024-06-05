@@ -192,15 +192,15 @@
     {
       "id": "VM-6-0014",
       "marketplace": "Bol.com",
-      "product": "Drone K911Max",
-      "productId": "9300000119994059",
-      "productTitle": "Tedroka® K911 Max-Drone met 4K camera- Drone met obstakelvermijding -Inclusief GPS-Drone met camera voor volwassenen-Geen vliegbewijs nodig-800 m bereik -Borstelloze motoren-Inclusief draagbare tas, twee batterijen",
+      "product": "Drone with GPS 4k",
+      "productId": "9300000180111304",
+      "productTitle": "Tedroka® 1 INCH drone - met GPS 4K 1 inch -camera - Vliegtijd van 105 minuten - 4K UHD-video - inclusief 3 batterijen, ingebouwde obstakelvermijding draagbare tas en 64 GB SD kaart",
       "keywords": ["drone met camera", "drone", "drones"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=drones",
-        "https://www.bol.com/nl/nl/s/?searchtext=drone", 
-        "https://www.bol.com/nl/nl/s/?searchtext=drone+met+camera"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drones&view=list&12194=799-800&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone&view=list&12194=799-800&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drone+met+camera&view=list&12194=799-800&rating=all"
       ],
       "isRunning" : false,
       "isOutOfStock" : false,
