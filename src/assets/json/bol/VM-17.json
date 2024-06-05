@@ -150,7 +150,7 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true,
-        "isOutOfStock": true
+        "isOutOfStock": false
       }
     ]
   }
