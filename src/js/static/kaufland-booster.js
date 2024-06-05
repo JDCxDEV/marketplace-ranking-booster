@@ -324,7 +324,7 @@ export const triggerAllBolKaufland = async (thread, currentVM, virtualMachine = 
   await booster.addRandomTimeGap(2, 2)
 
   const productJsonFile = await dynamicallyImportJsonFile(currentVM + '.json');
-  const products = productJsonFile.products.filter( item => !item.isOutOfStock);
+  const products = productJsonFile.products.filter( item => !item.isOutOfStock && item.keyword);
 
   console.log(products.length);
 
