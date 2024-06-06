@@ -254,7 +254,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       
         // Hover over the custom element
         await page.hover(elementSelector);
-        console.log('Hovered over the custom element');
       
         // Add a random time gap after hovering (if needed)
         await booster.addRandomTimeGap(3, 5);

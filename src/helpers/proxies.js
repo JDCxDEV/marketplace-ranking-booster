@@ -41,8 +41,8 @@ const proxiesCredentials = [
         id: 'ip-royal-nl',
         name: 'ip royal',
         host: await getRandomProxy('ip-royal-nl'),
-        username: '14a16d94bb762',
-        password: 'de80a6ab74'
+        username: '14a7e3e603655',
+        password: 'c9fa102704'
     },
     {
         id: 'smart-proxy-de',
