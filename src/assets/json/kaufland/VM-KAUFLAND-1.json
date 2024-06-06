@@ -604,136 +604,548 @@
         "id": "VM-1-0021",
         "marketplace": "Kaufland",
         "product": "LKR-030",
-        "productTitle": "Lideka® LED-Streifen 30m (3x10) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 900x SMD 5050 LEDs, LED Strip",
+        "productTitle": "Lideka® RGBIC LED-Streifen 30m (6x5), LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "461186227",
         "keywords": ["led strip", "rgbic", "led streifen", "led leiste", "led leisten", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgbic"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0022",
         "marketplace": "Kaufland",
         "product": "LKR-040",
-        "productTitle": "Lideka® LED-Streifen 40m (8x5) RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1200x SMD 5050 LEDs, LED Strip",
+        "productTitle": "Lideka® RGBIC LED-Streifen 40m (8x5), LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko,",
         "productId": "461186226",
         "keywords": ["led strip", "led streifen", "led leisten", "rgbic", "led leiste", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=15000-15100&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=15000-15100&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=15000-15100&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0023",
         "marketplace": "Kaufland",
         "product": "LKR-050",
-        "productTitle": "Lideka® LED-Streifen 50m RGBIC Regenbogen, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1500x SMD 5050 LEDs, LED Strip",
+        "productTitle": "Lideka® RGBIC LED-Streifen 50m (10x5), LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "450401297",
         "keywords": ["led strip", "led streifen", "led leiste", "led leisten", "rgbic", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0024",
         "marketplace": "Kaufland",
         "product": "LK-05-W",
-        "productTitle": "Lideka® LED-Streifen 5m RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 150x SMD 5050 LEDs, LED",
+        "productTitle": "Lideka® LED Streifen 5m RGBW Kalt und Warmweiß, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, DIY Deko",
         "productId": "463128383",
         "keywords": ["led strip", "rgbw", "led streifen", "led leiste", "led leisten", "led strips", "rgbic"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "rgbw",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgbw"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0025",
         "marketplace": "Kaufland",
         "product": "LK-010-W",
-        "productTitle": "Lideka® LED-Streifen 10m (2x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED",
+        "productTitle": "Lideka® LED Streifen 10m (2x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
         "productId": "463128417",
         "keywords": ["led strip", "led streifen", "led strips", "led leisten", "rgbic", "led leiste"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0026",
         "marketplace": "Kaufland",
         "product": "RGBW-LK5-3",
-        "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 450x SMD 5050 LEDs, LED",
+        "productTitle": "Lideka® LED Streifen 15m (3x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
         "productId": "463128426",
         "keywords": ["led strip", "rgbic", "led streifen", "led leisten", "led leiste", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },      
       {
         "id": "VM-1-0027",
         "marketplace": "Kaufland",
         "product": "RGBW-LK10-2",
-        "productTitle": "Lideka® LED-Streifen 20m (2x10) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 300x SMD 5050 LEDs, LED",
+        "productTitle": "Lideka® LED Streifen20m (4x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
         "productId": "479165742",
-        "keywords": ["rgbic", "led strip", "led streifen", "led leiste", "led leisten", "led strips"],
+        "keywords": ["led strip", "led streifen", "led leiste", "led leisten", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },      
       {
         "id": "VM-1-0027",
         "marketplace": "Kaufland",
         "product": "RGBW-LK10-3",
-        "productTitle": "Lideka® LED-Streifen 30m (6x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 900x SMD 5050 LEDs, LED",
+        "productTitle": "Lideka® LED Streifen 30m (6x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, MusikSync, Alexa und Google Assistant, Led Strip",
         "productId": "463128460",
         "keywords": ["led strip", "led leiste", "led leisten", "led streifen", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=12800-12900&search_value=led%20strip"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=12800-12900&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=12800-12900&search_value=led%20streifen"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=12800-12900&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0029",
         "marketplace": "Kaufland",
         "product": "RGBW-LK10-4",
-        "productTitle": "Lideka® LED-Streifen 40m (8x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1200x SMD 5050 LEDs, LED",
+        "productTitle": "Lideka® LED Streifen 40m (8x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
         "productId": "463128428",
-        "keywords": ["led streifen", "led strip", "led leiste", "led leisten", "rgbic", "led strip lideka"],
+        "keywords": ["led streifen", "led strip", "led leiste", "led leisten"],
+        "keyword":
+        [
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          }
+        ],
         "isRunning" : false 
       },
-
       {
         "id": "VM-1-0030",
         "marketplace": "Kaufland",
         "product": "RGBW-LK10-5",
-        "productTitle": "Lideka® LED-Streifen 50m (10x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN mit Alexa und Google Assistant und Fernbedienung, 1500x SMD 5050 LEDs, LED",
+        "productTitle": "Lideka® LED-Streifen 50m (10x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN und Fernbedienung, led strip, led streifen, led leiste, led leisten, rgbw",
         "productId": "461186152",
-        "keywords": ["led strip", "led streifen", "led leisten", "led leiste", "led strips", "rgbic"],
+        "keywords": ["led strip", "led streifen", "led leisten", "led leiste", "led strips"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leisten",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led strips",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          }
+        ],
         "isRunning" : false 
       },      
       {
         "id": "VM-1-0031",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 1 pack",
+        "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 1 Stück",
         "productId": "463126312",
         "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "keyword":
+        [
+          {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=led%20lampe%20e27"
+          },
+          {
+            "name": "glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "e27 glühbirne",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=e27%20gl%C3%BChbirne"
+          },
+          {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=led%20lampen%20e27"
+          },
+          {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=e27%20birne"
+          },
+          {
+            "name": "led glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=led%20gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=led%20leuchtmittel%20e27"
+          },
+          {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=led%20birne%20e27"
+          },
+          {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=e27%20lampe"
+          },
+          {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?price=2000-2100&search_value=led%20birnen%20e27"
+          }
+        ],
         "isRunning" : false 
       },      
       {
         "id": "VM-1-0032",
         "marketplace": "Kaufland",
         "product": "SLB-E14",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 1 pack",
+        "productTitle": "Lideka® E14 Smart LED Lampe 6W 2700K, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 1 Stück",
         "productId": "463128530",
         "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "e14"],
+        "keyword":
+        [
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       },      
       {
         "id": "VM-1-0033",
         "marketplace": "Kaufland",
         "product": "SLB-GU10",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 1 pack",
+        "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 1 Stück",
         "productId": "463128337",
-        "keywords": ["einbaustrahler gu10", "gu10 spot", "gu10 spot", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keywords": ["einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keyword":
+        [
+          {
+            "name": "einbaustrahler gu10",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=einbaustrahler%20gu10"
+          },
+          {
+            "name": "gu10 spot",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gu10%20spot"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "gu10 led spot",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=gu10%20led%20spot"
+          },
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-1-0034",
         "marketplace": "Kaufland",
         "product": "TV strip 3m",
-        "productTitle": "Lideka® LED TV Hintergrundbeleuchtung, 3m RGB LED Strip kompatibel mit Alexa und Google Assistant, APP-Steuerung, USB betrieben, für 46-60 Zoll Fernse",
+        "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 3m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 46-60 Zoll Fernseher & WLAN",
         "productId": "432693125",
-        "keywords": ["LED Streifen", "TV Hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
+        "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
+        "keyword":
+        [
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "tv hintergrundbeleuchtung",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=tv%20hintergrundbeleuchtung"
+          },
+          {
+            "name": "hintergrundbeleuchtung tv",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=hintergrundbeleuchtung%20tv"
+          },
+          {
+            "name": "fernseher hintergrundbeleuchtung",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=fernseher%20hintergrundbeleuchtung"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          }
+        ],
         "isRunning" : false 
       },      
       {
         "id": "VM-1-0035",
         "marketplace": "Kaufland",
         "product": "SLB-GU10-2",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 2 pack",
+        "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 2 Stück",
         "productId": "461186210",
         "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keyword":
+        [
+          {
+            "name": "einbaustrahler gu10",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=einbaustrahler%20gu10"
+          },
+          {
+            "name": "einbaustrahler gu 10",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=einbaustrahler%20gu%2010"
+          },
+          {
+            "name": "gu10 spot",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gu10%20spot"
+          },
+          {
+            "name": "gu10 led spot",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=gu10%20led%20spot"
+          },
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       }
     ]
