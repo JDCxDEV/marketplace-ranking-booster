@@ -139,11 +139,13 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-      await booster.addTimeGap(5000);
+      await booster.addRandomTimeGap(5, 10);
 
       // Step: Click Accept Terms button on init
       const acceptTermsButton = '#onetrust-accept-btn-handler';
       await page.waitForSelector(acceptTermsButton);
+
+      await booster.addRandomTimeGap(5, 10);
       await page.click(acceptTermsButton);
 
       // Step: Type into search box.
@@ -205,76 +207,17 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           await element.click();
           console.log('Element clicked');
         } else {
-          console.log('Element not found');
+          console.log(`keyword: ${keyword.name}: id ${product.productId}`)
+          browser.close();
         }
         
       }catch(error) {
         console.log(error)
       }
 
-
       await booster.addRandomTimeGap(10, 12)
 
-      // let foundProduct = false
-
-      // const findProduct = async () => {
-      //   const anchor = await page.$$eval('name.search-griditem-click', (anchors, productId) => {
-      //     for (const anchor of anchors) {
-      //       if (anchor.href.includes(productId)) {
-      //           anchor.click()
-      //           return true;
-      //       }
-      //     }
-      //     return null; 
-      //   }, productId);
-      
-      //   if (anchor) {
-      //     foundProduct = true
-      //   }else {
-      //     await page.waitForSelector('nav.rd-pagination');
-
-      //     try {
-      //       const paginationButtons = await page.$$('nav.rd-pagination button');
-  
-      //       if (paginationButtons.length > 0) {
-      //         await booster.addTimeGap(5000)
-      //         await paginationButtons[paginationButtons.length - 1].click();
-      //       }
-      //     }catch (error) {
-      //       await browser.close();
-      //     }
-        
-      //     return false
-      //   }
-      // }
-
-
-      // while(foundProduct !== true) {
-      //   await booster.addTimeGap(7000)
-      //   await scrollDown(page)
-
-      //   try {
-      //     await Promise.race([
-      //       page.waitForSelector('.results--slider'),
-      //       page.waitForSelector('.results--grid')
-      //     ], 30000);
-          
-      //     console.log('One of the selectors is present.');
-      //   } catch (error) {
-      //     console.error('Both selectors are not present within the timeout.');
-      //   } 
-
-      //   await findProduct()
-
-      //   await booster.addTimeGap(5000)
-      // }
-
-      // await booster.addTimeGap(4000)
-
-      // Step 6: hover to page image.
-      // await page.waitForSelector('a[data-cs-override-id="image-gallery-thumbnail-1"]', {
-      //   visible: true,
-      // })
+      await executeScrollSequence(page);
 
       for (let i = 1; i <= 5; i++) {
         await booster.addRandomTimeGap(3, 10)
@@ -290,19 +233,98 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       await executeScrollSequence(page);
 
-      // // Step 7: go to product information
-      // await booster.addRandomTimeGap(3, 10)
-      // await booster.addTimeGap(2000);
 
-      // await page.$$eval(".rd-button--link-overwrite", els => 
-      //   els.forEach((el) =>{
-      //     if(el.className == 'rd-link rd-link--primary rd-button--link-overwrite') {
-      //       el.click()
-      //     }
-      //   })
-      // )
+      try {
+        const clickReviews = `button[data-dd-action-name="cuco_helpful-vote-yes"]`;
+        
+        await page.waitForSelector(clickReviews, { timeout: 10000 });
+        await booster.addRandomTimeGap(5, 7);
+      
+        // Click the element 2 to 5 times
+        const clickTimes = booster.generateRandomNumber(2, 3);
+        for (let i = 0; i < clickTimes; i++) {
+          await page.hover(clickReviews);
+          await booster.addRandomTimeGap(3, 4); // Random gap between hovers
+          await page.click(clickReviews);
+          await page.click(clickReviews);
+          await booster.addRandomTimeGap(3, 5); // Random gap between clicks
+        }
+      } catch (error) {
+      }
+
+      // click cart
+      try {
+
+        const addToCartClick = `button[data-cs-override-id="add-to-cart-button"]`;
+        
+        await page.waitForSelector(addToCartClick, { timeout: 10000 });
+        await booster.addRandomTimeGap(5, 7);
+      
+        // Hover over the custom element
+        await page.hover(addToCartClick);
+        await booster.addRandomTimeGap(3, 2);
+
+        await page.click(addToCartClick);
+        await booster.addRandomTimeGap(3, 5);
+      } catch (error) {
+        // continue
+      }
+
+      // try {
+      //   const closeModal = `button[data-cs-override-id="rd-add-to-cart-overlay__button-to-cart"]`;
+        
+      //   await page.waitForSelector(closeModal, { timeout: 10000 });
+      //   await booster.addRandomTimeGap(5, 7);
+      
+      //   // Hover over the custom element
+      //   await page.hover(closeModal);
+      //   await booster.addRandomTimeGap(3, 2);
+
+      //   await page.click(closeModal);
+      //   await page.click(closeModal);
+      //   await booster.addRandomTimeGap(3, 5);
+      // } catch (error) {
+      //   console.log(error.message)
+      // }
+
+      // // click cart
+      // try {
+      //   const goToCartSelector = `button[data-cs-override-id="add-to-cart-button"]`;
+        
+      //   await page.waitForSelector(addToCartClick, { timeout: 10000 });
+      //   await booster.addRandomTimeGap(5, 7);
+      
+      //   // Hover over the custom element
+      //   await page.hover(goToCartSelector);
+      //   await booster.addRandomTimeGap(3, 2);
+
+      //   await page.click(goToCartSelector);
+      //   await booster.addRandomTimeGap(3, 5);
+      // } catch (error) {
+      //   // continue if caught error
+      // }
+
+      await executeScrollSequence(page);
+
+      // try {
+      //   const checkoutCartSelector = ".rd-button--buy";
+        
+      //   await page.waitForSelector(checkoutCartSelector, { timeout: 10000 });
+      //   await booster.addRandomTimeGap(5, 7);
+      
+      //   // Hover over the custom element
+      //   await page.hover(checkoutCartSelector);
+      //   await booster.addRandomTimeGap(3, 2);
+
+      //   await page.click(checkoutCartSelector);
+      //   await booster.addRandomTimeGap(3, 5);
+      // } catch (error) {
+      //   // continue if caught error
+      // }
+    
+      await booster.addRandomTimeGap(5, 7);
+
     }catch(error) {
-      console.log(error)
       await browser.close();
     }
   }

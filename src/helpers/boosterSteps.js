@@ -297,6 +297,10 @@ export const ensureSelectorExists = async (page, selector, timeout = 5000, maxRe
   return false; // Return false if the selector is not found after max retries
 }
 
+export const generateRandomNumber = (min, max) => {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+};
+
 
 
 
