@@ -309,6 +309,56 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true
+      },
+      {
+        "id": "VM-20-0018",
+        "marketplace": "Bol.com",
+        "product": "Placemat - Jute 4 stuks",
+        "productId": "9300000029386051",
+        "productTitle": "Placemats van Sophie Nordinn® - Placemat Abisko (Jute) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
+        "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-20-0019",
+        "marketplace": "Bol.com",
+        "product": "Opbergmand - Wit stiksel",
+        "productId": "9300000029386042",
+        "productTitle": "Bestseller #1 Mand van Sophie Nordinn® - Opbergmand Goteborg (Wit stiksel klein) - Wasmand - Wasmanden - 22 L",
+        "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=29-30&rating=4",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=29-30&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=29-30&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-20-0020",
+        "marketplace": "Bol.com",
+        "product": "Opbergmand - Stockholm (Yellow)",
+        "productId": "9300000118407911",
+        "productTitle": "Mand van Sophie Nordinn® - Opbergmand Stockholm (Yellow) - Wasmand - Wasmanden - 40 Liter",
+        "keywords": ["wasmand","opbergmand", "opbergmand", "opberg mand"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=35-36&rating=4",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=35-36&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=35-36&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=35-36&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
       }
+
     ]
   }

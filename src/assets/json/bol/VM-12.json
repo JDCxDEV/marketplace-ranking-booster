@@ -310,6 +310,42 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0017",
+        "marketplace": "Bol.com",
+        "product": "Wasmanden - Wit",
+        "productId": "9300000029386067",
+        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Paars) - 87 x 77 cm",
+        "keywords": ["wasmand", "mand", "opbergmanden", "opberg+mand&", "wasmanden", "opbergmand"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=16724&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&sort=wishListRank1&12194=26-27",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=16724&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=16724&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=16724&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=16724&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-12-0018",
+        "marketplace": "Bol.com",
+        "product": "Opbergmand - Jute groot",
+        "productId": "9300000029386038",
+        "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Jute groot) - Wasmand - Waszak - 57 L",
+        "keywords": ["wasmand", "opbergmand", "mand", "opberg mand"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=30-35&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&12194=30-35&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&12194=30-35&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&12194=30-35&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
       }
     ]
   }
