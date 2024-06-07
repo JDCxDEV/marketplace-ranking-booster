@@ -4,298 +4,780 @@
         "id": "VM-2-0001",
         "marketplace": "Kaufland",
         "product": "Baby camera White",
-        "productTitle": "Babyphone mit Kamera und App Weiß – WLAN – FULL HD – Bewegungs- und Geräuscherkennung – Innenbereich – Nachtsicht für Baby/Kindermädchen/Haustier/älte",
+        "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Weiß",
         "productId": "479444940",
         "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"],
+        "keyword":
+        [
+          {
+            "name": "babyphone mit kamera",
+            "link": "https://www.kaufland.de/s/?search_value=babyphone%20mit%20kamera"
+          },
+          {
+            "name": "babyphone kamera überwachung innen",
+            "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
+          },
+          {
+            "name": "babyphone überwachungskamera innen mit aufzeichnung",
+            "link": "https://www.kaufland.de/s/?search_value=babyphone%20%C3%BCberwachungskamera%20innen%20mit%20aufzeichnung"
+          },
+          {
+            "name": "babyphone überwachungskamera für innen",
+            "link": "https://www.kaufland.de/s/?search_value=babyphone%20%C3%BCberwachungskamera%20f%C3%BCr%20innen"
+          },
+          {
+            "name": "babyphone kamera innen",
+            "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0002",
         "marketplace": "Kaufland",
         "product": "Baby camera Black",
-        "productTitle": "Babyphone mit Kamera und App Schwarz – WLAN – FULL HD – Bewegungs- und Geräuscherkennung – Innenbereich – Nachtsicht für Baby/Kindermädchen/Haustier",
+        "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
         "productId": "479445987",
         "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone kamera innen", "babyphone überwachungskamera für innen"],
+        "keyword":
+        [
+          {
+            "name": "babyphone mit kamera",
+            "link": "https://www.kaufland.de/s/?21=6795345&search_value=babyphone%20mit%20kamera"
+          },
+          {
+            "name": "babyphone kamera überwachung innen",
+            "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
+          },
+          {
+            "name": "babyphone überwachungskamera innen mit aufzeichnung",
+            "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20%C3%BCberwachungskamera%20innen%20mit%20aufzeichnung"
+          },
+          {
+            "name": "babyphone kamera innen",
+            "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
+          },
+          {
+            "name": "babyphone überwachungskamera für innen",
+            "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20%C3%BCberwachungskamera%20f%C3%BCr%20innen"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0003",
         "marketplace": "Kaufland",
         "product": "Robot Toy Blue",
-        "productTitle": "QuchiQ™ 6 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 482 Bausteine",
+        "productTitle": "QuchiQ™ 6 in 1 Transformers Roboter spielzeug, Baukästen Polizei und Feuerwehrauto Spielzeug, Spielfigurensets 482 Bausteine, Wandelbares Actionfigur",
         "productId": "443566009",
-        "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+        "keywords": ["transformers roboter spielzeug", "roboter spielzeug", "spielzeug roboter"],
+        "keyword":
+        [
+          {
+            "name": "transformers roboter spielzeug",
+            "link": "https://www.kaufland.de/s/?search_value=transformers%20roboter%20spielzeug"
+          },
+          {
+            "name": "roboter spielzeug",
+            "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=roboter%20spielzeug"
+          },
+          {
+            "name": "spielzeug roboter",
+            "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=spielzeug%20roboter"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0004",
         "marketplace": "Kaufland",
-        "product": "Solar Powerbank",
-        "productTitle": "Lideka® Solar Powerbank 30,000mAh, Lideka Tragbare Solar Ladegerät 3A USB-C Power Bank mit 5 Ausgängen Schnellladung Externer Akku für Smartphones",
+        "product": "Solar Powerbank Single",
+        "productTitle": "Lideka® Solar Powerbank 30,000mAh Tragbare Ladegerät, 6 Anschlüsse, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple, für Wandern Reise",
         "productId": "432693120",
-        "keywords": ["Solar Powerbank", "Power bank lideka", "powerbank 30000mah", "powerbank", "anker powerbank"],
+        "keywords": ["power bank", "powerbank iphone", "powerbank 30000mah", "solar powerbank"],
+        "keyword":
+        [
+          {
+            "name": "powerbank 30000mah",
+            "link": "https://www.kaufland.de/s/?search_value=powerbank%2030000mah"
+          },
+          {
+            "name": "solar powerbank",
+            "link": "https://www.kaufland.de/s/?search_value=solar%20powerbank"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0005",
         "marketplace": "Kaufland",
-        "product": "Power Bank-K8",
-        "productTitle": "QuchiQ™ 20000mAh Drahtlose Powerbank - Mobiler Akkulader - Externer wiederaufladbarer Akku - Micro USB & USB-C Eingang - LED-Lampen",
+        "product": "Powerbank 20K",
+        "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
         "productId": "479047515",
-        "keywords": ["powerbank 20000 mah", "powerbank QuchiQ", "power 20000 mah bank", "powerbanks für iphone", "powerbank handy", "powerbank"],
+        "keywords": ["powerbank 20000 mah", "powerbank", "power 20000 mah bank", "powerbanks für iphone"],
+        "keyword":
+        [
+          {
+            "name": "powerbank 20000 mah",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=powerbank%2020000%20mah"
+          },
+          {
+            "name": "powerbank",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=powerbank"
+          },
+          {
+            "name": "power 20000 mah bank",
+            "link": "https://www.kaufland.de/s/?search_value=power%2020000%20mah%20bank"
+          },
+          {
+            "name": "powerbanks für iphone",
+            "link": "https://www.kaufland.de/s/?21=6042731&search_value=powerbanks%20f%C3%BCr%20iphone"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0006",
         "marketplace": "Kaufland",
         "product": "Power Bank-A36",
-        "productTitle": "QuchiQ™ Drahtlose Powerbank 20000mAh - Mobiler Lader - kabelloses Laden - Externer wiederaufladbarer Akku - Micro-USB & USB-C Eingang - LED-Lichter",
+        "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
         "productId": "479104287",
-        "keywords": ["powerbank 20000 mah", "powerbank QuchiQ", "power 20000 mah bank", "powerbanks für iphone", "powerbank handy", "powerbank"],
-        "isRunning" : false 
+        "keywords": ["powerbank 20000 mah", "powerbank", "powerbanks für iphone", "powerbank handy"],
+        "keyword":
+        [
+          {
+            "name": "powerbank 20000 mah",
+            "link": "https://www.kaufland.de/s/?21=6042731&search_value=powerbank%2020000%20mah"
+          },
+          {
+            "name": "powerbank",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=powerbank"
+          },
+          {
+            "name": "powerbanks für iphone",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=powerbanks%20f%C3%BCr%20iphone"
+          },
+          {
+            "name": "powerbank handy",
+            "link": "https://www.kaufland.de/s/?search_value=powerbank%20handy"
+          }
+        ],
+        "isRunning" : false
       },
       {
         "id": "VM-2-0007",
         "marketplace": "Kaufland",
         "product": "Mini Power Bank",
-        "productTitle": "QuchiQ™ Powerbank 20000 mAh - Mini Powerbank - Mobiler Akkulader - Externer wiederaufladbarer Akku - Micro USB & USB-C Eingang - LED-Lampen",
+        "productTitle": "QuchiQ™ Powerbank 10000 mAh Klein Aber Stark -Mini Powerbank -Mobiler Akkulader - powerbanks für iPhone Samsung-Micro USB & USB-C Eingang - LED-Lampen",
         "productId": "479041891",
         "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 20000mah bank", "powerbanks für iphone"],
+        "keyword":
+        [
+          {
+            "name": "powerbank 20000 mah",
+            "link": "https://www.kaufland.de/s/?search_value=powerbank%2020000%20mah"
+          },
+          {
+            "name": "powerbank",
+            "link": "https://www.kaufland.de/s/?search_value=powerbank"
+          },
+          {
+            "name": "mini powerbank",
+            "link": "https://www.kaufland.de/s/?search_value=mini%20powerbank"
+          },
+          {
+            "name": "power 20000mah bank",
+            "link": "https://www.kaufland.de/s/?21=6042731&search_value=power%2020000mah%20bank"
+          },
+          {
+            "name": "powerbanks für iphone",
+            "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0008",
         "marketplace": "Kaufland",
         "product": "LKNRGBIC-2",
-        "productTitle": "Lideka® Neon LED Strip 6m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 436x SMD",
+        "productTitle": "Lideka® NEON LED-Streifen 6m, RGBIC Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
         "productId": "461186183",
         "keywords": ["neon streifen", "neon led streifen", "led streifen", "led leiste", "led strip", "rgbic"],
+        "keyword":
+        [
+          {
+            "name": "neon streifen",
+            "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
+          },
+          {
+            "name": "neon led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20led%20streifen"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0009",
         "marketplace": "Kaufland",
         "product": "LKNRGBIC-3",
-        "productTitle": "Lideka® Neon LED Strip 9m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD",
+        "productTitle": "Lideka® NEON LED-Streifen 9m, RGBIC Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, MusikSync, mit Alexa und Google Assistant, Deko",
         "productId": "461186150",
         "keywords": ["led strip", "led streifen", "led leiste", "neon streifen", "neon led streifen", "rgbic"],
+        "keyword":
+        [
+          {
+            "name": "led strip",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=13700-13800&search_value=led%20strip"
+          },
+          {
+            "name": "led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=13700-13800&search_value=led%20streifen"
+          },
+          {
+            "name": "led leiste",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          },
+          {
+            "name": "neon streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20streifen"
+          },
+          {
+            "name": "neon led streifen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20led%20streifen"
+          },
+          {
+            "name": "rgbic",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=13700-13800&search_value=rgbic"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0010",
         "marketplace": "Kaufland",
-        "product": "LKNRGBIC-3",
-        "productTitle": "Lideka® Neon LED Strip 9m, RGBIC Neon LED Streifen mit App-Steuerung, DIY-Funktion, Musik Sync, funktioniert mit Alexa und Google Assistant, 654x SMD",
-        "productId": "461186150",
-        "keywords": ["led strip", "led streifen", "led leiste", "neon streifen", "neon led streifen", "rgbic"],
-        "isRunning" : false 
+        "product": "Earplugs-L52",
+        "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Schwarz",
+        "productId": "479446317",
+        "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer kabellos", "kabellose kopfhörer"],
+        "isRunning" : false
       },
       {
         "id": "VM-2-0011",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-L52",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - Bluetooth Kopfhörer - Sport-Ohrhörer - Aktive Geräuschunterdrückung ANC - Schwarz",
-        "productId": "479446317",
-        "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "kopfhörer kabellos", "bluetooth kopfhörer in ear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0012",
         "marketplace": "Kaufland",
         "product": "Earplugs-E7S",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
         "productId": "479465924",
         "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "kopfhörer kabellos", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
-        "isRunning" : false 
+        "isRunning" : false
+      },
+      {
+        "id": "VM-2-0012",
+        "marketplace": "Kaufland",
+        "product": "Earplugs-J58 W",
+        "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Weiß",
+        "productId": "479447264",
+        "keywords": ["bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
+        "keyword":
+        [
+          {
+            "name": "bluetooth kopfhörer",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=bluetooth%20kopfh%C3%B6rer"
+          },
+          {
+            "name": "kopfhörer kabellos",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=kopfh%C3%B6rer%20kabellos"
+          },
+          {
+            "name": "kopfhörer über bluetooth",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          },
+          {
+            "name": "bluetooth kopfhörer inear",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          },
+          {
+            "name": "bluetooth kopfhörer in ear",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+          },
+          {
+            "name": "kabellose kopfhörer",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=kabellose%20kopfh%C3%B6rer"
+          }
+        ],
+        "isRunning" : false
       },
       {
         "id": "VM-2-0013",
-        "marketplace": "Kaufland",
-        "product": "Earplugs-A30",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Weiß",
-        "productId": "479447264",
-        "keywords": ["bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0014",
         "marketplace": "Kaufland",
         "product": "Earplugs-L21",
         "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - extra Bass - Schwarz",
         "productId": "479447274",
         "keywords": ["bluetooth kopfhörer in ear", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kopfhörer kabellos", "kabellose kopfhörer"],
+        "keyword":
+        [
+          {
+            "name": "bluetooth kopfhörer in ear",
+            "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+          },
+          {
+            "name": "kopfhörer bluetooth",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=kopfh%C3%B6rer%20bluetooth"
+          },
+          {
+            "name": "kopfhörer über bluetooth",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          },
+          {
+            "name": "bluetooth kopfhörer inear",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          },
+          {
+            "name": "kopfhörer kabellos",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=kopfh%C3%B6rer%20kabellos"
+          },
+          {
+            "name": "kabellose kopfhörer",
+            "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=kabellose%20kopfh%C3%B6rer"
+          }
+        ],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-2-0014",
+        "marketplace": "Kaufland",
+        "product": "Earplugs-J58 B",
+        "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
+        "productId": "479447294",
+        "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+        "keyword":
+        [
+          {
+            "name": "bluetooth kopfhörer in ear",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+          },
+          {
+            "name": "kopfhörer kabellos",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=kopfh%C3%B6rer%20kabellos"
+          },
+          {
+            "name": "kopfhörer bluetooth",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=kopfh%C3%B6rer%20bluetooth"
+          },
+          {
+            "name": "kopfhörer über bluetooth",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          },
+          {
+            "name": "bluetooth kopfhörer inear",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          },
+          {
+            "name": "kabellose kopfhörer",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=kabellose%20kopfh%C3%B6rer"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0015",
         "marketplace": "Kaufland",
-        "product": "Earplugs-J80",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
-        "productId": "479447294",
-        "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0016",
-        "marketplace": "Kaufland",
         "product": "Earplugs-M48",
-        "productTitle": "QuchiQ™ - Vollständig Kabellose Ohrhörer mit Ladeetui - In Ear Ohrhörer - Bluetooth Kopfhörer - Sport-Ohrhörer - Schwarz",
-        "productId": "479447294",
-        "keywords": ["kopfhörer kabellos ear", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+        "productTitle": "QuchiQ™ -Kabellose Kopfhörer mit Ladeetui - Bluetooth 5.3 mit ENC Mic- Sport Ohrhörer- LED-Anzeige, Noise Cancelling IPX7 wasserdichte für/iOS/Android",
+        "productId": "479447749",
+        "keywords": ["kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+        "keyword":
+        [
+          {
+            "name": "kopfhörer kabellos",
+            "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
+          },
+          {
+            "name": "kopfhörer über bluetooth",
+            "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          },
+          {
+            "name": "th kopfhörer in ear",
+            "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+          },
+          {
+            "name": "kopfhörer bluetooth",
+            "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=kopfh%C3%B6rer%20bluetooth"
+          },
+          {
+            "name": "bluetooth kopfhörer inear",
+            "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          },
+          {
+            "name": "kabellose kopfhörer",
+            "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=kabellose%20kopfh%C3%B6rer"
+          }
+        ],
         "isRunning" : false 
       },
 
       {
-        "id": "VM-2-0017",
+        "id": "VM-2-0016",
         "marketplace": "Kaufland",
         "product": "SLB-E27-9W-2",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 2 pack",
+        "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 2 Stück",
         "productId": "461186204",
+        "keywords":
+        ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "keyword":
+        [
+          {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=led%20lampe%20e27"
+          },
+          {
+            "name": "glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "e27 glühbirne",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=e27%20gl%C3%BChbirne"
+          },
+          {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=led%20lampen%20e27"
+          },
+          {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
+          },
+          {
+            "name": "led glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=led%20gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=led%20leuchtmittel%20e27"
+          },
+          {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=led%20birne%20e27"
+          },
+          {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=e27%20lampe"
+          },
+          {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=led%20birnen%20e27"
+          }
+        ],
+        "isRunning" : false 
+      },
+      {
+        "id": "VM-2-0017",
+        "marketplace": "Kaufland",
+        "product": "SLB-E27-9W-3",
+        "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 3 Stück",
+        "productId": "461186203",
         "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "keyword":
+        [
+          {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=led%20lampe%20e27"
+          },
+          {
+            "name": "glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "e27 glühbirne",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=e27%20gl%C3%BChbirne"
+          },
+          {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=led%20lampen%20e27"
+          },
+          {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=e27%20birne"
+          },
+          {
+            "name": "led glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=led%20gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=led%20leuchtmittel%20e27"
+          },
+          {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=led%20birne%20e27"
+          },
+          {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=e27%20lampe"
+          },
+          {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=led%20birnen%20e27"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0018",
         "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-3",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 3 pack",
-        "productId": "461186203",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "product": "SLB-E27-9W-4",
+        "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 4 Stück",
+        "productId": "461186202",
+        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne lideka", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "keyword":
+        [
+          {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=led%20lampe%20e27"
+          },
+          {
+            "name": "glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "e27 glühbirne",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=led%20lampen%20e27"
+          },
+          {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=e27%20birne"
+          },
+          {
+            "name": "led glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=led%20gl%C3%BChbirne%20e27"
+          },
+          {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=led%20leuchtmittel%20e27"
+          },
+          {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=led%20birne%20e27"
+          },
+          {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=e27%20lampe"
+          },
+          {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=led%20birnen%20e27"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0019",
         "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-4",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 4 pack",
-        "productId": "461186202",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne lideka", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "product": "SLB-E14-2",
+        "productTitle": "Lideka® E14 Smart LED Lampe 6W 2700K, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 2 Stück",
+        "productId": "461186224",
+        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keyword":
+        [
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0020",
         "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-5",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 5 pack",
-        "productId": "461186201",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "product": "SLB-E14-3",
+        "productTitle": "Lideka® E14 Smart LED Lampe 6W 2700K, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 3 Stück",
+        "productId": "461186222",
+        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keyword":
+        [
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0021",
         "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-6",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 6 pack",
-        "productId": "471532779",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "product": "SLB-E14-4",
+        "productTitle": "Lideka® E14 Smart LED Lampe 6W 2700K, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 4 Stück",
+        "productId": "461186218",
+        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keyword":
+        [
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0022",
         "marketplace": "Kaufland",
-        "product": "SLB-E27-9W-7",
-        "productTitle": "Lideka® e27 Smart LED Lampe warmweiss Alexa Glühbirne, Wlan LED Light Bulb 9W 806LM, WiFi Dimmbare, 2700-6500K, Alexa Echo, Google Home, 7 pack",
-        "productId": "471532780",
-        "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+        "product": "SLB-GU10-3",
+        "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 3 Stück",
+        "productId": "461186615",
+        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keyword":
+        [
+          {
+            "name": "einbaustrahler gu10",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=einbaustrahler%20gu10"
+          },
+          {
+            "name": "einbaustrahler gu 10",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=einbaustrahler%20gu%2010"
+          },
+          {
+            "name": "gu10 spot lideka",
+            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=gu10%20spot%20lideka"
+          },
+          {
+            "name": "gu10 led spot",
+            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=gu10%20led%20spot"
+          },
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-2-0023",
         "marketplace": "Kaufland",
-        "product": "SLB-E14-2",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 2 pack",
-        "productId": "461186224",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0024",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-3",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 3 pack",
-        "productId": "461186222",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0025",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-4",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 4 pack",
-        "productId": "461186218",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0026",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-5",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 5 pack",
-        "productId": "461186213",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0027",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-6",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 6 pack",
-        "productId": "471532772",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0028",
-        "marketplace": "Kaufland",
-        "product": "SLB-E14-7",
-        "productTitle": "Lideka® E14 LED Lampen Dimmbar, 6W, 600Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 7 pack",
-        "productId": "471532775",
-        "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0029",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-3",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 3 pack",
-        "productId": "461186615",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0030",
-        "marketplace": "Kaufland",
         "product": "SLB-GU10-4",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 4 pack",
+        "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 4 Stück",
         "productId": "461186615",
         "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0031",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-5",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 5 pack",
-        "productId": "461186612",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0032",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-6",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 6 pack",
-        "productId": "461186208",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-2-0033",
-        "marketplace": "Kaufland",
-        "product": "SLB-GU10-7",
-        "productTitle": "Lideka® GU10 LED Lampen Dimmbar, 5W, 400Lm, 2700-6500K, RGB 16 Millionen Farben, App Steuern Kompatibel mit Alexa/Google Home, Sprachsteuerung, 7 pack",
-        "productId": "461186206",
-        "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+        "keyword":
+        [
+          {
+            "name": "einbaustrahler gu10",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=einbaustrahler%20gu10"
+          },
+          {
+            "name": "einbaustrahler gu 10",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=einbaustrahler%20gu%2010"
+          },
+          {
+            "name": "gu10 spot lideka",
+            "link": "https://www.kaufland.de/s/?search_value=gu10%20spot%20lideka"
+          },
+          {
+            "name": "gu10 led spot",
+            "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=gu10%20led%20spot"
+          },
+          {
+            "name": "alexa glühbirne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=alexa%20gl%C3%BChbirne"
+          },
+          {
+            "name": "smart home lampen",
+            "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=smart%20home%20lampen"
+          },
+          {
+            "name": "smart home lampe",
+            "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=smart%20home%20lampe"
+          },
+          {
+            "name": "alexa glühbirnen",
+            "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=alexa%20gl%C3%BChbirnen"
+          },
+          {
+            "name": "glühbirnen alexa",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=gl%C3%BChbirnen%20alexa"
+          }
+        ],
         "isRunning" : false 
       }
     ]
