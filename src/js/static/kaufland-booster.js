@@ -212,7 +212,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         }
         
       }catch(error) {
-        console.log(error)
+        //console.log(error)
       }
 
       await booster.addRandomTimeGap(10, 12)
@@ -382,12 +382,12 @@ export const triggerAllBolKaufland = async (thread, currentVM, virtualMachine = 
             console.error('Error:', error.message);
           });
         }catch(error) {
-          console.log(error.message)
+          //console.log(error.message)
           return;
         }
       }
     }catch (error) {
-      console.log(error.message)
+      //console.log(error.message)
       if(!process.env.TURN_OFF_LOGS) {
         console.error(error);
       }
