@@ -33,33 +33,6 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0002",
-      "marketplace": "Bol.com",
-      "product": "BabyFoon Black",
-      "productId": "9300000179671207",
-      "productTitle": "Babyfoon met camera en App - WiFi - FULL HD - Baby Monitor - Babyfoons met Beweeg en geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Zwart",
-      "keywords": 
-      [
-        "babyfoon", "babyfoon met camera", "baby monitor", "babyfoons", "babyfoon met camera en app",
-        "babyfoon camera", "baby camera", "babyfoon met app", "babyfoon met camera en app wifi", "babyfoon met camera bestverkocht"
-      ],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera",
-        "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoons",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+camera",
-        "https://www.bol.com/nl/nl/s/?searchtext=baby+camera",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+app",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app+wifi",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+bestverkocht"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
       "id": "VM-3-0003",
       "marketplace": "Bol.com",
       "product": "BabyFoon White",
@@ -154,18 +127,17 @@
         "powerbank iphone", "draadloze powerbank", "mini powerbank", "externe oplader powerbank", "externe batterij powerbank",
         "powerbank samsung", "powerbank apple", "powerbank 10000 mah", "powerbank 10.000 mah", "powerbank"
       ],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&12194=22-29&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=draadloze+powerbank&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mini+powerbank&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=externe+oplader+powerbank&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=externe+batterij+powerbank&view=list&filter_N=65371&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+samsung&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+apple&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+10000+mah&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+10.000+mah&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&sort=price0&12194=22-23&rating=all"
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+iphone",
+        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=mini+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+oplader+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+samsung",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+apple",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+10000+mah",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+10.000+mah",
+        "https://www.bol.com/nl/nl/s/?searchtext=powerbank"
       ],
       "isRunning" : false,
       "isMostWantedList": true
