@@ -155,6 +155,21 @@
         "productTitle": "Somnifiq Ohrstöpsel zum Schlafen -30dB Lärmschutz, Tragekomfort, Waschbare Silikon-Lärm Ohrenstöpsel, für Schlafen Festival Konzerte Arbeiten Lernen",
         "productId": "468095054",
         "keywords": ["ohrstöpsel zum schlafen", "ohrstöpsel", "ohrenstöpsel"],
+        "keyword":
+        [
+          {
+            "name": "ohrstöpsel zum schlafen",
+            "link": "https://www.kaufland.de/s/?search_value=ohrst%C3%B6psel%20zum%20schlafen"
+          },
+          {
+            "name": "ohrstöpsel",
+            "link": "https://www.kaufland.de/s/?search_value=ohrst%C3%B6psel"
+          },
+          {
+            "name": "ohrenstöpsel",
+            "link": "https://www.kaufland.de/s/?search_value=ohrenst%C3%B6psel"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -164,6 +179,21 @@
         "productTitle": "Lekro, Gemüseschneider, Spiralschneider, Gemüsehobel - Zwiebelschneider, Kartoffelschneider, Obstschneider - Vegetable Chopper, 12 - teilig, Weiß",
         "productId": "470714479",
         "keywords": ["gemüseschneider", "nicer dicer", "gemüsehobel"],
+        "keyword":
+        [
+          {
+            "name": "gemüseschneider",
+            "link": "https://www.kaufland.de/s/?search_value=gem%C3%BCseschneider"
+          },
+          {
+            "name": "nicer dicer",
+            "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=nicer%20dicer"
+          },
+          {
+            "name": "gemüsehobel",
+            "link": "https://www.kaufland.de/s/?search_value=gem%C3%BCsehobel"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -173,6 +203,17 @@
         "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen-Roségold",
         "productId": "468110674",
         "keywords": ["trinkflasche", "waterfles", "wasserflasche"],
+        "keyword":
+        [
+          {
+            "name": "trinkflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+          },
+          {
+            "name": "wasserflasche",
+            "link": "https://www.kaufland.de/s/?search_value=wasserflasche"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -182,6 +223,21 @@
         "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Blau",
         "productId": "468110679",
         "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+        "keyword":
+        [
+          {
+            "name": "trinkflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+          },
+          {
+            "name": "trinkflasche 1l",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+          },
+          {
+            "name": "wasserflasche",
+            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+          }
+        ],
         "isRunning" : false 
       },
       {
