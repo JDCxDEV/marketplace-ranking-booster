@@ -7,6 +7,17 @@
         "productTitle": "Lekro Spiralschneider Gemüse mit Behälter - Gemüseschneider, Leichtes Schneiden- Gemüsespaghetti, Zucchini, Karotte, Gurke, Kürbis, Kartoffel (4-in-1)",
         "productId": "470719751",
         "keywords": ["spiralschneider gemüse", "spiralschneider"],
+        "keyword":
+        [
+          {
+            "name": "spiralschneider gemüse",
+            "link": "https://www.kaufland.de/s/?search_value=spiralschneider%20gem%C3%BCse"
+          },
+          {
+            "name": "spiralschneider",
+            "link": "https://www.kaufland.de/s/?search_value=spiralschneider"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -16,6 +27,21 @@
         "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, USB-Aufladung, wasserdichte - hohe Präzision -Schwarz",
         "productId": "470712972",
         "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+        "keyword":
+        [
+          {
+            "name": "Küchenwaage",
+            "link": "https://www.kaufland.de/s/?21=6908328&search_value=K%C3%BCchenwaage"
+          },
+          {
+            "name": "küchenwaage digital",
+            "link": "https://www.kaufland.de/s/?search_value=k%C3%BCchenwaage%20digital"
+          },
+          {
+            "name": "digitale küchenwaage",
+            "link": "https://www.kaufland.de/s/?search_value=digitale%20k%C3%BCchenwaage"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -25,6 +51,21 @@
         "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision -Schwarz",
         "productId": "470713355",
         "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+        "keyword":
+        [
+          {
+            "name": "Küchenwaage",
+            "link": "https://www.kaufland.de/s/?search_value=K%C3%BCchenwaage"
+          },
+          {
+            "name": "küchenwaage digital",
+            "link": "https://www.kaufland.de/s/?search_value=k%C3%BCchenwaage%20digital"
+          },
+          {
+            "name": "digitale küchenwaage",
+            "link": "https://www.kaufland.de/s/?search_value=digitale%20k%C3%BCchenwaage"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -34,6 +75,21 @@
         "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD - Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision - Weiß",
         "productId": "470715196",
         "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+        "keyword":
+        [
+          {
+            "name": "Küchenwaage",
+            "link": "https://www.kaufland.de/s/?21=6908328&search_value=K%C3%BCchenwaage"
+          },
+          {
+            "name": "küchenwaage digital",
+            "link": "https://www.kaufland.de/s/?21=6908328&search_value=k%C3%BCchenwaage%20digital"
+          },
+          {
+            "name": "digitale küchenwaage",
+            "link": "https://www.kaufland.de/s/?21=6908328&search_value=digitale%20k%C3%BCchenwaage"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -43,15 +99,37 @@
         "productTitle": "Somnifiq Schlafmaske, Lichtblockierende, Augenmaske, Nachtmaske, Atmungsaktive 3D Schlafbrille, Verstellbarem Riemen, Bequeme & Ergonomisches Design",
         "productId": "468093459",
         "keywords": ["schlafmaske", "schlafmaske herren"],
+        "keyword":
+        [
+          {
+            "name": "schlafmaske",
+            "link": "https://www.kaufland.de/s/?search_value=schlafmaske"
+          },
+          {
+            "name": "schlafmaske herren",
+            "link": "https://www.kaufland.de/s/?search_value=schlafmaske%20herren"
+          }
+        ],
         "isRunning" : false 
       },
       {
         "id": "VM-3-0006",
         "marketplace": "Kaufland",
         "product": "Reading Lamp",
-        "productTitle": "Somnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
+        "productTitle": "SomSomnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
         "productId": "470719876",
         "keywords": ["leselampe", "leselampe buch klemme"],
+        "keyword":
+        [
+          {
+            "name": "leselampe",
+            "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=leselampe"
+          },
+          {
+            "name": "leselampe buch klemme",
+            "link": "https://www.kaufland.de/s/?search_value=leselampe%20buch%20klemme"
+          }
+        ],
         "isRunning" : false 
       },
       {
@@ -61,6 +139,13 @@
         "productTitle": "Lekro Steakmesser Steakmesser-Set – Spülmaschinenfest - Küchenmesser Set - Kochmesser Set - Edelstahl -Messerset Scharfe (8-tlg Steakmesser - Schwarz)",
         "productId": "480323660",
         "keywords": ["steakmesser", "besteck set"],
+        "keyword":
+        [
+          {
+            "name": "steakmesser",
+            "link": "https://www.kaufland.de/s/?search_value=steakmesser"
+          }
+        ],
         "isRunning" : false 
       },
       {
