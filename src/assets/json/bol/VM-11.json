@@ -18,7 +18,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=zitkussen",
           "https://www.bol.com/nl/nl/s/?searchtext=zitkussen+orthopedisch",
           "https://www.bol.com/nl/nl/s/?searchtext=zitkussens",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=zitkussen+ergonomisch&view=list&filter_N=4295060599&12194=37-38&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=zitkussen+ergonomisch",
           "https://www.bol.com/nl/nl/s/?searchtext=zit+kussen",
           "https://www.bol.com/nl/nl/s/?searchtext=zitkussen+bed",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=zitkussen+bureaustoel&view=list&filter_N=4295060599&rating=all"
@@ -76,13 +76,13 @@
         "keywordLink": 
         [
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed",
           "https://www.bol.com/nl/nl/s/?searchtext=zijslaapkussen+volwassenen",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussens&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen",
+          "https://www.bol.com/nl/nl/s/?searchtext=kniekussens",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed+zijslapers",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+orthopedisch",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=knie+kussen&view=list&filter_N=4295060599&rating=all", 
+          "https://www.bol.com/nl/nl/s/?searchtext=knie+kussen", 
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed+orthopesich&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+zijslaper",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+rugslaper",
@@ -107,13 +107,13 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen",
           "https://www.bol.com/nl/nl/s/?searchtext=zijslaapkussen+volwassenen", 
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=zijslaapkussen&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=zijslaapkussen",
+          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed+zijslapers",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+orthopedisch",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=knie+kussen&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=knie+kussen",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed+orthopesich&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+zijslaper",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+rugslaper",
@@ -232,17 +232,34 @@
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=matrasbinder&view=list&filter_N=4295060599&12194=49-50&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswig&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswig",
           "https://www.bol.com/nl/nl/s/?searchtext=bedbinder",
           "https://www.bol.com/nl/nl/s/?searchtext=liefdesbrug",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswig+met+band&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matras+wig&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswiggen&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matraswig+de+luxe&view=list&filter_N=4295060599&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswig+met+band",
+          "https://www.bol.com/nl/nl/s/?searchtext=matras+wig",
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswiggen",
+          "https://www.bol.com/nl/nl/s/?searchtext=matraswig+de+luxe"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
         "isPerPage": true
+      },
+      {
+        "id": "VM-11-0008",
+        "marketplace": "Bol.com",
+        "product": "Vertical Tuin",
+        "productId": "9200000132275261",
+        "productTitle": "GreenGrounds™ Verticale Tuin - 9 Ruime Vakken - 50x50 cm - Moestuin - Hangende Plantenzak",
+        "keywords": ["Verticale Tuin", "verticale tuin met watersysteem", "verticale moestuin", "moestuin"],
+        "keywordLink":
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+tuin&view=list&filter_N=4296452464&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+tuin+met+watersysteem&view=list&filter_N=4296452464&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+moestuin&view=list&filter_N=4296452464&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=moestuin&view=list&filter_N=4296452464&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
       }
     ]
   }
