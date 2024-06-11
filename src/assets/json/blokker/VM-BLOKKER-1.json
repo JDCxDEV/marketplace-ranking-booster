@@ -300,12 +300,11 @@
       "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=beveiligingscamera%27s",
+        "https://www.blokker.nl/search?q=beveiligingscamera%27s&pmin=36&pmax=37",
         "https://www.blokker.nl/search?q=huisdiercamera"
       ],
       "isRunning" : false,
-      "isMostWantedList": true,
-      "isOutOfStock": true
+      "isMostWantedList": true
     },
     {
       "id": "VM-1-0022",
