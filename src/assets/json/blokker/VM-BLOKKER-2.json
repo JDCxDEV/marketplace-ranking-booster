@@ -148,7 +148,7 @@
       ],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=kussen&pmin=49&pmax=50",
+        "https://www.blokker.nl/search/comfy-center?q=kussen&pmin=0%2C00",
         "https://www.blokker.nl/hoofdkussens",
         "https://www.blokker.nl/search?q=hoofdkussen%20traagschuim",
         "https://www.blokker.nl/search?q=traagschuim%20kussen",
@@ -156,8 +156,7 @@
         "https://www.blokker.nl/search?q=traagschuim%20kussens"
       ],
       "isRunning" : false,
-      "isMostWantedList": true,
-      "isOutOfStock": true
+      "isMostWantedList": true
     },
     {
       "id": "VM-2-0040",
@@ -358,7 +357,6 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/kledinghangers"
-
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -497,7 +495,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0060",
+      "id": "VM-2-0060",
       "marketplace": "Blokker.nl",
       "product": "Opbergmand  - Brick Red",
       "productId": "4581553",
@@ -505,7 +503,7 @@
       "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden"
+        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
