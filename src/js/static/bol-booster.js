@@ -184,8 +184,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target', browser);
       }
 
-
-
       let addedToWishlist = false;
 
       await booster.addRandomTimeGap(5, 5);
@@ -220,6 +218,8 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target', browser);
       }
+
+      
 
       // Step: Go to product page
       
@@ -276,7 +276,53 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         // continue if get error
       }
 
-    
+      try {
+        const showMore = `//*[@data-test="show-more"]`;
+
+        // Wait for the XPath selector with a timeout of 10 seconds (adjust as needed)
+        await page.waitForXPath(showMore, { timeout: 10000 });
+
+        // Find the element using XPath
+        const [showMoreElement] = await page.$x(showMore);
+
+        if (showMoreElement) {
+          // Add a random time gap before clicking
+          await booster.addRandomTimeGap(5, 7);
+          await showMoreElement.hover();
+          // Click the element
+          await booster.addRandomTimeGap(2, 3);
+          await showMoreElement.click();
+
+          await booster.addRandomTimeGap(5, 7);
+      
+        }
+      } catch (error) {
+        // continue
+      }
+
+      try {
+        const compareClick = `//*[@data-test="compare-checkbox"]`;
+
+        // Wait for the XPath selector with a timeout of 10 seconds (adjust as needed)
+        await page.waitForXPath(compareClick, { timeout: 10000 });
+
+        // Find the element using XPath
+        const [compareClickElement] = await page.$x(compareClick);
+
+        if (compareClickElement) {
+          // Add a random time gap before clicking
+          await booster.addRandomTimeGap(5, 7);
+          await compareClickElement.hover();
+          await booster.addRandomTimeGap(2, 3);
+          // Click the element
+          await compareClickElement.click();
+          await booster.addRandomTimeGap(5, 7);
+      
+        }
+      } catch (error) {
+        console.log(error.message)
+      }
+
       await booster.scrollDown(page);
 
       try { 
