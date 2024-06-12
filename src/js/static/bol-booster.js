@@ -184,8 +184,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target', browser);
       }
 
-
-
       let addedToWishlist = false;
 
       await booster.addRandomTimeGap(5, 5);
@@ -220,6 +218,8 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       for (let i = 0; i < Math.floor(Math.random() * (6 - 3 + 1)) + 3; i++) {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target', browser);
       }
+
+      
 
       // Step: Go to product page
       
@@ -276,7 +276,32 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         // continue if get error
       }
 
-    
+      try {
+        const showMore = `//*[@data-test="show-more"]`;
+
+        // Wait for the XPath selector with a timeout of 10 seconds (adjust as needed)
+        await page.waitForXPath(showMore, { timeout: 10000 });
+
+        // Find the element using XPath
+        const [showMoreElement] = await page.$x(showMore);
+
+        if (showMoreElement) {
+          // Add a random time gap before clicking
+          await booster.addRandomTimeGap(5, 7);
+          await showMoreElement.hover();
+          // Click the element
+          await showMoreElement.click();
+
+          await booster.addRandomTimeGap(5, 7);
+        
+
+          success = true; // Set success to true if click is successful
+        }
+      } catch (error) {
+        // continue
+      }
+
+
       await booster.scrollDown(page);
 
       try { 

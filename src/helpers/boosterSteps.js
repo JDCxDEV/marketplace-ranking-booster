@@ -139,6 +139,8 @@ export const scrollToRandomClass = async (page, elementClass, browser) => {
     const randomIndex = Math.floor(Math.random() * products.length);
     const randomProduct = products[randomIndex];
 
+    await page.hover(randomProduct);
+    
     await page.evaluate((element) => {
         element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
     }, randomProduct);
