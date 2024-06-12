@@ -1,0 +1,336 @@
+{
+    "products": [
+        {
+            "id": "VM-1-0001",
+            "marketplace": "Kaufland",
+            "product": "Spiral Cutter",
+            "productTitle": "Lekro Spiralschneider Gemüse mit Behälter - Gemüseschneider, Leichtes Schneiden- Gemüsespaghetti, Zucchini, Karotte, Gurke, Kürbis, Kartoffel (4-in-1)",
+            "productId": "470719751",
+            "keywords": ["spiralschneider gemüse", "spiralschneider"],
+            "keyword":
+            [
+              {
+                "name": "spiralschneider gemüse",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=spiralschneider%20gem%C3%BCse"
+              },
+              {
+                "name": "spiralschneider",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=spiralschneider"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0002",
+            "marketplace": "Kaufland",
+            "product": "Kitchen scale USB",
+            "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, USB-Aufladung, wasserdichte - hohe Präzision -Schwarz",
+            "productId": "470712972",
+            "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+            "keyword":
+            [
+              {
+                "name": "Küchenwaage",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=K%C3%BCchenwaage"
+              },
+              {
+                "name": "küchenwaage digital",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=k%C3%BCchenwaage%20digital"
+              },
+              {
+                "name": "digitale küchenwaage",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=digitale%20k%C3%BCchenwaage"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0003",
+            "marketplace": "Kaufland",
+            "product": "Kitchen scale Black",
+            "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision -Schwarz",
+            "productId": "470713355",
+            "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+            "keyword":
+            [
+              {
+                "name": "Küchenwaage",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=K%C3%BCchenwaage"
+              },
+              {
+                "name": "küchenwaage digital",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=k%C3%BCchenwaage%20digital"
+              },
+              {
+                "name": "digitale küchenwaage",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=digitale%20k%C3%BCchenwaage"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0004",
+            "marketplace": "Kaufland",
+            "product": "Kitchen scale White",
+            "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD - Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision - Weiß",
+            "productId": "470715196",
+            "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
+            "keyword":
+            [
+              {
+                "name": "Küchenwaage",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=K%C3%BCchenwaage"
+              },
+              {
+                "name": "küchenwaage digital",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=k%C3%BCchenwaage%20digital"
+              },
+              {
+                "name": "digitale küchenwaage",
+                "link": "https://www.kaufland.de/s/?21=6908328&search_value=digitale%20k%C3%BCchenwaage"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0005",
+            "marketplace": "Kaufland",
+            "product": "Sleepmask",
+            "productTitle": "Somnifiq Schlafmaske, Lichtblockierende, Augenmaske, Nachtmaske, Atmungsaktive 3D Schlafbrille, Verstellbarem Riemen, Bequeme & Ergonomisches Design",
+            "productId": "468093459",
+            "keywords": ["schlafmaske", "schlafmaske herren"],
+            "keyword":
+            [
+              {
+                "name": "schlafmaske",
+                "link": "https://www.kaufland.de/s/?price=1500-1600&search_value=schlafmaske"
+              },
+              {
+                "name": "schlafmaske herren",
+                "link": "https://www.kaufland.de/s/?price=1500-1600&search_value=schlafmaske%20herren"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0006",
+            "marketplace": "Kaufland",
+            "product": "Reading Lamp",
+            "productTitle": "SomSomnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
+            "productId": "470719876",
+            "keywords": ["leselampe", "leselampe buch klemme"],
+            "keyword":
+            [
+              {
+                "name": "leselampe",
+                "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=leselampe"
+              },
+              {
+                "name": "leselampe buch klemme",
+                "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=leselampe%20buch%20klemme"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0007",
+            "marketplace": "Kaufland",
+            "product": "Steakknives",
+            "productTitle": "Lekro Steakmesser Steakmesser-Set – Spülmaschinenfest - Küchenmesser Set - Kochmesser Set - Edelstahl -Messerset Scharfe (8-tlg Steakmesser - Schwarz)",
+            "productId": "480323660",
+            "keywords": ["steakmesser", "besteck set"],
+            "keyword":
+            [
+              {
+                "name": "steakmesser",
+                "link": "https://www.kaufland.de/s/?price=1800-1900&search_value=steakmesser"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0008",
+            "marketplace": "Kaufland",
+            "product": "Earplugs",
+            "productTitle": "Somnifiq Ohrstöpsel zum Schlafen -30dB Lärmschutz, Tragekomfort, Waschbare Silikon-Lärm Ohrenstöpsel, für Schlafen Festival Konzerte Arbeiten Lernen",
+            "productId": "468095054",
+            "keywords": ["ohrstöpsel zum schlafen", "ohrstöpsel", "ohrenstöpsel"],
+            "keyword":
+            [
+              {
+                "name": "ohrstöpsel zum schlafen",
+                "link": "https://www.kaufland.de/s/?price=1800-1900&search_value=ohrst%C3%B6psel%20zum%20schlafen"
+              },
+              {
+                "name": "ohrstöpsel",
+                "link": "https://www.kaufland.de/s/?price=1800-1900&search_value=ohrst%C3%B6psel"
+              },
+              {
+                "name": "ohrenstöpsel",
+                "link": "https://www.kaufland.de/s/?price=1800-1900&search_value=ohrenst%C3%B6psel"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0009",
+            "marketplace": "Kaufland",
+            "product": "Vegetable Cutter",
+            "productTitle": "Lekro, Gemüseschneider, Spiralschneider, Gemüsehobel - Zwiebelschneider, Kartoffelschneider, Obstschneider - Vegetable Chopper, 12 - teilig, Weiß",
+            "productId": "470714479",
+            "keywords": ["gemüseschneider", "nicer dicer", "gemüsehobel"],
+            "keyword":
+            [
+              {
+                "name": "gemüseschneider",
+                "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=gem%C3%BCseschneider"
+              },
+              {
+                "name": "nicer dicer",
+                "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=nicer%20dicer"
+              },
+              {
+                "name": "gemüsehobel",
+                "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=gem%C3%BCsehobel"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0010",
+            "marketplace": "Kaufland",
+            "product": "Water bottle RG",
+            "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen-Roségold",
+            "productId": "468110674",
+            "keywords": ["trinkflasche", "waterfles", "wasserflasche"],
+            "keyword":
+            [
+              {
+                "name": "trinkflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+              },
+              {
+                "name": "wasserflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0011",
+            "marketplace": "Kaufland",
+            "product": "Water bottle BB",
+            "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Blau",
+            "productId": "468110679",
+            "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+            "keyword":
+            [
+              {
+                "name": "trinkflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+              },
+              {
+                "name": "trinkflasche 1l",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+              },
+              {
+                "name": "wasserflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0012",
+            "marketplace": "Kaufland",
+            "product": "Water bottle RB",
+            "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, SoftTouch +Sieb, BPA-frei, Trinkflaschen-Rosa/Blau",
+            "productId": "468110675",
+            "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+            "keyword":
+            [
+              {
+                "name": "trinkflasche 1l",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+              },
+              {
+                "name": "wasserflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0013",
+            "marketplace": "Kaufland",
+            "product": "Water bottle G",
+            "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grün",
+            "productId": "468110681",
+            "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+            "keyword":
+            [
+              {
+                "name": "trinkflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+              },
+              {
+                "name": "trinkflasche 1l",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+              },
+              {
+                "name": "wasserflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0014",
+            "marketplace": "Kaufland",
+            "product": "Water bottle T",
+            "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Türkis",
+            "productId": "468110680",
+            "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+            "keyword":
+            [
+              {
+                "name": "trinkflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+              },
+              {
+                "name": "trinkflasche 1l",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+              },
+              {
+                "name": "wasserflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-1-0015",
+            "marketplace": "Kaufland",
+            "product": "Water bottle GR",
+            "productTitle": "468110676",
+            "productId": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grau",
+            "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
+            "keyword":
+            [
+              {
+                "name": "trinkflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
+              },
+              {
+                "name": "trinkflasche 1l",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
+              },
+              {
+                "name": "wasserflasche",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
+              }
+            ],
+            "isRunning" : false 
+          }
+    ]
+  }
