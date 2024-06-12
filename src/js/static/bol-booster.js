@@ -290,17 +290,38 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
           await booster.addRandomTimeGap(5, 7);
           await showMoreElement.hover();
           // Click the element
+          await booster.addRandomTimeGap(2, 3);
           await showMoreElement.click();
 
           await booster.addRandomTimeGap(5, 7);
-        
-
-          success = true; // Set success to true if click is successful
+      
         }
       } catch (error) {
         // continue
       }
 
+      try {
+        const compareClick = `//*[@data-test="compare-checkbox"]`;
+
+        // Wait for the XPath selector with a timeout of 10 seconds (adjust as needed)
+        await page.waitForXPath(compareClick, { timeout: 10000 });
+
+        // Find the element using XPath
+        const [compareClickElement] = await page.$x(compareClick);
+
+        if (compareClickElement) {
+          // Add a random time gap before clicking
+          await booster.addRandomTimeGap(5, 7);
+          await compareClickElement.hover();
+          await booster.addRandomTimeGap(2, 3);
+          // Click the element
+          await compareClickElement.click();
+          await booster.addRandomTimeGap(5, 7);
+      
+        }
+      } catch (error) {
+        console.log(error.message)
+      }
 
       await booster.scrollDown(page);
 
