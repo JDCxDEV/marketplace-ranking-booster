@@ -1,0 +1,272 @@
+{
+    "products": [
+          {
+            "id": "VM-2-0001",
+            "marketplace": "Kaufland",
+            "product": "Baby camera White",
+            "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Weiß",
+            "productId": "479444940",
+            "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"],
+            "keyword":
+            [
+              {
+                "name": "babyphone mit kamera",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20mit%20kamera"
+              },
+              {
+                "name": "babyphone kamera überwachung innen",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
+              },
+              {
+                "name": "babyphone überwachungskamera innen mit aufzeichnung",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20%C3%BCberwachungskamera%20innen%20mit%20aufzeichnung"
+              },
+              {
+                "name": "babyphone überwachungskamera für innen",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20%C3%BCberwachungskamera%20f%C3%BCr%20innen"
+              },
+              {
+                "name": "babyphone kamera innen",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20kamera%20innen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0002",
+            "marketplace": "Kaufland",
+            "product": "Baby camera Black",
+            "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
+            "productId": "479445987",
+            "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone kamera innen", "babyphone überwachungskamera für innen"],
+            "keyword":
+            [
+              {
+                "name": "babyphone mit kamera",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20mit%20kamera"
+              },
+              {
+                "name": "babyphone kamera überwachung innen",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
+              },
+              {
+                "name": "babyphone überwachungskamera innen mit aufzeichnung",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20%C3%BCberwachungskamera%20innen%20mit%20aufzeichnung"
+              },
+              {
+                "name": "babyphone kamera innen",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20kamera%20innen"
+              },
+              {
+                "name": "babyphone überwachungskamera für innen",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=babyphone%20%C3%BCberwachungskamera%20f%C3%BCr%20innen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0003",
+            "marketplace": "Kaufland",
+            "product": "Security camera Black",
+            "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
+            "productId": "478956641",
+            "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
+            "keyword":
+            [
+              {
+                "name": "überwachungskamera innen",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=%C3%BCberwachungskamera%20innen"
+              },
+              {
+                "name": "überwachungskamera",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=%C3%BCberwachungskamera"
+              },
+              {
+                "name": "kamera überwachung innen",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=kamera%20%C3%BCberwachung%20innen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0004",
+            "marketplace": "Kaufland",
+            "product": "Security camera White",
+            "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, , Weiß",
+            "productId": "478953181",
+            "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
+            "keyword":
+            [
+              {
+                "name": "überwachungskamera innen",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=%C3%BCberwachungskamera%20innen"
+              },
+              {
+                "name": "überwachungskamera",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=%C3%BCberwachungskamera"
+              },
+              {
+                "name": "kamera überwachung innen",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=kamera%20%C3%BCberwachung%20innen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0005",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Rugkussen",
+            "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
+            "productId": "488843216",
+            "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
+            "keyword":
+            [
+              {
+                "name": "rückenkissen",
+                "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=r%C3%BCckenkissen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0006",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Zitkussen",
+            "productTitle": "COMFYCENTRE Orthopädisches Sitzkissen für Büro, Auto und Rollstuhl - Ergonomisches Memory Foam Steißbeinkissen - Perfekt für Rückenschmerzen",
+            "productId": "488843198",
+            "keywords": ["sitzkissen", "orthopädisches kissen", "sitzkissen orthopädisch", "keilkissen", "sitzkissen stuhl"],
+            "keyword":
+            [
+              {
+                "name": "orthopädisches kissen",
+                "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=orthop%C3%A4disches%20kissen"
+              },
+              {
+                "name": "sitzkissen orthopädisch",
+                "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=sitzkissen%20orthop%C3%A4disch"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0007",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Hoofdkussen",
+            "productTitle": "COMFYCENTRE Orthopädisches Nackenkissen aus Memory Foam 40x60cm - Ergonomisches Kopfkissen - Seitenschläferkissen - Nackenstützkissen",
+            "productId": "488843245",
+            "keywords": ["kopfkissen", "kissen", "nackenstützkissen", "orthopädisches kissen", "Memory-Schaum-Kissen"],
+            "keyword":
+            [
+              {
+                "name": "nackenstützkissen",
+                "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=nackenst%C3%BCtzkissen"
+              },
+              {
+                "name": "orthopädisches kissen",
+                "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=orthop%C3%A4disches%20kissen"
+              },
+              {
+                "name": "Memory-Schaum-Kissen",
+                "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=Memory-Schaum-Kissen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0008",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Kniekussen Band",
+            "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer (Band) - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables",
+            "productId": "488843256",
+            "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+            "keyword":
+            [
+              {
+                "name": "kniekissen",
+                "link": "https://www.kaufland.de/s/?21=6931310&search_value=kniekissen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0009",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Kniekussen",
+            "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables Visco Schlafki",
+            "productId": "495200680",
+            "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+            "keyword":
+            [
+              {
+                "name": "kniekissen",
+                "link": "https://www.kaufland.de/s/?21=6931310&search_value=kniekissen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0010",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Donut Kussen",
+            "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro,",
+            "productId": "488843228",
+            "keywords": ["Donut-Kissen", "Hämorrhoidenkissen", "orthopädisches Schmerzlinderungskissen"],
+            "keyword":
+            [
+              {
+                "name": "Hämorrhoidenkissen",
+                "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=H%C3%A4morrhoidenkissen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0011",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Ergonomisch Rugkussen",
+            "productTitle": "COMFYCENTRE Ergonomisches Memory-Schaum-Rückenkissen mit antistatischem, orthopädischem Lendenkissen für Bürostuhl, Autositz, Rollstuhl, Sitzkissen",
+            "productId": "495514310",
+            "keywords": ["Ergonomisches RückenKissen", "Lendenkissen", "Lendenkissen für Bürostuhl", "Rückenkissen"],
+            "keyword":
+            [
+              {
+                "name": "Ergonomisches RückenKissen",
+                "link": "https://www.kaufland.de/s/?21=7089854&search_value=Ergonomisches%20R%C3%BCckenKissen"
+              },
+              {
+                "name": "Lendenkissen",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=Lendenkissen"
+              },
+              {
+                "name": "Lendenkissen für Bürostuhl",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=Lendenkissen%20f%C3%BCr%20B%C3%BCrostuhl"
+              },
+              {
+                "name": "Rückenkissen",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=R%C3%BCckenkissen"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-2-0012",
+            "marketplace": "Kaufland",
+            "product": "ComfyCentre Bed Bridge",
+            "productTitle": "ComfyCentre Matratzenkeil mit Riemen – Extra breite Liebesbrücke für Matratzen – Matratzenkeile – Bettbinder – Matratzenbinder De Luxe – 200 x 30 cm",
+            "productId": "495367422",
+            "keywords": ["Liebesbrücke", "Matratzenverbinder", "Matratzenkeil"],
+            "keyword":
+            [
+              {
+                "name": "Liebesbrücke",
+                "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=Liebesbr%C3%BCcke"
+              },
+              {
+                "name": "Matratzenkeil",
+                "link": "https://www.kaufland.de/s/?21=6931310&search_value=Matratzenkeil"
+              }
+            ],
+            "isRunning" : false 
+          }
+    ]
+  }
