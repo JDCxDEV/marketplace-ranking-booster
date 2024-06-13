@@ -336,27 +336,6 @@
       },
 
       {
-        "id": "VM-23-00027",
-        "marketplace": "Bol.com",
-        "product": "8719992214228",
-        "productId": "9200000100092572",
-        "productTitle": "SmartphoneClip® Leer Grey Flower Bandje geschikt voor Fitbit Charge 3 / Charge 4",
-        "keywords": ["fitbit bandje","fitbit charge 3 bandje","fitbit charge 4 bandje","fitbit bandje charge 3","fitbit bandje charge 4"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&rating=all"
-          
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-
-      {
         "id": "VM-23-00028",
         "marketplace": "Bol.com",
         "product": "8719992528349",
@@ -410,27 +389,6 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&filter_N=4278199321&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+2+bandje&view=list&filter_N=4278199321&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&rating=all"
-          
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-
-      {
-        "id": "VM-23-00031",
-        "marketplace": "Bol.com",
-        "product": "8719992214129",
-        "productId": "9200000100092424",
-        "productTitle": "SmartphoneClip® Leer double Bandje zwart geschikt voor Fitbit Charge 3 / Charge 4",
-        "keywords": ["fitbit bandje","fitbit charge 3 bandje","fitbit charge 4 bandje","fitbit bandje charge 4","fitbit bandje charge 3"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=18-19&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&rating=all"
           
         ],
         "isRunning" : false,
