@@ -9,9 +9,9 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 18mm"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
+          
           "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes"
+          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes" 
         ],
         "isRunning" : false,
         "isOutOfStock" : false,
@@ -111,9 +111,6 @@
         "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
-          "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes",
           "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+20mm"
         ],
         "isRunning" : false,
@@ -289,10 +286,8 @@
         "keywords": ["fitbit bandje", "fitbit versa 3 bandje", "fitbit versa bandje", "fitbit sense bandje", "fitbit bandje versa 3"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje",
+          
           "https://www.bol.com/nl/nl/s/?searchtext=fitbit+versa+3+bandje",
-          "https://www.bol.com/nl/nl/s/?searchtext=fitbit+versa+bandje",
-          "https://www.bol.com/nl/nl/s/?searchtext=fitbit+sense+bandje",
           "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+versa+3"
         ],
         "isRunning" : false,
