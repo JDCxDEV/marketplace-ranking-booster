@@ -1,492 +1,361 @@
 {
-    "products": [
-      {
-        "id": "VM-3-0001",
-        "marketplace": "Kaufland",
-        "product": "Spiral Cutter",
-        "productTitle": "Lekro Spiralschneider Gemüse mit Behälter - Gemüseschneider, Leichtes Schneiden- Gemüsespaghetti, Zucchini, Karotte, Gurke, Kürbis, Kartoffel (4-in-1)",
-        "productId": "470719751",
-        "keywords": ["spiralschneider gemüse", "spiralschneider"],
-        "keyword":
-        [
+    "products":
+    [
           {
-            "name": "spiralschneider gemüse",
-            "link": "https://www.kaufland.de/s/?search_value=spiralschneider%20gem%C3%BCse"
+            "id": "VM-3-0001",
+            "marketplace": "Kaufland",
+            "product": "Earplugs-L52",
+            "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Schwarz",
+            "productId": "479446317",
+            "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer kabellos", "kabellose kopfhörer"],
+            "keyword":
+            [
+              {
+                "name": "kopfhörer über bluetooth",
+                "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+              }
+            ],
+            "isRunning" : false 
           },
           {
-            "name": "spiralschneider",
-            "link": "https://www.kaufland.de/s/?search_value=spiralschneider"
+            "id": "VM-3-0002",
+            "marketplace": "Kaufland",
+            "product": "Earplugs-J58 W",
+            "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Weiß",
+            "productId": "479447264",
+            "keywords": ["bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
+            "keyword":
+            [
+              {
+                "name": "bluetooth kopfhörer",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3200-3300&search_value=bluetooth%20kopfh%C3%B6rer"
+              },
+              {
+                "name": "kopfhörer kabellos",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3200-3300&search_value=kopfh%C3%B6rer%20kabellos"
+              },
+              {
+                "name": "kopfhörer über bluetooth",
+                "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+              },
+              {
+                "name": "bluetooth kopfhörer inear",
+                "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+              },
+              {
+                "name": "bluetooth kopfhörer in ear",
+                "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+              },
+              {
+                "name": "kabellose kopfhörer",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3200-3300&search_value=kabellose%20kopfh%C3%B6rer"
+              }
+            ],
+            "isRunning" : false
+          },
+          {
+            "id": "VM-3-0003",
+            "marketplace": "Kaufland",
+            "product": "Earplugs-J58 B",
+            "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
+            "productId": "479447294",
+            "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+            "keyword":
+            [
+              {
+                "name": "bluetooth kopfhörer in ear",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2700-2800&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+              },
+              {
+                "name": "kopfhörer kabellos",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2700-2800&search_value=kopfh%C3%B6rer%20kabellos"
+              },
+              {
+                "name": "kopfhörer bluetooth",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2700-2800&search_value=kopfh%C3%B6rer%20bluetooth"
+              },
+              {
+                "name": "kopfhörer über bluetooth",
+                "link": "https://www.kaufland.de/s/?price=2700-2800&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+              },
+              {
+                "name": "bluetooth kopfhörer inear",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2700-2800&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+              },
+              {
+                "name": "kabellose kopfhörer",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2700-2800&search_value=kabellose%20kopfh%C3%B6rer"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0004",
+            "marketplace": "Kaufland",
+            "product": "Earplugs-L21",
+            "productTitle": "QuchiQ™ -Mini Bluetooth Kopfhörer 5.1, Kopfhörer Kabellos In Ear mit 4 ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
+            "productId": "479447274",
+            "keywords": ["bluetooth kopfhörer in ear", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kopfhörer kabellos", "kabellose kopfhörer"],
+            "keyword":
+            [
+              {
+                "name": "bluetooth kopfhörer in ear",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2100-2200&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+              },
+              {
+                "name": "kopfhörer bluetooth",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2100-2200&search_value=kopfh%C3%B6rer%20bluetooth"
+              },
+              {
+                "name": "kopfhörer über bluetooth",
+                "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+              },
+              {
+                "name": "bluetooth kopfhörer inear",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2100-2200&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+              },
+              {
+                "name": "kopfhörer kabellos",
+                "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=kopfh%C3%B6rer%20kabellos"
+              },
+              {
+                "name": "kabellose kopfhörer",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2100-2200&search_value=kabellose%20kopfh%C3%B6rer"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0005",
+            "marketplace": "Kaufland",
+            "product": "Earplugs-M48",
+            "productTitle": "QuchiQ™ -Kabellose Kopfhörer mit Ladeetui - Bluetooth 5.3 mit ENC Mic- Sport Ohrhörer- LED-Anzeige, Noise Cancelling IPX7 wasserdichte für/iOS/Android",
+            "productId": "479447749",
+            "keywords": ["kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+            "keyword":
+            [
+              {
+                "name": "kopfhörer kabellos",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=kopfh%C3%B6rer%20kabellos"
+              },
+              {
+                "name": "kopfhörer über bluetooth",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+              },
+              {
+                "name": "bluetooth kopfhörer in ear",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+              },
+              {
+                "name": "kopfhörer bluetooth",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=kopfh%C3%B6rer%20bluetooth"
+              },
+              {
+                "name": "bluetooth kopfhörer inear",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+              },
+              {
+                "name": "kabellose kopfhörer",
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=kabellose%20kopfh%C3%B6rer"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0006",
+            "marketplace": "Kaufland",
+            "product": "Powerbank 20K",
+            "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
+            "productId": "479047515",
+            "keywords": ["powerbank 20000 mah", "powerbank", "power 20000 mah bank", "powerbanks für iphone"],
+            "keyword":
+            [
+              {
+                "name": "powerbank 20000 mah",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3200-3300&search_value=powerbank%2020000%20mah"
+              },
+              {
+                "name": "powerbank",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3200-3300&search_value=powerbank"
+              },
+              {
+                "name": "power 20000 mah bank",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=power%2020000%20mah%20bank"
+              },
+              {
+                "name": "powerbanks für iphone",
+                "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=powerbanks%20f%C3%BCr%20iphone"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0007",
+            "marketplace": "Kaufland",
+            "product": "Mini Power Bank",
+            "productTitle": "QuchiQ™ Powerbank 10000 mAh Klein Aber Stark -Mini Powerbank -Mobiler Akkulader - powerbanks für iPhone Samsung-Micro USB & USB-C Eingang - LED-Lampen",
+            "productId": "479041891",
+            "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 20000mah bank", "powerbanks für iphone"],
+            "keyword":
+            [
+              {
+                "name": "powerbank 20000 mah",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=powerbank%2020000%20mah"
+              },
+              {
+                "name": "powerbank",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2500-2600&search_value=powerbank"
+              },
+              {
+                "name": "mini powerbank",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=mini%20powerbank"
+              },
+              {
+                "name": "power 20000mah bank",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=power%2020000mah%20bank"
+              },
+              {
+                "name": "powerbanks für iphone",
+                "link": "https://www.kaufland.de/s/?price=2500-2600&search_value=powerbanks%20f%C3%BCr%20iphone"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0008",
+            "marketplace": "Kaufland",
+            "product": "Powerbank 20K",
+            "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
+            "productId": "479047515",
+            "keywords": ["powerbank 20000 mah", "powerbank", "power 20000 mah bank", "powerbanks für iphone"],
+            "keyword":
+            [
+              {
+                "name": "powerbank 20000 mah",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=powerbank%2020000%20mah"
+              },
+              {
+                "name": "powerbank",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3200-3300&search_value=powerbank"
+              },
+              {
+                "name": "power 20000 mah bank",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=power%2020000%20mah%20bank"
+              },
+              {
+                "name": "powerbanks für iphone",
+                "link": "https://www.kaufland.de/s/?price=3200-3300&search_value=powerbanks%20f%C3%BCr%20iphone"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0009",
+            "marketplace": "Kaufland",
+            "product": "Robot Toy Yellow",
+            "productTitle": "QuchiQ™ 8 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 345 Bausteine",
+            "productId": "479448234",
+            "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+            "keyword":
+            [
+              {
+                "name": "transformers roboter spielzeug",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=transformers%20roboter%20spielzeug"
+              },
+              {
+                "name": "roboter spielzeug",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=roboter%20spielzeug"
+              },
+              {
+                "name": "spielzeug roboter",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=spielzeug%20roboter"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0010",
+            "marketplace": "Kaufland",
+            "product": "Robot Toy Blue",
+            "productTitle": "QuchiQ™ 6 in 1 Transformers Roboter spielzeug, Baukästen Polizei und Feuerwehrauto Spielzeug, Spielfigurensets 482 Bausteine, Wandelbares Actionfigur",
+            "productId": "443566009",
+            "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+            "keyword":
+            [
+              {
+                "name": "transformers roboter spielzeug",
+                "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=transformers%20roboter%20spielzeug"
+              },
+              {
+                "name": "roboter spielzeug",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2900-3000&search_value=roboter%20spielzeug"
+              },
+              {
+                "name": "spielzeug roboter",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=2900-3000&search_value=spielzeug%20roboter"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0011",
+            "marketplace": "Kaufland",
+            "product": "Robot Toy Red",
+            "productTitle": "QuchiQ™ 8 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 356 Bausteine",
+            "productId": "479447783",
+            "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+            "keyword":
+            [
+              {
+                "name": "transformers roboter spielzeug",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=transformers%20roboter%20spielzeug"
+              },
+              {
+                "name": "roboter spielzeug",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=roboter%20spielzeug"
+              },
+              {
+                "name": "spielzeug roboter",
+                "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=spielzeug%20roboter"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-3-0012",
+            "marketplace": "Kaufland",
+            "product": "Daylight Lamp",
+            "productTitle": "QuchiQ™ Tageslichtlampe 10.000 Lux– Lichttherapielampe –flimmer- und UV-freie, 3 Farben, Schreibtischlampe, Timer-Funktion, Sonnenlichttherapie, Ener",
+            "productId": "480325737",
+            "keywords": ["tageslichtlampe", "tageslichtlampe schreibtisch", "lichttherapielampe", "tageslichtlampen", "tageslichtlampe 10000 lux", "tageslichtlampe beurer"],
+            "keyword":
+            [
+              {
+                "name": "tageslichtlampe",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampe"
+              },
+              {
+                "name": "tageslichtlampe schreibtisch",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampe%20schreibtisch"
+              },
+              {
+                "name": "lichttherapielampe",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=lichttherapielampe"
+              },
+              {
+                "name": "tageslichtlampen",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampen"
+              },
+              {
+                "name": "tageslichtlampe 10000 lux",
+                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=tageslichtlampe%2010000%20lux"
+              },
+              {
+                "name": "tageslichtlampe beurer",
+                "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampe%20beurer"
+              }
+            ],
+            "isRunning" : false 
           }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0002",
-        "marketplace": "Kaufland",
-        "product": "Kitchen scale USB",
-        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, USB-Aufladung, wasserdichte - hohe Präzision -Schwarz",
-        "productId": "470712972",
-        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
-        "keyword":
-        [
-          {
-            "name": "Küchenwaage",
-            "link": "https://www.kaufland.de/s/?21=6908328&search_value=K%C3%BCchenwaage"
-          },
-          {
-            "name": "küchenwaage digital",
-            "link": "https://www.kaufland.de/s/?search_value=k%C3%BCchenwaage%20digital"
-          },
-          {
-            "name": "digitale küchenwaage",
-            "link": "https://www.kaufland.de/s/?search_value=digitale%20k%C3%BCchenwaage"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0003",
-        "marketplace": "Kaufland",
-        "product": "Kitchen scale Black",
-        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD-Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision -Schwarz",
-        "productId": "470713355",
-        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
-        "keyword":
-        [
-          {
-            "name": "Küchenwaage",
-            "link": "https://www.kaufland.de/s/?search_value=K%C3%BCchenwaage"
-          },
-          {
-            "name": "küchenwaage digital",
-            "link": "https://www.kaufland.de/s/?search_value=k%C3%BCchenwaage%20digital"
-          },
-          {
-            "name": "digitale küchenwaage",
-            "link": "https://www.kaufland.de/s/?search_value=digitale%20k%C3%BCchenwaage"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0004",
-        "marketplace": "Kaufland",
-        "product": "Kitchen scale White",
-        "productTitle": "Lekro Küchenwaage Digital, 15KG, LCD - Anzeige, TARA -Funktion, Küchenwaage zum Backen und Kochen, wasserdichte, Touch-Taste - hohe Präzision - Weiß",
-        "productId": "470715196",
-        "keywords": ["Küchenwaage", "küchenwaage digital", "digitale küchenwaage"],
-        "keyword":
-        [
-          {
-            "name": "Küchenwaage",
-            "link": "https://www.kaufland.de/s/?21=6908328&search_value=K%C3%BCchenwaage"
-          },
-          {
-            "name": "küchenwaage digital",
-            "link": "https://www.kaufland.de/s/?21=6908328&search_value=k%C3%BCchenwaage%20digital"
-          },
-          {
-            "name": "digitale küchenwaage",
-            "link": "https://www.kaufland.de/s/?21=6908328&search_value=digitale%20k%C3%BCchenwaage"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0005",
-        "marketplace": "Kaufland",
-        "product": "Sleepmask",
-        "productTitle": "Somnifiq Schlafmaske, Lichtblockierende, Augenmaske, Nachtmaske, Atmungsaktive 3D Schlafbrille, Verstellbarem Riemen, Bequeme & Ergonomisches Design",
-        "productId": "468093459",
-        "keywords": ["schlafmaske", "schlafmaske herren"],
-        "keyword":
-        [
-          {
-            "name": "schlafmaske",
-            "link": "https://www.kaufland.de/s/?search_value=schlafmaske"
-          },
-          {
-            "name": "schlafmaske herren",
-            "link": "https://www.kaufland.de/s/?search_value=schlafmaske%20herren"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0006",
-        "marketplace": "Kaufland",
-        "product": "Reading Lamp",
-        "productTitle": "SomSomnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
-        "productId": "470719876",
-        "keywords": ["leselampe", "leselampe buch klemme"],
-        "keyword":
-        [
-          {
-            "name": "leselampe",
-            "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=leselampe"
-          },
-          {
-            "name": "leselampe buch klemme",
-            "link": "https://www.kaufland.de/s/?search_value=leselampe%20buch%20klemme"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0007",
-        "marketplace": "Kaufland",
-        "product": "Steakknives",
-        "productTitle": "Lekro Steakmesser Steakmesser-Set – Spülmaschinenfest - Küchenmesser Set - Kochmesser Set - Edelstahl -Messerset Scharfe (8-tlg Steakmesser - Schwarz)",
-        "productId": "480323660",
-        "keywords": ["steakmesser", "besteck set"],
-        "keyword":
-        [
-          {
-            "name": "steakmesser",
-            "link": "https://www.kaufland.de/s/?search_value=steakmesser"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0008",
-        "marketplace": "Kaufland",
-        "product": "Earplugs",
-        "productTitle": "Somnifiq Ohrstöpsel zum Schlafen -30dB Lärmschutz, Tragekomfort, Waschbare Silikon-Lärm Ohrenstöpsel, für Schlafen Festival Konzerte Arbeiten Lernen",
-        "productId": "468095054",
-        "keywords": ["ohrstöpsel zum schlafen", "ohrstöpsel", "ohrenstöpsel"],
-        "keyword":
-        [
-          {
-            "name": "ohrstöpsel zum schlafen",
-            "link": "https://www.kaufland.de/s/?search_value=ohrst%C3%B6psel%20zum%20schlafen"
-          },
-          {
-            "name": "ohrstöpsel",
-            "link": "https://www.kaufland.de/s/?search_value=ohrst%C3%B6psel"
-          },
-          {
-            "name": "ohrenstöpsel",
-            "link": "https://www.kaufland.de/s/?search_value=ohrenst%C3%B6psel"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0009",
-        "marketplace": "Kaufland",
-        "product": "Vegetable Cutter",
-        "productTitle": "Lekro, Gemüseschneider, Spiralschneider, Gemüsehobel - Zwiebelschneider, Kartoffelschneider, Obstschneider - Vegetable Chopper, 12 - teilig, Weiß",
-        "productId": "470714479",
-        "keywords": ["gemüseschneider", "nicer dicer", "gemüsehobel"],
-        "keyword":
-        [
-          {
-            "name": "gemüseschneider",
-            "link": "https://www.kaufland.de/s/?search_value=gem%C3%BCseschneider"
-          },
-          {
-            "name": "nicer dicer",
-            "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=nicer%20dicer"
-          },
-          {
-            "name": "gemüsehobel",
-            "link": "https://www.kaufland.de/s/?search_value=gem%C3%BCsehobel"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0010",
-        "marketplace": "Kaufland",
-        "product": "Water bottle RG",
-        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen-Roségold",
-        "productId": "468110674",
-        "keywords": ["trinkflasche", "waterfles", "wasserflasche"],
-        "keyword":
-        [
-          {
-            "name": "trinkflasche",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
-          },
-          {
-            "name": "wasserflasche",
-            "link": "https://www.kaufland.de/s/?search_value=wasserflasche"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0011",
-        "marketplace": "Kaufland",
-        "product": "Water bottle BB",
-        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Blau",
-        "productId": "468110679",
-        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
-        "keyword":
-        [
-          {
-            "name": "trinkflasche",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
-          },
-          {
-            "name": "trinkflasche 1l",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
-          },
-          {
-            "name": "wasserflasche",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0012",
-        "marketplace": "Kaufland",
-        "product": "Water bottle RB",
-        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, SoftTouch +Sieb, BPA-frei, Trinkflaschen-Rosa/Blau",
-        "productId": "468110675",
-        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
-        "keyword":
-        [
-          {
-            "name": "trinkflasche 1l",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
-          },
-          {
-            "name": "wasserflasche",
-            "link": "https://www.kaufland.de/s/?search_value=wasserflasche"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0013",
-        "marketplace": "Kaufland",
-        "product": "Water bottle G",
-        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grün",
-        "productId": "468110681",
-        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
-        "keyword":
-        [
-          {
-            "name": "trinkflasche",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
-          },
-          {
-            "name": "trinkflasche 1l",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
-          },
-          {
-            "name": "wasserflasche",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=wasserflasche"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0014",
-        "marketplace": "Kaufland",
-        "product": "Water bottle T",
-        "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Türkis",
-        "productId": "468110680",
-        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
-        "keyword":
-        [
-          {
-            "name": "trinkflasche",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
-          },
-          {
-            "name": "trinkflasche 1l",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
-          },
-          {
-            "name": "wasserflasche",
-            "link": "https://www.kaufland.de/s/?search_value=wasserflasche"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0015",
-        "marketplace": "Kaufland",
-        "product": "Water bottle GR",
-        "productTitle": "468110676",
-        "productId": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, Soft Touch +Sieb, BPA-frei, Trinkflaschen - Grau",
-        "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche"],
-        "keyword":
-        [
-          {
-            "name": "trinkflasche",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche"
-          },
-          {
-            "name": "trinkflasche 1l",
-            "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=trinkflasche%201l"
-          },
-          {
-            "name": "wasserflasche",
-            "link": "https://www.kaufland.de/s/?search_value=wasserflasche"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0016",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Rugkussen",
-        "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
-        "productId": "488843216",
-        "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
-        "keyword":
-        [
-          {
-            "name": "rückenkissen",
-            "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=r%C3%BCckenkissen"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0017",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Zitkussen",
-        "productTitle": "COMFYCENTRE Orthopädisches Sitzkissen für Büro, Auto und Rollstuhl - Ergonomisches Memory Foam Steißbeinkissen - Perfekt für Rückenschmerzen",
-        "productId": "488843198",
-        "keywords": ["sitzkissen", "orthopädisches kissen", "sitzkissen orthopädisch", "keilkissen", "sitzkissen stuhl"],
-        "keyword":
-        [
-          {
-            "name": "orthopädisches kissen",
-            "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=orthop%C3%A4disches%20kissen"
-          },
-          {
-            "name": "sitzkissen orthopädisch",
-            "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=sitzkissen%20orthop%C3%A4disch"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0018",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Hoofdkussen",
-        "productTitle": "COMFYCENTRE Orthopädisches Nackenkissen aus Memory Foam 40x60cm - Ergonomisches Kopfkissen - Seitenschläferkissen - Nackenstützkissen",
-        "productId": "488843245",
-        "keywords": ["kopfkissen", "kissen", "nackenstützkissen", "orthopädisches kissen", "Memory-Schaum-Kissen"],
-        "keyword":
-        [
-          {
-            "name": "nackenstützkissen",
-            "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=nackenst%C3%BCtzkissen"
-          },
-          {
-            "name": "orthopädisches kissen",
-            "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=orthop%C3%A4disches%20kissen"
-          },
-          {
-            "name": "Memory-Schaum-Kissen",
-            "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=Memory-Schaum-Kissen"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0019",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Kniekussen Band",
-        "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer (Band) - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables",
-        "productId": "488843256",
-        "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
-        "keyword":
-        [
-          {
-            "name": "kniekissen",
-            "link": "https://www.kaufland.de/s/?search_value=kniekissen"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0020",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Kniekussen",
-        "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables Visco Schlafki",
-        "productId": "495200680",
-        "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
-        "keyword":
-        [
-          {
-            "name": "kniekissen",
-            "link": "https://www.kaufland.de/s/?search_value=kniekissen"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0021",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Donut Kussen",
-        "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro,",
-        "productId": "488843228",
-        "keywords": ["Donut-Kissen", "Hämorrhoidenkissen", "orthopädisches Schmerzlinderungskissen"],
-        "keyword":
-        [
-          {
-            "name": "Hämorrhoidenkissen",
-            "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=H%C3%A4morrhoidenkissen"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0022",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Ergonomisch Rugkussen",
-        "productTitle": "COMFYCENTRE Ergonomisches Memory-Schaum-Rückenkissen mit antistatischem, orthopädischem Lendenkissen für Bürostuhl, Autositz, Rollstuhl, Sitzkissen",
-        "productId": "495514310",
-        "keywords": ["Ergonomisches RückenKissen", "Lendenkissen", "Lendenkissen für Bürostuhl", "Rückenkissen"],
-        "keyword":
-        [
-          {
-            "name": "Ergonomisches RückenKissen",
-            "link": "https://www.kaufland.de/s/?search_value=Ergonomisches%20R%C3%BCckenKissen"
-          },
-          {
-            "name": "Lendenkissen",
-            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=Lendenkissen"
-          },
-          {
-            "name": "Lendenkissen für Bürostuhl",
-            "link": "https://www.kaufland.de/s/?21=7089854&search_value=Lendenkissen%20f%C3%BCr%20B%C3%BCrostuhl"
-          },
-          {
-            "name": "Rückenkissen",
-            "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=R%C3%BCckenkissen"
-          }
-        ],
-        "isRunning" : false 
-      },
-      {
-        "id": "VM-3-0023",
-        "marketplace": "Kaufland",
-        "product": "ComfyCentre Bed Bridge",
-        "productTitle": "ComfyCentre Matratzenkeil mit Riemen – Extra breite Liebesbrücke für Matratzen – Matratzenkeile – Bettbinder – Matratzenbinder De Luxe – 200 x 30 cm",
-        "productId": "495367422",
-        "keywords": ["Liebesbrücke", "Matratzenverbinder", "Matratzenkeil"],
-        "keyword":
-        [
-          {
-            "name": "Liebesbrücke",
-            "link": "https://www.kaufland.de/s/?search_value=Liebesbr%C3%BCcke"
-          },
-          {
-            "name": "Matratzenkeil",
-            "link": "https://www.kaufland.de/s/?search_value=Matratzenkeil"
-          }
-        ],
-        "isRunning" : false 
-      }
     ]
   }

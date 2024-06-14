@@ -64,7 +64,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         '--disable-accelerated-2d-canvas',
         '--no-first-run',
         '--no-zygote',
-        '--start-maximized'
+        '--start-maximized',
         ],
   
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation

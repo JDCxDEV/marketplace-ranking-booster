@@ -179,7 +179,7 @@
     {
       "id": 23,
       "marketplace": "Kaufland.com",
-      "key": "VM-KAUFLAND-1-NEW",
+      "key": "VM-KAUFLAND-1",
       "name": "Virtual Machine 1",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
@@ -187,7 +187,7 @@
     {
       "id": 24,
       "marketplace": "Kaufland.com",
-      "key": "VM-KAUFLAND-2-NEW",
+      "key": "VM-KAUFLAND-2",
       "name": "Virtual Machine 2",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
