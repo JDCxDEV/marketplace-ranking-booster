@@ -1,0 +1,257 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-3-0001",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGB 30m",
+            "productId": "4562257",
+            "productTitle": "Lideka Slimme RGB LED Strip 30 Meter",
+            "keywords": ["led strip 30 meter"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip%2030%20meter&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0002",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 5m",
+            "productId": "4627896",
+            "productTitle": "Lideka - 5M RGB+Wit LED-strip - Afstandsbediening - Gaming-lichtstrip - 300 LED's - 10 mm breed - 2,0 A - Knip elke 15cm",
+            "keywords": 
+            [
+                "led strip", "gaming", "led", "led strip 5 meter", "rgb led strip",
+                "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips", "led light strip",
+                "lichtstrip", "led light", "led licht", "gaming lights", "smart led strip"
+            ],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=gaming&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%205%20meter&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led-strips&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=lichtstrip&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led%20light&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led%20licht&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=smart%20led%20strip&pmin=49&pmax=50"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0003",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 10m",
+            "productId": "4570198",
+            "productTitle": "RGBW LED Strip Warm en Koud Wit 10 Meter (2x5) Zelfklevend met afstandsbediening App Smart LED Strip",
+            "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led-strips&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%2010%20meter&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0004",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 10m 2x5",
+            "productId": "4562267",
+            "productTitle": "Lideka Slimme RGBW LED Strip 10 Meter",
+            "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 10 meter", "lichtstrip"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%2010%20meter&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0005",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 15m",
+            "productId": "4570036",
+            "productTitle": "LED Strip 15 (3 sets van 5m) Meter RGB + Wit - Gaming Lichtstrip met App - LED-strips - Verlichting",
+            "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0006",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 20m",
+            "productId": "4562228",
+            "productTitle": "LED Strip 20 (2 sets van 10m) Meter RGB + Wit - Gaming Lichtstrip met App - LED-strips - Verlichting",
+            "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 20 meter"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led-strips&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%2020%20meter&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0007",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 30m",
+            "productId": "4562258",
+            "productTitle": "LED Strip 30 (3 sets van 10m) Meter RGB + Wit - Gaming Lichtstrip met App - LED-strips - Verlichting",
+            "keywords": ["led strip 30 meter"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip%2030%20meter&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0008",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 40m",
+            "productId": "4562251",
+            "productTitle": "LED Strip 40 (4 sets van 10m) Meter RGB + Wit - Gaming Lichtstrip met App - LED-strips - Verlichting",
+            "keywords": ["led strip 40 meter"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip%2040%20meter&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0009",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBW 50m",
+            "productId": "4562247",
+            "productTitle": "LED Strip 50 (5 sets van 10m) Meter RGB + Wit - Gaming Lichtstrip met App - LED-strips - Verlichting",
+            "keywords": ["led strip 50 meter"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip%2050%20meter&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0010",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBIC 5m",
+            "productId": "4627894",
+            "productTitle": "Lideka - 5M RGB+IC LED-strip - Afstandsbediening - Gaming-lichtstrip - 150 LED-lampjes - Knipbaar - Zelfklevend",
+            "keywords": ["led strip", "led strip 5 meter", "rgb led strip", "ledstrip", "led strip met afstandsbediening"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=49&pmax=50",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0011",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBIC 10m",
+            "productId": "4627900",
+            "productTitle": "Lideka - LED Strip 10m (2x5m) RGB + IC - Afstandsbediening - Gaming Lichtstrip met App - 300 LEDs - Zelfklevend Licht",
+            "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 10 meter", "led verlichting strips"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=59&pmax=60",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=59&pmax=60",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=59&pmax=60"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0012",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBIC 15m",
+            "productId": "4627902",
+            "productTitle": "Lideka - LED Strip 15m (3x5m) RGB + IC - Afstandsbediening - Gaming Lichtstrip met App - 450 LEDs - Zelfklevend Licht",
+            "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led light strip"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=99&pmax=100",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=99&pmax=100",
+              "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=99&pmax=100"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0013",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip RGBIC 20m",
+            "productId": "4627904",
+            "productTitle": "Lideka - LED Strip 20m (4x5m) RGB + IC - Afstandsbediening - Gaming Lichtstrip met App - 600 LEDs - Zelfklevend Licht",
+            "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 20 meter"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=99&pmax=100",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0014",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip TV 2m",
+            "productId": "4627912",
+            "productTitle": "Lideka - TV USB LED Strip 2m RGB - Afstandsbediening - Gaming Lichtstrip met App - 60 LEDs - Zelfklevend Licht",
+            "keywords": ["led strip", "led strip 2 meter", "led strip tv", "led strip usb", "led strip voor tv"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=24&pmax=25",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20tv&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20usb&pmin=0%2C00",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20voor%20tv&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          },
+          {
+            "id": "VM-3-0015",
+            "marketplace": "Blokker.nl",
+            "product": "LED strip TV 3m",
+            "productId": "4627913",
+            "productTitle": "Lideka - TV USB 3M RGB LED-strip - Afstandsbediening - Gaming-lichtstrip - 90 LED's - 10 mm breed",
+            "keywords": ["led strip", "rgb led strip", "gaming lights", "led strip 3 meter", "led strip tv"],
+            "keywordLink": 
+            [
+              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=27&pmax=28",
+              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=27&pmax=28",
+              "https://www.blokker.nl/search/lideka?q=led%20strip%20tv&pmin=0%2C00"
+            ],
+            "isRunning" : false,
+            "isMostWantedList": true
+          }
+    ]
+  }
