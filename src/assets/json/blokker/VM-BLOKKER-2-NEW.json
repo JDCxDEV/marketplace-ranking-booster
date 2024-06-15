@@ -69,9 +69,9 @@
         "keywords": ["blauw licht bril", "blue light glasses", "computerbril"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=blauw%20licht%20bril",
-          "https://www.blokker.nl/search?q=blue%20light%20glasses",
-          "https://www.blokker.nl/search?q=computerbril"
+          "https://www.blokker.nl/search/somnifiq?q=blauw%20licht%20bril&pmin=0%2C00",
+          "https://www.blokker.nl/search/somnifiq?q=blue%20light%20glasses&pmin=0%2C00",
+          "https://www.blokker.nl/search/somnifiq?q=computerbril&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -85,9 +85,9 @@
         "keywords": ["blauw licht bril", "blue light glasses", "computerbril"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=blauw%20licht%20bril",
-          "https://www.blokker.nl/search?q=blue%20light%20glasses",
-          "https://www.blokker.nl/search?q=computerbril"
+          "https://www.blokker.nl/search/somnifiq?q=blauw%20licht%20bril&pmin=0%2C00",
+          "https://www.blokker.nl/search/somnifiq?q=blue%20light%20glasses&pmin=0%2C00",
+          "https://www.blokker.nl/search/somnifiq?q=computerbril&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -101,8 +101,8 @@
         "keywords": ["leeslampje voor boek", "leeslampje"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=leeslampje%20voor%20boek",
-          "https://www.blokker.nl/search?q=leeslampje"
+          "https://www.blokker.nl/search/somnifiq?q=leeslampje%20voor%20boek&pmin=0%2C00",
+          "https://www.blokker.nl/search/somnifiq?q=leeslampje&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -116,8 +116,8 @@
         "keywords": ["steakmessen", "steakmessen vaatwasserbestendig"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search?q=steakmessen",
-          "https://www.blokker.nl/search?q=steakmessen%20vaatwasserbestendig"
+          "https://www.blokker.nl/search/lekro?q=steakmessen&pmin=0%2C00",
+          "https://www.blokker.nl/search/lekro?q=steakmessen%20vaatwasserbestendig&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -125,13 +125,15 @@
       {
         "id": "VM-2-0010",
         "marketplace": "Blokker.nl",
-        "product": "",
-        "productId": "",
-        "productTitle": "",
-        "keywords": [""],
+        "product": "Earplugs",
+        "productId": "4562325",
+        "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - Zwart",
+        "keywords": ["oordoppen", "oordopjes slapen", "oordoppen slapen"],
         "keywordLink":
         [
-          ""
+          "https://www.blokker.nl/search/somnifiq?q=oordoppen&pmin=0%2C00",
+          "https://www.blokker.nl/search/somnifiq?q=oordopjes%20slapen&pmin=0%2C00",
+          "https://www.blokker.nl/search/somnifiq?q=oordoppen%20slapen&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -145,7 +147,7 @@
         "keywords": ["mandoline", "groentesnijder"],
         "keywordLink":
         [
-          "https://www.blokker.nl/mandolines"
+          "https://www.blokker.nl/mandolines/lekro?pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -159,8 +161,8 @@
         "keywords": ["drinkfles", "waterfles", "drinkflessen"],
         "keywordLink":
         [
-          "https://www.blokker.nl/drinkflessen",
-          "https://www.blokker.nl/search?q=waterfles"
+          "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+          "https://www.blokker.nl/search/lekro?q=waterfles&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -174,8 +176,8 @@
         "keywords": ["drinkfles", "waterfles", "drinkflessen"],
         "keywordLink":
         [
-          "https://www.blokker.nl/drinkflessen",
-          "https://www.blokker.nl/search?q=waterfles"
+          "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+          "https://www.blokker.nl/search/lekro?q=waterfles&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -189,8 +191,8 @@
         "keywords": ["drinkfles", "waterfles", "drinkflessen"],
         "keywordLink":
         [
-          "https://www.blokker.nl/drinkflessen",
-          "https://www.blokker.nl/search?q=waterfles"
+          "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+          "https://www.blokker.nl/search/lekro?q=waterfles&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -204,8 +206,8 @@
         "keywords": ["drinkfles", "waterfles", "drinkflessen"],
         "keywordLink":
         [
-          "https://www.blokker.nl/drinkflessen",
-          "https://www.blokker.nl/search?q=waterfles"
+          "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+          "https://www.blokker.nl/search/lekro?q=waterfles&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -219,8 +221,8 @@
         "keywords": ["drinkfles", "waterfles", "drinkflessen"],
         "keywordLink":
         [
-          "https://www.blokker.nl/drinkflessen",
-          "https://www.blokker.nl/search?q=waterfles"
+          "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+          "https://www.blokker.nl/search/lekro?q=waterfles&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -234,8 +236,8 @@
         "keywords": ["drinkfles", "waterfles", "drinkflessen"],
         "keywordLink":
         [
-          "https://www.blokker.nl/drinkflessen",
-          "https://www.blokker.nl/search?q=waterfles"
+          "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+          "https://www.blokker.nl/search/lekro?q=waterfles&pmin=0%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true
