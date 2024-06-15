@@ -4,11 +4,74 @@
         {
           "id": "VM-4-0001",
           "marketplace": "Blokker.nl",
-          "product": "",
-          "productId": "",
-          "productTitle": "",
-          "keywords": [""],
-          "keywordLink": [""],
+          "product": "LED strip TV 6m",
+          "productId": "4579811",
+          "productTitle": "Lideka TV USB LED Strip 6 meter (3+3m) RGB - met Afstandsbediening - Gaming Lichtstrip met App",
+          "keywords": ["led strip 6 meter"],
+          "keywordLink": ["https://www.blokker.nl/search/lideka?q=led%20strip%206%20meter&pmin=0%2C00"],
+          "isRunning" : false,
+          "isMostWantedList": true
+        },
+        {
+          "id": "VM-4-0002",
+          "marketplace": "Blokker.nl",
+          "product": "LED strip NEON RGB 3m",
+          "productId": "4562256",
+          "productTitle": "Lideka Slimme Neon RGB LED Strip 3 Meter",
+          "keywords": ["led strip", "rgb led strip", "led strip 3 meter", "neon led strip buiten"],
+          "keywordLink": 
+          [
+            "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=led%20strip%203%20meter&pmin=0%2C00"
+          ],
+          "isRunning" : false,
+          "isMostWantedList": true
+        },
+        {
+          "id": "VM-4-0003",
+          "marketplace": "Blokker.nl",
+          "product": "LED strip NEON RGBIC 3m",
+          "productId": "4562239",
+          "productTitle": "Lideka Slimme RGBIC Neon LED Strip 3 Meter",
+          "keywords": ["led strip", "rgb led strip", "ledstrip", "led strip 3 meter", "neon led strip buiten"],
+          "keywordLink":
+          [
+            "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=led%20strip%203%20meter&pmin=0%2C00"
+          ],
+          "isRunning" : false,
+          "isMostWantedList": true
+        },
+        {
+          "id": "VM-4-0004",
+          "marketplace": "Blokker.nl",
+          "product": "Solar Powerbank Single",
+          "productId": "4581540",
+          "productTitle": "Lideka Solar Powerbank Charger - 4x USB - USB C - Snel & Draadloos Opladen? - 30.000 mAh",
+          "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
+          "keywordLink":
+          [
+            "https://www.blokker.nl/powerbanks/lideka?pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=solar%20powerbank&pmin=0%2C00"
+          ],
+          "isRunning" : false,
+          "isMostWantedList": true
+        },
+        {
+          "id": "VM-4-0005",
+          "marketplace": "Blokker.nl",
+          "product": "Solar Powerbank Combi",
+          "productId": "4581541",
+          "productTitle": "Lideka Solar Powerbank + Solar Charger 4x USB USB C Snel & Draadloos Opladen? 30.000 mAh",
+          "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
+          "keywordLink":
+          [
+            "https://www.blokker.nl/powerbanks/lideka?pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=solar%20powerbank&pmin=0%2C00"
+          ],
           "isRunning" : false,
           "isMostWantedList": true
         }
