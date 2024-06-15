@@ -1,0 +1,16 @@
+{
+    "products":
+      [
+        {
+          "id": "VM-4-0001",
+          "marketplace": "Blokker.nl",
+          "product": "",
+          "productId": "",
+          "productTitle": "",
+          "keywords": [""],
+          "keywordLink": [""],
+          "isRunning" : false,
+          "isMostWantedList": true
+        }
+    ]
+  }
