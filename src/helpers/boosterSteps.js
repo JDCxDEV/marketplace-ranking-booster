@@ -292,10 +292,18 @@ export const scrollToElementAndClickIt = async (page, classElement, delayInMilli
 export const getRandomScreenSize = () => {
   const resolutions = [
     { width: 1920, height: 1080 },
-    { width: 1366, height: 768 },
-    { width: 1280, height: 800 },
-    { width: 1440, height: 900 },
-    { width: 1600, height: 900 },
+    { width: 1920, height: 1080 },
+    { width: 2560, height: 1440 },
+    { width: 2560, height: 1440 },
+    { width: 3840, height: 2160 },
+    { width: 3840, height: 2160 },
+    { width: 1366, height: 768 },  
+    { width: 1440, height: 900 },   
+    { width: 1600, height: 900 },   
+    { width: 1280, height: 800 },   
+    { width: 1680, height: 1050 },  
+    { width: 1280, height: 720 }, 
+    { width: 2560, height: 1080 }, 
   ];
 
   const randomIndex = Math.floor(Math.random() * resolutions.length);
