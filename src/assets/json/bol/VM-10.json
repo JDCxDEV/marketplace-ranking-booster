@@ -41,17 +41,16 @@
       "keywords": ["apple watch bandje", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "bandje apple watch", "apple watch bandje 42 mm", "apple watch bandje 49 mm", "bandje apple watch 44 mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje",
-        "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+44+mm",
-        "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+45+mm",
-        "https://www.bol.com/nl/nl/s/?searchtext=bandje+apple+watch",
-        "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+42+mm",
-        "https://www.bol.com/nl/nl/s/?searchtext=apple+watch+bandje+49+mm",
-        "https://www.bol.com/nl/nl/s/?searchtext=bandje+apple+watch+44+mm"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false,
-      "isMostWantedList": true,
-      "isOutOfStock": true
+      "isMostWantedList": true
     },
     {
       "id": "VM-10-0004",
@@ -351,7 +350,7 @@
       "productId": "9300000132278861",
       "productTitle": "SmartphoneClip® Nylon Loop Bandje Zwart geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -373,7 +372,7 @@
       "productId": "9200000132444058",
       "productTitle": "SmartphoneClip® Leer Zwart bandje geschikt voor TomTom Runner 3 / Spark 3",
       "keywords": ["tomtom bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=tomtom+bandje"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=tomtom+bandje&view=list&filter_N=4278199321&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -406,7 +405,7 @@
       "productId": "9300000132278720",
       "productTitle": "SmartphoneClip® Milanees Zwart Bandje geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -417,7 +416,7 @@
       "productId": "9300000132278721",
       "productTitle": "SmartphoneClip® Metaal Schakel Zilver Bandje geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -439,7 +438,7 @@
       "productId": "9300000132278858",
       "productTitle": "SmartphoneClip® Leer Bruin Bandje geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&rating=all"],
       "isMostWantedList": true
     },
     {
@@ -449,7 +448,7 @@
       "productId": "9300000132278857",
       "productTitle": "SmartphoneClip® Leer Zwart Bandje geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?searchtext=google+pixel+watch+bandje"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     }
