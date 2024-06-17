@@ -191,6 +191,14 @@
       "name": "Virtual Machine 2",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
+    },
+    {
+      "id": 25,
+      "marketplace": "Kaufland.com",
+      "key": "VM-KAUFLAND-3",
+      "name": "Virtual Machine 3",
+      "steps": "per-page",
+      "proxy": "smart-proxy-de"
     }
   ]
 }
