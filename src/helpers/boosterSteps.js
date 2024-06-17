@@ -132,7 +132,7 @@ export const scrollUp = async (page) => {
   await addRandomTimeGap(3, 6);
 }
 
-export const scrollToRandomClass = async (page, elementClass, browser, uniqueSelector = null) => {
+export const scrollToRandomClass = async (page, elementClass, browser = null, uniqueSelector = null) => {
   try {
     await addRandomTimeGap(2, 4);
     const products = await page.$$(elementClass);
@@ -178,7 +178,7 @@ export const scrollToRandomClass = async (page, elementClass, browser, uniqueSel
 
     await addRandomTimeGap(2, 4);
 
-    if(uniqueSelector) {
+    if(uniqueSelector === 'bol') {
       try {
         const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
     
@@ -224,7 +224,7 @@ export const scrollToRandomClass = async (page, elementClass, browser, uniqueSel
       } catch (error) {
         console.log(error.message);
       }
-    }   
+    }
 
   }catch(error){
     return;
@@ -385,7 +385,7 @@ export const generateRandomNumber = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
 };
 
-export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000) => {
+export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000 , retry = true) => {
   try {
     await page.waitForXPath(elementXPath, { timeout });
     const [element] = await page.$x(elementXPath);
@@ -395,8 +395,42 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
       await page.waitForTimeout(hoverDelay); // Adjust delay time as necessary
       await element.click();
     }
+
+    return true;
   } catch (error) {
-    await browser.close();
+    if(retry) {
+      return;
+    }
+
+    if(browser) {
+      await browser.close();
+    }
+
+  }
+};
+
+export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 30000, retry = false) => {
+  try {
+    await page.waitForSelector(selector, { timeout });
+
+    const element = await page.$(selector);
+
+    if (element) {
+      await element.hover();
+      await page.waitForTimeout(hoverDelay);
+      await element.click();
+    }
+
+    return true;
+  } catch (error) {
+    console.log(error.message)
+    if (retry) {
+      return;
+    }
+
+    if (browser) {
+      await browser.close();
+    }
   }
 };
 

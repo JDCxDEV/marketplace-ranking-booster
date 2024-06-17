@@ -51,7 +51,6 @@ export const browseProductImage = async (page, browser) => {
                 await booster.addRandomTimeGap(1, 3);
     
             }
-            console.log('click!!!!! image')
         } catch (error) {
             console.log('Error in hoverAndClick:', error);
 
@@ -68,9 +67,7 @@ export const browseProductImage = async (page, browser) => {
             const xpathBack = `//*[@data-test="carousel-back"]`;
             await booster.clickElement(page, browser, xpathBack, booster.generateRandomNumber(500, 1000));
             await booster.addRandomTimeGap(2, 4);
-            console.log('click!!!!!')
         } catch (error) {
-            console.log('Error in clickArrow:', error);
 
             return
         }
@@ -86,37 +83,91 @@ export const browseProductImage = async (page, browser) => {
             await hoverAndClick();
         }
     } catch (error) {
-        console.log('Error in browseProductImage:', error);
-
         return
     }
 };
 
-export const clickSpecification = async () => {
+export const addToWishList = async (page, browser, productId, addedToWishlist = false) => {
+      // Step: Add to wishlist & Add to cart
+      if(!addedToWishlist) {
+        const maxRetries = 5;
+        let attempts = 0;
+        let success = false;
 
+        await booster.scrollDown(page);
+
+        await booster.addRandomTimeGap(5, 6);
+
+        while (attempts < maxRetries && !success) {
+            try {
+                await booster.scrollDown(page);
+                const xpath = `//*[@global-id='${productId}']`;
+                const element = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000 , true);
+
+                if (element) {
+                await booster.addRandomTimeGap(5, 7);
+                
+                // Wait for and click the modal close button
+                await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
+                await page.click('.modal__window--close-hitarea');
+
+                // Add a random time gap after clicking (if needed)
+                await booster.addRandomTimeGap(3, 5);
+
+                success = true; // Set success to true if click is successful
+                } else {
+                console.log('Element not found');
+                }
+            } catch (error) {
+                // continue
+            }
+
+          attempts++;
+          
+          // Wait before the next attempt (optional, for better pacing)
+          if (!success) {
+            await booster.addRandomTimeGap(3, 5);
+          }
+        }
+
+        if (!success) {
+          console.log(`Failed to click the element after ${maxRetries} attempts.`);
+        }
+    }else {
+        return;
+    }
 }
 
-export const randomScrolling = async () => {
-
+export const clickShowMoreDescription = async (page, browser) => {
+    const selector = 'section.slot--description [data-test="show-more"]';
+    await booster.clickElementBySelector(page, browser, selector);
+    await booster.addRandomTimeGap(2, 3);
+    await booster.scrollDown(page);
 }
 
-export const addToWishList = async () => {
+export const clickShowMoreMainSpecification = async (page, browser) => {
+    try {
+        const selectorAnchorMainSpec = "[data-test='main-specs-slot'] a";
+        await booster.clickElementBySelector(page, browser, selectorAnchorMainSpec);
+        await booster.addRandomTimeGap(2, 3);
 
+        const selectorShowMoreMainSpec = 'section.js_slot-specifications [data-test="show-more"]';
+        await booster.clickElementBySelector(page, browser, selectorShowMoreMainSpec);
+        await booster.addRandomTimeGap(2, 3);
+        await booster.scrollDown(page);
+    }catch(error) {
+        return;
+    }
 }
 
 
-export const clickShowMore = async () => {
+export const hoverUpsaleText = async (page, browser) => {
+    const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+    const selector = '.skeleton-image.skeleton-image--with-placeholder.skeleton-image--contain';
+    const numberOfIterations = getRandomInt(3, 5);
 
+    for (let i = 0; i < numberOfIterations; i++) {
+        await booster.scrollToRandomClass(page, selector, browser);
+    }
 }
 
-export const hoverToReviewText = async () => {
-    
-}
-
-export const hoverUpsaleText = async () => {
-
-}
-
-export const deliveryOption = async () => {
-    
-}

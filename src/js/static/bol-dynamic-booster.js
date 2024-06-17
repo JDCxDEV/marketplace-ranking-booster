@@ -5,6 +5,7 @@ import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
 import * as proxies from '../../helpers/proxies.js';
 import * as action from './actions/bol-action.js'
+import * as array from '../../helpers/array.js'
 
 const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => {
   
@@ -26,7 +27,6 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
   // Parameters
   let link = null;
-  let keyword = null;
 
   if(steps == 'homepage') {
     link = booster.getRandomStartingUrl()
@@ -143,25 +143,52 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       // Step: Click Accept Terms button on init
       await action.clickPrivacyAndCountryButton(page, browser);
+      // ----------- end of step ----------- //
 
-      await booster.addRandomTimeGap(7, 10);
+      await booster.addRandomTimeGap(5, 10);
+      
+      // Step: Add random scroll 
+      await booster.generateAndExecuteScrollSequence(page, 3, 5);
+      // ----------- end of step ----------- //
+      
+      await booster.addRandomTimeGap(5, 10);
 
-      // await booster.generateAndExecuteScrollSequence(page, 3, 5);
+      // Step: Click Accept Terms button on init
+      await action.browseProducts(page, browser);
+      // ----------- end of step ----------- //
 
-      // Step: Randomize hover and click
-      // await action.browseProducts(page, browser);
+      await booster.addRandomTimeGap(5, 10);
 
-      await booster.addRandomTimeGap(7, 10);
-
-      // Step: Randomize hover and click
+      // Step: Go to the designated product
       await action.clickCurrentProduct(page, browser, productId)
 
       // Step: Randomize hover and click
-
- 
       await booster.addRandomTimeGap(10, 15);
-      await action.browseProductImage(page, browser)
 
+      
+      try {
+        // Define the actions as an array of functions
+        const actions = [
+          async () => await action.hoverUpsaleText(page, browser),
+          async () => await booster.generateAndExecuteScrollSequence(page, 3, 5),
+          async () => await action.browseProductImage(page, browser),
+          async () => await action.addToWishList(page, browser, productId, false),
+          async () => await action.clickShowMoreDescription(page, browser),
+          async () => await action.clickShowMoreMainSpecification(page, browser),
+        ];
+    
+        // Shuffle the actions array to randomize the order
+        const shuffledActions = array.shuffle(actions);
+    
+        // Execute each action in the randomized order
+        for (const action of shuffledActions) {
+          await action();
+          await booster.addRandomTimeGap(10, 15);
+        }
+      } catch (error) {
+        // continue
+      }
+      
     }catch(error) {
       console.log(error.message);
       if(browser) {
@@ -170,7 +197,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
     }
   }
 
-  // await browser.close();
+  await browser.close();
 }
 
 export const triggerBolBooster = async (thread, product, steps = 'homepage') => {
@@ -243,7 +270,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 1;
+        let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
