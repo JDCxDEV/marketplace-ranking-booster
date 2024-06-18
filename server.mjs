@@ -3,7 +3,7 @@ import { fileURLToPath } from 'url';
 import { dirname } from 'path';
 import { triggerAllBolKaufland } from './src/js/static/kaufland-booster.js';
 import { triggerAllBlokkerBooster } from './src/js/static/blokker-booster.js';
-import { triggerBolBooster, triggerAllBolBooster } from './src/js/static/bol-booster.js';
+import { triggerBolBooster, triggerAllBolBooster } from './src/js/static/bol-dynamic-booster.js';
 import { downloadProxies } from './src/helpers/boosterSteps.js';
 import 'dotenv/config'
 

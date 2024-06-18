@@ -4,6 +4,7 @@ import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
 import * as proxies from '../../helpers/proxies.js';
+import * as random from '../../helpers/random.js';
 
 const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => {
   
@@ -206,14 +207,13 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
   
         if (element) {
           await element.click();
-          console.log('Element clicked');
         } else {
           console.log(`keyword: ${keyword.name}: id ${product.productId}`)
           browser.close();
         }
         
       }catch(error) {
-        //console.log(error)
+        // continue and ignore error
       }
 
       await booster.addRandomTimeGap(10, 12)
@@ -271,58 +271,41 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         // continue
       }
 
-      // try {
-      //   const closeModal = `button[data-cs-override-id="rd-add-to-cart-overlay__button-to-cart"]`;
+      if(random.fiftyFiftyChance()) {
+        try {
+          const goToCart = 'div.rd-overlay button.rd-button--secondary > span'
+          await page.waitForSelector(goToCart, { timeout: 10000 });
+          await booster.addRandomTimeGap(5, 7);
         
-      //   await page.waitForSelector(closeModal, { timeout: 10000 });
-      //   await booster.addRandomTimeGap(5, 7);
-      
-      //   // Hover over the custom element
-      //   await page.hover(closeModal);
-      //   await booster.addRandomTimeGap(3, 2);
+          // Hover over the custom element
+          await page.hover(goToCart);
+          await booster.addRandomTimeGap(3, 2);
 
-      //   await page.click(closeModal);
-      //   await page.click(closeModal);
-      //   await booster.addRandomTimeGap(3, 5);
-      // } catch (error) {
-      //   console.log(error.message)
-      // }
-
-      // // click cart
-      // try {
-      //   const goToCartSelector = `button[data-cs-override-id="add-to-cart-button"]`;
+          await page.click(goToCart, { clickCount: 2 });
+          await booster.addRandomTimeGap(3, 5);
+        } catch (error) {
+          // continue when error
+        }
+      }else {
+        try {
+          const closeModal = `button[data-cs-override-id="rd-add-to-cart-overlay__button-to-cart"]`;
+          
+          await page.waitForSelector(closeModal, { timeout: 10000 });
+          await booster.addRandomTimeGap(5, 7);
         
-      //   await page.waitForSelector(addToCartClick, { timeout: 10000 });
-      //   await booster.addRandomTimeGap(5, 7);
-      
-      //   // Hover over the custom element
-      //   await page.hover(goToCartSelector);
-      //   await booster.addRandomTimeGap(3, 2);
+          // Hover over the custom element
+          await page.hover(closeModal);
+          await booster.addRandomTimeGap(3, 2);
 
-      //   await page.click(goToCartSelector);
-      //   await booster.addRandomTimeGap(3, 5);
-      // } catch (error) {
-      //   // continue if caught error
-      // }
-
+          await page.click(closeModal);
+          await page.click(closeModal);
+          await booster.addRandomTimeGap(3, 5);
+        } catch (error) {
+          // continue when error
+        }
+      }
       await executeScrollSequence(page);
 
-      // try {
-      //   const checkoutCartSelector = ".rd-button--buy";
-        
-      //   await page.waitForSelector(checkoutCartSelector, { timeout: 10000 });
-      //   await booster.addRandomTimeGap(5, 7);
-      
-      //   // Hover over the custom element
-      //   await page.hover(checkoutCartSelector);
-      //   await booster.addRandomTimeGap(3, 2);
-
-      //   await page.click(checkoutCartSelector);
-      //   await booster.addRandomTimeGap(3, 5);
-      // } catch (error) {
-      //   // continue if caught error
-      // }
-    
       await booster.addRandomTimeGap(5, 7);
 
     }catch(error) {

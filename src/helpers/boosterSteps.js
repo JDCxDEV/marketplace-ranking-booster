@@ -132,18 +132,102 @@ export const scrollUp = async (page) => {
   await addRandomTimeGap(3, 6);
 }
 
-export const scrollToRandomClass = async (page, elementClass, browser) => {
+export const scrollToRandomClass = async (page, elementClass, browser = null, uniqueSelector = null) => {
   try {
-    await addRandomTimeGap(2, 2);
+    await addRandomTimeGap(2, 4);
     const products = await page.$$(elementClass);
     const randomIndex = Math.floor(Math.random() * products.length);
     const randomProduct = products[randomIndex];
 
-    await page.evaluate((element) => {
-        element.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' });
+    await page.evaluate(async (element) => {
+      function getRandomDelay(min, max) {
+        return Math.random() * (max - min) + min;
+      }
+    
+      function scrollToElement(element) {
+        const elementRect = element.getBoundingClientRect();
+        const viewportHeight = window.innerHeight;
+        const scrollY = window.scrollY || window.pageYOffset;
+    
+        // Calculate scroll amount to bring the element to the center of the viewport
+        const scrollTarget = elementRect.top + scrollY - (viewportHeight / 2) + (elementRect.height / 2);
+    
+        // Smooth scroll by manually animating over time
+        const duration = getRandomDelay(2000, 3000); // Adjust as needed for smoother or slower animation
+        const start = performance.now();
+        const easeInOutQuad = (t) => t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
+    
+        function scrollStep(timestamp) {
+          const elapsed = timestamp - start;
+          window.scrollTo(0, scrollY + (scrollTarget - scrollY) * easeInOutQuad(Math.min(elapsed / duration, 1)));
+    
+          if (elapsed < duration) {
+            requestAnimationFrame(scrollStep);
+          }
+        }
+    
+        requestAnimationFrame(scrollStep);
+      }
+    
+      scrollToElement(element);
+    
+      await new Promise((resolve) => {
+        setTimeout(resolve, getRandomDelay(800, 1500)); // Random delay between 800ms and 1500ms
+      });
     }, randomProduct);
+
+    await addRandomTimeGap(2, 4);
+
+    if(uniqueSelector === 'bol') {
+      try {
+        const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+    
+        const randomizeSelector = (index) => {
+          const selectors = [
+            `li:nth-of-type(${index}) [data-test='product-title']`,
+            `li:nth-of-type(${index}) > [data-test='product-content'] button`,
+            `li:nth-of-type(${index}) [data-test='add-to-basket']`,
+            `li:nth-of-type(${index}) [data-test='compare-checkbox'] div > div`
+          ];
+          const selectorIndex = getRandomInt(0, selectors.length - 1);
+          return selectors[selectorIndex];
+        };
+      
+        // Repeat the try-catch block 1 to 3 times
+        const repeatTimes = getRandomInt(1, 3);
+      
+        for (let i = 0; i < repeatTimes; i++) {
+          try {
+            if (uniqueSelector === 'bol') {
+              const randomIndex = getRandomInt(1, 10); // Adjust the range as needed
+              const selectedProduct = randomizeSelector(randomIndex);
+      
+              await page.waitForSelector(selectedProduct, { timeout: 10000 });
+              await page.hover(selectedProduct);
+
+              const getRandomBoolean = () => Math.random() < 0.5;
+
+              if (selectedProduct === `li:nth-of-type(${randomIndex}) [data-test='compare-checkbox'] div > div`) {
+                  // Get a random boolean value for 50/50 chance
+                  const shouldClick = getRandomBoolean();
+
+                  // If the random value is true, click the element
+                  if (shouldClick) {
+                    await page.click(selectedProduct);
+                  }
+              }
+            }
+          } catch (error) {
+            return;
+          }
+        }
+      } catch (error) {
+        console.log(error.message);
+      }
+    }
+
   }catch(error){
-    browser.close();
+    return;
   }
 };
 
@@ -208,10 +292,18 @@ export const scrollToElementAndClickIt = async (page, classElement, delayInMilli
 export const getRandomScreenSize = () => {
   const resolutions = [
     { width: 1920, height: 1080 },
-    { width: 1366, height: 768 },
-    { width: 1280, height: 800 },
-    { width: 1440, height: 900 },
-    { width: 1600, height: 900 },
+    { width: 1920, height: 1080 },
+    { width: 2560, height: 1440 },
+    { width: 2560, height: 1440 },
+    { width: 3840, height: 2160 },
+    { width: 3840, height: 2160 },
+    { width: 1366, height: 768 },  
+    { width: 1440, height: 900 },   
+    { width: 1600, height: 900 },   
+    { width: 1280, height: 800 },   
+    { width: 1680, height: 1050 },  
+    { width: 1280, height: 720 }, 
+    { width: 2560, height: 1080 }, 
   ];
 
   const randomIndex = Math.floor(Math.random() * resolutions.length);
@@ -301,6 +393,111 @@ export const generateRandomNumber = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
 };
 
+export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000 , retry = true) => {
+  try {
+    await page.waitForXPath(elementXPath, { timeout });
+    const [element] = await page.$x(elementXPath);
+    
+    if (element) {
+      await element.hover();
+      await page.waitForTimeout(hoverDelay); // Adjust delay time as necessary
+      await element.click();
+    }
 
+    return true;
+  } catch (error) {
+    if(retry) {
+      return;
+    }
 
+    if(browser) {
+      await browser.close();
+    }
 
+  }
+};
+
+export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 30000, retry = false) => {
+  try {
+    await page.waitForSelector(selector, { timeout });
+
+    const element = await page.$(selector);
+
+    if (element) {
+      await element.hover();
+      await page.waitForTimeout(hoverDelay);
+      await element.click();
+    }
+
+    return true;
+  } catch (error) {
+    console.log(error.message)
+    if (retry) {
+      return;
+    }
+
+    if (browser) {
+      await browser.close();
+    }
+  }
+};
+
+export const generateAndExecuteScrollSequence = async (page, minSequenceLength = 5, maxSequenceLength = 10) => {
+  // Function to generate a random sequence of scroll directions
+  const generateScrollSequence = () => {
+    const sequenceLength = Math.floor(Math.random() * (maxSequenceLength - minSequenceLength + 1)) + minSequenceLength;
+    const sequence = [];
+
+    for (let i = 0; i < sequenceLength; i++) {
+      const direction = Math.random() < 0.5 ? 'up' : 'down'; // Randomly choose between 'up' and 'down'
+      sequence.push(direction);
+    }
+
+    return sequence;
+  }
+
+  // Function to execute the scroll sequence
+  const executeScrollSequence = async (sequence) => {
+    for (const direction of sequence) {
+      if (direction === 'up') {
+        await scrollUp(page);
+      } else {
+        await scrollDown(page);
+      }
+    }
+  }
+
+  const scrollSequence = generateScrollSequence();
+  await executeScrollSequence(scrollSequence);
+}
+
+export const generateRandomSequence = (min, max) => {
+  const sequence = [];
+  for (let i = min; i <= max; i++) {
+      sequence.push(i);
+  }
+  
+  for (let i = sequence.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [sequence[i], sequence[j]] = [sequence[j], sequence[i]]; 
+  }
+
+  return sequence;
+}
+
+export const scrollToSelector = async (page, xpath) => {
+  try {
+      await page.waitForXPath(xpath);
+
+      const elementHandle = await page.$x(xpath);
+      const boundingBox = await elementHandle[0].boundingBox();
+
+      await page.evaluate((x, y) => {
+          window.scrollTo(x, y);
+      }, boundingBox.x, boundingBox.y);
+
+      await page.waitForTimeout(1000); // Adjust delay time as needed
+  } catch (error) {
+    return null;
+  }
+};
