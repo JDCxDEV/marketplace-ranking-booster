@@ -1,5 +1,6 @@
 {
-  "products": [
+  "products":
+  [
     {
       "id": "VM-10-0001",
       "marketplace": "Bol.com",
@@ -190,9 +191,9 @@
       "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje", "bandje samsung galaxy watch 3"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=galaxy+watch+bandje",
-        "https://www.bol.com/nl/nl/s/?searchtext=samsung+galaxy+watch+bandje",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&12194=18-19&rating=all3"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=18-19&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -238,9 +239,9 @@
       "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje", "bandje samsung galaxy watch 3"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=galaxy+watch+bandje",
-        "https://www.bol.com/nl/nl/s/?searchtext=samsung+galaxy+watch+bandje",
-        "https://www.bol.com/nl/nl/s/?searchtext=bandje+samsung+galaxy+watch+3"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -290,7 +291,7 @@
       [
         "https://www.bol.com/nl/nl/s/?searchtext=galaxy+watch+bandje",
         "https://www.bol.com/nl/nl/s/?searchtext=samsung+galaxy+watch+bandje"
-    ],
+      ],
       "isRunning" : false,
       "isMostWantedList": true,
       "isOutOfStock": true
@@ -304,9 +305,9 @@
       "keywords": ["bandje samsung galaxy watch 3", "galaxy watch bandje", "samsung galaxy watch bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=bandje+samsung+galaxy+watch+3",
-        "https://www.bol.com/nl/nl/s/?searchtext=bandje+galaxy+watch+bandje",
-        "https://www.bol.com/nl/nl/s/?searchtext=samsung+galaxy+watch+bandje"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -321,8 +322,7 @@
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&12194=22-23&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=22-23&rating=all",
-        ""
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=22-23&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -337,8 +337,8 @@
       "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=galaxy+watch+bandje",
-        "https://www.bol.com/nl/nl/s/?searchtext=samsung+galaxy+watch+bandje"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&12194=13-14&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -427,7 +427,7 @@
       "productId": "9300000132278724",
       "productTitle": "SmartphoneClip® Metaal Schakel Bandje Zwart geschikt voor Google Pixel Watch 1 en 2",
       "keywords": ["google pixel watch bandje"],
-      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&12194=15-16&rating=all"],
+      "keywordLink": ["https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&rating=all"],
       "isRunning" : false,
       "isMostWantedList": true
     },
