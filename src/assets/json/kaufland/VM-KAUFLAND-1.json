@@ -183,15 +183,15 @@
             [
               {
                 "name": "gemüseschneider",
-                "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=gem%C3%BCseschneider"
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=gem%C3%BCseschneider"
               },
               {
                 "name": "nicer dicer",
-                "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=nicer%20dicer"
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=nicer%20dicer"
               },
               {
                 "name": "gemüsehobel",
-                "link": "https://www.kaufland.de/s/?price=2300-2400&search_value=gem%C3%BCsehobel"
+                "link": "https://www.kaufland.de/s/?price=4000-4100&search_value=gem%C3%BCsehobel"
               }
             ],
             "isRunning" : false 

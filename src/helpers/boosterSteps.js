@@ -231,49 +231,6 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
   }
 };
 
-export const findAndScrollToAnchorByHrefContent = async (page, searchText, browser) => {
-  try {
-      // Using page.$$eval to evaluate the code in the context of the browser page
-      const firstClick = searchText;
-      await page.$$eval('a', (links, firstClick) => {
-          for (const link of links) {
-              if (link.href.includes(firstClick)) {
-                  link.scrollIntoView({ behavior: 'smooth', block: 'center', inline: 'center' })
-                  link.click();
-                  break;  // Assuming you want to click the first matching link
-              }
-          }
-      }, firstClick);
-
-      await addRandomTimeGap(3, 7);
-  } catch (error) {
-    console.log(error);
-    await browser.close();
-  }
-};
-
-export const findAndScrollToAnchorByText = async (page, searchText, browser) => {
-  const link = await page.evaluate((text) => {
-    const anchors = Array.from(document.querySelectorAll('a')); // Change the selector if necessary
-    const foundAnchor = anchors.find(anchor => anchor.textContent.includes(text));
-
-    return foundAnchor ? foundAnchor.href : null;
-  }, searchText);
-  
-  if (link) {
-    await addRandomTimeGap(3, 7);
-    const foundElement = await page.$x(`//a[contains(text(), "${searchText}")]`);
-    if (foundElement.length > 0) {
-
-      await foundElement[0].click();
-    } else {
-      await browser.close();
-    }
-  } else {
-    await browser.close();
-  }
-}
-
 export const scrollToElementAndClickIt = async (page, classElement, delayInMilliseconds = 2000) => {
   await page.waitForSelector(classElement); // Wait for the element to be present
 
@@ -292,11 +249,7 @@ export const scrollToElementAndClickIt = async (page, classElement, delayInMilli
 export const getRandomScreenSize = () => {
   const resolutions = [
     { width: 1920, height: 1080 },
-    { width: 1920, height: 1080 },
     { width: 2560, height: 1440 },
-    { width: 2560, height: 1440 },
-    { width: 3840, height: 2160 },
-    { width: 3840, height: 2160 },
     { width: 1366, height: 768 },  
     { width: 1440, height: 900 },   
     { width: 1600, height: 900 },   

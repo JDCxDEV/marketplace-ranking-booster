@@ -40,7 +40,6 @@ export const clickCurrentProduct = async (page, browser, productId) => {
     }
 };
 
-
 export const browseProductImage = async (page, browser) => {
     let hoverAndClick = async () => {
         try {
@@ -94,29 +93,23 @@ export const addToWishList = async (page, browser, productId, addedToWishlist = 
         let attempts = 0;
         let success = false;
 
-        await booster.scrollDown(page);
-
         await booster.addRandomTimeGap(5, 6);
 
         while (attempts < maxRetries && !success) {
             try {
-                
-                const xpath = `//*[@global-id='${productId}']`;
+                await booster.scrollUp(page);
+                const xpath = `//*[@data-test="btn-wishlist"]/button`;
                 const element = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000 , true);
 
                 if (element) {
-                await booster.addRandomTimeGap(5, 7);
-                
-                // Wait for and click the modal close button
-                await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
-                await page.click('.modal__window--close-hitarea');
+                    await booster.addRandomTimeGap(5, 7);
+                    
+                    // Wait for and click the modal close button
+                    await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
+                    await page.click('.modal__window--close-hitarea');
 
-                // Add a random time gap after clicking (if needed)
-                await booster.addRandomTimeGap(3, 5);
-
-                success = true; // Set success to true if click is successful
-                } else {
-                    await booster.scrollDown(page);
+                    // Add a random time gap after clicking (if needed)
+                    await booster.addRandomTimeGap(3, 5);
                 }
             } catch (error) {
                 // continue
@@ -160,7 +153,6 @@ export const clickShowMoreMainSpecification = async (page, browser) => {
     }
 }
 
-
 export const hoverUpsaleText = async (page, browser) => {
     const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
     const selector = '.skeleton-image.skeleton-image--with-placeholder.skeleton-image--contain';
@@ -170,4 +162,3 @@ export const hoverUpsaleText = async (page, browser) => {
         await booster.scrollToRandomClass(page, selector, browser);
     }
 }
-
