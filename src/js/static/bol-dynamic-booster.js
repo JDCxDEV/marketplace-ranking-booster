@@ -7,7 +7,7 @@ import * as proxies from '../../helpers/proxies.js';
 import * as action from './actions/bol.js'
 import * as array from '../../helpers/array.js'
 
-const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => {
+const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => {
   
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
@@ -145,13 +145,13 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await action.clickPrivacyAndCountryButton(page, browser);
       // ----------- end of step ----------- //
 
-      await booster.addRandomTimeGap(5, 10);
+      await booster.addRandomTimeGap(4, 8);
       
       // Step: Add random scroll 
       await booster.generateAndExecuteScrollSequence(page, 3, 5);
       // ----------- end of step ----------- //
       
-      await booster.addRandomTimeGap(5, 10);
+      await booster.addRandomTimeGap(4, 8);
 
       // Step: Click Accept Terms button on init
       await action.browseProducts(page, browser);
@@ -170,7 +170,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       }
 
       // Step: Randomize hover and click
-      await booster.addRandomTimeGap(10, 15);
+      await booster.addRandomTimeGap(8, 12);
 
       await action.addToWishList(page, browser, productId, false)
 
@@ -192,7 +192,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         // Execute each action in the randomized order
         for (const action of shuffledActions) {
           await action();
-          await booster.addRandomTimeGap(10, 15);
+          await booster.addRandomTimeGap(5, 8);
         }
       } catch (error) {
         // continue
@@ -290,7 +290,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
           currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
       
-        const timeoutMilliseconds = 300000; // 5 minutes
+        const timeoutMilliseconds = 240000; // 4 minutes
 
         const timeoutPromise = new Promise((_, reject) => {
           setTimeout(() => {

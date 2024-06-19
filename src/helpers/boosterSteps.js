@@ -97,7 +97,7 @@ export const scrollDown = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 7000);
+    }, 4000);
   });
 }
 
@@ -125,7 +125,7 @@ export const scrollUp = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 5000);
+    }, 4000);
   });
 
   // Optionally add a random delay to simulate human-like behavior
