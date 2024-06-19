@@ -4,7 +4,7 @@ import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
 import * as proxies from '../../helpers/proxies.js';
-import * as action from './actions/bol-action.js'
+import * as action from './actions/bol.js'
 import * as array from '../../helpers/array.js'
 
 const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => {
@@ -160,7 +160,14 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await booster.addRandomTimeGap(5, 10);
 
       // Step: Go to the designated product
-      await action.clickCurrentProduct(page, browser, productId)
+      const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
+
+      if(!didGoToProduct) {
+        if(browser) {
+          await browser.close();
+          return; // End the method
+        }
+      }
 
       // Step: Randomize hover and click
       await booster.addRandomTimeGap(10, 15);
@@ -190,7 +197,10 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       }
       
     }catch(error) {
-      console.log(error.message);
+      if(!process.env.TURN_OFF_LOGS) {
+        console.log(error.message);
+      }
+
       if(browser) {
         await browser.close();
       }
