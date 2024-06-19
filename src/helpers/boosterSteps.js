@@ -346,7 +346,7 @@ export const generateRandomNumber = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
 };
 
-export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000 , retry = true) => {
+export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000 , retry = false) => {
   try {
     await page.waitForXPath(elementXPath, { timeout });
     const [element] = await page.$x(elementXPath);
@@ -362,11 +362,6 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
     if(retry) {
       return;
     }
-
-    if(browser) {
-      await browser.close();
-    }
-
   }
 };
 
