@@ -92,33 +92,39 @@ export const addToWishList = async (page, browser, productId, addedToWishlist = 
         while (attempts < maxRetries && !success) {
             try {
                 await booster.scrollUp(page);
-                const xpath = `//*[@data-test="btn-wishlist"]/button`;
-                const element = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000 , true);
-
-                if (element) {
+        
+                // First XPath
+                let xpath = `//*[@data-test="btn-wishlist"]/button`;
+                let success = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
+        
+                // If the first XPath fails, try the second XPath
+                if (!success) {
+                    await booster.scrollDown(page);
+                    xpath = `//*[@global-id='${productId}']`;
+                    success = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
+                }
+        
+                if (success) {
                     await booster.addRandomTimeGap(5, 7);
-                    
+        
                     // Wait for and click the modal close button
                     await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
                     await page.click('.modal__window--close-hitarea');
-
+        
                     // Add a random time gap after clicking (if needed)
                     await booster.addRandomTimeGap(3, 5);
                 }
             } catch (error) {
-                // continue
+                // Continue to next attempt
             }
-
-          attempts++;
-          
-          // Wait before the next attempt (optional, for better pacing)
-          if (!success) {
-            await booster.addRandomTimeGap(3, 5);
-          }
-        }
-
-        if (!success) {
-          console.log(`Failed to click the element after ${maxRetries} attempts.`);
+        
+            attempts++;
+        
+            // Wait before the next attempt (optional, for better pacing)
+            if (!success) {
+                await page.reload();
+                await booster.addRandomTimeGap(3, 5);
+            }
         }
     }else {
         return;

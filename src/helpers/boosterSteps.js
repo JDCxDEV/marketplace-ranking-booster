@@ -97,7 +97,7 @@ export const scrollDown = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 7000);
+    }, 4000);
   });
 }
 
@@ -125,7 +125,7 @@ export const scrollUp = async (page) => {
 
     setTimeout(() => {
       clearInterval(scrollIntervalId);
-    }, 5000);
+    }, 4000);
   });
 
   // Optionally add a random delay to simulate human-like behavior
@@ -346,7 +346,7 @@ export const generateRandomNumber = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
 };
 
-export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000 , retry = true) => {
+export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000 , retry = false) => {
   try {
     await page.waitForXPath(elementXPath, { timeout });
     const [element] = await page.$x(elementXPath);
@@ -359,18 +359,11 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
 
     return true;
   } catch (error) {
-    if(retry) {
-      return;
-    }
-
-    if(browser) {
-      await browser.close();
-    }
-
+    return false;
   }
 };
 
-export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 30000, retry = false) => {
+export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 10000, retry = false) => {
   try {
     await page.waitForSelector(selector, { timeout });
 
