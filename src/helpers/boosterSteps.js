@@ -363,7 +363,7 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
   }
 };
 
-export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 30000, retry = false) => {
+export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 10000, retry = false) => {
   try {
     await page.waitForSelector(selector, { timeout });
 

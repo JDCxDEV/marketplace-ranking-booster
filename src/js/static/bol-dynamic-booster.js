@@ -172,14 +172,16 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       // Step: Randomize hover and click
       await booster.addRandomTimeGap(10, 15);
 
-      
+      await action.addToWishList(page, browser, productId, false)
+
+      await booster.addRandomTimeGap(5, 6);
+
       try {
         // Define the actions as an array of functions
         const actions = [
           async () => await action.hoverUpsaleText(page, browser),
           async () => await booster.generateAndExecuteScrollSequence(page, 3, 5),
           async () => await action.browseProductImage(page, browser),
-          async () => await action.addToWishList(page, browser, productId, false),
           async () => await action.clickShowMoreDescription(page, browser),
           async () => await action.clickShowMoreMainSpecification(page, browser),
         ];
