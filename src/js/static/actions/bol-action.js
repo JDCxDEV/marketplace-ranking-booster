@@ -94,14 +94,12 @@ export const addToWishList = async (page, browser, productId, addedToWishlist = 
         let attempts = 0;
         let success = false;
 
-        await booster.scrollDown(page);
-
         await booster.addRandomTimeGap(5, 6);
 
         while (attempts < maxRetries && !success) {
             try {
-                await booster.scrollDown(page);
-                const xpath = `//*[@global-id='${productId}']`;
+                await booster.scrollUp(page);
+                const xpath = `//*[@data-test="btn-wishlist"]/button`;
                 const element = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000 , true);
 
                 if (element) {
@@ -115,8 +113,6 @@ export const addToWishList = async (page, browser, productId, addedToWishlist = 
                 await booster.addRandomTimeGap(3, 5);
 
                 success = true; // Set success to true if click is successful
-                } else {
-                console.log('Element not found');
                 }
             } catch (error) {
                 // continue
