@@ -124,7 +124,7 @@ export const addToWishList = async (page, browser, productId, addedToWishlist = 
             // Wait before the next attempt (optional, for better pacing)
             if (!success) {
                 await page.reload();
-                await booster.addRandomTimeGap(10, 15);
+                await booster.addRandomTimeGap(3, 5);
             }
         }
     }else {
