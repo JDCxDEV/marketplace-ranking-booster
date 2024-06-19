@@ -384,7 +384,6 @@ export const clickElementBySelector = async (page, browser, selector, hoverDelay
 
     return true;
   } catch (error) {
-    console.log(error.message)
     if (retry) {
       return;
     }

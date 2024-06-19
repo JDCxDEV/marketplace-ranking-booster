@@ -385,7 +385,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         }
 
         if (!success) {
-          console.log(`Failed to click the element after ${maxRetries} attempts.`);
+         // console.log(`Failed to click the element after ${maxRetries} attempts.`);
         }
       }
       
