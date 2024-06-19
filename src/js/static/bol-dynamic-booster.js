@@ -160,7 +160,14 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await booster.addRandomTimeGap(5, 10);
 
       // Step: Go to the designated product
-      await action.clickCurrentProduct(page, browser, productId)
+      const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
+
+      if(!didGoToProduct) {
+        if(browser) {
+          await browser.close();
+          return; // End the method
+        }
+      }
 
       // Step: Randomize hover and click
       await booster.addRandomTimeGap(10, 15);

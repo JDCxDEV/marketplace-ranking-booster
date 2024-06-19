@@ -28,16 +28,10 @@ export const browseProducts = async (page, browser = null) => {
 }
 
 export const clickCurrentProduct = async (page, browser, productId) => {
-    try {
-        const xpath = `//*[@data-config='{"product_id": "${productId}"}']`;
-        await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000));
-    } catch (error) {
-        if (browser) {
-            await browser.close();
-        }
+    const xpath = `//*[@data-config='{"product_id": "${productId}"}']`;
+    const isClicked = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 5000);
 
-        return;
-    }
+    return isClicked
 };
 
 export const browseProductImage = async (page, browser) => {
