@@ -384,11 +384,9 @@ export const clickElementBySelector = async (page, browser, selector, hoverDelay
 
       return true;
     } else {
-      console.error("Element not found");
       return false;
     }
   } catch (error) {
-    console.error("Error clicking the wishlist button:", error.message);
     return false;
   }
 };
