@@ -123,7 +123,7 @@
             [
               {
                 "name": "rückenkissen",
-                "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=r%C3%BCckenkissen"
+                "link": "https://www.kaufland.de/s/?21=6931310&price=4400-4500&search_value=r%C3%BCckenkissen"
               }
             ],
             "isRunning" : false 
@@ -139,11 +139,11 @@
             [
               {
                 "name": "orthopädisches kissen",
-                "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=orthop%C3%A4disches%20kissen"
+                "link": "https://www.kaufland.de/s/?21=6931310&price=4900-5000&search_value=orthop%C3%A4disches%20kissen"
               },
               {
                 "name": "sitzkissen orthopädisch",
-                "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=sitzkissen%20orthop%C3%A4disch"
+                "link": "https://www.kaufland.de/s/?21=6931310&price=4900-5000&search_value=sitzkissen%20orthop%C3%A4disch"
               }
             ],
             "isRunning" : false 
@@ -159,15 +159,15 @@
             [
               {
                 "name": "nackenstützkissen",
-                "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=nackenst%C3%BCtzkissen"
+                "link": "https://www.kaufland.de/s/?21=6931310&price=6500-6600&search_value=nackenst%C3%BCtzkissen"
               },
               {
                 "name": "orthopädisches kissen",
-                "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=orthop%C3%A4disches%20kissen"
+                "link": "https://www.kaufland.de/s/?21=6931310&price=6500-6600&search_value=orthop%C3%A4disches%20kissen"
               },
               {
                 "name": "Memory-Schaum-Kissen",
-                "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=Memory-Schaum-Kissen"
+                "link": "https://www.kaufland.de/s/?21=6931310&price=6500-6600&search_value=Memory-Schaum-Kissen"
               }
             ],
             "isRunning" : false 
@@ -208,7 +208,7 @@
             "id": "VM-2-0010",
             "marketplace": "Kaufland",
             "product": "ComfyCentre Donut Kussen",
-            "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro,",
+            "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro",
             "productId": "488843228",
             "keywords": ["Donut-Kissen", "Hämorrhoidenkissen", "orthopädisches Schmerzlinderungskissen"],
             "keyword":
@@ -235,7 +235,7 @@
               },
               {
                 "name": "Lendenkissen",
-                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=Lendenkissen"
+                "link": "https://www.kaufland.de/s/?21=7089854&price=3800-3900&search_value=Lendenkissen"
               },
               {
                 "name": "Lendenkissen für Bürostuhl",
@@ -243,7 +243,7 @@
               },
               {
                 "name": "Rückenkissen",
-                "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=R%C3%BCckenkissen"
+                "link": "https://www.kaufland.de/s/?21=7089854&price=3800-3900&search_value=R%C3%BCckenkissen"
               }
             ],
             "isRunning" : false 
@@ -259,7 +259,7 @@
             [
               {
                 "name": "Liebesbrücke",
-                "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=Liebesbr%C3%BCcke"
+                "link": "https://www.kaufland.de/s/?21=6931310&price=4300-4400&search_value=Liebesbr%C3%BCcke"
               },
               {
                 "name": "Matratzenkeil",
