@@ -7,7 +7,7 @@ import * as proxies from '../../helpers/proxies.js';
 import * as action from './actions/bol.js'
 import * as array from '../../helpers/array.js'
 
-const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => {
+const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => {
   
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
