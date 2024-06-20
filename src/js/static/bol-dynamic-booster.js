@@ -7,7 +7,7 @@ import * as proxies from '../../helpers/proxies.js';
 import * as action from './actions/bol.js'
 import * as array from '../../helpers/array.js'
 
-const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => {
+const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => {
   
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
@@ -148,16 +148,20 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
       await booster.addRandomTimeGap(4, 8);
       
       // Step: Add random scroll 
-      await booster.generateAndExecuteScrollSequence(page, 3, 5);
+      await booster.generateAndExecuteScrollSequence(page, 2, 4);
       // ----------- end of step ----------- //
       
-      await booster.addRandomTimeGap(4, 8);
+      await booster.addRandomTimeGap(4, 6);
 
       // Step: Click Accept Terms button on init
       await action.browseProducts(page, browser);
       // ----------- end of step ----------- //
 
       await booster.addRandomTimeGap(5, 10);
+
+      await action.clickToWishList(page, browser, productId);
+
+      await booster.addRandomTimeGap(4, 8);
 
       // Step: Go to the designated product
       const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
@@ -290,7 +294,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
           currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
       
-        const timeoutMilliseconds = 240000; // 4 minutes
+        const timeoutMilliseconds = 300000; // 4 minutes
 
         const timeoutPromise = new Promise((_, reject) => {
           setTimeout(() => {

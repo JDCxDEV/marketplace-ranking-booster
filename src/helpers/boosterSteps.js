@@ -249,14 +249,17 @@ export const scrollToElementAndClickIt = async (page, classElement, delayInMilli
 export const getRandomScreenSize = () => {
   const resolutions = [
     { width: 1920, height: 1080 },
-    { width: 2560, height: 1440 },
-    { width: 1366, height: 768 },  
-    { width: 1440, height: 900 },   
-    { width: 1600, height: 900 },   
-    { width: 1280, height: 800 },   
-    { width: 1680, height: 1050 },  
-    { width: 1280, height: 720 }, 
-    { width: 2560, height: 1080 }, 
+    { width: 1366, height: 768 },
+    { width: 1536, height: 864 },
+    { width: 1440, height: 900 },
+    { width: 1600, height: 900 },
+    { width: 1280, height: 720 },
+    { width: 1280, height: 800 },
+    { width: 1680, height: 1050 },
+    { width: 1360, height: 768 },
+    { width: 1920, height: 1200 },
+    { width: 2560, height: 1080 },
+    { width: 1024, height: 768 },
   ];
 
   const randomIndex = Math.floor(Math.random() * resolutions.length);
@@ -352,6 +355,9 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
     const [element] = await page.$x(elementXPath);
     
     if (element) {
+      await page.evaluate(el => {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }, element);
       await element.hover();
       await page.waitForTimeout(hoverDelay); // Adjust delay time as necessary
       await element.click();
@@ -363,27 +369,27 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
   }
 };
 
-export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 10000, retry = false) => {
+export const clickElementBySelector = async (page, browser, selector, hoverDelay = 750, timeout = 10000,) => {
   try {
-    await page.waitForSelector(selector, { timeout });
-
+    await page.waitForSelector(selector, { timeout: timeout });
     const element = await page.$(selector);
 
     if (element) {
-      await element.hover();
-      await page.waitForTimeout(hoverDelay);
-      await element.click();
-    }
+      await page.evaluate((selector) => {
+        const element = document.querySelector(selector);
+        if (element) {
+          element.click();
+        }
+      }, selector);
 
-    return true;
+      return true;
+    } else {
+      console.error("Element not found");
+      return false;
+    }
   } catch (error) {
-    if (retry) {
-      return;
-    }
-
-    if (browser) {
-      await browser.close();
-    }
+    console.error("Error clicking the wishlist button:", error.message);
+    return false;
   }
 };
 
