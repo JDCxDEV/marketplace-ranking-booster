@@ -110,6 +110,8 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
+
+    console.log(error.message)
     if(browser) {
       await browser.close();
     }
@@ -148,7 +150,7 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
       await booster.addRandomTimeGap(4, 8);
       
       // Step: Add random scroll 
-      await booster.generateAndExecuteScrollSequence(page, 2, 4);
+      await booster.generateAndExecuteScrollSequence(page, 2, 3);
       // ----------- end of step ----------- //
       
       await booster.addRandomTimeGap(4, 6);
@@ -159,7 +161,7 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(5, 10);
 
-      await action.clickToWishList(page, browser, productId);
+     const addedToWishlist = await action.clickToWishList(page, browser, productId);
 
       await booster.addRandomTimeGap(4, 8);
 
@@ -176,7 +178,7 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
       // Step: Randomize hover and click
       await booster.addRandomTimeGap(8, 12);
 
-      await action.addToWishList(page, browser, productId, false)
+      await action.addToWishList(page, browser, productId, addedToWishlist)
 
       await booster.addRandomTimeGap(5, 6);
 
