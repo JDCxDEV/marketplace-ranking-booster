@@ -1,0 +1,36 @@
+{
+    "products": [
+          {
+            "id": "VM-5-0001",
+            "marketplace": "Kaufland",
+            "product": "LK-040",
+            "productTitle": "Lideka® RGB LED-Streifen 40m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
+            "productId": "443198421",
+            "keywords": ["led strip 40m", "led streifen", "rgb led strip", "led strip", "led leiste"],
+            "keyword":
+            [
+              {
+                "name": "led strip 40m",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip%2040m"
+              },
+              {
+                "name": "led streifen",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+              },
+              {
+                "name": "rgb led strip",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
+              },
+              {
+                "name": "led strip",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+              },
+              {
+                "name": "led leiste",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+              }
+            ],
+            "isRunning" : false 
+          }
+    ]
+  }

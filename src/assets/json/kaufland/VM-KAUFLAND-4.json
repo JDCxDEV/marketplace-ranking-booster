@@ -60,8 +60,8 @@
             "id": "VM-4-0004",
             "marketplace": "Kaufland",
             "product": "LK-03-N-IC",
-            "productTitle": "",
-            "productId": "",
+            "productTitle": "Lideka® NEON LED-Streifen 3m, RGBIC Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+            "productId": "463128914",
             "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
             "keyword":
             [
@@ -419,6 +419,38 @@
           {
             "id": "VM-4-0015",
             "marketplace": "Kaufland",
+            "product": "LK-025",
+            "productTitle": "Lideka® RGB LED-Streifen 25m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
+            "productId": "443196709",
+            "keywords": ["led-streifen 20m", "led strip", "led streifen", "led leiste", "rgb led strip"],
+            "keyword":
+            [
+              {
+                "name": "led-streifen 20m",
+                "link": "https://www.kaufland.de/s/?price=9400-9500&search_value=led-streifen%2025m"
+              },
+              {
+                "name": "led strip",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+              },
+              {
+                "name": "led-streifen",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+              },
+              {
+                "name": "led leiste",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+              },
+              {
+                "name": "rgb led strip",
+                "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
+              }
+            ],
+            "isRunning" : false 
+          },
+          {
+            "id": "VM-4-0016",
+            "marketplace": "Kaufland",
             "product": "LK-030",
             "productTitle": "Lideka® RGB LED-Streifen 30m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
             "productId": "461186369",
@@ -449,7 +481,7 @@
             "isRunning" : false 
           },
           {
-            "id": "VM-4-0016",
+            "id": "VM-4-0017",
             "marketplace": "Kaufland",
             "product": "LK-035",
             "productTitle": "Lideka® RGB LED-Streifen 35m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
@@ -472,38 +504,6 @@
               {
                 "name": "rgb led strip",
                 "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
-              }
-            ],
-            "isRunning" : false 
-          },
-          {
-            "id": "VM-4-0017",
-            "marketplace": "Kaufland",
-            "product": "LK-040",
-            "productTitle": "Lideka® RGB LED-Streifen 40m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
-            "productId": "443198421",
-            "keywords": ["led strip 40m", "led streifen", "rgb led strip", "led strip", "led leiste"],
-            "keyword":
-            [
-              {
-                "name": "led strip 40m",
-                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip%2040m"
-              },
-              {
-                "name": "led streifen",
-                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
-              },
-              {
-                "name": "rgb led strip",
-                "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
-              },
-              {
-                "name": "led strip",
-                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
-              },
-              {
-                "name": "led leiste",
-                "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
               }
             ],
             "isRunning" : false 
