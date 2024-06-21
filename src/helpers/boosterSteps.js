@@ -134,7 +134,7 @@ export const scrollUp = async (page) => {
 
 export const scrollToRandomClass = async (page, elementClass, browser = null, uniqueSelector = null) => {
   try {
-    await addRandomTimeGap(2, 4);
+    await addRandomTimeGap(2, 3);
     const products = await page.$$(elementClass);
     const randomIndex = Math.floor(Math.random() * products.length);
     const randomProduct = products[randomIndex];
@@ -153,7 +153,7 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
         const scrollTarget = elementRect.top + scrollY - (viewportHeight / 2) + (elementRect.height / 2);
     
         // Smooth scroll by manually animating over time
-        const duration = getRandomDelay(2000, 3000); // Adjust as needed for smoother or slower animation
+        const duration = getRandomDelay(1000, 2000); // Adjust as needed for smoother or slower animation
         const start = performance.now();
         const easeInOutQuad = (t) => t < 0.5 ? 2 * t * t : -1 + (4 - 2 * t) * t;
     
@@ -375,6 +375,15 @@ export const clickElementBySelector = async (page, browser, selector, hoverDelay
     const element = await page.$(selector);
 
     if (element) {
+      await page.evaluate((selector) => {
+        const element = document.querySelector(selector);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+      }, selector);
+
+      await page.waitForTimeout(3000); // Adjust delay time as necessary
+
       await page.evaluate((selector) => {
         const element = document.querySelector(selector);
         if (element) {

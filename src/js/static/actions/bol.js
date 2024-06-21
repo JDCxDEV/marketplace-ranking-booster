@@ -35,16 +35,21 @@ export const clickCurrentProduct = async (page, browser, productId) => {
 };
 
 export const clickToWishList = async (page, browser, productId) => {
-    const selector = `[global-id="${productId}"]`;
-    const isClicked = await booster.clickElementBySelector(page, browser, selector, 3000, 5000);
-    
-    if(isClicked) {        
-        // Wait for and click the modal close button
-        await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
-        await page.click('.modal__window--close-hitarea');
-    } 
-
-    return isClicked
+    try {
+        const selector = `[global-id="${productId}"]`;
+        const isClicked = await booster.clickElementBySelector(page, browser, selector, 3000, 5000);
+        
+        if(isClicked) {        
+            // Wait for and click the modal close button
+            await booster.addRandomTimeGap(2, 5);
+            await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
+            await page.click('.modal__window--close-hitarea');
+        }else {
+            return false;
+        }
+    }catch(error) {
+        return false
+    }
 };
 
 
