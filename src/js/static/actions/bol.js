@@ -6,13 +6,12 @@ export const clickPrivacyAndCountryButton = async (page, browser) => {
         const acceptTermsButtonXPath = `//*[@id='js-first-screen-accept-all-button']`;
         await booster.clickElement(page, browser, acceptTermsButtonXPath, booster.generateRandomNumber(500, 1000))
 
-        await booster.addRandomTimeGap(3, 7);
+        await booster.addRandomTimeGap(4, 6);
 
         const countryLanguageButtonXPath = `//*[contains(@class, 'js-country-language-btn')]`;
         await booster.clickElement(page, browser, countryLanguageButtonXPath, booster.generateRandomNumber(500, 1000))
 
     } catch (error) {
-        console.log(error.message)
         await browser.close();
     }
 };
@@ -20,7 +19,7 @@ export const clickPrivacyAndCountryButton = async (page, browser) => {
 export const browseProducts = async (page, browser = null) => {
     const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
     
-    const numberOfIterations = getRandomInt(5, 7);
+    const numberOfIterations = getRandomInt(2, 4);
     
     for (let i = 0; i < numberOfIterations; i++) {
         await booster.scrollToRandomClass(page, '.list_page_product_tracking_target', browser, 'bol');
@@ -44,6 +43,8 @@ export const clickToWishList = async (page, browser, productId) => {
             await booster.addRandomTimeGap(2, 5);
             await page.waitForSelector('.modal__window--close-hitarea', { timeout: 10000 });
             await page.click('.modal__window--close-hitarea');
+
+            return true;
         }else {
             return false;
         }
@@ -59,13 +60,11 @@ export const browseProductImage = async (page, browser) => {
             const randomSequence = booster.generateRandomSequence(1, 5);
             for (let i = 0; i < 5; i++) {
                 const xpath = `//*[@data-test="product-thumb-image-${randomSequence[i]}"]`;
-                await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000));
+                await booster.clickElement(page, null, xpath, booster.generateRandomNumber(500, 1000));
                 await booster.addRandomTimeGap(1, 3);
     
             }
         } catch (error) {
-            console.log('Error in hoverAndClick:', error);
-
             return
         }
     };
@@ -73,14 +72,13 @@ export const browseProductImage = async (page, browser) => {
     let clickArrow = async () => {
         try {
             const xpathNext = `//*[@data-test="carousel-next"]`;
-            await booster.clickElement(page, browser, xpathNext, booster.generateRandomNumber(500, 1000));
+            await booster.clickElement(page, null, xpathNext, booster.generateRandomNumber(500, 1000));
             await booster.addRandomTimeGap(3, 5);
 
             const xpathBack = `//*[@data-test="carousel-back"]`;
-            await booster.clickElement(page, browser, xpathBack, booster.generateRandomNumber(500, 1000));
+            await booster.clickElement(page, null, xpathBack, booster.generateRandomNumber(500, 1000));
             await booster.addRandomTimeGap(2, 4);
         } catch (error) {
-
             return
         }
     };
@@ -112,13 +110,13 @@ export const addToWishList = async (page, browser, productId, addedToWishlist = 
             try {    
                 // First XPath
                 let xpath = `//*[@data-test="btn-wishlist"]/button`;
-                let success = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
+                let success = await booster.clickElement(page, null, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
         
                 // If the first XPath fails, try the second XPath
                 if (!success) {
                     await booster.scrollDown(page);
                     xpath = `//*[@global-id='${productId}']`;
-                    success = await booster.clickElement(page, browser, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
+                    success = await booster.clickElement(page, null, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
                 }
         
                 if (success) {
@@ -143,8 +141,6 @@ export const addToWishList = async (page, browser, productId, addedToWishlist = 
                 await booster.addRandomTimeGap(3, 5);
             }
         }
-    }else {
-        return;
     }
 }
 
@@ -173,7 +169,7 @@ export const clickShowMoreMainSpecification = async (page, browser) => {
 export const hoverUpsaleText = async (page, browser) => {
     const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
     const selector = '.skeleton-image.skeleton-image--with-placeholder.skeleton-image--contain';
-    const numberOfIterations = getRandomInt(3, 5);
+    const numberOfIterations = getRandomInt(2, 4);
 
     for (let i = 0; i < numberOfIterations; i++) {
         await booster.scrollToRandomClass(page, selector, browser);

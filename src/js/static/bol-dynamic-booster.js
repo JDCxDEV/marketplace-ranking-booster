@@ -149,15 +149,15 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(4, 8);
       
-      // Step: Add random scroll 
+      // // Step: Add random scroll 
       await booster.generateAndExecuteScrollSequence(page, 2, 3);
-      // ----------- end of step ----------- //
+      // // ----------- end of step ----------- //
       
       await booster.addRandomTimeGap(4, 6);
 
       // Step: Click Accept Terms button on init
       await action.browseProducts(page, browser);
-      // ----------- end of step ----------- //
+      // // ----------- end of step ----------- //
 
       await booster.addRandomTimeGap(5, 10);
 
@@ -165,13 +165,12 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(4, 8);
 
-      // Step: Go to the designated product
+      //Step: Go to the designated product
       const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
 
       if(!didGoToProduct) {
         if(browser) {
           await browser.close();
-          return; // End the method
         }
       }
 
@@ -180,13 +179,14 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
 
       await action.addToWishList(page, browser, productId, addedToWishlist)
 
+
       await booster.addRandomTimeGap(5, 6);
 
       try {
         // Define the actions as an array of functions
         const actions = [
           async () => await action.hoverUpsaleText(page, browser),
-          async () => await booster.generateAndExecuteScrollSequence(page, 3, 5),
+          async () => await booster.generateAndExecuteScrollSequence(page, 2, 4),
           async () => await action.browseProductImage(page, browser),
           async () => await action.clickShowMoreDescription(page, browser),
           async () => await action.clickShowMoreMainSpecification(page, browser),
@@ -311,10 +311,9 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
           ]).then(() => {
             console.log('current thread:' + mainIndex + ' completed');
           }).catch(error => {
-            console.error('Error:', error.message);
+            // console.error('Error:', error.message);
           });
         }catch(error) {
-          console.log(error.message)
           return;
         }
 

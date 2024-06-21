@@ -194,7 +194,7 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
         };
       
         // Repeat the try-catch block 1 to 3 times
-        const repeatTimes = getRandomInt(1, 3);
+        const repeatTimes = getRandomInt(1, 2);
       
         for (let i = 0; i < repeatTimes; i++) {
           try {
@@ -222,7 +222,7 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
           }
         }
       } catch (error) {
-        console.log(error.message);
+        return;
       }
     }
 
@@ -258,7 +258,6 @@ export const getRandomScreenSize = () => {
     { width: 1680, height: 1050 },
     { width: 1360, height: 768 },
     { width: 1920, height: 1200 },
-    { width: 2560, height: 1080 },
     { width: 1024, height: 768 },
   ];
 
@@ -349,7 +348,7 @@ export const generateRandomNumber = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
 };
 
-export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000 , retry = false) => {
+export const clickElement = async (page, browser, elementXPath, hoverDelay = 750, timeout = 30000) => {
   try {
     await page.waitForXPath(elementXPath, { timeout });
     const [element] = await page.$x(elementXPath);
@@ -365,6 +364,11 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
 
     return true;
   } catch (error) {
+
+    if(browser) {
+      browser.close();
+    }
+    
     return false;
   }
 };
@@ -375,13 +379,6 @@ export const clickElementBySelector = async (page, browser, selector, hoverDelay
     const element = await page.$(selector);
 
     if (element) {
-      await page.evaluate((selector) => {
-        const element = document.querySelector(selector);
-        if (element) {
-          element.scrollIntoView({ behavior: 'smooth', block: 'center' });
-        }
-      }, selector);
-
       await page.waitForTimeout(3000); // Adjust delay time as necessary
 
       await page.evaluate((selector) => {
