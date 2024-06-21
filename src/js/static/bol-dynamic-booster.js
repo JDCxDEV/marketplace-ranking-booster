@@ -165,44 +165,44 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
 
       await booster.addRandomTimeGap(4, 8);
 
-      //Step: Go to the designated product
-      const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
+      // //Step: Go to the designated product
+      // const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
 
-      if(!didGoToProduct) {
-        if(browser) {
-          await browser.close();
-        }
-      }
+      // if(!didGoToProduct) {
+      //   if(browser) {
+      //     await browser.close();
+      //   }
+      // }
 
-      // Step: Randomize hover and click
-      await booster.addRandomTimeGap(8, 12);
+      // // Step: Randomize hover and click
+      // await booster.addRandomTimeGap(8, 12);
 
-      await action.addToWishList(page, browser, productId, addedToWishlist)
+      // await action.addToWishList(page, browser, productId, addedToWishlist)
 
 
-      await booster.addRandomTimeGap(5, 6);
+      // await booster.addRandomTimeGap(5, 6);
 
-      try {
-        // Define the actions as an array of functions
-        const actions = [
-          async () => await action.hoverUpsaleText(page, browser),
-          async () => await booster.generateAndExecuteScrollSequence(page, 2, 4),
-          async () => await action.browseProductImage(page, browser),
-          async () => await action.clickShowMoreDescription(page, browser),
-          async () => await action.clickShowMoreMainSpecification(page, browser),
-        ];
+      // try {
+      //   // Define the actions as an array of functions
+      //   const actions = [
+      //     async () => await action.hoverUpsaleText(page, browser),
+      //     async () => await booster.generateAndExecuteScrollSequence(page, 2, 4),
+      //     async () => await action.browseProductImage(page, browser),
+      //     async () => await action.clickShowMoreDescription(page, browser),
+      //     async () => await action.clickShowMoreMainSpecification(page, browser),
+      //   ];
     
-        // Shuffle the actions array to randomize the order
-        const shuffledActions = array.shuffle(actions);
+      //   // Shuffle the actions array to randomize the order
+      //   const shuffledActions = array.shuffle(actions);
     
-        // Execute each action in the randomized order
-        for (const action of shuffledActions) {
-          await action();
-          await booster.addRandomTimeGap(5, 8);
-        }
-      } catch (error) {
-        // continue
-      }
+      //   // Execute each action in the randomized order
+      //   for (const action of shuffledActions) {
+      //     await action();
+      //     await booster.addRandomTimeGap(5, 8);
+      //   }
+      // } catch (error) {
+      //   // continue
+      // }
       
     }catch(error) {
       if(!process.env.TURN_OFF_LOGS) {
@@ -288,7 +288,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 5;
+        let productThreads = 8;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {

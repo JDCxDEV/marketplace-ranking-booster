@@ -211,6 +211,24 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true
+    },
+    {
+      "id": "VM-8-0012",
+      "marketplace": "Bol.com",
+      "product": "BabyFoon Black",
+      "productId": "9300000179671207",
+      "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Zwart",
+      "keywords": ["babyfoon", "babyfoon met camera", "baby monitor"],
+      "keywordLink": [
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
+        "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+camera",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoons",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon",
+        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": false
     }
   ]
 }
