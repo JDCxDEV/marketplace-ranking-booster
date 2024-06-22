@@ -175,3 +175,10 @@ export const hoverUpsaleText = async (page, browser) => {
         await booster.scrollToRandomClass(page, selector, browser);
     }
 }
+
+export const createAccount = async () => {
+    const selector = `[data-test="login-link"]`;
+    const isClicked = await booster.clickElementBySelector(page, browser, selector, 3000, 5000);
+    await booster.addRandomTimeGap(2, 3);
+} 
+
