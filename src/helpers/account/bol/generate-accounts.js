@@ -138,3 +138,28 @@ export const generateStrongPassword = (length = 12) => {
     const randomIndex = Math.floor(Math.random() * addresses.length);
     return addresses[randomIndex];
   }
+
+  export const generateAccountArray = (numAccounts) => {
+    const accounts = [];
+    for (let i = 0; i < numAccounts; i++) {
+      const { firstname, middlename, lastname, email } = generateRandomDutchNameAndEmail();
+      const phone = generateRandomDutchPhoneNumber();
+      const address = getRandomAddress();
+      const password = generateStrongPassword();
+      const marketplace = 'bol';
+  
+      accounts.push({
+        firstname,
+        middle: middlename,
+        lastname,
+        phone,
+        email,
+        postalCode: address.postalCode,
+        houseNumber: address.houseNumber,
+        marketplace,
+        password,
+        registered: false
+      });
+    }
+    return accounts;
+  };

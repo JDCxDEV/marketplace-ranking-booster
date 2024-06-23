@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generate Account</title>
+    <!-- Include Tailwind CSS (you can replace with a CDN link) -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-100">
+
+    <div class="max-w-screen-xl mx-auto p-8 bg-white rounded-lg shadow-md m-4">
+        <h2 class="text-2xl mb-4">Generate Account</h2>
+
+        <!-- Input for number of accounts to generate -->
+        <div class="mb-4">
+            <label for="numAccounts" class="block text-sm font-medium text-gray-700">Number of Accounts</label>
+            <input type="number" id="numAccounts" name="numAccounts" class="mt-1 block w-full p-2 border rounded-md" min="1" value="1">
+        </div>
+
+        <!-- Generate Account Button -->
+        <div>
+            <button type="button" id="generateAccountBtn" class="bg-blue-500 text-white py-2 px-3 text-sm rounded-md hover:bg-blue-700">Generate Account</button>
+        </div>
+
+        <!-- Loading Spinner -->
+        <div id="loadingSpinner" class="hidden text-center my-4">
+            <svg class="animate-spin h-5 w-5 text-blue-500 mx-auto" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 0116 0h-2a6 6 0 10-12 0H4z"></path>
+            </svg>
+        </div>
+
+        <!-- Account Table -->
+        <div class="mt-8">
+            <h2 class="text-2xl mb-4">Accounts List</h2>
+            <div class="overflow-x-auto">
+                <table class="min-w-full bg-white border border-gray-200">
+                    <thead class="bg-gray-100">
+                        <tr>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">First Name</th>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Last Name</th>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Phone</th>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Email</th>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Postal Code</th>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">House Number</th>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Registered</th>
+                            <th class="text-left py-3 px-4 uppercase font-semibold text-sm">Copy Password</th>
+                        </tr>
+                    </thead>
+                    <tbody id="accountTableBody">
+                        <!-- Table rows will be dynamically added here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <!-- Include Axios for making HTTP requests -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    <!-- JavaScript for handling button click -->
+    <script>
+        const generateAccountBtn = document.getElementById('generateAccountBtn');
+        const accountTableBody = document.getElementById('accountTableBody');
+        const numAccountsInput = document.getElementById('numAccounts');
+        const loadingSpinner = document.getElementById('loadingSpinner');
+
+        generateAccountBtn.addEventListener('click', async function () {
+            const numAccounts = parseInt(numAccountsInput.value, 10);
+
+            // Disable the button and show the loading spinner
+            generateAccountBtn.disabled = true;
+            generateAccountBtn.classList.add('bg-gray-500', 'hover:bg-gray-500');
+            generateAccountBtn.classList.remove('bg-blue-500', 'hover:bg-blue-700');
+            loadingSpinner.classList.remove('hidden');
+
+            try {
+                const response = await axios.post('/api/generate-accounts', { numAccounts });
+                console.log('Accounts generated:', response.data);
+
+                // Update accounts table
+                fetchAccounts();
+            } catch (error) {
+                console.error('Error generating accounts:', error);
+            } finally {
+                // Enable the button and hide the loading spinner
+                generateAccountBtn.disabled = false;
+                generateAccountBtn.classList.add('bg-blue-500', 'hover:bg-blue-700');
+                generateAccountBtn.classList.remove('bg-gray-500', 'hover:bg-gray-500');
+                loadingSpinner.classList.add('hidden');
+            }
+        });
+
+        async function fetchAccounts() {
+            try {
+                const response = await axios.get('/api/accounts');
+                const accounts = response.data;
+
+                accountTableBody.innerHTML = '';
+
+                accounts.forEach(account => {
+                    const registeredClass = account.registered ? 'text-green-500 font-bold' : 'text-red-500 font-bold';
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td class="border px-4 py-2">${account.firstname}</td>
+                        <td class="border px-4 py-2">${account.lastname}</td>
+                        <td class="border px-4 py-2">${account.phone}</td>
+                        <td class="border px-4 py-2">${account.email}</td>
+                        <td class="border px-4 py-2">${account.postalCode}</td>
+                        <td class="border px-4 py-2">${account.houseNumber}</td>
+                        <td class="border px-4 py-2 text-center ${registeredClass}">${account.registered ? 'Yes' : 'No'}</td>
+                        <td class="border px-4 py-2"><button onclick="copyPassword('${account.password}')" class="bg-green-500 text-white py-2 px-2 rounded-sm text-xs">Copy Password</button></td>
+                    `;
+                    accountTableBody.appendChild(row);
+                });
+
+            } catch (error) {
+                console.error('Error fetching accounts:', error);
+            }
+        }
+
+        function copyPassword(password) {
+            navigator.clipboard.writeText(password).then(() => {
+                alert('Password copied to clipboard');
+            }).catch(err => {
+                console.error('Error copying password:', err);
+            });
+        }
+
+        // Fetch accounts on page load
+        fetchAccounts();
+    </script>
+
+</body>
+
+</html>
