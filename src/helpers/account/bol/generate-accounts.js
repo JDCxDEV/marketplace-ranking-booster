@@ -46,12 +46,12 @@ export const generateRandomDutchNameAndEmail = () => {
   const nameConfig = {
     dictionaries: [dutchFirstNames, dutchMiddleNames, dutchLastNames],
     length: 3, // First name, middle name, last name
-    separator: ' ',
+    separator: '-',
     style: 'lowerCase' // Capitalize the first letter of each part
   };
 
   // Generate a random full name
-  const randomName = uniqueNamesGenerator(nameConfig).split(' ');
+  const randomName = uniqueNamesGenerator(nameConfig).split('-');
 
   // Construct the name object
   const nameObject = {
