@@ -19,8 +19,6 @@ app.use(express.json());
 // MongoDB Connection
 const uri = process.env.DB_URI.replace('<DB_PASS>', process.env.DB_PASS);
 
-
-console.log('Starting the server and connecting to database....');
 mongoose.connect(uri, {
     // Use to avoid DeprecationWarning for ensureIndex in Mongoose 6.x and above
     // For Mongoose 8.4.3, `useCreateIndex` is still needed, although it's not deprecated yet
@@ -53,4 +51,5 @@ app.get('/account', (req, res) => {
 // Start the server
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
+    console.log('Starting the server and connecting to database....');
 });

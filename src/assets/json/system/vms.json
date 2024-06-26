@@ -50,11 +50,11 @@
     },
     {
       "id": 7,
-      "marketplace": "Bol.com",
-      "key": "VM-7",
+      "marketplace": "Kaufland.com",
+      "key": "VM-KAUFLAND-3",
       "name": "Virtual Machine 7",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "smart-proxy-de"
     },
     {
       "id": 8,
@@ -189,14 +189,6 @@
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-2",
       "name": "Virtual Machine 2",
-      "steps": "per-page",
-      "proxy": "smart-proxy-de"
-    },
-    {
-      "id": 25,
-      "marketplace": "Kaufland.com",
-      "key": "VM-KAUFLAND-3",
-      "name": "Virtual Machine 3",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
     }
