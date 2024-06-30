@@ -12,7 +12,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand+zwart",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmand+zwart",
+
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
         ],
         "isRunning" : false,
@@ -20,23 +20,6 @@
       },
       {
         "id": "VM-12-0002",
-        "marketplace": "Bol.com",
-        "product": "Opbergmand Donkergrijs",
-        "productId": "9300000031951527",
-        "productTitle": "Mand van Sophie Nordinn® - Opbergmand Boras (Donkergrijs) - Mandjes Opbergen - Milieuvriendelijk Manden - Katoen",
-        "keywords": ["mand", "opbergmanden", "opberg mand", "opbergmand"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?searchtext=mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-12-0003",
         "marketplace": "Bol.com",
         "product": "Opbergmand Light blue",
         "productId": "9300000118407935",
@@ -46,35 +29,13 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
         ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0004",
-        "marketplace": "Bol.com",
-        "product": "Wasmand Wit",
-        "productId": "9300000000237551",
-        "productTitle": "Wasmand van Sophie Nordinn® - Mand Tumba Wit (Special Edition) - Opbergmand Zeegras/Katoen",
-        "keywords": ["mand", "opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand", "wasmanden"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?searchtext=mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&sort=wishListRank1&12194=26-27&rating=all",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true,
-        "isOutOfStock": true
-      },
-      {
-        "id": "VM-12-0005",
+        "id": "VM-12-0003",
         "marketplace": "Bol.com",
         "product": "Placemat Abisko Verloop",
         "productId": "9300000029386052",
@@ -89,7 +50,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0006",
+        "id": "VM-12-0004",
         "marketplace": "Bol.com",
         "product": "Placemat Vaxjo Grey",
         "productId": "9300000010054871",
@@ -105,11 +66,11 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0007",
+        "id": "VM-12-0005",
         "marketplace": "Bol.com",
         "product": "Kitchen Apron Women -  Green",
         "productId": "9300000029386059",
-        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Malmö (Mintgroen) - Schorten voor vrouwen - 87 x 77 cm",
+        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Mintgroen) - 87 x 77 cm",
         "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
@@ -127,11 +88,11 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0008",
+        "id": "VM-12-0006",
         "marketplace": "Bol.com",
         "product": "Keukenschort Malmö (Roze)",
         "productId": "9300000029386060",
-        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Malmö (Roze) - Schorten voor vrouwen - 87 x 77 cm",
+        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Roze) - 87 x 77 cm",
         "keywords": ["keukenschort vrouw", "keukenshort", "keukenschorten", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
@@ -149,7 +110,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0009",
+        "id": "VM-12-0007",
         "marketplace": "Bol.com",
         "product": "Opbergmand Orebro",
         "productId": "9300000000207542",
@@ -158,15 +119,14 @@
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=plantenmand",
-          "https://www.bol.com/nl/nl/s/?searchtext=plantenmand+binnen",
-          "https://www.bol.com/nl/nl/s/?searchtext=mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
+          "https://www.bol.com/nl/nl/s/?searchtext=mand"
+        
         ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0010",
+        "id": "VM-12-0008",
         "marketplace": "Bol.com",
         "product": "Kledinghangers",
         "productId": "9300000116538243",
@@ -182,7 +142,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0011",
+        "id": "VM-12-0009",
         "marketplace": "Bol.com",
         "product": "Placemat Vaxjo Blue",
         "productId": "9300000010054921",
@@ -198,7 +158,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0012",
+        "id": "VM-12-0010",
         "marketplace": "Bol.com",
         "product": "Placemat Abisko Grey",
         "productId": "9300000029386045",
@@ -213,7 +173,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0013",
+        "id": "VM-12-0011",
         "marketplace": "Bol.com",
         "product": "Placemat Vaxjo - Geel",
         "productId": "9300000010054929",
@@ -221,15 +181,13 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat+kunststof&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0014",
+        "id": "VM-12-0012",
         "marketplace": "Bol.com",
         "product": "Schoenenrek - Roze 2 stuks",
         "productId": "9300000016839655",
@@ -248,49 +206,7 @@
         "isOutOfStock": true
       },
       {
-        "id": "VM-12-0015",
-        "marketplace": "Bol.com",
-        "product": "Schoenenrek - Blauw 2 stuks",
-        "productId": "9300000016839641",
-        "productTitle": "Sophie Nordinn® - Schoenenrek Linkoping Blauw (2 stuks) - Schoenenopbergers - Schoenen Organizer - Opbergsysteem - Schoenrek - 26x24x15 cm",
-        "keywords": ["schoenenrek", "schoenenrek zwart", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&12194=30-31&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&12194=30-31&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+opbergsysteem&view=list&12194=30-31",
-          "https://www.bol.com/nl/nl/s/?searchtext=schoenen+organizer",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenrek&view=list&12194=30-31&rating=all"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true,
-        "isOutOfStock" : true
-      },
-      {
-        "id": "VM-12-0016",
-        "marketplace": "Bol.com",
-        "product": "Kitchen Apron Women -  Bruin",
-        "productId": "9300000029386048",
-        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Bruin) - 87 x 77 cm",
-        "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?searchtext=keukenschorten",
-          "https://www.bol.com/nl/nl/s/?searchtext=keukenshort",
-          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+vrouw",
-          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+dames",
-          "https://www.bol.com/nl/nl/s/?searchtext=schort",
-          "https://www.bol.com/nl/nl/s/?searchtext=kookschort",
-          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+dames",
-          "https://www.bol.com/nl/nl/s/?searchtext=kookschort+mannen",
-          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true,
-        "isOutOfStock": true
-      },
-      {
-        "id": "VM-12-0017",
+        "id": "VM-12-0013",
         "marketplace": "Bol.com",
         "product": "Kitchen Apron Women -  Paars",
         "productId": "9300000029386067",
@@ -312,26 +228,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0017",
-        "marketplace": "Bol.com",
-        "product": "Wasmanden - Wit",
-        "productId": "9300000029386067",
-        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Paars) - 87 x 77 cm",
-        "keywords": ["wasmand", "mand", "opbergmanden", "opberg+mand&", "wasmanden", "opbergmand"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=16724&12194=26-27&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&sort=wishListRank1&12194=26-27",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=16724&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=16724&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=16724&12194=26-27&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=16724&rating=all"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-12-0018",
+        "id": "VM-12-0014",
         "marketplace": "Bol.com",
         "product": "Opbergmand - Jute groot",
         "productId": "9300000029386038",
