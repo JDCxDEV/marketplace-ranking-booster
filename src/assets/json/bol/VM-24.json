@@ -442,6 +442,20 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0031",
+      "marketplace": "Bol.com",
+      "product": "7107103019021",
+      "productId": "9200000082121217",
+      "productTitle": "SmartphoneClip® Sport bandje Wit geschikt voor Garmin Fenix 3 / 3 HR",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
     }
   ]
 }
