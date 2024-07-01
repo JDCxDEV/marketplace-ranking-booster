@@ -87,13 +87,358 @@
     {
       "id": "VM-24-0006",
       "marketplace": "Bol.com",
-      "product": "",
-      "productId": "",
-      "productTitle": "",
-      "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje"],
+      "product": "8720254257303",
+      "productId": "9300000014830277",
+      "productTitle": "SmartphoneClip® Elastische Bandje zwart geschikt voor Samsung Galaxy Watch 45 en 46mm",
+      "keywords": ["galaxy watch bandje", "samsung galaxy watch bandje", "bandje samsung galaxy watch 3"],
       "keywordLink":
       [
-        ""
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=15-16&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=15-16&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0007",
+      "marketplace": "Bol.com",
+      "product": "8719992214280",
+      "productId": "9200000100092917",
+      "productTitle": "SmartphoneClip® Metaal schakel Samsung galaxy watch bandje Zilver geschikt voor Samsung Galaxy Watch 42mm & Galaxy Watch Active (2)",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=13-14&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0008",
+      "marketplace": "Bol.com",
+      "product": "8720254257105",
+      "productId": "9300000007825715",
+      "productTitle": "SmartphoneClip® Leer zwar robuust bandje geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0009",
+      "marketplace": "Bol.com",
+      "product": "8719992528493",
+      "productId": "9200000110209060",
+      "productTitle": "SmartphoneClip® Leer double bruin bandje geschikt voor Samsung Galaxy Watch 42mm en Galaxy Watch Active",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=22-23&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0010",
+      "marketplace": "Bol.com",
+      "product": "8720254257211",
+      "productId": "9300000014830191",
+      "productTitle": "SmartphoneClip® Elastische zwart Bandje geschikt voor Samsung Galaxy Watch Active (2)",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0011",
+      "marketplace": "Bol.com",
+      "product": "8720254257082",
+      "productId": "9300000007825717",
+      "productTitle": "SmartphoneClip® Leer cognac met schroef Bandje geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=17-18&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=17-18&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0012",
+      "marketplace": "Bol.com",
+      "product": "8720254257099",
+      "productId": "9300000007825721",
+      "productTitle": "SmartphoneClip® Leer bruin Bandje met schroef geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&12194=20-21&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0013",
+      "marketplace": "Bol.com",
+      "product": "8719325643985",
+      "productId": "9200000120922482",
+      "productTitle": "SmartphoneClip® Nylon 20mm Bandje lichtroze/zand geschikt voor Samsung Galaxy Watch Active/Active 2",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0014",
+      "marketplace": "Bol.com",
+      "product": "8720828005392",
+      "productId": "9300000132278720",
+      "productTitle": "SmartphoneClip® Milanees Zwart Bandje geschikt voor Google Pixel Watch 1 en 2",
+      "keywords": ["google pixel watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0015",
+      "marketplace": "Bol.com",
+      "product": "8720828005408",
+      "productId": "9300000132278721",
+      "productTitle": "SmartphoneClip® Metaal Schakel Zilver Bandje geschikt voor Google Pixel Watch 1 en 2",
+      "keywords": ["google pixel watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=google+pixel+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0016",
+      "marketplace": "Bol.com",
+      "product": "8719325732375",
+      "productId": "9200000132444058",
+      "productTitle": "SmartphoneClip® Leer Zwart bandje geschikt voor TomTom Runner 3 / Spark 3",
+      "keywords": ["tomtom bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=tomtom+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0017",
+      "marketplace": "Bol.com",
+      "product": "8719325643299",
+      "productId": "9200000115179432",
+      "productTitle": "SmartphoneClip® Sport Garmin bandje Rood geschikt voor Garmin Forerunner 35",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0018",
+      "marketplace": "Bol.com",
+      "product": "7061114389279",
+      "productId": "9200000098610002",
+      "productTitle": "SmartphoneClip® Sport bandje groen/zwart geschikt voor Garmin Forerunner 235 630 230",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0019",
+      "marketplace": "Bol.com",
+      "product": "8719325643275",
+      "productId": "9200000115179400",
+      "productTitle": "SmartphoneClip® Sport bandje Grijs geschikt voor Garmin Forerunner 35",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0020",
+      "marketplace": "Bol.com",
+      "product": "8719325643954",
+      "productId": "9200000119885960",
+      "productTitle": "SmartphoneClip® Milanees 20mm zwart bandje geschikt voor Garmin Venu/Vivomove/Vivoactive 3/Forerunner 245/Forerunner 645",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0021",
+      "marketplace": "Bol.com",
+      "product": "8719325643268",
+      "productId": "9200000115179384",
+      "productTitle": "SmartphoneClip® Sport Garmin bandje Wit geschikt voor Garmin Forerunner 35",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0022",
+      "marketplace": "Bol.com",
+      "product": "8719325732405",
+      "productId": "9200000132275475",
+      "productTitle": "SmartphoneClip® Horlogeband Tomtom bandje Zwart/Wit geschikt voor TomTom Runner 3 / Spark 3",
+      "keywords": ["tomtom bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=tomtom+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0023",
+      "marketplace": "Bol.com",
+      "product": "8719325732412",
+      "productId": "9200000132275813",
+      "productTitle": "SmartphoneClip® Horlogeband Wit/Zwart bandje geschikt voor TomTom Runner 3 / Spark 3",
+      "keywords": ["tomtom bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=tomtom+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0024",
+      "marketplace": "Bol.com",
+      "product": "7110539463832",
+      "productId": "9200000084586973",
+      "productTitle": "SmartphoneClip® Horloge Blauwgrijs bandje geschikt voor TomTom Runner 3 / Spark 3",
+      "keywords": ["tomtom bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=tomtom+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0025",
+      "marketplace": "Bol.com",
+      "product": "7110534044821",
+      "productId": "9200000089189420",
+      "productTitle": "SmartphoneClip® Sport bandje zwart/rood - geschikt voor Garmin Forerunner 235 630 230",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0026",
+      "marketplace": "Bol.com",
+      "product": "8720254862088",
+      "productId": "9300000035261105",
+      "productTitle": "SmartphoneClip® Leer/siliconen zwart bandje geschikt voor Garmin Fenix 6/6X",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0027",
+      "marketplace": "Bol.com",
+      "product": "7110536141115",
+      "productId": "9200000086916478",
+      "productTitle": "SmartphoneClip® Sport bandje Grijs geschikt voor Garmin Fenix 3 / 3 HR",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0028",
+      "marketplace": "Bol.com",
+      "product": "7061111181050",
+      "productId": "9200000098292404",
+      "productTitle": "SmartphoneClip® Sport bandje Oranje Large geschikt voor Garmin Fenix 5/6 en Forerunner 935/945",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0029",
+      "marketplace": "Bol.com",
+      "product": "8719992214730",
+      "productId": "9200000102314787",
+      "productTitle": "SmartphoneClip® Sport bandje blauw geschikt voor TomTom Touch en Touch Cardio",
+      "keywords": ["tomtom bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=tomtom+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-24-0030",
+      "marketplace": "Bol.com",
+      "product": "8720254862095",
+      "productId": "9300000035261107",
+      "productTitle": "SmartphoneClip® Milanees zwart bandje geschikt voor Garmin Fenix 6/6X",
+      "keywords": ["garmin bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=garmin+bandje&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
