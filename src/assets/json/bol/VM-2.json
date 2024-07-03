@@ -22,7 +22,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0003",
+      "id": "VM-2-0002",
       "marketplace": "Bol.com",
       "product": "Earplugs",
       "productId": "9300000082254510",
@@ -49,7 +49,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0005",
+      "id": "VM-2-0003",
       "marketplace": "Bol.com",
       "product": "Robot 2 - Unbranded",
       "productId": "9300000043283281",
@@ -65,7 +65,7 @@
       "isOutOfStock": false
     },
     {
-      "id": "VM-2-0006",
+      "id": "VM-2-0004",
       "marketplace": "Bol.com",
       "product": "Robot 3 - Unbranded",
       "productId": "9300000087795314",
@@ -81,7 +81,7 @@
       "isOutOfStock": true
     },
     {
-      "id": "VM-2-0007",
+      "id": "VM-2-0005",
       "marketplace": "Bol.com",
       "product": "Lamp",
       "productId": "9300000079969930",
@@ -111,7 +111,7 @@
       "isMostWantedList": false
     },
     {
-      "id": "VM-2-0008",
+      "id": "VM-2-0006",
       "marketplace": "Bol.com",
       "product": "LED bulb GU10 1x",
       "productId": "9300000129700113",
@@ -136,7 +136,7 @@
       "isPerPage": true
     },
     {
-      "id": "VM-2-0009",
+      "id": "VM-2-0007",
       "marketplace": "Bol.com",
       "product": "LED strip TV 2m",
       "productId": "9300000032517844",
@@ -167,7 +167,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0010",
+      "id": "VM-2-0008",
       "marketplace": "Bol.com",
       "product": "LED strip TV 3m",
       "productId": "9300000032517889",
@@ -198,7 +198,7 @@
       "isPerPage": true
     },
     {
-      "id": "VM-2-0011",
+      "id": "VM-2-0009",
       "marketplace": "Bol.com",
       "product": "LED strip TV 6m",
       "productId": "9300000077012899",
@@ -209,7 +209,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-2-0012",
+      "id": "VM-2-0010",
       "marketplace": "Bol.com",
       "product": "LED strip NEON RGB 3m",
       "productId": "9300000137732718",
@@ -233,7 +233,7 @@
       "isPerPage": true
     },
     {
-      "id": "VM-2-0013",
+      "id": "VM-2-0011",
       "marketplace": "Bol.com",
       "product": "LED strip NEON RGBIC 3m",
       "productId": "9300000137732719",
@@ -255,7 +255,7 @@
       "isPerPage": true
     },
     {
-      "id": "VM-2-0014",
+      "id": "VM-2-0012",
       "marketplace": "Bol.com",
       "product": "LED strip NEON RGB 6m",
       "productId": "9300000130919989",
@@ -267,7 +267,7 @@
       "isPerPage": true
     },
     {
-      "id": "VM-2-0015",
+      "id": "VM-2-0013",
       "marketplace": "Bol.com",
       "product": "LED strip NEON IC 6m",
       "productId": "9300000130919987",

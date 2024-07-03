@@ -33,7 +33,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0003",
+      "id": "VM-3-0002",
       "marketplace": "Bol.com",
       "product": "BabyFoon White",
       "productId": "9300000163662072",
@@ -60,7 +60,7 @@
       "isMostWantedList": false
     },
     {
-      "id": "VM-3-0004",
+      "id": "VM-3-0003",
       "marketplace": "Bol.com",
       "product": "Powerbank 1",
       "productId": "9300000160670428",
@@ -88,7 +88,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0005",
+      "id": "VM-3-0004",
       "marketplace": "Bol.com",
       "product": "Powerbank 2",
       "productId": "9300000160670427",
@@ -116,7 +116,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0006",
+      "id": "VM-3-0005",
       "marketplace": "Bol.com",
       "product": "Powerbank 3",
       "productId": "9300000179460865",
@@ -143,11 +143,11 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0007",
+      "id": "VM-3-0006",
       "marketplace": "Bol.com",
-      "product": "Earplugs Party",
+      "product": "Earplugs",
       "productId": "9300000165423620",
-      "productTitle": "QuchiQ™ - Oordoppen - Slaap Oordoppen - Partyplug - Festival oordopjes - HSP Gehoorbescherming - Siliconen plug met filter - 23 dB protection – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs",
+      "productTitle": "QuchiQ™ - Oordoppen - Slaap Oordoppen - Partyplug - Festival oordopjes - HSP Gehoorbescherming - Siliconen plug met filter - 18 dB protection – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs",
       "keywords": 
       [
         "oordoppen snurken", "slaapoordoppen", "oordoppen slapen", "sleep plugs", "oordopjes slapen",
@@ -155,20 +155,20 @@
       ],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken",
-        "https://www.bol.com/nl/nl/s/?searchtext=slaapoordoppen",
-        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen",
-        "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs",
-        "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen",
-        "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes",
-        "https://www.bol.com/nl/nl/s/?searchtext=earplugs+slapen",
-        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+snurken&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapoordoppen&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+slapen&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=sleep+plugs&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordopjes+slapen&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaap+oordopjes&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=earplugs+slapen&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen&view=list&filter_N=4298231505&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0008",
+      "id": "VM-3-0007",
       "marketplace": "Bol.com",
       "product": "Vegetable Cutter",
       "productId": "9300000032558171",
@@ -176,40 +176,40 @@
       "keywords": ["mandolines", "mandoline groentesnijder", "uiensnijder", "mandoline", "mandoline keukensnijder", "groentesnijder"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=mandolines",
-        "https://www.bol.com/nl/nl/s/?searchtext=mandoline+groentesnijder",
-        "https://www.bol.com/nl/nl/s/?searchtext=uiensnijder",
-        "https://www.bol.com/nl/nl/s/?searchtext=mandoline",
-        "https://www.bol.com/nl/nl/s/?searchtext=mandoline+keukensnijder",
-        "https://www.bol.com/nl/nl/s/?searchtext=groentesnijder"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandolines&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandoline+groentesnijder&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=uiensnijder&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandoline&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mandoline+keukensnijder&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=groentesnijder&view=list&filter_N=4296450201&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0009",
+      "id": "VM-3-0008",
       "marketplace": "Bol.com",
       "product": "Water bottle GR",
       "productId": "9300000022722259",
-      "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Grijs",
       "keywords": ["waterfles", "drinkfles", "waterfles 1 liter", "drinkflessen", "waterflessen", "waterfles met fruit filter", "drinkfles kind", "drinkfles 1 liter"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+met+fruit+filter&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kind&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
       "isPerPage": true
     },
     {
-      "id": "VM-3-0010",
+      "id": "VM-3-0009",
       "marketplace": "Bol.com",
       "product": "Spiral Cutter",
       "productId": "9200000129572821",
@@ -225,30 +225,31 @@
         "https://www.bol.com/nl/nl/s/?searchtext=courgettesnijder+spiraal"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
-      "id": "VM-3-0011",
+      "id": "VM-3-0010",
       "marketplace": "Bol.com",
       "product": "BorstKolf",
       "productId": "9300000021841114",
-      "productTitle": "NurtureGoods Dual Efficient Borstkolf - Smart 3.0 - Vernieuwd 2023 model - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu - Inclusief 2x180 ml Babyfles, Kolfdagboek en Speen - Borstkolf Electrisch Dubbel",
+      "productTitle": "NurtureGoods Dual Efficient Borstkolf - Smart 3.0 - Vernieuwd 2024 model - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu - Inclusief 2x180 ml Babyfles, Kolfdagboek en Speen - Breast Pump Electrisch Dubbel",
       "keywords": ["borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "borstkolf dubbel", "draadloze borstkolf", "breast pump", "kolf"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=borstkolf",
-        "https://www.bol.com/nl/nl/s/?searchtext=elektrische+borstkolf",
-        "https://www.bol.com/nl/nl/s/?searchtext=borstkolf+electrisch+dubbel",
-        "https://www.bol.com/nl/nl/s/?searchtext=borstkolf+dubbel",
-        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+borstkolf",
-        "https://www.bol.com/nl/nl/s/?searchtext=breast+pump",
-        "https://www.bol.com/nl/nl/s/?searchtext=kolf"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=borstkolf&view=list&filter_N=4267577128&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=elektrische+borstkolf&view=list&filter_N=4267577128&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=borstkolf+electrisch+dubbel&view=list&filter_N=4267577128&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=borstkolf+dubbel&view=list&filter_N=4267577128&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=draadloze+borstkolf&view=list&filter_N=4267577128&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=breast+pump&view=list&filter_N=4267577128&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=kolf&view=list&filter_N=4267577128&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0012",
+      "id": "VM-3-0011",
       "marketplace": "Bol.com",
       "product": "Sleepmask",
       "productId": "9300000048501922",
@@ -256,35 +257,44 @@
       "keywords": ["slaapmasker", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmaskers", "oogmasker"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker",
-        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+vrouwen",
-        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+mannen",
-        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+3d",
-        "https://www.bol.com/nl/nl/s/?searchtext=zijden+slaapmasker",
-        "https://www.bol.com/nl/nl/s/?searchtext=slaapmaskers",
-        "https://www.bol.com/nl/nl/s/?searchtext=oogmasker"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker&view=list&filter_N=7557062794&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+vrouwen&view=list&filter_N=7557062794&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+mannen&view=list&filter_N=7557062794&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+3d&view=list&filter_N=7557062794&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=zijden+slaapmasker&view=list&filter_N=7557062794&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmaskers&view=list&filter_N=7557062794&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oogmasker&view=list&filter_N=7557062794&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-3-0013",
+      "id": "VM-3-0012",
       "marketplace": "Bol.com",
       "product": "BabyFoon Black",
       "productId": "9300000179671207",
       "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Zwart",
-      "keywords": ["babyfoon", "babyfoon met camera", "baby monitor"],
-      "keywordLink": [
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-        "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+camera",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoons",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera"
+      "keywords": 
+      [
+        "babyfoon", "babyfoon met camera", "baby monitor", "babyfoons", "babyfoon met camera en app",
+        "babyfoon camera", "baby camera", "babyfoon met app", "babyfoon met camera en app wifi", "babyfoon met camera bestverkocht"
+      ],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+monitor&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoons&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+camera&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+camera&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+app&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app+wifi&view=list&filter_N=4295747366&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+bestverkocht&view=list&filter_N=4295747366&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": false
     }
-    
   ]
 }
