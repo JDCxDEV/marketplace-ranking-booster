@@ -296,6 +296,38 @@
                 }
             ],
             "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0018",
+            "marketplace": "Kaufland",
+            "product": "KOI Artisan® Damascus Koksmes - 8,89 cm",
+            "productTitle": "KOI Artisan® Damascus Kochmesser - 8,89 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem Damascus VG10 Superstahl - Chef Messer",
+            "productId": "497700921",
+            "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
+            "keyword":
+            [
+                {
+                    "name": "kochmesser",
+                    "link": "https://www.kaufland.de/s/?price=6100-6200&search_value=kochmesser"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0019",
+            "marketplace": "Kaufland",
+            "product": "KOI Artisan® Santokumes Koksmes - 12,7 cm",
+            "productTitle": "KOI Artisan® Santokumesser - 12,7 cm - Kochmesser - Rasiermesserscharfe Klinge - Japanische Küchenmesser aus hochkohlenstoffhaltigem rostfreiem Stahl",
+            "productId": "497736821",
+            "keywords": ["kochmesser", "küchenmesser"],
+            "keyword":
+            [
+                {
+                    "name": "küchenmesser",
+                    "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=k%C3%BCchenmesser"
+                }
+            ],
+            "isRunning" : false 
         }
     ]
   }
