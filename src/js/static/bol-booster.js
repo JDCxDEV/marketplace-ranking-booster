@@ -56,6 +56,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
   try {
     browser = await puppeteer.launch({ 
       headless: false,
+      executablePath: '/bin/chromium-browser',  // Ensure this is the correct path
       args: [
         `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
