@@ -1,441 +1,512 @@
 {
-    "products": [
-      {
-        "id": "VM-23-0001",
-        "marketplace": "Bol.com",
-        "product": "8720254862835",
-        "productId": "9300000053477618",
-        "productTitle": "SmartphoneClip® Siliconen Bandje double zwart geschikt voor Fitbit Luxe",
-        "keywords": ["fitbit bandje", "fitbit luxe bandje", "fitbit luxe"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+luxe+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+luxe&view=list&filter_N=4278199321&12194=11-12&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0002",
-        "marketplace": "Bol.com",
-        "product": "7111608989130",
-        "productId": "9200000094767669",
-        "productTitle": "SmartphoneClip® SportBandje Black Flowers Small - geschikt voor Fitbit Alta HR of Alta HR",
-        "keywords": ["fitbit bandje", "fitbit alta hr bandje", "fitbit alta bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=16726+4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+hr+bandje&view=list&filter_N=16726+4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+bandje&view=list&filter_N=16726+4278199321&12194=11-12&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0003",
-        "marketplace": "Bol.com",
-        "product": "8720254862071",
-        "productId": "9300000034959103",
-        "productTitle": "SmartphoneClip® Scrunchie Bandje zwart geschikt voor Fitbit Charge 3 / Charge 4",
-        "keywords": ["fitbit bandje", "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit charge 4 bandje", "fitbit charge 3 bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0004",
-        "marketplace": "Bol.com",
-        "product": "8719992214082",
-        "productId": "9200000100091399",
-        "productTitle": "SmartphoneClip® Metaal schakel Zilver Bandje geschikt voor Fitbit Charge 3 / Charge 4",
-        "keywords": ["fitbit bandje", "fitbit charge 4 bandje", "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit charge 3 bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0005",
-        "marketplace": "Bol.com",
-        "product": "8719992528646",
-        "productId": "9200000110221789",
-        "productTitle": "SmartphoneClip® Sport Bandje double zwart/grijs - geschikt voor Fitbit Versa (Lite)",
-        "keywords": ["fitbit bandje versa", "fitbit bandje versa 2", "fitbit versa bandje", "fitbit bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=13-14&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=13-14&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=13-14&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0006",
-        "marketplace": "Bol.com",
-        "product": "8720254257730",
-        "productId": "9300000015391410",
-        "productTitle": "SmartphoneClip® Metaal schakel zilver Bandje geschikt voor Fitbit Versa 3 en Fitbit Sense",
-        "keywords": ["fitbit bandje", "fitbit versa 3 bandje", "fitbit versa bandje", "fitbit sense bandje", "fitbit bandje versa 3"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+3+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&filter_N=4278199321&12194=9-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+3&view=list&filter_N=4278199321&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0007",
-        "marketplace": "Bol.com",
-        "product": "8719325643367",
-        "productId": "9200000116348353",
-        "productTitle": "SmartphoneClip® Leer zilver metallic Bandje geschikt voor Fitbit Versa (Versa 2, Versa Lite)",
-        "keywords": ["fitbit bandje", "fitbit versa bandje","fitbit bandje versa 2","fitbit bandje versa"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=17-18&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=17-18&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&filter_N=4278199321&12194=17-18&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=17-18&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0008",
-        "marketplace": "Bol.com",
-        "product": "8719325732764",
-        "productId": "9300000004774307",
-        "productTitle": "SmartphoneClip® Sport VentilFitbit Bandjeatie Small Blauw - geschikt voor Fitbit Versa (Lite)",
-        "keywords": ["fitbit bandje versa", "fitbit bandje versa 2", "fitbit versa bandje","fitbit bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=22-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=22-23&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0009",
-        "marketplace": "Bol.com",
-        "product": "8720254257389",
-        "productId": "9300000014830486",
-        "productTitle": "SmartphoneClip® Elastische zwart goud Bandje geschikt voor Fitbit Versa (1, 2, Lite)",
-        "keywords": ["fitbit bandje versa","fitbit bandje versa 2","fitbit versa bandje","fitbit bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=15-16&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=15-16&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=16727+4278199321&12194=15-16&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-
-      {
-        "id": "VM-23-0010",
-        "marketplace": "Bol.com",
-        "product": "8720254257693",
-        "productId": "9300000015391116",
-        "productTitle": "SmartphoneClip® Milanees Bandje goud geschikt voor Fitbit Versa 3 en Fitbit Sense",
-        "keywords": ["fitbit bandje versa 3","fitbit sense bandje","fitbit versa bandje","fitbit versa 3 bandje","fitbit bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+3&view=list&filter_N=4278199321&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+3+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-
-      {
-        "id": "VM-23-0011",
-        "marketplace": "Bol.com",
-        "product": "8720254862002",
-        "productId": "9300000034860051",
-        "productTitle": "SmartphoneClip® Nylon blauw Bandje geschikt voor Fitbit Versa 3 & Fitbit Sense",
-        "keywords": ["fitbit bandje versa 3","fitbit sense bandje","fitbit versa bandje","fitbit versa 3 bandje","fitbit bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+3&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+3+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=16715+4278199321&12194=11-12&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-
-      {
-        "id": "VM-23-0012",
-        "marketplace": "Bol.com",
-        "product": "8720254862026",
-        "productId": "9300000034860049",
-        "productTitle": "SmartphoneClip® Nylon lemon Bandje geschikt voor Fitbit Versa 3 & Fitbit Sense",
-        "keywords": ["fitbit bandje","fitbit versa 3 bandje","fitbit versa bandje","fitbit sense bandje","fitbit bandje versa 3"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=9-10&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+3+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+3&view=list&filter_N=4278199321&rating=all" 
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0013",
-        "marketplace": "Bol.com",
-        "product": "8719325643374",
-        "productId": "9200000116348398",
-        "productTitle": "SmartphoneClip® Leer goud metallic Bandje geschikt voor Fitbit Versa (Versa 2, Versa Lite)",
-        "keywords": ["fitbit bandje versa","fitbit bandje versa 2","fitbit versa bandje","fitbit bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=17-18&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=16727&12194=17-18&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=17-18&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0014",
-        "marketplace": "Bol.com",
-        "product": "7110539510901",
-        "productId": "9200000092345834",
-        "productTitle": "SmartphoneClip® Sport Bandje Small Classic Peach geschikt voor Fitbit Versa (Lite)",
-        "keywords": ["fitbit bandje","fitbit versa bandje", "fitbit bandje versa 2", "fitbit bandje versa"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=16723+4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=11-12&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0015",
-        "marketplace": "Bol.com",
-        "product": "7111607792236",
-        "productId": "9200000094853503",
-        "productTitle": "SmartphoneClip® Sport Bandje Classic Wit S/M geschikt voor Fitbit Versa (Lite)",
-        "keywords": ["fitbit bandje", "fitbit versa bandje", "fitbit bandje versa 2", "fitbit bandje versa"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=16724+4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=11-12&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0016",
-        "marketplace": "Bol.com",
-        "product": "7111604969051",
-        "productId": "9200000092347034",
-        "productTitle": "SmartphoneClip® Sport Bandje Classic Wit S/M geschikt voor Fitbit Versa (Lite)",
-        "keywords": ["fitbit bandje versa","fitbit bandje versa 2","fitbit versa bandje","fitbit bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=19-20&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&filter_N=4278199321&12194=19-20&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=19-20&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=19-20&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0017",
-        "marketplace": "Bol.com",
-        "product": "8719325732054",
-        "productId": "9200000121414532",
-        "productTitle": "SmartphoneClip® Nylon Indigo Fitbit Bandje geschikt voor Fitbit Charge 3 / Charge 4",
-        "keywords": ["fitbit bandje","fitbit charge 3 bandje","fitbit charge 4 bandje","fitbit bandje charge 3","fitbit bandje charge 4"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=15-16&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0018",
-        "marketplace": "Bol.com",
-        "product": "8719992528349",
-        "productId": "9200000108671382",
-        "productTitle": "SmartphoneClip® Leer Grey Flower Bandje geschikt voor Fitbit Charge 3 / Charge 4",
-        "keywords": ["fitbit bandje","fitbit inspire 2 bandje","fitbit bandje inspire"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=17-18&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+inspire+2+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+inspire&view=list&filter_N=4278199321&rating=all"
-          
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0019",
-        "marketplace": "Bol.com",
-        "product": "8720828005651",
-        "productId": "9300000144341612",
-        "productTitle": "SmartphoneClip® Milanees zwart bandje geschikt voor Fitbit Versa 4 | Fitbit Sense 2",
-        "keywords": ["fitbit bandje","fitbit versa 4 bandje","fitbit sense bandje","fitbit sense 2 bandje","fitbit versa bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+4+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+2+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0020",
-        "marketplace": "Bol.com",
-        "product": "7111609476912",
-        "productId": "9200000092346523",
-        "productTitle": "SmartphoneClip® Metaal schakel Fitbit Bandje Zwart geschikt voor Fitbit Versa | Versa 2 | Versa Lite",
-        "keywords": ["fitbit bandje", "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit bandje versa","fitbit bandje versa 2","fitbit versa bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&12194=16-17&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0021",
-        "marketplace": "Bol.com",
-        "product": "8719325732801",
-        "productId": "9300000002949824",
-        "productTitle": "SmartphoneClip® Metaal Classic schakel bandje Zwart geschikt voor Fitbit Charge 3/4",
-        "keywords": ["fitbit bandje","fitbit bandje charge 3","fitbit charge 4 bandje","fitbit bandje charge 4","fitbit charge 3 bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=21-22&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0022",
-        "marketplace": "Bol.com",
-        "product": "8720254862736",
-        "productId": "9300000053321921",
-        "productTitle": "SmartphoneClip® Bandje klassiek leer bruin geschikt voor Fitbit Luxe",
-        "keywords": ["fitbit bandje","fitbit luxe","fitbit luxe bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+luxe&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+luxe+bandje&view=list&filter_N=4278199321&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0023",
-        "marketplace": "Bol.com",
-        "product": "8719325732795",
-        "productId": "9300000002949828",
-        "productTitle": "SmartphoneClip® Metaal Classic schakel Zilver bandje geschikt voor Fitbit Charge 3/4",
-        "keywords": ["fitbit bandje","fitbit bandje charge 3","fitbit bandje charge 4","fitbit charge 4 bandje","fitbit charge 3 bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&12194=16-17&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&12194=16-17&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-23-0024",
-        "marketplace": "Bol.com",
-        "product": "8720254862972",
-        "productId": "9300000062138312",
-        "productTitle": "SmartphoneClip® Sport Bandje Roze geschikt voor Fitbit Charge 5 en 6",
-        "keywords": ["fitbit bandje","fitbit bandje charge 5","fitbit charge 5 bandje","fitbit charge 6 bandje"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+5&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+5+bandje&view=list&filter_N=4278199321&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+6+bandje&view=list&filter_N=4278199321&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : false,
-        "isMostWantedList": true
-      }
-    ]
+  "products":
+  [
+    {
+      "id": "VM-23-0001",
+      "marketplace": "Bol.com",
+      "product": "8719992528202",
+      "productId": "9200000108462049",
+      "productTitle": "SmartphoneClip® Metaal double chain zwart bandje geschikt voor Apple Watch 38mm, 40mm en 41mm (alle generaties)",
+      "keywords": ["apple watch bandje", "apple watch bandje 40 mm", "bandje apple watch", "bandje apple watch 40mm", "apple watch bandje 38 mm", "apple watch bandje 41 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+40mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+41+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0002",
+      "marketplace": "Bol.com",
+      "product": "8720618313850",
+      "productId": "9300000105539648",
+      "productTitle": "SmartphoneClip® Rugged Armor Iron Case Zilver Bandje met TPU band geschikt voor Apple Watch 45mm",
+      "keywords": ["apple watch bandje", "apple watch bandje 45 mm", "apple watch bandje 49 mm", "apple watch bandje 44 mm", "bandje apple watch", "apple watch bandje 42 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0003",
+      "marketplace": "Bol.com",
+      "product": "8720618313942",
+      "productId": "9300000111075045",
+      "productTitle": "SmartphoneClip® Kalfsleer pinsluiting Bandje Zwart geschikt voor Apple Watch 42mm, 44mm, 45mm, en 49 mm (alle generaties)",
+      "keywords": ["apple watch bandje", "apple watch bandje 42 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "apple watch bandje 49 mm", "bandje apple watch", "bandje apple watch 44 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0004",
+      "marketplace": "Bol.com",
+      "product": "8719992528233",
+      "productId": "9200000108462290",
+      "productTitle": "SmartphoneClip® Houten Bandje bruin geschikt voor Apple Watch 42mm, 44mm, 45mm, en 49 mm (alle generaties)",
+      "keywords": ["apple watch bandje", "apple watch bandje 42 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "bandje apple watch 44 mm",  "apple watch bandje 49 mm", "bandje apple watch"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&12194=29-30&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&12194=29-30&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0005",
+      "marketplace": "Bol.com",
+      "product": "7107104288853",
+      "productId": "9200000083682745",
+      "productTitle": "SmartphoneClip® Nylon Zwart/Oranje Bandje geschikt voor Apple Watch 42mm, 44mm, 45mm, en 49 mm (alle generaties)",
+      "keywords": ["apple watch bandje", "apple watch bandje 42 mm", "apple watch bandje 44 mm", "bandje apple watch 44 mm", "bandje apple watch", "apple watch bandje 45 mm", "apple watch bandje 49 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0006",
+      "marketplace": "Bol.com",
+      "product": "8720254257440",
+      "productId": "9300000013521955",
+      "productTitle": "SmartphoneClip® Scrunchie zwart Bandje geschikt voor Apple Watch 38mm, 40mm en 41mm (alle generaties)",
+      "keywords": ["apple watch bandje", "apple watch bandje 40 mm", "bandje apple watch", "bandje apple watch 40 mm",  "apple watch bandje 38 mm", "apple watch bandje 41 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/p/scrunchie-band-zwart-geschikt-voor-apple-watch-38-en-40mm/9300000013521955/",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+40+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+41+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0007",
+      "marketplace": "Bol.com",
+      "product": "8719992528073",
+      "productId": "9200000107804332",
+      "productTitle": "SmartphoneClip® Leer double Pink Flower Bandje geschikt voor Apple Watch 38mm, 40mm en 41mm (alle generaties)",
+      "keywords": ["apple watch bandje", "apple watch bandje 40 mm", "bandje apple watch", "bandje apple watch 40 mm", "apple watch bandje 38 mm", "apple watch bandje 41 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+40+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+40+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+38+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+41+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0008",
+      "marketplace": "Bol.com",
+      "product": "8720254257587",
+      "productId": "9300000014830219",
+      "productTitle": "SmartphoneClip® Elastische band Peru geschikt voor Apple Watch 42mm, 44mm, 45mm, en 49 mm (alle generaties)",
+      "keywords": ["apple watch bandje", "bandje apple watch", "apple watch bandje 42 mm", "bandje apple watch 44 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "apple watch bandje 49 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0009",
+      "marketplace": "Bol.com",
+      "product": "8719325732252",
+      "productId": "9200000123372865",
+      "productTitle": "SmartphoneClip® Leer leopard Bandje geschikt voor Apple Watch 42mm, 44mm, 45mm, en 49 mm (alle generaties)",
+      "keywords": ["apple watch bandje", "bandje apple watch", "apple watch bandje 42 mm", "bandje apple watch 44 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "apple watch bandje 49 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0010",
+      "marketplace": "Bol.com",
+      "product": "8720618313614",
+      "productId": "9300000089292879",
+      "productTitle": "SmartphoneClip® Nylon Bandje gevlochten Groen geschikt voor Apple Watch 42mm, 44mm, 45mm, en 49 mm (alle generaties)",
+      "keywords": ["apple watch bandje", "bandje apple watch", "apple watch bandje 42 mm", "bandje apple watch 44 mm", "apple watch bandje 44 mm", "apple watch bandje 45 mm", "apple watch bandje 49 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0011",
+      "marketplace": "Bol.com",
+      "product": "8720618313843",
+      "productId": "9300000105539649",
+      "productTitle": "SmartphoneClip® Rugged Armor Iron Case Zwart Bandje met TPU band geschikt voor Apple Watch 44mm",
+      "keywords": ["apple watch bandje", "bandje apple watch", "apple watch bandje 42 mm", "apple watch bandje 45 mm", "apple watch bandje 44 mm", "bandje apple watch 44 mm", "apple watch bandje 49 mm"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+42+mm&view=list&filter_N=4278199321&12194=35-36&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+45+mm&view=list&filter_N=4278199321&12194=35-36&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+apple+watch+44+mm&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=apple+watch+bandje+49+mm&view=list&filter_N=4278199321&12194=35-36&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0012",
+      "marketplace": "Bol.com",
+      "product": "8719325643763",
+      "productId": "9200000118022443",
+      "productTitle": "SmartphoneClip® Leer Zwart Ibiza style Bandje geschikt voor Samsung Galaxy Watch 46mm en Gear S3",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0013",
+      "marketplace": "Bol.com",
+      "product": "8719325643800",
+      "productId": "9200000118022562",
+      "productTitle": "SmartphoneClip® Twist Leer Zwart bandje geschikt voor Samsung Galaxy Watch 46mm en Gear S3",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0014",
+      "marketplace": "Bol.com",
+      "product": "8719325643886",
+      "productId": "9200000120924655",
+      "productTitle": "SmartphoneClip® Leren zwart sport bandje geschikt voor Samsung Gear S3 & Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0015",
+      "marketplace": "Bol.com",
+      "product": "8719992214556",
+      "productId": "9200000104600579",
+      "productTitle": "SmartphoneClip® Bandje leer bruin Samsung galaxy watch bandje met blauwe stiksels geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0016",
+      "marketplace": "Bol.com",
+      "product": "8719992214563",
+      "productId": "9200000104600591",
+      "productTitle": "SmartphoneClip® Leer groen Bandje met zwarte stiksels geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=19-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=19-20&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0017",
+      "marketplace": "Bol.com",
+      "product": "8719325643053",
+      "productId": "9200000114665200",
+      "productTitle": "SmartphoneClip® Leer Bandje pink flowers geschikt voor Samsung Galaxy Watch 42mm en Galaxy Watch Active",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0018",
+      "marketplace": "Bol.com",
+      "product": "8719325643114",
+      "productId": "9200000114667149",
+      "productTitle": "SmartphoneClip® Leer zwart Bandje classic geschikt voor Samsung Galaxy Watch 42mm en Galaxy Watch Active?Active 2",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0019",
+      "marketplace": "Bol.com",
+      "product": "8719325732023",
+      "productId": "9200000120922683",
+      "productTitle": "SmartphoneClip® Nylon 20mm Zwart bandje geschikt voor Samsung Galaxy Watch Active/Active 2",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0020",
+      "marketplace": "Bol.com",
+      "product": "8720254257150",
+      "productId": "9300000013521964",
+      "productTitle": "SmartphoneClip® Scrunchie leopard bandje geschikt voor Samsung Galaxy Watch Active (2)",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0021",
+      "marketplace": "Bol.com",
+      "product": "8719325643770",
+      "productId": "9200000118022525",
+      "productTitle": "SmartphoneClip® Twist Leer Bruin bandje geschikt voor Samsung Galaxy Watch 42mm en Galaxy Watch Active/Active 2",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0022",
+      "marketplace": "Bol.com",
+      "product": "8719992214372",
+      "productId": "9200000100093106",
+      "productTitle": "SmartphoneClip® Metaal schakel double Zwart bandje geschikt voor Samsung Galaxy Watch 42mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=19-20&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=19-20&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0023",
+      "marketplace": "Bol.com",
+      "product": "8719325643060",
+      "productId": "9200000114665239",
+      "productTitle": "SmartphoneClip® Leer grey flowers bandje geschikt voor Samsung Galaxy Watch 42mm en Galaxy Watch Active/Active 2",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0024",
+      "marketplace": "Bol.com",
+      "product": "8719325732146",
+      "productId": "9200000121390811",
+      "productTitle": "SmartphoneClip® Nylon 22mm Grijs/Zwart bandje geschikt voor Samsung Galaxy Watch 46mm & Samsung Gear S3",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=bandje+samsung+galaxy+watch+3&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0025",
+      "marketplace": "Bol.com",
+      "product": "8720254257112",
+      "productId": "9300000007825720",
+      "productTitle": "SmartphoneClip® Leer cognac robuust Bandje geschikt voor Samsung Galaxy Watch 46mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=24-25&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0026",
+      "marketplace": "Bol.com",
+      "product": "8720618313751",
+      "productId": "9300000089309006",
+      "productTitle": "SmartphoneClip® Nylon gevlochten Roze bandje geschikt voor Samsung Galaxy Watch Active/Active 2",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0027",
+      "marketplace": "Bol.com",
+      "product": "8720618313669",
+      "productId": "9300000089298782",
+      "productTitle": "SmartphoneClip® Nylon loop Groen bandje geschikt voor Samsung Galaxy Watch 4, 5 & 6",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "galaxy watch 4 bandje", "samsung galaxy watch 4 bandje", "galaxy watch 5 bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+4+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+4+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+5+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0028",
+      "marketplace": "Bol.com",
+      "product": "8719992214365",
+      "productId": "9200000100093115",
+      "productTitle": "SmartphoneClip® Metaal schakel Samsung galaxy watch bandje double Zilver geschikt voor Samsung Galaxy Watch 42mm",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0029",
+      "marketplace": "Bol.com",
+      "product": "8720618313720",
+      "productId": "9300000089309000",
+      "productTitle": "SmartphoneClip® Milanees Bandje HQ Zilver geschikt voor Samsung Galaxy Watch 4 & Galaxy Watch 5",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "galaxy watch 4 bandje", "samsung galaxy watch 4 bandje", "galaxy watch 5 bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=14-15&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+4+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+4+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+5+bandje&view=list&filter_N=4278199321&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-23-0030",
+      "marketplace": "Bol.com",
+      "product": "8720618313676",
+      "productId": "9300000089298785",
+      "productTitle": "SmartphoneClip® Nylon loop Samsung galaxy watch bandje Regenboog geschikt voor Samsung Galaxy Watch 6",
+      "keywords": ["samsung galaxy watch bandje", "galaxy watch bandje", "galaxy watch 4 bandje", "samsung galaxy watch 4 bandje", "galaxy watch 5 bandje"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=samsung+galaxy+watch+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=galaxy+watch+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    }
+  ]
 }
