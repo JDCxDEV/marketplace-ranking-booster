@@ -191,6 +191,30 @@
       "name": "Virtual Machine 2",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
+    },
+    {
+      "id": 25,
+      "marketplace": "Bol.com",
+      "key": "VM-23",
+      "name": "Virtual Machine 25",
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
+    },
+    {
+      "id": 26,
+      "marketplace": "Bol.com",
+      "key": "VM-26",
+      "name": "Virtual Machine 26",
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
+    },
+    {
+      "id": 27,
+      "marketplace": "Bol.com",
+      "key": "VM-27",
+      "name": "Virtual Machine 27",
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl"
     }
   ]
 }
