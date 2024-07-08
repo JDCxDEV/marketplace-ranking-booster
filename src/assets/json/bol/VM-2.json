@@ -10,13 +10,13 @@
       "keywords": ["slaapmasker", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmaskers", "oogmasker"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+vrouwen&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+mannen&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmasker+3d&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=zijden+slaapmasker&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapmaskers&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oogmasker&view=list&filter_N=7557062794&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+vrouwen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+mannen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmasker+3d",
+        "https://www.bol.com/nl/nl/s/?searchtext=zijden+slaapmasker",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapmaskers",
+        "https://www.bol.com/nl/nl/s/?searchtext=oogmasker"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -34,16 +34,16 @@
       ],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen&view=list&filter_N=7557062794&12194=20-20&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+slapen&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=earplugs&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=sleep+plugs&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordopjes+slapen&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaap+oordopjes&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+snurken&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=geluidsdempende+oordopjes&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+slapen+siliconen&view=list&filter_N=7557062794&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=slaapoordoppen&view=list&filter_N=7557062794&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen",
+        "https://www.bol.com/nl/nl/s/?searchtext=earplugs",
+        "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken",
+        "https://www.bol.com/nl/nl/s/?searchtext=geluidsdempende+oordopjes",
+        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen+siliconen",
+        "https://www.bol.com/nl/nl/s/?searchtext=slaapoordoppen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -57,8 +57,8 @@
       "keywords": ["robot bouwpakket", "robot speelgoed jongens", "robot speelgoed"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=robot+bouwpakket&view=list&filter_N=4298231505&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=robot+speelgoed&view=list&filter_N=4298231505&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket",
+        "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -95,17 +95,17 @@
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=bureaulamp&view=list&filter_N=4298231505&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=lichttherapie+lamp&view=list&filter_N=4298231505&rating=all", 
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglichtlamp&view=list&filter_N=4298231505&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglicht+lamp&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=lichttherapie+lamp", 
+        "https://www.bol.com/nl/nl/s/?searchtext=daglichtlamp",
+        "https://www.bol.com/nl/nl/s/?searchtext=daglicht+lamp",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=bureaulamp+led&view=list&filter_N=4298231505&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=daylight+lamp&view=list&filter_N=4298231505&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglicht+lamp+staand&view=list&filter_N=4298231505&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglichtlamp+staand&view=list&filter_N=4298231505&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglichtlamp+hobby&view=list&12194=34-35",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglichtlamp+fotografie&view=list&12194=34-35",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglichtlampen&view=list&12194=34-35&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=daglicht+lamp&view=list&filter_N=4298231505&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=daglicht+lamp+staand",
+        "https://www.bol.com/nl/nl/s/?searchtext=daglichtlamp+staand",
+        "https://www.bol.com/nl/nl/s/?searchtext=daglichtlamp+hobby",
+        "https://www.bol.com/nl/nl/s/?searchtext=daglichtlamp+fotografie",
+        "https://www.bol.com/nl/nl/s/?searchtext=daglichtlampen",
+        "https://www.bol.com/nl/nl/s/?searchtext=daglicht+lamp"
       ],
       "isRunning" : false,
       "isMostWantedList": false
