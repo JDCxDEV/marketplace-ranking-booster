@@ -110,8 +110,7 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
   } catch (error) {
-
-    console.log(error.message)
+    // console.log(error.message)
     if(browser) {
       await browser.close();
     }
@@ -123,7 +122,7 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
     try {
       content = await page.content();
     }catch(error) {
-      console.log(error.message);
+      // console.log(error.message);
       return;
     }
   }else {
