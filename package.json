@@ -26,10 +26,11 @@
     "mongoose": "^8.4.3",
     "npm": "^10.8.1",
     "proxy-chain": "^2.4.0",
-    "puppeteer": "^19.5.2",
+    "puppeteer": "^19.11.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-extra-plugin-stealth-fix": "^2.11.3",
     "unique-names-generator": "^4.7.1",
     "user-agents": "^1.1.230"
   }

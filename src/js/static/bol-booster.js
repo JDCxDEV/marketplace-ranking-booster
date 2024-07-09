@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer-extra';
-import StealthPlugin from 'puppeteer-extra-plugin-stealth';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth-fix';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
@@ -57,6 +57,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
     browser = await puppeteer.launch({ 
       headless: false,
       args: [
+        `--no-sandbox`
         `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
         '--disable-gpu',
