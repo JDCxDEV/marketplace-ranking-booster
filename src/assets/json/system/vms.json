@@ -30,7 +30,7 @@
       "key": "VM-4",
       "name": "Virtual Machine 4",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 5,
@@ -99,7 +99,7 @@
     {
       "id": 13,
       "marketplace": "Bol.com",
-      "key": "VM-1",
+      "key": "ip-royal-nl",
       "name": "Virtual Machine 13",
       "steps": "per-page",
       "proxy": "smart-proxy-nl"
