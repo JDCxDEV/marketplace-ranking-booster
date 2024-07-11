@@ -180,5 +180,43 @@ export const createAccount = async () => {
     const selector = `[data-test="login-link"]`;
     const isClicked = await booster.clickElementBySelector(page, browser, selector, 3000, 5000);
     await booster.addRandomTimeGap(2, 3);
-} 
+}
+
+export const clickProductListChangeView = async (page) => {
+    let xpath = `//*[@data-analytics-id="px_listpage_change_viewmode"]`;
+    await booster.clickElement(page, null, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
+}
+
+export const changeProductListFilterView = async (page) => {
+    // Define the XPath of the <select> element
+    const xpath = `//*[@id="sort"]`;
+  
+    // Use page.$x to find the <select> element
+    const [selectElement] = await page.$x(xpath);
+  
+    if (selectElement) {
+      // List of possible values for the <select> element
+      const options = [
+          'popularity1',
+          'price0',
+          'release_date1',
+          'rating1',
+          'wishListRank1'
+      ];
+  
+      // Select a random value from the options array
+      const randomValue = options[Math.floor(Math.random() * options.length)];
+  
+      // Change the value of the <select> element to the random value
+      await page.evaluate((element, value) => {
+        element.value = value;
+        element.dispatchEvent(new Event('change')); // Trigger change event if needed
+      }, selectElement, randomValue);
+  
+      console.log("Value changed to:", randomValue);
+    } else {
+      console.error("Element not found");
+    }
+};
+
 

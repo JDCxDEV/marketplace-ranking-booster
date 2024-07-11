@@ -365,6 +365,8 @@ export const clickElement = async (page, browser, elementXPath, hoverDelay = 750
     return true;
   } catch (error) {
 
+    console.log(error.message);
+    
     if(browser) {
       browser.close();
     }
