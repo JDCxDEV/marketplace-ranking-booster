@@ -6,11 +6,21 @@
       "product": "Kitchen scale White",
       "productId": "9300000016708111",
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg – Tarra Functie - Wit",
-      "keywords": ["weegschaal keuken", "keukenweegschaal", "precisie weegschaal", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal", "precisie keukenweegschaal"],
+      "keywords": 
+      [
+        "weegschaal keuken", "keukenweegschaal", "precisie weegschaal", "weegschaalkeuken", "digitale keukenweegschaal",
+        "keukenweegschalen", "keuken weegschaal", "precisie keukenweegschaal"
+      ],
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken",
-        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenweegschaal&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=precisie+weegschaal&view=list&12194=24-25",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -29,7 +39,15 @@
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal",
-        "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken"
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
+        "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=precisie+weegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+digitaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+oplaadbaar"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -39,8 +57,12 @@
       "marketplace": "Bol.com",
       "product": "Security Camera Black",
       "productId": "9200000124101802",
-      "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Werkt met app - Hondencamera Binnen - Indoor - Zwart",
-      "keywords": ["beveiligingscamera's", "beveiligingscamera", "hondencamera", "beveiligingscamera binnen", "bewakingscamera voor binnen", "petcam", "huisdiercamera met app", "hondencamera met app", "indoor camera"],
+      "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Petcam met app - Hondencamera - Bewakingscamera voor Binnen Indoor Camera - Zwart",
+      "keywords": 
+      [
+        "beveiligingscamera's", "beveiligingscamera", "hondencamera", "beveiligingscamera binnen", "bewakingscamera voor binnen",
+        "petcam", "huisdiercamera met app", "hondencamera met app", "indoor camera"
+      ],
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?searchtext=beveiligingscamera%27s",
@@ -52,17 +74,16 @@
         "https://www.bol.com/nl/nl/s/?searchtext=huisdiercamera+met+app",
         "https://www.bol.com/nl/nl/s/?searchtext=hondencamera+met+app",
         "https://www.bol.com/nl/nl/s/?searchtext=indoor+camera"
-
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-7-0005",
+      "id": "VM-7-0004",
       "marketplace": "Bol.com",
       "product": "Reading Lamp",
       "productId": "9300000048093676",
-      "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar - Voor in Bed",
+      "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar - Voor in Bed - Klemlamp voor Volwassenen en Kinderen - Slaapkamer Lampje",
       "keywords": 
       [
         "leeslampje", "leeslampje voor boek", "leeslampje voor in bed", "led leeslampje", "leeslampje klem",
@@ -90,7 +111,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-7-0006",
+      "id": "VM-7-0005",
       "marketplace": "Bol.com",
       "product": "Steakknives",
       "productId": "9300000018260977",
@@ -108,7 +129,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-7-0007",
+      "id": "VM-7-0006",
       "marketplace": "Bol.com",
       "product": "Solar Powerbank Single",
       "productId": "9300000004675166",
@@ -116,8 +137,8 @@
       "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank", "powerbank samsung", "powerbank apple", "powerbank solar"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=powerbank",
-        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+iphone",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&filter_N=4296707626&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=powerbank+zonneenergie",
         "https://www.bol.com/nl/nl/s/?searchtext=solar+powerbank",
         "https://www.bol.com/nl/nl/s/?searchtext=powerbank+samsung",
@@ -128,7 +149,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-7-0008",
+      "id": "VM-7-0007",
       "marketplace": "Bol.com",
       "product": "Water bottle BB",
       "productId": "9300000022722144",
@@ -158,7 +179,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-7-0009",
+      "id": "VM-7-0008",
       "marketplace": "Bol.com",
       "product": "Kitchen scale Black",
       "productId": "9300000016707946",
@@ -167,17 +188,22 @@
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?searchtext=weegschaal+keuken",
-        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal"
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschaal+digitaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
+        "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
+        "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
+        "https://www.bol.com/nl/nl/s/?searchtext=keuken+weegschaal"
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-7-0010",
+      "id": "VM-7-0009",
       "marketplace": "Bol.com",
       "product": "Water bottle RG",
       "productId": "9300000029090914",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Rosé Goud",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Rosé Goud",
       "keywords": 
       [
         "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
@@ -200,11 +226,11 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-7-0011",
+      "id": "VM-7-0010",
       "marketplace": "Bol.com",
       "product": "Water bottle RB",
       "productId": "9300000022722291",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruitfilter en Shake Bal/Shaker - 1 Liter - BPA vrij - Roze/Blauw",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Roze/Blauw",
       "keywords": 
       [
         "drinkfles", "drinkflessen", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter",
@@ -213,17 +239,17 @@
       ],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=water+fles",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=water+fles&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen"
       ],
       "isRunning" : false,
