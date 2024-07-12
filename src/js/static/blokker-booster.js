@@ -58,21 +58,17 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       args: [
         `--proxy-server=${proxy.host}`,
         '--window-position=0,0',
-        '--ignore-certificate-errors',
-        '--single-process',
         '--disable-gpu',
         '--disable-dev-shm-usage',
         '--disable-accelerated-2d-canvas',
         '--no-first-run',
-        '--no-sandbox',
         '--no-zygote',
-        '--start-maximized'
+        '--start-maximized',
         ],
   
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
     });
   }catch(error) {
-    console.log(error.message);
     return;
   }
 
