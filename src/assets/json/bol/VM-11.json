@@ -112,12 +112,12 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=zijslaapkussen&view=list&12194=33-34",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed+zijslapers&view=list&12194=33-34",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+orthopedisch&view=list&12194=33-34",
+          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+orthopedisch",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=knie+kussen&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed+orthopesich&view=list&12194=33-34",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=beenkussen+zijslaper&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=beenkussen+rugslaper&view=list&filter_N=4295060599&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=been+kussen&view=list&filter_N=4295060599&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=been+kussen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
