@@ -6,7 +6,7 @@
       "key": "VM-1",
       "name": "Virtual Machine 1",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 2,
@@ -102,7 +102,7 @@
       "key": "VM-1",
       "name": "Virtual Machine 13",
       "steps": "per-page",
-      "proxy": "ip-royal-nl"
+      "proxy": "ip-royal-be"
     }, 
     {
       "id": 14,
@@ -118,7 +118,7 @@
       "key": "VM-3",
       "name": "Virtual Machine 15",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-be"
     }, 
     {
       "id": 16,
@@ -142,7 +142,7 @@
       "key": "VM-BLOKKER-1",
       "name": "Virtual Machine 18",
       "steps": "per-page",
-      "proxy": "ip-royal-nl"
+      "proxy": "ip-royal-be"
     },
     {
       "id": 19,
@@ -150,7 +150,7 @@
       "key": "VM-BLOKKER-2",
       "name": "Virtual Machine 19",
       "steps": "per-page",
-      "proxy": "ip-royal-nl"
+      "proxy": "ip-royal-be"
     },
     {
       "id": 20,
@@ -206,7 +206,7 @@
       "key": "VM-26",
       "name": "Virtual Machine 26",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-be"
     },
     {
       "id": 27,
@@ -214,7 +214,7 @@
       "key": "VM-27",
       "name": "Virtual Machine 27",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-be"
     }
   ]
 }
