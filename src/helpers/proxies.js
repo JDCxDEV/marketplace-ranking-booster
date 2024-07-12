@@ -34,8 +34,8 @@ const proxiesCredentials = [
         id: 'smart-proxy-nl',
         name: 'smart proxy nl',
         host: 'https://dc.smartproxy.com:10000',
-        username: 'sp54szgndr',
-        password: 'y6p7gahxuATr2SBp4_'
+        username: 'smartProxyFirstBooster',
+        password: '+onuCIUw2Pp52datz5'
     },
     {
         id: 'ip-royal-be',
