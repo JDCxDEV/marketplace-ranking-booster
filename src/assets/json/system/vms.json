@@ -22,7 +22,7 @@
       "key": "VM-3",
       "name": "Virtual Machine 3",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "smart-proxy-nl-2"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "key": "VM-5",
       "name": "Virtual Machine 5",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "smart-proxy-nl-2"
     },
     {
       "id": 6,
@@ -166,7 +166,7 @@
       "key": "VM-21",
       "name": "Virtual Machine 21",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "smart-proxy-nl-2"
     },
     {
       "id": 22,
@@ -174,7 +174,7 @@
       "key": "VM-22",
       "name": "Virtual Machine 22",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "smart-proxy-nl-2"
     },
     {
       "id": 23,
