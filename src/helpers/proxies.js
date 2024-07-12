@@ -39,12 +39,12 @@ const proxiesCredentials = [
     },
     {
         id: 'ip-royal-be',
-        name: 'ip royal',
+        name: 'ip royal be',
         host: await getRandomProxy('ip-royal-be'),
         username: '14a196fbcf0c4',
         password: '101d7b8992'
     },
-    {
+    { 
         id: 'smart-proxy-de',
         name: 'smart proxy de',
         host: 'https://dc.smartproxy.com:10000',
@@ -53,11 +53,18 @@ const proxiesCredentials = [
     },
     {
         id: 'ip-royal-nl',
-        name: 'ip royal',
+        name: 'ip royal nl',
         host: await getRandomProxy('ip-royal-nl'),
         username: '14aad7c0e11df',
         password: '093042f8bf'
     },
+    {
+        id: 'smart-proxy-nl-2',
+        name: 'smart proxy nl',
+        host: 'https://dc.smartproxy.com:10000',
+        username: 'smartProxySecondBooster',
+        password: 'nJ0T0hQyqzW5+c4utu'
+    },    
 ];
 
 const getProxiesCredential = (proxyList, proxyId) => {

@@ -14,7 +14,7 @@
       "key": "VM-2",
       "name": "Virtual Machine 2",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "smart-proxy-nl-2"
     },
     {
       "id": 3,
