@@ -30,7 +30,7 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&rating=all"
       ],
       "isRunning" : false, 
       "isMostWantedList": true
@@ -44,10 +44,10 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes",
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+20mm"
       ],
       "isRunning" : false, 
       "isMostWantedList": true
@@ -61,9 +61,9 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&12194=11-12&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+20mm&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false, 
@@ -78,10 +78,10 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 18mm"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje+18mm&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogeband",
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogebandjes",
+        "https://www.bol.com/nl/nl/s/?searchtext=horlogebandje+18mm"
       ],
       "isRunning" : false, 
       "isMostWantedList": true
@@ -95,9 +95,9 @@
       "keywords": ["horlogeband", "horlogebandje", "horlogebandjes"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogeband&view=list&filter_N=4282750884+4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandje&view=list&filter_N=4282750884+4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=horlogebandjes&view=list&filter_N=4282750884+4278199321&12194=11-12&rating=all"
       ],
       "isRunning" : false, 
       "isMostWantedList": true
@@ -178,10 +178,10 @@
       "keywords": ["fitbit bandje", "fitbit bandje versa 2", "fitbit bandje versa", "fitbit versa bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+versa+2",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+versa+bandje"
       ],
       "isRunning" : false, 
       "isMostWantedList": true
@@ -202,7 +202,8 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-10-0013",
@@ -213,9 +214,9 @@
       "keywords": ["fitbit bandje", "fitbit charge 2 bandje", "fitbit bandje charge 2"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+2+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+2+bandje",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&filter_N=4278199321&12194=21-22&rating=all"
       ],
       "isMostWantedList": true
     },
@@ -228,10 +229,11 @@
       "keywords": ["fitbit bandje", "fitbit bandje charge 3", "fitbit charge 4 bandje", "fitbit bandje charge 4", "fitbit charge 3 bandje"],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+charge+3",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+4+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+charge+4",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+3+bandje"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -251,7 +253,8 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+sense+bandje&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false, 
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-10-0016",
@@ -262,9 +265,9 @@
       "keywords": ["fitbit bandje charge 2", "fitbit charge 2 bandje", "fitbit bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+2+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+charge+2",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+2+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje"
       ],
       "isRunning" : false, 
       "isMostWantedList": true
@@ -278,9 +281,9 @@
       "keywords": ["fitbit bandje", "fitbit versa bandje", "fitbit bandje versa 2", "fitbit bandje versa"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+versa+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa+2&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=21-22&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+versa+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+bandje+versa+2",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+versa&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false, 
@@ -295,8 +298,8 @@
       "keywords": ["fitbit bandje", "fitbit charge 2 bandje", "fitbit bandje charge 2"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+2+bandje&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=13-14&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+charge+2+bandje",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false, 
@@ -311,9 +314,9 @@
       "keywords": ["fitbit bandje", "fitbit alta bandje", "fitbit alta hr bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+bandje&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+alta+hr+bandje&view=list&filter_N=4278199321&rating=all"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+alta+bandje",
+        "https://www.bol.com/nl/nl/s/?searchtext=fitbit+alta+hr+bandje"
       ],
       "isRunning" : false, 
       "isMostWantedList": true
@@ -362,7 +365,7 @@
       "keywords": ["fitbit bandje", "fitbit bandje charge 5", "fitbit charge 5 bandje", "fitbit charge 6 bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=11-12&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+5&view=list&filter_N=4278199321&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+5+bandje&view=list&filter_N=4278199321&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+6+bandje&view=list&filter_N=4278199321&rating=all"
@@ -397,9 +400,8 @@
       "keywords": ["fitbit bandje", "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit charge 3 bandje", "fitbit charge 4 bandje"],
       "keywordLink":
       [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje&view=list&filter_N=4278199321&12194=12-13&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+3&view=list&filter_N=4278199321&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+4&view=list&filter_N=4278199321&12194=12-13&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+3+bandje&view=list&filter_N=4278199321&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+charge+4+bandje&view=list&filter_N=4278199321&rating=all"
       ],
@@ -455,7 +457,8 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+inspire+2+bandje&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false, 
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-10-0028",
@@ -487,7 +490,8 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=fitbit+bandje+charge+2&view=list&filter_N=4278199321&rating=all"
       ],
       "isRunning" : false, 
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-10-0030",
