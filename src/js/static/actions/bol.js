@@ -1,12 +1,13 @@
 import 'dotenv/config';
 import * as booster  from '../../../helpers/boosterSteps.js'
+import * as random from '../../../helpers/random.js'
 
 export const clickPrivacyAndCountryButton = async (page, browser) => {
     try {
         const acceptTermsButtonXPath = `//*[@id='js-first-screen-accept-all-button']`;
         await booster.clickElement(page, browser, acceptTermsButtonXPath, booster.generateRandomNumber(500, 1000))
 
-        await booster.addRandomTimeGap(4, 6);
+        await booster.addRandomTimeGap(3, 4);
 
         const countryLanguageButtonXPath = `//*[contains(@class, 'js-country-language-btn')]`;
         await booster.clickElement(page, browser, countryLanguageButtonXPath, booster.generateRandomNumber(500, 1000))
@@ -36,7 +37,7 @@ export const clickCurrentProduct = async (page, browser, productId) => {
 export const clickToWishList = async (page, browser, productId) => {
     try {
         const selector = `[global-id="${productId}"]`;
-        const isClicked = await booster.clickElementBySelector(page, browser, selector, 3000, 5000);
+        const isClicked = await booster.clickElementBySelector(page, browser, selector, 3000, 4000);
         
         if(isClicked) {        
             // Wait for and click the modal close button
@@ -55,47 +56,48 @@ export const clickToWishList = async (page, browser, productId) => {
 
 
 export const browseProductImage = async (page, browser) => {
-    let hoverAndClick = async () => {
-        try {
-            const randomSequence = booster.generateRandomSequence(1, 5);
-            for (let i = 0; i < 5; i++) {
-                const xpath = `//*[@data-test="product-thumb-image-${randomSequence[i]}"]`;
-                await booster.clickElement(page, null, xpath, booster.generateRandomNumber(500, 1000));
-                await booster.addRandomTimeGap(1, 3);
-    
-            }
-        } catch (error) {
-            return
-        }
+    const randomDelay = (min, max) => {
+      return new Promise(resolve => setTimeout(resolve, Math.random() * (max - min) + min));
     };
-
-    let clickArrow = async () => {
-        try {
-            const xpathNext = `//*[@data-test="carousel-next"]`;
-            await booster.clickElement(page, null, xpathNext, booster.generateRandomNumber(500, 1000));
-            await booster.addRandomTimeGap(3, 5);
-
-            const xpathBack = `//*[@data-test="carousel-back"]`;
-            await booster.clickElement(page, null, xpathBack, booster.generateRandomNumber(500, 1000));
-            await booster.addRandomTimeGap(2, 4);
-        } catch (error) {
-            return
-        }
+  
+    const hoverAndClick = async () => {
+      const randomSequence = booster.generateRandomSequence(1, 5);
+      for (let i = 0; i < 5; i++) {
+        const xpath = `//*[@data-test="product-thumb-image-${randomSequence[i]}"]`;
+        await booster.clickElement(page, null, xpath, booster.generateRandomNumber(500, 1000));
+        await randomDelay(2000, 2500);
+      }
     };
-
+  
+    const clickArrow = async () => {
+      const xpathNext = `//*[@data-test="carousel-next"]`;
+      await booster.clickElement(page, null, xpathNext, booster.generateRandomNumber(500, 1000));
+      await randomDelay(2000, 2500);
+  
+      const xpathBack = `//*[@data-test="carousel-back"]`;
+      await booster.clickElement(page, null, xpathBack, booster.generateRandomNumber(500, 1000));
+      await randomDelay(2000, 2500);
+    };
+  
     try {
+      const randomTimes = random.generateRandomBetween(2, 3);
+  
+      for (let i = 0; i < randomTimes; i++) {
         const randomFirstAction = Math.random();
         if (randomFirstAction < 0.5) {
-            await hoverAndClick();
-            await clickArrow();
+          await hoverAndClick();
+          await clickArrow();
         } else {
-            await clickArrow();
-            await hoverAndClick();
+          await clickArrow();
+          await hoverAndClick();
         }
+  
+        await randomDelay(1000, 2000);
+      }
     } catch (error) {
-        return
+      console.log(error.message)
     }
-};
+  };
 
 export const addToWishList = async (page, browser, productId, addedToWishlist = false) => {
       // Step: Add to wishlist & Add to cart
@@ -169,7 +171,16 @@ export const clickShowMoreMainSpecification = async (page, browser) => {
 export const hoverUpsaleText = async (page, browser) => {
     const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
     const selector = '.skeleton-image.skeleton-image--with-placeholder.skeleton-image--contain';
-    const numberOfIterations = getRandomInt(2, 4);
+    const numberOfIterations = getRandomInt(4, 6);
+    for (let i = 0; i < numberOfIterations; i++) {
+        await booster.scrollToRandomClass(page, selector, browser);
+    }
+}
+
+export const hoverReviewText = async (page, browser) => {
+    const getRandomInt = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
+    const selector = '.review.js-review';
+    const numberOfIterations = getRandomInt(3, 5);
 
     for (let i = 0; i < numberOfIterations; i++) {
         await booster.scrollToRandomClass(page, selector, browser);
@@ -180,5 +191,37 @@ export const createAccount = async () => {
     const selector = `[data-test="login-link"]`;
     const isClicked = await booster.clickElementBySelector(page, browser, selector, 3000, 5000);
     await booster.addRandomTimeGap(2, 3);
-} 
+}
 
+export const clickProductListChangeView = async (page) => {
+    let xpath = `//*[@data-analytics-id="px_listpage_change_viewmode"]`;
+    await booster.clickElement(page, null, xpath, booster.generateRandomNumber(500, 1000), 10000, true);
+}
+
+export const changeProductListFilterView = async (page) => {
+    const xpath = `//*[@id="sort"]`;
+  
+    const [selectElement] = await page.$x(xpath);
+  
+    if (selectElement) {
+      const options = [
+          'popularity1',
+          'price0',
+          'release_date1',
+          'rating1',
+          'wishListRank1'
+      ];
+  
+      const randomValue = options[Math.floor(Math.random() * options.length)];
+  
+
+      await page.evaluate((element, value) => {
+        element.value = value;
+        element.dispatchEvent(new Event('change')); // Trigger change event if needed
+      }, selectElement, randomValue);
+  
+      console.log("Value changed to:", randomValue);
+    } else {
+      console.error("Element not found");
+    }
+};

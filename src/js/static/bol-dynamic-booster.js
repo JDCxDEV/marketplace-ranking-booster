@@ -7,7 +7,7 @@ import * as proxies from '../../helpers/proxies.js';
 import * as action from './actions/bol.js'
 import * as array from '../../helpers/array.js'
 
-const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => {
+const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => {
   
   // Set stealth plugin
   const stealthPlugin = StealthPlugin();
@@ -140,29 +140,34 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
       // console.log(`proxy: ${proxy}`)
       // console.log(`user-agent: ${userAgentStr}`)
 
-      await booster.addRandomTimeGap(7, 10)
+      await booster.addRandomTimeGap(6, 8)
 
       // Step: Click Accept Terms button on init
       await action.clickPrivacyAndCountryButton(page, browser);
       // ----------- end of step ----------- //
 
-      await booster.addRandomTimeGap(4, 8);
+      await booster.addRandomTimeGap(4, 5);
+
+      // // Step: Click Accept Terms button on init
+      // await action.clickProductListChangeView(page, browser);
+
+      // await booster.addRandomTimeGap(4, 6);
       
       // // Step: Add random scroll 
       await booster.generateAndExecuteScrollSequence(page, 2, 3);
       // // ----------- end of step ----------- //
       
-      await booster.addRandomTimeGap(4, 6);
+      await booster.addRandomTimeGap(3, 4);
 
       // Step: Click Accept Terms button on init
       await action.browseProducts(page, browser);
       // // ----------- end of step ----------- //
 
-      await booster.addRandomTimeGap(5, 10);
+      await booster.addRandomTimeGap(3, 4);
 
      const addedToWishlist = await action.clickToWishList(page, browser, productId);
 
-      await booster.addRandomTimeGap(4, 8);
+      await booster.addRandomTimeGap(3, 4);
 
       //Step: Go to the designated product
       const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
@@ -174,12 +179,12 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
       }
 
       // Step: Randomize hover and click
-      await booster.addRandomTimeGap(8, 12);
+      await booster.addRandomTimeGap(8, 10);
 
       await action.addToWishList(page, browser, productId, addedToWishlist)
 
 
-      await booster.addRandomTimeGap(5, 6);
+      await booster.addRandomTimeGap(3, 4);
 
       try {
         // Define the actions as an array of functions
@@ -189,6 +194,7 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
           async () => await action.browseProductImage(page, browser),
           async () => await action.clickShowMoreDescription(page, browser),
           async () => await action.clickShowMoreMainSpecification(page, browser),
+          async () => await action.hoverReviewText(page, browser),
         ];
     
         // Shuffle the actions array to randomize the order
@@ -197,10 +203,12 @@ const initBooster = async (product, threadTimer = 240, steps, proxyProvider) => 
         // Execute each action in the randomized order
         for (const action of shuffledActions) {
           await action();
-          await booster.addRandomTimeGap(5, 8);
+      
+          await booster.addRandomTimeGap(2, 3);
         }
+
       } catch (error) {
-        // continue
+        // console.log(error.message);
       }
       
     }catch(error) {
@@ -223,15 +231,17 @@ export const triggerBolBooster = async (thread, product, steps = 'homepage') => 
 
   for (let index = 1; index <= thread; index++) {
     try {
+      const timeoutMilliseconds = 360000; // 6 minutes
+      const timeoutSeconds = 360; // 6 minutes
 
       let productThreads = 1;
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-        currentBatch.push(initBooster(product, 300, product.isPerPage ? 'per-page' : steps));
+        currentBatch.push(initBooster(product, timeoutSeconds, product.isPerPage ? 'per-page' : steps));
       }   
     
-      const timeoutMilliseconds = 300000; // 5 minutes
+
 
       const timeoutPromise = new Promise((_, reject) => {
         setTimeout(() => {
@@ -274,7 +284,7 @@ const dynamicallyImportJsonFile = async (file)  => {
 
 export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {}) => {
 
-  await booster.addRandomTimeGap(2, 2)
+  await booster.addRandomTimeGap(2, 3)
 
   const productJsonFile = await dynamicallyImportJsonFile(currentVM + '.json');
   const products = productJsonFile.products.filter( item => !item.isOutOfStock);
@@ -287,15 +297,17 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
     try {
       for (let index = 0; index < products.length; index++) {
 
+
+        const timeoutMilliseconds = 360000; // 6 minutes
+        const timeoutSeconds = 360; // 6 minutes
+
         let productThreads = 5;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
           await booster.addRandomTimeGap(3, 3);
-          currentBatch.push(initBooster(products[index], 300, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
+          currentBatch.push(initBooster(products[index], timeoutSeconds, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
-      
-        const timeoutMilliseconds = 300000; // 4 minutes
 
         const timeoutPromise = new Promise((_, reject) => {
           setTimeout(() => {
@@ -310,7 +322,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
           ]).then(() => {
             console.log('current thread:' + mainIndex + ' completed');
           }).catch(error => {
-            // console.error('Error:', error.message);
+            console.error('Error:', error.message);
           });
         }catch(error) {
           return;

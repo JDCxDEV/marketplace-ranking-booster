@@ -73,7 +73,7 @@ export const downloadProxies = async () => {
     await download(process.env.PROXY_URL, './src/assets/proxies/proxies.txt')
 }
 
-export const scrollDown = async (page) => {
+export const scrollDown = async (page,) => {
   await page.evaluate(() => {
     const getRandom = (min, max) => Math.floor(Math.random() * (max - min + 1)) + min;
 
@@ -176,7 +176,7 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
       });
     }, randomProduct);
 
-    await addRandomTimeGap(2, 4);
+    await addRandomTimeGap(2, 3);
 
     if(uniqueSelector === 'bol') {
       try {
@@ -248,18 +248,37 @@ export const scrollToElementAndClickIt = async (page, classElement, delayInMilli
 
 export const getRandomScreenSize = () => {
   const resolutions = [
-    { width: 1920, height: 1080 },
-    { width: 1366, height: 768 },
-    { width: 1536, height: 864 },
-    { width: 1440, height: 900 },
-    { width: 1600, height: 900 },
-    { width: 1280, height: 720 },
-    { width: 1280, height: 800 },
-    { width: 1680, height: 1050 },
-    { width: 1360, height: 768 },
-    { width: 1920, height: 1200 },
-    { width: 1024, height: 768 },
-  ];
+    { width: 1920, height: 1080 },  // Full HD
+    { width: 1366, height: 768 },   // HD
+    { width: 1536, height: 864 },   // HD+
+    { width: 1440, height: 900 },   // WXGA+
+    { width: 1600, height: 900 },   // HD+
+    { width: 1280, height: 720 },   // HD
+    { width: 1280, height: 800 },   // WXGA
+    { width: 1680, height: 1050 },  // WSXGA+
+    { width: 1360, height: 768 },   // HD
+    { width: 1920, height: 1200 },  // WUXGA
+    { width: 1856, height: 1044 },  // Slightly below Full HD
+    { width: 1792, height: 1008 },  // Slightly below Full HD
+    { width: 1728, height: 972 },   // Slightly below Full HD
+    { width: 1600, height: 960 },   // Slightly below Full HD
+    { width: 1536, height: 960 },   // Slightly below Full HD
+    { width: 1440, height: 960 },   // Slightly below Full HD
+    { width: 1920, height: 1152 },  // Slightly above Full HD
+    { width: 1980, height: 1080 },  // Slightly above Full HD
+    { width: 1768, height: 992 },   // Slightly below Full HD
+    { width: 1680, height: 945 },   // Slightly below Full HD
+    { width: 1600, height: 900 },   // Slightly below Full HD
+    { width: 1440, height: 810 },   // Slightly below Full HD
+    { width: 1920, height: 1088 },  // Slightly above Full HD
+    { width: 1980, height: 1100 },  // Slightly above Full HD
+    { width: 1792, height: 1008 },  // Slightly below Full HD
+    { width: 1728, height: 972 },   // Slightly below Full HD
+    { width: 1600, height: 900 },   // Slightly below Full HD
+    { width: 1536, height: 864 },   // Slightly below Full HD
+    { width: 1440, height: 800 },   // Slightly below Full HD
+    { width: 1920, height: 1200 },  // Slightly above Full HD
+];
 
   const randomIndex = Math.floor(Math.random() * resolutions.length);
   return resolutions[randomIndex];
