@@ -136,9 +136,9 @@
         ],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=ringkussen&view=list&12194=32-33",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=zitring+kussen&view=list&12194=32-33",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=aambeien+kussen&view=list&12194=32-33",
+          "https://www.bol.com/nl/nl/s/?searchtext=ringkussen",
+          "https://www.bol.com/nl/nl/s/?searchtext=zitring+kussen",
+          "https://www.bol.com/nl/nl/s/?searchtext=aambeien+kussen",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=donut+kussen&view=list&12194=32-33",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=donutkussen&view=list&12194=32-33",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=donut+kussen+stuitje&view=list&12194=32-33",
@@ -247,23 +247,6 @@
         "isRunning" : false,
         "isMostWantedList": true,
         "isPerPage": true
-      },
-      {
-        "id": "VM-11-0010",
-        "marketplace": "Bol.com",
-        "product": "Vertical Tuin",
-        "productId": "9200000132275261",
-        "productTitle": "GreenGrounds™ Verticale Tuin - 9 Ruime Vakken - 50x50 cm - Moestuin - Hangende Plantenzak",
-        "keywords": ["Verticale Tuin", "verticale tuin met watersysteem", "verticale moestuin", "moestuin"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+tuin&view=list&filter_N=4296452464&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+tuin+met+watersysteem&view=list&filter_N=4296452464&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+moestuin&view=list&filter_N=4296452464&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=moestuin&view=list&filter_N=4296452464&rating=all"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
       }
     ]
   }

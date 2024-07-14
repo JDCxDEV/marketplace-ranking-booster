@@ -330,6 +330,23 @@
       "isRunning" : false,
       "isMostWantedList": true,
       "isOutOfStock": true
+    },
+    {
+      "id": "VM-4-0011",
+      "marketplace": "Bol.com",
+      "product": "Vertical Tuin",
+      "productId": "9200000132275261",
+      "productTitle": "GreenGrounds™ Verticale Tuin - 9 Ruime Vakken - 50x50 cm - Moestuin - Hangende Plantenzak",
+      "keywords": ["Verticale Tuin", "verticale tuin met watersysteem", "verticale moestuin", "moestuin"],
+      "keywordLink":
+      [
+        "https://www.bol.com/nl/nl/s/?searchtext=verticale+tuin",
+        "https://www.bol.com/nl/nl/s/?searchtext=verticale+tuin+met+watersysteem",
+        "https://www.bol.com/nl/nl/s/?searchtext=verticale+moestuin",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=moestuin&view=list&12194=34-35"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
     }
   ]
 }
