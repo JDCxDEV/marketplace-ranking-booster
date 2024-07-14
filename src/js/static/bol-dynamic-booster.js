@@ -305,7 +305,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-          await booster.addRandomTimeGap(3, 3);
+          await booster.addRandomTimeGap(2, 3);
           currentBatch.push(initBooster(products[index], timeoutSeconds, products[index].isPerPage ? 'per-page' : virtualMachine.steps, virtualMachine.proxy));
         }   
 
@@ -322,7 +322,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
           ]).then(() => {
             console.log('current thread:' + mainIndex + ' completed');
           }).catch(error => {
-            console.error('Error:', error.message);
+            // console.error('Error:', error.message);
           });
         }catch(error) {
           return;
