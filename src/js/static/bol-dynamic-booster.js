@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer-extra';
-import StealthPlugin from 'puppeteer-extra-plugin-stealth-fix';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
@@ -208,10 +208,11 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
         }
 
       } catch (error) {
-        // console.log(error.message);
+        console.log(error.message);
       }
       
     }catch(error) {
+      console.log(error.message);
       if(!process.env.TURN_OFF_LOGS) {
         console.log(error.message);
       }
@@ -256,7 +257,7 @@ export const triggerBolBooster = async (thread, product, steps = 'homepage') => 
         ]).then(() => {
           console.log('current thread:' + index + ' completed');
         }).catch(error => {
-          console.error('Error:', error.message);
+          // console.error('Error:', error.message);
         });
       }catch(error) {
         return;
