@@ -60,32 +60,32 @@
         "product": "Earplugs-J58 B",
         "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
         "productId": "479447294",
-        "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+        "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
         "keyword":
         [
           {
             "name": "bluetooth kopfhörer in ear",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+            "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
           },
           {
             "name": "kopfhörer kabellos",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=kopfh%C3%B6rer%20kabellos"
+            "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
           },
           {
-            "name": "kopfhörer bluetooth",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=kopfh%C3%B6rer%20bluetooth"
+            "name": "bluetooth kopfhörer",
+            "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer"
           },
           {
             "name": "kopfhörer über bluetooth",
-            "link": "https://www.kaufland.de/s/?price=3300-3400&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+            "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
           },
           {
             "name": "bluetooth kopfhörer inear",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+            "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
           },
           {
             "name": "kabellose kopfhörer",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=kabellose%20kopfh%C3%B6rer"
+            "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
           }
         ],
         "isRunning" : false 
@@ -124,40 +124,41 @@
             "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=kabellose%20kopfh%C3%B6rer"
           }
         ],
-        "isRunning" : false 
+        "isRunning" : false,
+        "isOutOfStock": true
       },
       {
         "id": "VM-3-0005",
         "marketplace": "Kaufland",
         "product": "Earplugs-M48",
-        "productTitle": "QuchiQ™ -Kabellose Kopfhörer mit Ladeetui - Bluetooth 5.3 mit ENC Mic- Sport Ohrhörer- LED-Anzeige, Noise Cancelling IPX7 wasserdichte für/iOS/Android",
+        "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
         "productId": "479447749",
         "keywords": ["kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
         "keyword":
         [
           {
             "name": "kopfhörer kabellos",
-            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=kopfh%C3%B6rer%20kabellos"
+            "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
           },
           {
             "name": "kopfhörer über bluetooth",
-            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+            "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
           },
           {
             "name": "bluetooth kopfhörer in ear",
-            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+            "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
           },
           {
             "name": "kopfhörer bluetooth",
-            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=kopfh%C3%B6rer%20bluetooth"
+            "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20bluetooth"
           },
           {
             "name": "bluetooth kopfhörer inear",
-            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+            "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
           },
           {
             "name": "kabellose kopfhörer",
-            "link": "https://www.kaufland.de/s/?price=3600-3700&search_value=kabellose%20kopfh%C3%B6rer"
+            "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
           }
         ],
         "isRunning" : false 
@@ -165,27 +166,23 @@
       {
         "id": "VM-3-0006",
         "marketplace": "Kaufland",
-        "product": "Powerbank 20K",
+        "product": "Powerbank 20K -1",
         "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
         "productId": "479104287",
-        "keywords": ["powerbank 20000 mah", "powerbank", "power 20000 mah bank", "powerbanks für iphone"],
+        "keywords": ["powerbank 20000 mah", "powerbank", "powerbank handy", "powerbanks für iphone"],
         "keyword":
         [
           {
             "name": "powerbank 20000 mah",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=powerbank%2020000%20mah"
+            "link": "https://www.kaufland.de/s/?search_value=powerbank%2020000%20mah"
           },
           {
             "name": "powerbank",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=3900-4000&search_value=powerbank"
-          },
-          {
-            "name": "power 20000 mah bank",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=power%2020000%20mah%20bank"
+            "link": "https://www.kaufland.de/s/?search_value=powerbank"
           },
           {
             "name": "powerbanks für iphone",
-            "link": "https://www.kaufland.de/s/?price=3900-4000&search_value=powerbanks%20f%C3%BCr%20iphone"
+            "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
           }
         ],
         "isRunning" : false 
@@ -200,24 +197,16 @@
         "keyword":
         [
           {
-            "name": "powerbank 20000 mah",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=powerbank%2020000%20mah"
-          },
-          {
             "name": "powerbank",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=2900-3000&search_value=powerbank"
+            "link": "https://www.kaufland.de/s/?search_value=powerbank"
           },
           {
             "name": "mini powerbank",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=mini%20powerbank"
-          },
-          {
-            "name": "power 20000mah bank",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=power%2020000mah%20bank"
+            "link": "https://www.kaufland.de/s/?search_value=mini%20powerbank"
           },
           {
             "name": "powerbanks für iphone",
-            "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=powerbanks%20f%C3%BCr%20iphone"
+            "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
           }
         ],
         "isRunning" : false 
@@ -225,7 +214,7 @@
       {
         "id": "VM-3-0008",
         "marketplace": "Kaufland",
-        "product": "Powerbank 20K",
+        "product": "Powerbank 20K -2",
         "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
         "productId": "479047515",
         "keywords": ["powerbank 20000 mah", "powerbank", "power 20000 mah bank", "powerbanks für iphone"],
@@ -233,11 +222,11 @@
         [
           {
             "name": "powerbank 20000 mah",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=powerbank%2020000%20mah"
+            "link": "https://www.kaufland.de/s/?search_value=powerbank%2020000%20mah"
           },
           {
             "name": "powerbank",
-            "link": "https://www.kaufland.de/s/?21=6042731&price=3900-4000&search_value=powerbank"
+            "link": "https://www.kaufland.de/s/?search_value=powerbank"
           },
           {
             "name": "power 20000 mah bank",
@@ -245,7 +234,7 @@
           },
           {
             "name": "powerbanks für iphone",
-            "link": "https://www.kaufland.de/s/?price=3900-4000&search_value=powerbanks%20f%C3%BCr%20iphone"
+            "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
           }
         ],
         "isRunning" : false 
@@ -336,11 +325,7 @@
         [
           {
             "name": "tageslichtlampe",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampe"
-          },
-          {
-            "name": "tageslichtlampe schreibtisch",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampe%20schreibtisch"
+            "link": "https://www.kaufland.de/s/?search_value=tageslichtlampe"
           },
           {
             "name": "lichttherapielampe",
@@ -348,15 +333,11 @@
           },
           {
             "name": "tageslichtlampen",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampen"
+            "link": "https://www.kaufland.de/s/?search_value=tageslichtlampen"
           },
           {
             "name": "tageslichtlampe 10000 lux",
             "link": "https://www.kaufland.de/s/?price=5200-5300&search_value=tageslichtlampe%2010000%20lux"
-          },
-          {
-            "name": "tageslichtlampe beurer",
-            "link": "https://www.kaufland.de/s/?21=6042731&search_value=tageslichtlampe%20beurer"
           }
         ],
         "isRunning" : false 
