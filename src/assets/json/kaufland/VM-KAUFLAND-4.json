@@ -475,7 +475,7 @@
         "keyword":
         [
           {
-            "name": "led streifen 35m",
+            "name": "led streifen 30m",
             "link": "https://www.kaufland.de/s/?search_value=led%20strip%2035m"
           },
           {
@@ -494,4 +494,4 @@
         "isRunning" : false 
       }
     ]
-}
+  }
