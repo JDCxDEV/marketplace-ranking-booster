@@ -109,8 +109,8 @@
         "marketplace": "Bol.com",
         "product": "Kitchen Apron Women -  Green",
         "productId": "9300000029386059",
-        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Malmö (Mintgroen) - Schorten voor vrouwen - 87 x 77 cm",
-        "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
+        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Mintgroen) - 87 x 77 cm",
+        "keywords": ["keukenschorten", "keukenshort", "keukenschort vrouw", "keukenschort dames+", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=keukenschorten",
@@ -129,9 +129,9 @@
       {
         "id": "VM-12-0008",
         "marketplace": "Bol.com",
-        "product": "Keukenschort Malmö (Roze)",
+        "product": "Kitchen Apron Women - Roze",
         "productId": "9300000029386060",
-        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Malmö (Roze) - Schorten voor vrouwen - 87 x 77 cm",
+        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Roze) - 87 x 77 cm",
         "keywords": ["keukenschort vrouw", "keukenshort", "keukenschorten", "keukenschort dames", "schort", "kookschort", "kookschort dames", "kookschort mannen", "keukenschort"],
         "keywordLink":
         [
@@ -174,9 +174,9 @@
         "keywords": ["kleding hangers", "kledinghanger", "kledinghangers"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=kleding+hangers",
-          "https://www.bol.com/nl/nl/s/?searchtext=kledinghanger",
-          "https://www.bol.com/nl/nl/s/?searchtext=kledinghangers"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kleding+hangers&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kledinghanger&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kledinghangers&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -312,11 +312,11 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0017",
+        "id": "VM-12-0018",
         "marketplace": "Bol.com",
         "product": "Wasmanden - Wit",
-        "productId": "9300000029386067",
-        "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Paars) - 87 x 77 cm",
+        "productId": "9300000029386044",
+        "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Wit groot) - Wasmand - Wasmanden - Waszak - 57 L",
         "keywords": ["wasmand", "mand", "opbergmanden", "opberg+mand&", "wasmanden", "opbergmand"],
         "keywordLink":
         [
@@ -328,10 +328,11 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=16724&rating=all"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
-        "id": "VM-12-0018",
+        "id": "VM-12-0019",
         "marketplace": "Bol.com",
         "product": "Opbergmand - Jute groot",
         "productId": "9300000029386038",
