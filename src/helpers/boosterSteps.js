@@ -226,13 +226,13 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
         }
 
       } catch (error) {
-        console.log(error.message);
+        // console.log(error.message);
         return;
       }
     }
 
   }catch(error){
-    console.log(error.message);
+    // console.log(error.message);
     return;
   }
 };
