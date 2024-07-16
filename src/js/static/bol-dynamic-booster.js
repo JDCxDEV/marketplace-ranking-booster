@@ -219,7 +219,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     }catch(error) {
       // console.log(error.message);
       if(!process.env.TURN_OFF_LOGS) {
-        console.log(error.message);
+        // console.log(error.message);
       }
 
       if(browser) {
@@ -334,11 +334,10 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
 
       }
     }catch (error) {
-      console.log(error.message)
+      // console.log(error.message)
       if(!process.env.TURN_OFF_LOGS) {
-        console.error(error);
+        // console.error(error);
       }
-
       return;
     }
   }
