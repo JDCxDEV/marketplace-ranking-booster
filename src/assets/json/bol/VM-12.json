@@ -12,7 +12,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand+zwart",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmand+zwart",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand+zwart&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
         ],
         "isRunning" : false,
@@ -27,10 +27,9 @@
         "keywords": ["mand", "opbergmanden", "opberg mand", "opbergmand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -46,8 +45,9 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -79,7 +79,7 @@
         "product": "Placemat Abisko Verloop",
         "productId": "9300000029386052",
         "productTitle": "Placemats van Sophie Nordinn® - Placemat Abisko (Verloop) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemat", "placemats"],
+        "keywords": ["placemat", "placemats", "placemat kinderen", "placemats rond", "placemat rond"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=placemat",
@@ -94,12 +94,12 @@
         "product": "Placemat Vaxjo Grey",
         "productId": "9300000010054871",
         "productTitle": "Placemats van Sophie Nordinn® - Placemat Vaxjo (Donkergrijs) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
-        "keywords": ["placemat kunststof", "placemat", "placemats"],
+        "keywords": ["placemats", "placemat", "placemat kunststof"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat+kunststof&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -160,7 +160,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=plantenmand",
           "https://www.bol.com/nl/nl/s/?searchtext=plantenmand+binnen",
           "https://www.bol.com/nl/nl/s/?searchtext=mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -187,12 +187,12 @@
         "product": "Placemat Vaxjo Blue",
         "productId": "9300000010054921",
         "productTitle": "Placemats van Sophie Nordinn® - Placemat Vaxjo (Lichtblauw) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
-        "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
+        "keywords": ["placemats", "placemat", "placemat kunststof", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat+kunststof&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -203,7 +203,7 @@
         "product": "Placemat Abisko Grey",
         "productId": "9300000029386045",
         "productTitle": "Placemats van Sophie Nordinn® - Placemat Abisko (Donkergrijs) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemat rond", "placemat", "placemats", "placemats rond"],
+        "keywords": ["placemat rond", "placemat", "placemats", "placemats rond", "placemat kinderen"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=placemat",
@@ -221,8 +221,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat+kunststof&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=placemats"
         ],
         "isRunning" : false,
@@ -330,23 +330,6 @@
         "isRunning" : false,
         "isMostWantedList": true,
         "isOutOfStock": true
-      },
-      {
-        "id": "VM-12-0019",
-        "marketplace": "Bol.com",
-        "product": "Opbergmand - Jute groot",
-        "productId": "9300000029386038",
-        "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Jute groot) - Wasmand - Waszak - 57 L",
-        "keywords": ["wasmand", "opbergmand", "mand", "opberg mand"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=30-35&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&12194=30-35&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&12194=30-35&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&12194=30-35&rating=all"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
       }
     ]
   }

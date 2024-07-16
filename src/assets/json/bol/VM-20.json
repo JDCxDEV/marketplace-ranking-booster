@@ -32,11 +32,12 @@
         "keywords": ["mand", "opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand", "wasmand", "wasmanden"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&12194=26-27&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmanden&view=list&filter_N=4267462047&12194=26-27&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=lizst&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=wasmanden"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -47,12 +48,12 @@
         "product": "Opbergmand - Bruin Wit",
         "productId": "9200000125600697",
         "productTitle": "Bestseller #1 Mand van Sophie Nordinn® - Opbergmand Goteborg (Bruin/wit Groot) - Wasmand - Wasmanden",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
+        "keywords": ["opbergmand", "opberg mand", "opbergmanden"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=32-33&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=32-33&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=32-33&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
@@ -64,13 +65,12 @@
         "product": "Opbergmand - Grijs",
         "productId": "9300000029386050",
         "productTitle": "Bestseller #1 Mand van Sophie Nordinn® - Opbergmand Goteborg (Grijs klein) - Wasmand - Wasmanden - 22 L",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
+        "keywords": ["opbergmand", "opbergmanden", "opberg mand"],
         "keywordLink":
         [
-
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
@@ -82,13 +82,12 @@
         "product": "Opbergmand - Lichtgrijs",
         "productId": "9300000031951509",
         "productTitle": "Mand van Sophie Nordinn® - Opbergmand Boras (Lichtgrijs) - Mandjes Opbergen - Milieuvriendelijk Manden - Katoen",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
+        "keywords": ["opberg mand", "opbergmanden", "opbergmand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?searchtext=wasmand"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -102,9 +101,10 @@
         "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=20-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=20-23&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=20-23&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
@@ -116,13 +116,12 @@
         "product": "Opbergmand - Jute",
         "productId": "9300000029386036",
         "productTitle": "Bestseller #1 Mand van Sophie Nordinn® - Opbergmand Goteborg (Jute klein) - Wasmand - Waszak - 22 L",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand"],
+        "keywords": ["opberg mand", "opbergmanden", "opbergmand"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -184,13 +183,13 @@
         "product": "Opbergmand - Grass",
         "productId": "9300000118407941",
         "productTitle": "Mand van Sophie Nordinn® - Opbergmand Stockholm (Grass) - Wasmand - Wasmanden - 40 Liter",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
+        "keywords": ["wasmand", "opbergmand", "mand", "opberg mand", "opbergmanden"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&12194=26-27&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -201,13 +200,13 @@
         "product": "Opbergmand - Turquoise",
         "productId": "9300000118407897",
         "productTitle": "Mand van Sophie Nordinn® - Opbergmand Stockholm (Turquoise) - Wasmand - Wasmanden - 40 Liter",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
+        "keywords": ["wasmand", "opbergmand", "mand", "opberg mand", "opbergmanden"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=opberg+mand",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
-          "https://www.bol.com/nl/nl/s/?searchtext=opbergmand",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=26-27&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -235,13 +234,13 @@
         "product": "Opbergmand Orebro - Zeegras Wit/Bruin",
         "productId": "9300000000204510",
         "productTitle": "Mand van Sophie Nordinn® - Opbergmand Orebro (Zeegras Wit/Bruin) - Milieuvriendelijk Manden - Opbergmand",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
+        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "mand"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=mand"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -252,13 +251,13 @@
         "product": "Opbergmand Orebro - Graanschil Katoen/wit",
         "productId": "9300000000207543",
         "productTitle": "Mand van Sophie Nordinn® - Opbergmand Orebro (Graanschil Katoen/wit) - Milieuvriendelijk Plantenmand",
-        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "wasmand", "mand"],
+        "keywords": ["opberg mand", "opbergmanden", "opbergmand", "mand"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=opbergmanden",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&12194=21-22"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -269,10 +268,11 @@
         "product": "Placemat - Lichtgrijs 4 stuks",
         "productId": "9300000029386058",
         "productTitle": "Placemats van Sophie Nordinn® - Placemat Abisko (Lichtgrijs) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
+        "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond", "placemat kinderen"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat+kunststof&view=list&filter_N=4267462047&12194=24-25&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=placemats"
         ],
         "isRunning" : false,
@@ -284,12 +284,12 @@
         "product": "Placemat Vaxjo - Turquiose 4 stuks",
         "productId": "9300000010054915",
         "productTitle": "Placemats van Sophie Nordinn® - Placemat Vaxjo (Turquiose) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
-        "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
+        "keywords": ["placemats", "placemat", "placemat kunststof",  "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -300,26 +300,12 @@
         "product": "Placemat - Jute 4 stuks",
         "productId": "9300000029386051",
         "productTitle": "Placemats van Sophie Nordinn® - Placemat Abisko (Jute) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
+        "keywords": ["placemats", "placemat", "placemat kunststof", "placemats rond", "placemat kinderen"],
         "keywordLink":
         [
+          "https://www.bol.com/nl/nl/s/?searchtext=placemats",
           "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-20-0018",
-        "marketplace": "Bol.com",
-        "product": "Placemat - Jute 4 stuks",
-        "productId": "9300000029386051",
-        "productTitle": "Placemats van Sophie Nordinn® - Placemat Abisko (Jute) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat+kunststof&view=list&filter_N=4267462047&12194=24-25&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -339,7 +325,8 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=29-30&rating=all"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-20-0020",
@@ -347,17 +334,16 @@
         "product": "Opbergmand - Stockholm (Yellow)",
         "productId": "9300000118407911",
         "productTitle": "Mand van Sophie Nordinn® - Opbergmand Stockholm (Yellow) - Wasmand - Wasmanden - 40 Liter",
-        "keywords": ["wasmand","opbergmand", "opbergmand", "opberg mand"],
+        "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=35-36&rating=4",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&12194=35-36&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&12194=35-36&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&12194=35-36&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmanden&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
       }
-
     ]
   }
