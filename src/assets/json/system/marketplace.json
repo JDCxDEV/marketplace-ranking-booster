@@ -14,6 +14,11 @@
       "id": 3,
       "key": "blokker",
       "name": "Blokker.nl"
+    },
+    {
+      "id": 4,
+      "key": "MediaMarkt",
+      "name": "Mediamarkt.de"
     }
   ]
 }

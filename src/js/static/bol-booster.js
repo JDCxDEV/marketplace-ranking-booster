@@ -410,7 +410,7 @@ export const triggerBolBooster = async (thread, product, steps = 'homepage') => 
   for (let index = 1; index <= thread; index++) {
     try {
 
-      let productThreads = 5;
+      let productThreads = 10;
       let currentBatch = [];
 
       for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
@@ -474,7 +474,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
     try {
       for (let index = 0; index < products.length; index++) {
 
-        let productThreads = 5;
+        let productThreads = 10;
         let currentBatch = [];
 
         for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {

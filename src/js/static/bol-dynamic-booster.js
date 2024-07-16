@@ -149,12 +149,12 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
       await booster.addRandomTimeGap(4, 5);
 
       // // Step: Click Accept Terms button on init
-      // await action.clickProductListChangeView(page, browser);
+      await action.clickProductListChangeView(page, browser);
 
-      // await booster.addRandomTimeGap(4, 6);
+      await booster.addRandomTimeGap(4, 6);
       
       // // Step: Add random scroll 
-      await booster.generateAndExecuteScrollSequence(page, 2, 3);
+      await booster.generateAndExecuteScrollSequence(page, 4, 5);
       // // ----------- end of step ----------- //
       
       await booster.addRandomTimeGap(3, 4);
@@ -168,6 +168,11 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
      const addedToWishlist = await action.clickToWishList(page, browser, productId);
 
       await booster.addRandomTimeGap(3, 4);
+
+      // // Step: Click Accept Terms button on init
+      await action.clickProductListChangeView(page, browser);
+
+      await booster.addRandomTimeGap(4, 6);
 
       //Step: Go to the designated product
       const didGoToProduct = await action.clickCurrentProduct(page, browser, productId);
@@ -208,11 +213,11 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
         }
 
       } catch (error) {
-        console.log(error.message);
+        // console.log(error.message);
       }
       
     }catch(error) {
-      console.log(error.message);
+      // console.log(error.message);
       if(!process.env.TURN_OFF_LOGS) {
         console.log(error.message);
       }
@@ -242,8 +247,6 @@ export const triggerBolBooster = async (thread, product, steps = 'homepage') => 
         currentBatch.push(initBooster(product, timeoutSeconds, product.isPerPage ? 'per-page' : steps));
       }   
     
-
-
       const timeoutPromise = new Promise((_, reject) => {
         setTimeout(() => {
           reject(new Error('Timeout exceeded'));

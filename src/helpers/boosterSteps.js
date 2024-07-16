@@ -1,6 +1,7 @@
 import 'dotenv/config';
 import { loadTextFile } from 'load-text-file'
 import { download } from './server.js';
+import  *  as random from './random.js'
 
 export const generateNumberBetween = (min = 5, max = 10) => {
   return Math.floor(Math.random() * (max - min + 1)) + min;
@@ -184,9 +185,8 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
     
         const randomizeSelector = (index) => {
           const selectors = [
-            `li:nth-of-type(${index}) [data-test='product-title']`,
-            `li:nth-of-type(${index}) > [data-test='product-content'] button`,
-            `li:nth-of-type(${index}) [data-test='add-to-basket']`,
+            `li:nth-of-type(${index}) wsp-analytics-tracking-event span`,
+            `li:nth-of-type(${index}) > button`,
             `li:nth-of-type(${index}) [data-test='compare-checkbox'] div > div`
           ];
           const selectorIndex = getRandomInt(0, selectors.length - 1);
@@ -194,39 +194,45 @@ export const scrollToRandomClass = async (page, elementClass, browser = null, un
         };
       
         // Repeat the try-catch block 1 to 3 times
-        const repeatTimes = getRandomInt(1, 2);
-      
-        for (let i = 0; i < repeatTimes; i++) {
-          try {
-            if (uniqueSelector === 'bol') {
-              const randomIndex = getRandomInt(1, 10); // Adjust the range as needed
-              const selectedProduct = randomizeSelector(randomIndex);
-      
-              await page.waitForSelector(selectedProduct, { timeout: 10000 });
-              await page.hover(selectedProduct);
-
-              const getRandomBoolean = () => Math.random() < 0.5;
-
-              if (selectedProduct === `li:nth-of-type(${randomIndex}) [data-test='compare-checkbox'] div > div`) {
-                  // Get a random boolean value for 50/50 chance
-                  const shouldClick = getRandomBoolean();
-
-                  // If the random value is true, click the element
-                  if (shouldClick) {
-                    await page.click(selectedProduct);
-                  }
+        const repeatTimes = random.determineRepeatTimes(products.length);
+        
+        if(repeatTimes) {
+          for (let i = 0; i < repeatTimes; i++) {
+            await addRandomTimeGap(2, 3);
+            try {
+              if (uniqueSelector === 'bol') {
+                const randomIndex = getRandomInt(1, 10); // Adjust the range as needed
+                const selectedProduct = randomizeSelector(randomIndex);
+        
+                await page.waitForSelector(selectedProduct, { timeout: 10000 });
+                await page.hover(selectedProduct);
+  
+                const getRandomBoolean = () => Math.random() < 0.5;
+  
+                if (selectedProduct === `li:nth-of-type(${randomIndex}) [data-test='compare-checkbox'] div > div`) {
+                    // Get a random boolean value for 50/50 chance
+                    const shouldClick = getRandomBoolean();
+  
+                    // If the random value is true, click the element
+                    if (shouldClick) {
+                      await page.click(selectedProduct);
+                    }
+                }
               }
+            } catch (error) {
+              return;
             }
-          } catch (error) {
-            return;
           }
         }
+
       } catch (error) {
+        console.log(error.message);
         return;
       }
     }
 
   }catch(error){
+    console.log(error.message);
     return;
   }
 };
