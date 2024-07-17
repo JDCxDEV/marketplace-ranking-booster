@@ -31,7 +31,7 @@
         "marketplace": "Bol.com",
         "product": "ComfyCentre Rugkussen",
         "productId": "9200000102903684",
-        "productTitle": "ComfyCentre Ergonomisch Rugkussen Onderrug Auto & Bureaustoel - Rugsteun - Lendensteun - Lendekussen - Thuiswerken",
+        "productTitle": "ComfyCentre Ergonomisch Rugkussen Onderrug - Voor Auto, Bureaustoel, Bank en Bed - Rugsteun - Lendensteun - Lendekussen - Thuiswerken",
         "keywords":
         [
           "lendekussen", "lendekussen auto", "rugkussen", "rugkussen onderrug", "rugkussen bed",
@@ -53,10 +53,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=rugkussen+bureaustoel",
           "https://www.bol.com/nl/nl/s/?searchtext=rug+kussen+onderrug",
           "https://www.bol.com/nl/nl/s/?searchtext=rugkussen+auto",
-          "https://www.bol.com/nl/nl/s/?searchtext=lendekussen+rugsteun",
-          "https://www.bol.com/nl/nl/s/?searchtext=lendesteun",
-          "https://www.bol.com/nl/nl/s/?searchtext=rugsteun+bed",
-          "https://www.bol.com/nl/nl/s/?searchtext=rugsteun+auto"
+          "https://www.bol.com/nl/nl/s/?searchtext=lendesteun"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -66,7 +63,7 @@
         "marketplace": "Bol.com",
         "product": "ComfyCentre Kniekussen Band",
         "productId": "9200000099810485",
-        "productTitle": "ComfyCentre Kniekussen met band voor in bed - Orthopedisch & Ergonomisch Beenkussen - Traagschuim - Zijslaapkussen - Zijslaper - Kussen Benen - 30 Dagen Proberen",
+        "productTitle": "ComfyCentre Kniekussen met band voor in bed - Orthopedisch & Ergonomisch Beenkussen - Traagschuim - Zijslaapkussen - Zijslaper en Rugslaper - Kussen Benen - 30 Dagen Proberen - Kniekussens Volwassenen",
         "keywords": 
         [
           "beenkussen", "kniekussen voor in bed", "zijslaapkussen volwassenen", "kniekussen", "kniekussens",
@@ -76,13 +73,13 @@
         "keywordLink": 
         [
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen",
-          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=zijslaapkussen+volwassenen",
-          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen",
-          "https://www.bol.com/nl/nl/s/?searchtext=kniekussens",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussens&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed+zijslapers",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+orthopedisch",
-          "https://www.bol.com/nl/nl/s/?searchtext=knie+kussen", 
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=knie+kussen&view=list&filter_N=4295060599&rating=all", 
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed+orthopesich&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+zijslaper",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+rugslaper",
@@ -96,7 +93,7 @@
         "marketplace": "Bol.com",
         "product": "ComfyCentre Kniekussen",
         "productId": "9200000099810333",
-        "productTitle": "ComfyCentre Kniekussen voor in bed - Orthopedisch & Ergonomisch Beenkussen - Traagschuim - Zijslaapkussen - Zijslaper - Kussen Benen - 30 Dagen Proberen",
+        "productTitle": "ComfyCentre Kniekussen voor in bed - Orthopedisch & Ergonomisch Beenkussen - Traagschuim - Zijslaapkussen - Zijslapers en Rugslapers - Kussen Benen - 30 Dagen Proberen - Kniekussens Volwassenen",
         "keywords":
         [
           "beenkussen", "zijslaapkussen volwassenen", "kniekussen voor in bed", "kniekussen", "zijslaapkussen",
@@ -107,13 +104,12 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen",
           "https://www.bol.com/nl/nl/s/?searchtext=zijslaapkussen+volwassenen", 
-          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed",
-          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=zijslaapkussen",
-          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen",
-          "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+voor+in+bed+zijslapers",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen&view=list&filter_N=4295060599&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=knie+kussen&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=kniekussen+orthopedisch",
-          "https://www.bol.com/nl/nl/s/?searchtext=knie+kussen",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=kniekussen+voor+in+bed+orthopesich&view=list&filter_N=4295060599&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+zijslaper",
           "https://www.bol.com/nl/nl/s/?searchtext=beenkussen+rugslaper",
@@ -127,7 +123,7 @@
         "marketplace": "Bol.com",
         "product": "ComfyCentre Donut Kussen",
         "productId": "9300000095328594",
-        "productTitle": "ComfyCentre Donut Kussen Orthopedisch & Ergonomisch Voor Auto En Bureaustoel - Ringkussen - Zitring Kussen - Aambeien Zitkussen%",
+        "productTitle": "ComfyCentre Donut Kussen Orthopedisch & Ergonomisch Voor Auto En Bureaustoel - Stuitkussen - Ringkussen - Zitring Kussen - voor Aambeien, Piercing en Stuitje - Zitkussen",
         "keywords": 
         [
           "ringkussen", "zitring kussen", "aambeien kussen", "donut kussen", "donutkussen",
@@ -172,8 +168,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=rugkussen+ergonomisch",
           "https://www.bol.com/nl/nl/s/?searchtext=rugkussen+bureaustoel",
           "https://www.bol.com/nl/nl/s/?searchtext=rug+kussen+onderrug",
-          "https://www.bol.com/nl/nl/s/?searchtext=rugkussen+auto",
-          "https://www.bol.com/nl/nl/s/?searchtext=rugsteun+auto"
+          "https://www.bol.com/nl/nl/s/?searchtext=rugkussen+auto"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -183,7 +178,7 @@
         "marketplace": "Bol.com",
         "product": "ComfyCentre Hoofdkussen",
         "productId": "9200000119421203",
-        "productTitle": "ComfyCentre Hoofdkussen - Traagschuim Kussen Tegen Nek- en Rugklachten - Orthopedisch & Ergonomisch - 30 Dagen Proefslapen",
+        "productTitle": "ComfyCentre Hoofdkussen - Traagschuim Kussen Tegen Nekpijn en Rugklachten - Orthopedisch & Ergonomisch - Pillow met Memory Foam en Neksteun voor Zijslaper - 30 Dagen Proefslapen - Kussens",
         "keywords": 
         [
           "traagschuim kussen", "memory foam kussen", "hoofdkussen", "hoofdkussens", "hoofdkussen nekklachten",
@@ -193,8 +188,6 @@
         [
           "https://www.bol.com/nl/nl/s/?searchtext=traagschuim+kussen",
           "https://www.bol.com/nl/nl/s/?searchtext=memory+foam+kussen",
-          "https://www.bol.com/nl/nl/s/?searchtext=hoofdkussen",
-          "https://www.bol.com/nl/nl/s/?searchtext=hoofdkussens",
           "https://www.bol.com/nl/nl/s/?searchtext=kussen",
           "https://www.bol.com/nl/nl/s/?searchtext=pillow",
           "https://www.bol.com/nl/nl/s/?searchtext=hoofdkussen+nekpijn",
@@ -231,7 +224,7 @@
         "keywords": ["matrasbinder", "matraswig", "bedbinder", "liefdesbrug", "matraswig met band", "matras wig", "matraswiggen", "matraswig de luxe"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=matrasbinder&view=list&filter_N=4295060599&12194=49-50&rating=all",
+        
           "https://www.bol.com/nl/nl/s/?searchtext=matraswig",
           "https://www.bol.com/nl/nl/s/?searchtext=bedbinder",
           "https://www.bol.com/nl/nl/s/?searchtext=liefdesbrug",
@@ -254,7 +247,6 @@
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+tuin&view=list&filter_N=4296452464&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+tuin+met+watersysteem&view=list&filter_N=4296452464&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=verticale+moestuin&view=list&filter_N=4296452464&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=moestuin&view=list&filter_N=4296452464&rating=all"
         ],
