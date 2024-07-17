@@ -9,8 +9,8 @@
         "keywords": ["beamer", "beamers", "mini beamer", "beamer mini"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamer&view=list&12194=140-150&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamers&view=list&12194=140-150&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamer&view=list&filter_N=7558495748&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamers&view=list&filter_N=7558495748&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=mini+beamer",
           "https://www.bol.com/nl/nl/s/?searchtext=beamer+mini"
         ],
@@ -51,25 +51,21 @@
           "https://www.bol.com/be/nl/s/?page=1&searchtext=maandplanner+whiteboard&view=list&sort=popularity1"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-17-0004",
         "marketplace": "Bol.com",
         "product": "LAKOO BabyGuard Kitty",
         "productId": "9300000155386506",
-        "productTitle": "Lakoo® BabyGuard Kitty - Babyfoon - baby monitor - Babyfoon met Camera - uitbreidbaar - bewegingsdetectie - Gratis App - 720HD, Wifi - Nachtzicht - Terugspreekfunctie - Slaapmuziek - Draaibaar - Uitbreidbaar - Tempratuurweergave",
+        "productTitle": "Lakoo® BabyGuard Kitty - Babyfoon - baby monitor - Babyfoon met Camera en app - Video Audio - White Noise - uitbreidbaar - Gratis App 5 inch HD scherm - Nachtzicht - Tweeweg Audio - Temperatuurweergave - Baby Monitor Op afstand bestuurbaar",
         "keywords": ["babyfoon met camera", "baby monitor", "babyfoon met camera en app"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-          "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&filter_N=7559956427&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+monitor&view=list&filter_N=7559956427&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -79,12 +75,12 @@
         "marketplace": "Bol.com",
         "product": "LAKOO BabyGuard HD PRO",
         "productId": "9300000150088115",
-        "productTitle": "Lakoo® BabyGuard HD PRO - Beste verkochte Babyfoon van 2024 - baby monitor-Babyfoon met Camera en Beeldscherm - 1080p Full HD - Nachtzicht - Bewegingsdetectie - Terugspreekfunctie - Slaapmuziek - Draaibaar - Uitbreidbaar",
+        "productTitle": "Lakoo® BabyGuard HD PRO - Babyfoon - baby monitor - Uitbreidbaar - Babyfoon met Camera en Beeldscherm - 1080p Full HD",
         "keywords": ["babyfoon met camera", "baby monitor"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=89-90&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+monitor&view=list&filter_N=7559956427&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&filter_N=7559956427&rating=all",
+          "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -103,41 +99,69 @@
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=handsfree+borstkolf&view=list&filter_N=7559956427&rating=all"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-17-0007",
         "marketplace": "Bol.com",
         "product": "LAKOO - White noise machine-baby",
         "productId": "9300000165933767",
-        "productTitle": "Lakoo® - White noise machine-baby - Met lamp 8 Verschillende kleuren - 20 verschillende geluiden - met timer - Witte ruis machine",
+        "productTitle": "Lakoo® - White noise machine-baby - Muziekmobiel Baby - Met lamp 8 Verschillende kleuren - 20 verschillende geluiden - met timer - Witte ruis machine",
         "keywords": ["white noise", "muziekmobiel baby"],
         "keywordLink": 
         [
           "https://www.bol.com/nl/nl/s/?searchtext=white+noise",
-          "https://www.bol.com/nl/nl/s/?searchtext=muziekmobiel+baby"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=muziekmobiel+baby&view=list&filter_N=7559956427&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
+      },
+      {
+        "id": "VM-17-0008",
+        "marketplace": "Bol.com",
+        "product": "LAKOO - Wifi Full",
+        "productId": "9300000179792541",
+        "productTitle": "LAKOO - WiFi Full HD Beveiligingscamera - Indoor Camera - Beweeg- en Geluidsdetectie - Bewakingscamera voor Binnen - Met Nachtzicht - Petcam met App - Huisdiercamera - Hondencamera - Draadloze Camera - zwart",
+        "keywords": ["beveiligingscamera binnen", "beveiligingscamera's"],
+        "keywordLink": 
+        [
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera+binnen&view=list&filter_N=7559956427&12194=34-35&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beveiligingscamera%27s&view=list&filter_N=7559956427&12194=34-35&rating=all"
+        ],
+        "isRunning" : false,
+        "isMostWantedList": true
+      },
+      {
+        "id": "VM-17-0009",
+        "marketplace": "Bol.com",
+        "product": "LAKOO - Babyfflessenwarmer",
+        "productId": "9300000179280469",
+        "productTitle": "LAKOO - Baby Flessenwarmer voor Onderweg - Flesverwarmer - Roze - Usb aansluiting - te gebruiken Met powerbank",
+        "keywords": ["flessenwarmers", "flessenwarmer onderweg"],
+        "keywordLink": [],
+        "isRunning" : false,
+        "isMostWantedList": true,
+        "isOutOfStock": true
       },
       {
         "id": "VM-17-0010",
         "marketplace": "Bol.com",
         "product": "Lakoo BabyGuard Royal Heritage",
         "productId": "9300000175672284",
-        "productTitle": "Lakoo® BabyGuard Royal Heritage - Babyfoon met Camera en app - Babyfoon met monitor - wifi - Uitbreid baar - nachtzicht - Gratis app - BesteVerkocht - Terugspreekfunctie - Tempratuurweergave",
+        "productTitle": "Lakoo® BabyGuard Pro 6 - Babyfoon met Camera en app - Babyfoon met monitor - 1080P HD-resolutie - White Noise - wifi - Uitbreid baar - nachtzicht - Gratis app - Terugspreekfunctie - Tempratuurweergave - Meest verkochte",
         "keywords": ["babyfoon met camera", "baby monitor", "babyfoon met camera en app"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&filter_N=7559956427&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&filter_N=7559956427&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+monitor&view=list&filter_N=7559956427&rating=all"
+          "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor",
+          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app"
         ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-17-00011",
+        "id": "VM-17-0011",
         "marketplace": "Bol.com",
         "product": "LAKOO - MiniGuard Vision B",
         "productId": "9300000150180728",
@@ -151,7 +175,7 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true,
-        "isOutOfStock": false
+        "isOutOfStock": true
       }
     ]
   }
