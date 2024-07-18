@@ -52,22 +52,6 @@
       {
         "id": "VM-12-0004",
         "marketplace": "Bol.com",
-        "product": "Placemat Vaxjo Grey",
-        "productId": "9300000010054871",
-        "productTitle": "Placemats van Sophie Nordinn® - Placemat Vaxjo (Donkergrijs) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
-        "keywords": ["placemat kunststof", "placemat", "placemats"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-12-0005",
-        "marketplace": "Bol.com",
         "product": "Kitchen Apron Women -  Green",
         "productId": "9300000029386059",
         "productTitle": "Schort van Sophie Nordinn® - Keukenschort Dames - Schorten voor Vrouwen en Mannen - Kookschort voor Vrouw - Malmö (Mintgroen) - 87 x 77 cm",
@@ -78,7 +62,7 @@
           "https://www.bol.com/nl/nl/s/?searchtext=keukenshort",
           "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+vrouw",
           "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+dames",
-          "https://www.bol.com/nl/nl/s/?searchtext=schort",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schort&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=kookschort",
           "https://www.bol.com/nl/nl/s/?searchtext=kookschort+dames",
           "https://www.bol.com/nl/nl/s/?searchtext=kookschort+mannen",
@@ -88,7 +72,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0006",
+        "id": "VM-12-0005",
         "marketplace": "Bol.com",
         "product": "Keukenschort Malmö (Roze)",
         "productId": "9300000029386060",
@@ -110,7 +94,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0007",
+        "id": "VM-12-0006",
         "marketplace": "Bol.com",
         "product": "Opbergmand Orebro",
         "productId": "9300000000207542",
@@ -126,7 +110,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0008",
+        "id": "VM-12-0007",
         "marketplace": "Bol.com",
         "product": "Kledinghangers",
         "productId": "9300000116538243",
@@ -134,15 +118,15 @@
         "keywords": ["kleding hangers", "kledinghanger", "kledinghangers"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=kleding+hangers",
-          "https://www.bol.com/nl/nl/s/?searchtext=kledinghanger",
-          "https://www.bol.com/nl/nl/s/?searchtext=kledinghangers"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kleding+hangers&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kledinghanger&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=kledinghangers&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0009",
+        "id": "VM-12-0008",
         "marketplace": "Bol.com",
         "product": "Placemat Vaxjo Blue",
         "productId": "9300000010054921",
@@ -150,15 +134,15 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat+kunststof",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat+kunststof&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0010",
+        "id": "VM-12-0009",
         "marketplace": "Bol.com",
         "product": "Placemat Abisko Grey",
         "productId": "9300000029386045",
@@ -166,14 +150,14 @@
         "keywords": ["placemat rond", "placemat", "placemats", "placemats rond"],
         "keywordLink":
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=placemat",
-          "https://www.bol.com/nl/nl/s/?searchtext=placemats"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemat&view=list&filter_N=4267462047&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=placemats&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0011",
+        "id": "VM-12-0010",
         "marketplace": "Bol.com",
         "product": "Placemat Vaxjo - Geel",
         "productId": "9300000010054929",
@@ -187,26 +171,7 @@
         "isMostWantedList": true
       },
       {
-        "id": "VM-12-0012",
-        "marketplace": "Bol.com",
-        "product": "Schoenenrek - Roze 2 stuks",
-        "productId": "9300000016839655",
-        "productTitle": "Sophie Nordinn® - Schoenenrek Linkoping Roze (2 stuks) - Schoenenopbergers - Schoenen Organizer - Opbergsysteem - Schoenrek - 26x24x15 cm",
-        "keywords": ["schoenenrek", "schoenen rek", "schoenen opbergsysteem", "schoenen organizer", "schoenrek"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenenrek&view=list&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=schoenen+rek&view=list&12194=14-15&rating=all",
-          "https://www.bol.com/nl/nl/s/?searchtext=schoenen+opbergsysteem",
-          "https://www.bol.com/nl/nl/s/?searchtext=schoenen+organizer",
-          "https://www.bol.com/nl/nl/s/?searchtext=schoenrek"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true,
-        "isOutOfStock": true
-      },
-      {
-        "id": "VM-12-0013",
+        "id": "VM-12-0011",
         "marketplace": "Bol.com",
         "product": "Kitchen Apron Women -  Paars",
         "productId": "9300000029386067",
@@ -215,31 +180,14 @@
         "keywordLink":
         [
           "https://www.bol.com/nl/nl/s/?searchtext=keukenschorten",
-          "https://www.bol.com/nl/nl/s/?searchtext=keukenshort",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenshort&view=list&filter_N=4267462047&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+vrouw",
           "https://www.bol.com/nl/nl/s/?searchtext=keukenschort+dames",
           "https://www.bol.com/nl/nl/s/?searchtext=schort",
           "https://www.bol.com/nl/nl/s/?searchtext=kookschort",
           "https://www.bol.com/nl/nl/s/?searchtext=kookschort+dames",
           "https://www.bol.com/nl/nl/s/?searchtext=kookschort+mannen",
-          "https://www.bol.com/nl/nl/s/?searchtext=keukenschort"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-12-0014",
-        "marketplace": "Bol.com",
-        "product": "Opbergmand - Jute groot",
-        "productId": "9300000029386038",
-        "productTitle": "Bestseller #1 Opbergmand van Sophie Nordinn® - Mand Goteborg (Jute groot) - Wasmand - Waszak - 57 L",
-        "keywords": ["wasmand", "opbergmand", "mand", "opberg mand"],
-        "keywordLink":
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=wasmand&view=list&filter_N=4267462047&12194=30-35&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opbergmand&view=list&filter_N=4267462047&12194=30-35&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=mand&view=list&filter_N=4267462047&12194=30-35&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=opberg+mand&view=list&filter_N=4267462047&12194=30-35&rating=all"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=keukenschort&view=list&filter_N=4267462047&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true

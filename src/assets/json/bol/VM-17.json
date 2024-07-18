@@ -9,46 +9,10 @@
         "keywords": ["beamer", "beamers", "mini beamer", "beamer mini"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=beamer",
-          "https://www.bol.com/nl/nl/s/?searchtext=beamers",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamer&view=list&filter_N=7558495748&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamers&view=list&filter_N=7558495748&rating=all",
           "https://www.bol.com/nl/nl/s/?searchtext=mini+beamer",
           "https://www.bol.com/nl/nl/s/?searchtext=beamer+mini"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-17-0002",
-        "marketplace": "Bol.com",
-        "product": "Projectiescherm",
-        "productId": "9300000160847007",
-        "productTitle": "Lumbit® Projectiescherm Met Statief - Projectiedoek Voor Beamer - 100'' - Beamerscherm - Projectieschermen - In Hoogte Verstelbaar - Screenprotector - Zwart",
-        "keywords": ["projectiescherm", "projectieschermen", "beamerscherm"],
-        "keywordLink": 
-        [
-          "https://www.bol.com/nl/nl/s/?searchtext=projectiescherm",
-          "https://www.bol.com/nl/nl/s/?searchtext=projectieschermen",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamerscherm&view=list&filter_N=7558495748&rating=all"
-        ],
-        "isRunning" : false,
-        "isOutOfStock" : true,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-17-0003",
-        "marketplace": "Bol.com",
-        "product": "Maandplanner",
-        "productId": "9300000059034075",
-        "productTitle": "Lumbit® Magnetische Maandplanner & Weekplanner Whiteboard Set - To Do Planner - Planbord - Familieplanner - Memobord - Schoolbord - Schoolagenda - Dagplanner - Maandkalender - Inclusief Meal Planner, Markers & Wisser - A3 Formaat",
-        "keywords": ["maandplanner", "maandplanner magnetisch", "maandplanners", "weekplanner", "weekplanner whiteboard", "maandplanner whiteboard"],
-        "keywordLink": 
-        [
-          "https://www.bol.com/be/nl/s/?page=1&searchtext=maandplanner&view=list&sort=popularity1",
-          "https://www.bol.com/nl/nl/s/?searchtext=maandplanner+magnetisch",
-          "https://www.bol.com/nl/nl/s/?searchtext=maandplanners",
-          "https://www.bol.com/nl/nl/s/?searchtext=weekplanner",
-          "https://www.bol.com/nl/nl/s/?searchtext=weekplanner+whiteboard",
-          "https://www.bol.com/be/nl/s/?page=1&searchtext=maandplanner+whiteboard&view=list&sort=popularity1"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -59,17 +23,10 @@
         "product": "LAKOO BabyGuard Kitty",
         "productId": "9300000155386506",
         "productTitle": "Lakoo® BabyGuard Kitty - Babyfoon - baby monitor - Babyfoon met Camera - uitbreidbaar - bewegingsdetectie - Gratis App - 720HD, Wifi - Nachtzicht - Terugspreekfunctie - Slaapmuziek - Draaibaar - Uitbreidbaar - Tempratuurweergave",
-        "keywords": ["babyfoon met camera", "baby monitor", "babyfoon met camera en app"],
+        "keywords": ["babyfoon met camera en app"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=169-170&rating=all",
-          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",
-          "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor"
+          "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -80,27 +37,10 @@
         "product": "LAKOO BabyGuard HD PRO",
         "productId": "9300000150088115",
         "productTitle": "Lakoo® BabyGuard HD PRO - Beste verkochte Babyfoon van 2024 - baby monitor-Babyfoon met Camera en Beeldscherm - 1080p Full HD - Nachtzicht - Bewegingsdetectie - Terugspreekfunctie - Slaapmuziek - Draaibaar - Uitbreidbaar",
-        "keywords": ["babyfoon met camera", "baby monitor"],
+        "keywords": ["baby monitor"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&12194=89-90&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+monitor&view=list&filter_N=7559956427&rating=all"
-        ],
-        "isRunning" : false,
-        "isMostWantedList": true
-      },
-      {
-        "id": "VM-17-0006",
-        "marketplace": "Bol.com",
-        "product": "LAKOO-Hands-Free borstkolf",
-        "productId": "9300000165933420",
-        "productTitle": "Lakoo® Hands-Free borstkolf – borstkolf electrisch dubbel - Borstkolf - Dubbele elektrische handsfree borstkolf – Draagbaar - Transparant/Geel",
-        "keywords": ["borstkolf electrisch dubbel", "elektrische borstkolf", "handsfree borstkolf"],
-        "keywordLink": 
-        [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=borstkolf+electrisch+dubbel&view=list&filter_N=7559956427&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=elektrische+borstkolf&view=list&filter_N=7559956427&rating=all",
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=handsfree+borstkolf&view=list&filter_N=7559956427&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -114,8 +54,8 @@
         "keywords": ["white noise", "muziekmobiel baby"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?searchtext=white+noise",
-          "https://www.bol.com/nl/nl/s/?searchtext=muziekmobiel+baby"
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=white+noise&view=list&filter_N=7559956427&rating=all",
+          "https://www.bol.com/nl/nl/s/?page=1&searchtext=muziekmobiel+baby&view=list&filter_N=7559956427&rating=all"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -142,10 +82,9 @@
         "product": "LAKOO - MiniGuard Vision B",
         "productId": "9300000150180728",
         "productTitle": "Lakoo® MiniGuard Vision B - Babyfoon met monitor - Babyfoon - Nachtzicht - Terugspreekfunctie -Compacte Babyfoon met Monitor & Camera - Babymonitor",
-        "keywords": ["babyfoon met camera", "baby monitor", "babyfoon met camera en app"],
+        "keywords": [ "baby monitor", "babyfoon met camera en app"],
         "keywordLink": 
         [
-          "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera+en+app&view=list&filter_N=7559956427&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&filter_N=7559956427&rating=all",
           "https://www.bol.com/nl/nl/s/?page=1&searchtext=baby+monitor&view=list&filter_N=7559956427&rating=all"
         ],
