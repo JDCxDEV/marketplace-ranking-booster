@@ -69,6 +69,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
     });
   }catch(error) {
+    console.log(error.message)
     return;
   }
 

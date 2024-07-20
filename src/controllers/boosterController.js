@@ -43,7 +43,9 @@ export const getRequestTriggerBooster = async (req, res) => {
 };
 
 // Download Proxies Handler
-export const getTriggerDownloadProxies = async (req, res) => {
+export const 
+
+ getTriggerDownloadProxies = async (req, res) => {
     await downloadProxies();
     return res.status(200).json({ message: 'Proxies refresh complete!' });
 };

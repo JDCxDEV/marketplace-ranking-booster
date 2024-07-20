@@ -126,7 +126,7 @@
       "key": "VM-4",
       "name": "Virtual Machine 16",
       "steps": "per-page",
-      "proxy": "ip-royal-nl"
+      "proxy": "ip-royal-de"
     },
     {
       "id": 17,
@@ -214,7 +214,7 @@
       "key": "VM-27",
       "name": "Virtual Machine 27",
       "steps": "per-page",
-      "proxy": "ip-royal-be"
+      "proxy": "ip-royal-nl"
     }
   ]
 }

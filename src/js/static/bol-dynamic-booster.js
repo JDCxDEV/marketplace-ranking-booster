@@ -109,6 +109,17 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
 
   try {
     await page.goto(link, { waitUntil: 'domcontentloaded' });
+
+    // Check if the page contains the "Too Many Requests" message
+    const tooManyRequests = await page.evaluate(() => {
+      const h1 = document.querySelector('h1');
+      return h1 && h1.textContent === 'Too Many Requests';
+    });
+
+    if (tooManyRequests) {
+      await page.reload({ waitUntil: 'domcontentloaded' });
+    }
+
   } catch (error) {
     // console.log(error.message)
     if(browser) {
@@ -228,7 +239,9 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     }
   }
 
-  await browser.close();
+  if(browser) {
+    await browser.close();
+  }
 }
 
 export const triggerBolBooster = async (thread, product, steps = 'homepage') => {
