@@ -5,8 +5,8 @@
   "main": "server.mjs",
   "type": "module",
   "scripts": {
-    "start": "npm i && node --max-old-space-size=12336 src/app.js&&cross-env NOED_ENV=dev node src/app.js",
-    "dev": "node --max-old-space-size=12336 src/app.js&&cross-env NOED_ENV=dev node src/app.js",
+    "start": "npm i && node --expose-gc --max-old-space-size=12336 src/app.js&&cross-env NOED_ENV=dev node src/app.js",
+    "dev": "node --expose-gc --max-old-space-size=12336 src/app.js&&cross-env NOED_ENV=dev node src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

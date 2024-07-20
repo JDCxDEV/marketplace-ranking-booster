@@ -66,6 +66,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
         '--no-first-run',
         '--no-zygote',
         '--start-maximized',
+        '--no-sandbox'
         ],
   
         ignoreDefaultArgs: ['--enable-automation'], // Exclude arguments that enable automation
@@ -310,6 +311,11 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
 
   for (let mainIndex = 1; mainIndex <= thread; mainIndex++) {
 
+    // Force garbage collection
+    if (global.gc) {
+      global.gc();
+    }
+
     console.log('current thread:' + mainIndex);
     try {
       for (let index = 0; index < products.length; index++) {
@@ -351,6 +357,7 @@ export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {
       if(!process.env.TURN_OFF_LOGS) {
         // console.error(error);
       }
+
       return;
     }
   }
