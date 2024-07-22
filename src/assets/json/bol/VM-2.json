@@ -58,6 +58,7 @@
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?searchtext=robot+bouwpakket",
+        "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed+jongens",
         "https://www.bol.com/nl/nl/s/?searchtext=robot+speelgoed"
       ],
       "isRunning" : false,
@@ -149,9 +150,9 @@
       ],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip",
-        "https://www.bol.com/nl/nl/s/?searchtext=led-strips",
-        "https://www.bol.com/nl/nl/s/?searchtext=ledstrip",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&filter_N=4296707626&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening",
         "https://www.bol.com/nl/nl/s/?searchtext=lichtstrip",
         "https://www.bol.com/nl/nl/s/?searchtext=gaming",
@@ -160,7 +161,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+usb",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+tv",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+voor+tv",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ambilight+strip&view=list&filter_N=4296707626&12194=22-23&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ambilight+strip&view=list&12194=22-23&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+2+meter"
       ],
       "isRunning" : false,
@@ -214,7 +215,11 @@
       "product": "LED strip NEON RGB 3m",
       "productId": "9300000137732718",
       "productTitle": "Lideka - LED Strip 3 Meter NEON RGB - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
-      "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon led strip buiten"],
+      "keywords": 
+      [
+        "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip", 
+        "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon led strip buiten"
+      ],
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&filter_N=4296707626&rating=all",
@@ -238,12 +243,17 @@
       "product": "LED strip NEON RGBIC 3m",
       "productId": "9300000137732719",
       "productTitle": "Lideka® - RGBIC Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
-      "keywords": ["led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon lamp", "neon led strip buiten", "neon verlichting"],
+      "keywords": 
+      [
+        "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+        "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon lamp",
+        "neon led strip buiten", "neon verlichting"
+      ],
       "keywordLink": 
       [
-        "https://www.bol.com/nl/nl/s/?searchtext=led+strip",
-        "https://www.bol.com/nl/nl/s/?searchtext=led-strips",
-        "https://www.bol.com/nl/nl/s/?searchtext=ledstrip",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led+strip&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=led-strips&view=list&filter_N=4296707626&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=ledstrip&view=list&filter_N=4296707626&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+met+afstandsbediening",
         "https://www.bol.com/nl/nl/s/?searchtext=led+strip+3+meter",
         "https://www.bol.com/nl/nl/s/?searchtext=neon+lamp",

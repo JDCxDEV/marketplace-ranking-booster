@@ -3,7 +3,7 @@
     {
       "id": "VM-3-0001",
       "marketplace": "Bol.com",
-      "product": "LED strip RGB 5m",
+      "product": "  ",
       "productId": "9300000003262228",
       "productTitle": "Lideka - LED Strip 5 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 300 LED Lights - 10mm Breed - 2.0A - Elke 15CM Knippen - Zelfklevend Led Licht - Ook Voor TV",
       "keywords": 
@@ -64,7 +64,7 @@
       "marketplace": "Bol.com",
       "product": "Powerbank 1",
       "productId": "9300000160670428",
-      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh Quick Charge - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - Powerbank Geschikt voor iPhone 12/13/14/15 & Samsung S20, S21, S22, S23, S24",
+      "productTitle": "QuchiQ™ Powerbank 20000mAh Quick Charge - Mobiele oplader - Externe oplaadbare batterij - Micro usb & C input - Powerbank Geschikt voor iPhone 12/13/14/15 & Samsung S20, S21, S22, S23, S24",
       "keywords": 
       [
         "externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "draadloze powerbank",
@@ -77,8 +77,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=externe+batterij+powerbank",
         "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank",
         "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos",
-        "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank",
-        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=draadloze+powerbank&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+20000+mah&view=list&filter_N=4298231505&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&filter_N=4298231505&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+samsung&view=list&filter_N=4298231505&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+apple&view=list&filter_N=4298231505&12194=33-34&rating=all",
@@ -93,7 +93,7 @@
       "marketplace": "Bol.com",
       "product": "Powerbank 2",
       "productId": "9300000160670427",
-      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh Quick Charge - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes - Powerbank Geschikt voor iPhone 12/13/14/15 & Samsung S20, S21, S22, S23, S24",
+      "productTitle": "QuchiQ™ Draadloze Powerbank 20000mAh - Mobiele oplader - Draadloos Opladen - Externe oplaadbare batterij - Micro usb & C input - LED lampjes",
       "keywords": 
       [
         "externe oplader powerbank", "externe batterij powerbank", "20000 mah powerbank", "powerbank 20000 mah draadloos", "draadloze powerbank",
@@ -107,11 +107,8 @@
         "https://www.bol.com/nl/nl/s/?searchtext=20000+mah+powerbank",
         "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+draadloos",
         "https://www.bol.com/nl/nl/s/?searchtext=draadloze+powerbank",
-        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&filter_N=4298231505&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+samsung&view=list&filter_N=4298231505&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+20000+mah&view=list&filter_N=4298231505&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+apple&view=list&filter_N=4298231505&12194=33-34&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+20000+mah+quick+charge",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank&view=list&filter_N=4298231505&12194=33-34&rating=all"
       ],
       "isRunning" : false,
@@ -159,7 +156,7 @@
       [
         "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+snurken",
         "https://www.bol.com/nl/nl/s/?searchtext=slaapoordoppen",
-        "https://www.bol.com/nl/nl/s/?searchtext=oordoppen+slapen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=oordoppen+slapen&view=list&filter_N=4298231505&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=sleep+plugs",
         "https://www.bol.com/nl/nl/s/?searchtext=oordopjes+slapen",
         "https://www.bol.com/nl/nl/s/?searchtext=slaap+oordopjes",
@@ -204,7 +201,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
@@ -284,7 +281,7 @@
       "keywordLink":
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon&view=list&filter_N=4295747366&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoon+met+camera&view=list&filter_N=4295747366&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=baby+monitor",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=babyfoons&view=list&filter_N=4295747366&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=babyfoon+met+camera+en+app",

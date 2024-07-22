@@ -1,5 +1,6 @@
 {
-  "products": [
+  "products":
+  [
     {
       "id": "VM-1-0001",
       "marketplace": "Bol.com",
@@ -19,7 +20,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
         "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&12194=24-25&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal"
       ],
       "isRunning" : false,
@@ -141,7 +142,7 @@
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+iphone&view=list&filter_N=4296707626&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=powerbank+zonneenergie",
         "https://www.bol.com/nl/nl/s/?searchtext=solar+powerbank",
-        "https://www.bol.com/nl/nl/s/?searchtext=powerbank+samsung",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=powerbank+samsung&view=list&filter_N=4296707626&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=powerbank+apple",
         "https://www.bol.com/nl/nl/s/?searchtext=powerbank+solar"
       ],
@@ -163,11 +164,11 @@
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=water+fles",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=water+fles&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
@@ -269,7 +270,7 @@
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
@@ -338,7 +339,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+kinderen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+rietje+volwassenen",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+volwassenen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen+volwassenen",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind"
       ],
@@ -361,7 +362,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true,
