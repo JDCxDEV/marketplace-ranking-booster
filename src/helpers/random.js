@@ -22,9 +22,9 @@ export const generateRandomBetween = (min, max) => {
  * @param {number} max - The maximum value for the random number.
  * @returns {number} - A random integer between min and max (inclusive).
  */
-const getRandomInt = (min, max) => {
+export const getRandomInt = (min, max) => {
     return Math.floor(Math.random() * (max - min + 1)) + min;
-  };
+};
 
 /**
  * Determines the repeat times based on the product length.

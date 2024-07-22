@@ -39,3 +39,14 @@ const cleanup = (file, dest, errorMessage) => {
     fs.unlink(dest, () => {}); 
     console.error(errorMessage);
 };
+
+export const dynamicallyImportJsonFile = async (path = null, file)  => {
+    const { default: jsonObject } = await import(`${path}${file}`, {
+        assert: {
+          type: 'json'
+        }
+    });
+  
+    return jsonObject
+}
+

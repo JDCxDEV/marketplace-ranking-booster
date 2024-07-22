@@ -215,6 +215,14 @@
       "name": "Virtual Machine 27",
       "steps": "per-page",
       "proxy": "ip-royal-nl"
+    },
+    {
+      "id": 27,
+      "marketplace": "Mediamarkt.de",
+      "key": "VM-Media-Markt-1",
+      "name": "Virtual Machine 28",
+      "steps": "per-page",
+      "proxy": "ip-royal-be"
     }
   ]
 }

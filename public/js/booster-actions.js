@@ -53,6 +53,9 @@ function runBoosterFunction(product = null, initAllBooster = false) {
       }else if(currentMP == 'blokker'){
         vmSelector = document.getElementById("vmSelectorBlokker");
         currentVM = vmSelector.options[vmSelector.selectedIndex].value;
+      }else if(currentMP == 'mediamarkt'){
+        vmSelector = document.getElementById("vmSelectorMediaMarkt");
+        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
       }
       
       const data = {
@@ -99,49 +102,46 @@ function showMarketPlace() {
 
     sendPostRequest(false);
 }
-
 async function sendPostRequest(initialize = true) {
-
-    /**
-     * Run only on initialize
-     */
+    // Run only on initialize
     if (initialize) {
         await getSystemInfo();
     }
 
     const url = "/get-products";
 
-    let mpSelector = document.getElementById("mpSelector");
-    let currentMP = mpSelector.options[mpSelector.selectedIndex].value;
+    const mpSelector = document.getElementById("mpSelector");
+    const currentMP = mpSelector.options[mpSelector.selectedIndex].value;
 
-    let vmSelector = null;
+    // Marketplace to selector ID mapping
+    const vmSelectors = {
+        bol: "vmSelectorBol",
+        kaufland: "vmSelectorKaufland",
+        blokker: "vmSelectorBlokker",
+        mediamarkt: "vmSelectorMediaMarkt"
+    };
+
     let currentVM = null;
 
-    if (currentMP == 'bol') {
-        vmSelector = document.getElementById("vmSelectorBol");
-        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
-    }else if(currentMP == 'kaufland'){
-        vmSelector = document.getElementById("vmSelectorKaufland");
-        currentVM = vmSelector.options[vmSelector.selectedIndex].value;
-    }else if(currentMP == 'blokker'){
-        vmSelector = document.getElementById("vmSelectorBlokker");
+    if (vmSelectors[currentMP]) {
+        const vmSelector = document.getElementById(vmSelectors[currentMP]);
         currentVM = vmSelector.options[vmSelector.selectedIndex].value;
     }
 
-    console.log(currentVM)
+    console.log(currentVM);
+    
     const data = {
         currentMP: currentMP,
         currentVM: currentVM,
     };
 
-    axios.post(url, data)
-    .then(response => {
+    try {
+        const response = await axios.post(url, data);
         console.log("POST request for products successful:", response.data);
         createTable(response.data.products);
-    })
-    .catch(error => {
+    } catch (error) {
         console.error("POST request for products failed:", error);
-    });
+    }
 }
 
 function createTable(products) {
@@ -167,7 +167,7 @@ function createTable(products) {
             <td class="p-2">
                 ${ product.keywords.map(keyword => `<span class="inline-flex items-center rounded-md bg-green-50 px-2 py-1 text-xs font-medium text-green-700 ring-1 ring-inset ring-green-600/20 mb-2 mr-2">${keyword}</span>`).join('')}
             </td>
-            <td class="p-4  border-l-2">
+            <td class="p-4  border-l-2 hidden">
                 <button class="text-white py-2 px-3 text-sm  rounded-md  whitespace-nowrap ${product.isOutOfStock ? 'cursor-not-allowed bg-gray-300' : 'bg-blue-500 hover:bg-blue-700' }" ${product.isOutOfStock ? 'disabled' : '' } id="productBtn${product.id}" onclick="runBoosterFunction('${product.id}', null)"><i class="fas fa-cog"></i> Run Booster</button>
             </td>
             `;
@@ -189,50 +189,37 @@ function refreshProxies() {
 
 async function getSystemInfo() {
     const url = "/get-system-info";
-    await axios.post(url)
-        .then(async (response) => {
-            // Set Market Place
-            const marketList = response.data.systemInfo.marketplaces;
-            const mpSelector = document.getElementById('mpSelector');
-            await marketList.forEach(option => {
-                const optionElement = document.createElement('option');
-                optionElement.value = option.key;
-                optionElement.text = option.name;
-                mpSelector.appendChild(optionElement);
-            });
+    try {
+        const response = await axios.post(url);
+        const { marketplaces, vms } = response.data.systemInfo;
 
-            // Set VMS
+        populateSelector('mpSelector', marketplaces);
 
-            /** Bol.com */
-            const bolVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Bol.com"));
-            const vmSelectorBol = document.getElementById('vmSelectorBol');
-            await bolVms.forEach(option => {
-                const optionElement = document.createElement('option');
-                optionElement.value = option.key;
-                optionElement.text = option.name;
-                vmSelectorBol.appendChild(optionElement);
-            });
+        const vmMappings = {
+            "Bol.com": "vmSelectorBol",
+            "Kaufland.com": "vmSelectorKaufland",
+            "Blokker.nl": "vmSelectorBlokker",
+            "Mediamarkt.de": "vmSelectorMediaMarkt"
+        };
 
-            /** Kaufland */
-            const kauflandVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Kaufland.com"));
-            const vmSelectorKaufland = document.getElementById('vmSelectorKaufland');
-            await kauflandVms.forEach(option => {
-                const optionElement = document.createElement('option');
-                optionElement.value = option.key;
-                optionElement.text = option.name;
-                vmSelectorKaufland.appendChild(optionElement);
-            });
-            
-            /** Kaufland */
-            const blokkerVms = response.data.systemInfo.vms.filter((i => i.marketplace == "Blokker.nl"));
-            const vmSelectorBlokker = document.getElementById('vmSelectorBlokker');
-            await blokkerVms.forEach(option => {
-                const optionElement = document.createElement('option');
-                optionElement.value = option.key;
-                optionElement.text = option.name;
-                vmSelectorBlokker.appendChild(optionElement);
-            });       
+        Object.entries(vmMappings).forEach(([marketplace, selectorId]) => {
+            const filteredVms = vms.filter(vm => vm.marketplace === marketplace);
+            populateSelector(selectorId, filteredVms);
         });
+
+    } catch (error) {
+        console.error('Error fetching system info:', error);
+    }
+}
+
+function populateSelector(selectorId, items) {
+    const selector = document.getElementById(selectorId);
+    items.forEach(item => {
+        const optionElement = document.createElement('option');
+        optionElement.value = item.key;
+        optionElement.text = item.name;
+        selector.appendChild(optionElement);
+    });
 }
 
 const threadInput = document.getElementById("threadInput");

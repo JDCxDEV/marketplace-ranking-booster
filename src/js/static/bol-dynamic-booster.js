@@ -1,5 +1,5 @@
 import puppeteer from 'puppeteer-extra';
-import StealthPlugin from 'puppeteer-extra-plugin-stealth';
+import StealthPlugin from 'puppeteer-extra-plugin-stealth-fix';
 import UserAgent from 'user-agents';
 import pluginAnonymizeUA from 'puppeteer-extra-plugin-anonymize-ua';
 import * as booster  from '../../helpers/boosterSteps.js'
@@ -53,7 +53,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     stripHeadless: true,
     makeWindows: false,
   }));
-    
+
   try {
     browser = await puppeteer.launch({ 
       headless: false,
@@ -90,6 +90,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     });
 
     await page.setUserAgent(userAgentStr);
+    
 
     await page.setViewport(
       { 

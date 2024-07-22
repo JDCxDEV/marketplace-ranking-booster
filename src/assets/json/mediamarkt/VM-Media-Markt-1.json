@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "VM-1-0001",
+      "marketplace": "Mediamarkt",
+      "product": "Solar Powerbank Single",
+      "productTitle": "LIDEKA Power Bank Solar - 4x USB - USB C - Schnell & kabelloses Laden - Outdoor - Für iPhone, Samsung Powerbank 30000mAh Black",
+      "productLink": "/de/product/_lideka-solar-charger-bank-4x-usb-c-powerbank-30000mah-black-135742851.html",
+      "productId": "135742851",
+      "keywords": ["power bank", "powerbank iphone", "power bank 30000mah", "solar powerbank"],
+      "keywordList":
+      [
+        {
+          "name": "power bank",
+          "link": "https://www.mediamarkt.de/de/category/powerbanks-5354.html?query=powerbank&filter=currentprice:89-90"
+        },
+        {
+          "name": "powerbank iphone",
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbank%20iphone&filter=currentprice:89-250"
+        },
+        {
+          "name": "power bank 30000mah",
+          "link": "https://www.mediamarkt.de/de/search.html?query=power%20bank%2030000mah&filter=currentprice:89-250"
+        },
+        {
+          "name": "solar powerbank",
+          "link": "https://www.mediamarkt.de/de/search.html?query=solar%20powerbank&filter=currentprice:85-120"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    }
+  ]
+}

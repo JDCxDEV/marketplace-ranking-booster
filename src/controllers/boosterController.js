@@ -1,6 +1,7 @@
 import { triggerAllBolKaufland } from '../js/static/kaufland-booster.js';
 import { triggerAllBlokkerBooster } from '../js/static/blokker-booster.js';
-import { triggerBolBooster, triggerAllBolBooster } from '../js/static/bol-dynamic-booster.js';
+import { triggerAllBolBooster } from '../js/static/bol-dynamic-booster.js';
+import { triggerAllMediaMarktBooster } from '../js/static/mediamarkt-dynamic-booster.js';
 import { downloadProxies } from '../helpers/boosterSteps.js';
 
 // Dynamically import JSON files
@@ -15,37 +16,31 @@ const dynamicallyImportJsonFile = async (file, folder) => {
 
 // Trigger Booster Handler
 export const getRequestTriggerBooster = async (req, res) => {
-    const { product, currentMP, currentVM, thread } = req.body;
+    const { currentMP, currentVM, thread } = req.body;
 
-    if (product && currentMP === 'bol') {
-        const productJsonFile = await dynamicallyImportJsonFile((currentVM || 'VM-1') + '.json', currentMP);
-        const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
-        const selectedProduct = productJsonFile.products.find(item => item.id === product);
-        const vm = vmJsonFile.vms.find(item => item.key === currentVM);
+    const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
+    const vm = vmJsonFile.vms.find(item => item.key === currentVM);
 
-        if (selectedProduct) {
-            triggerBolBooster(thread, selectedProduct, vm?.steps);
-        }
-    } else {
-        const vmJsonFile = await dynamicallyImportJsonFile('vms.json', 'system');
-        const vm = vmJsonFile.vms.find(item => item.key === currentVM);
+    const triggerMap = {
+        'bol': triggerAllBolBooster,
+        'kaufland': triggerAllBolKaufland,
+        'blokker': triggerAllBlokkerBooster,
+        'mediamarkt': triggerAllMediaMarktBooster
+    };
 
-        if (currentMP === 'bol') {
-            triggerAllBolBooster(thread, currentVM, vm);
-        } else if (currentMP === 'kaufland') {
-            triggerAllBolKaufland(thread, currentVM, vm);
-        } else if (currentMP === 'blokker') {
-            triggerAllBlokkerBooster(thread, currentVM, vm);
-        }
+    const triggerFunction = triggerMap[currentMP];
+    if (triggerFunction) {
+        await triggerFunction(thread, currentVM, vm);
     }
 
     return res.status(200).json({ message: 'POST request successful', data: req.body });
 };
 
+
 // Download Proxies Handler
 export const 
 
- getTriggerDownloadProxies = async (req, res) => {
+getTriggerDownloadProxies = async (req, res) => {
     await downloadProxies();
     return res.status(200).json({ message: 'Proxies refresh complete!' });
 };

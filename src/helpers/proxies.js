@@ -48,6 +48,8 @@ const proxiesCredentials = [
         id: 'smart-proxy-de',
         name: 'smart proxy de',
         host: 'https://dc.smartproxy.com:10000',
+        hostUrl: 'https://dc.smartproxy.com',
+        port: '10000',
         username: 'spjqq82as8',
         password: 'zVzqSe5i8mBR71wt+m'
     },
