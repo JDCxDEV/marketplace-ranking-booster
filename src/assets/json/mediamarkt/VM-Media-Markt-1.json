@@ -1,5 +1,6 @@
 {
-  "products": [
+  "products":
+  [
     {
       "id": "VM-1-0001",
       "marketplace": "Mediamarkt",
@@ -12,19 +13,599 @@
       [
         {
           "name": "power bank",
-          "link": "https://www.mediamarkt.de/de/category/powerbanks-5354.html?query=powerbank&filter=currentprice:89-90"
+          "link": "https://www.mediamarkt.de/de/category/powerbanks-5354.html?query=power%20bank&filter=brand:LIDEKA"
         },
         {
           "name": "powerbank iphone",
-          "link": "https://www.mediamarkt.de/de/search.html?query=powerbank%20iphone&filter=currentprice:89-250"
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbank%20iphone&filter=brand:LIDEKA"
         },
         {
           "name": "power bank 30000mah",
-          "link": "https://www.mediamarkt.de/de/search.html?query=power%20bank%2030000mah&filter=currentprice:89-250"
+          "link": "https://www.mediamarkt.de/de/search.html?query=power%20bank%2030000mah&filter=brand:LIDEKA"
         },
         {
           "name": "solar powerbank",
-          "link": "https://www.mediamarkt.de/de/search.html?query=solar%20powerbank&filter=currentprice:85-120"
+          "link": "https://www.mediamarkt.de/de/search.html?query=solar%20powerbank&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0002",
+      "marketplace": "Mediamarkt",
+      "product": "Solar Powerbank Double",
+      "productTitle": "LIDEKA Solar-Powerbank + Solarladegerät - 4x USB - USB-C - Schnelles & kabelloses Aufladen - 30.000 mAh Energiestation Bausatz 32400mAh Black",
+      "productLink": "/de/product/_lideka-solar-charger-bank-4x-usb-c-powerbank-32400mah-black-135708971.html",
+      "productId": "135708971",
+      "keywords": ["powerbank iphone", "power bank", "solar powerbank", "power bank 30000mah"],
+      "keywordList":
+      [
+        {
+          "name": "solar powerbank",
+          "link": "https://www.mediamarkt.de/de/search.html?query=solar%20powerbank&filter=currentprice:139-140"
+        },
+        {
+          "name": "power bank 30000mah",
+          "link": "https://www.mediamarkt.de/de/search.html?query=power%20bank%2030000mah&filter=brand:LIDEKA&filter=currentprice:139-140"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0003",
+      "marketplace": "Mediamarkt",
+      "product": "Solar Powerbank Triple",
+      "productTitle": "LIDEKA Power Bank Solar - 30.000mah - Effiziente Solar ladegeräte 2x - Outdoor - iPhone, Samsung Powerbank + 2x Solar Ladegeräte 30000mAh Black",
+      "productLink": "/de/product/_lideka-solar-charger-bank-powerbank-34800mah-black-135708933.html",
+      "productId": "135708933",
+      "keywords": ["powerbank iphone", "power bank", "solar powerbank", "power bank 30000mah"],
+      "keywordList":
+      [
+        {
+          "name": "powerbank iphone",
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbank%20iphone&filter=brand:LIDEKA"
+        },
+        {
+          "name": "solar powerbank",
+          "link": "https://www.mediamarkt.de/de/search.html?query=solar%20powerbank&filter=brand:LIDEKA"
+        },
+        {
+          "name": "power bank 30000mah",
+          "link": "https://www.mediamarkt.de/de/search.html?query=power%20bank%2030000mah&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0004",
+      "marketplace": "Mediamarkt",
+      "product": "LK-03-N-IC",
+      "productTitle": "LIDEKA Neon LED Strip Light RGBIC 3m - LED streifen Outdoor - App-Steuerung - IP68 - Google Home & Alexa RGBIC neon led strip Multi Colors",
+      "productLink": "/de/product/_lideka-neon-rgb-ic-led-streifen-3m-led-strips-multicolors-135581065.html",
+      "productId": "135581065",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
+      "keywordList":
+      [
+        {
+          "name": "neon streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20streifen&filter=brand:LIDEKA&filter=currentprice:59-60"
+        },
+        {
+          "name": "neon led streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20led%20streifen&filter=brand:LIDEKA&filter=currentprice:59-60"
+        },
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic&filter=brand:LIDEKA&filter=currentprice:59-60"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0005",
+      "marketplace": "Mediamarkt",
+      "product": "LKNRGBIC-2",
+      "productTitle": "LIDEKA Neon LED Strip Light RGBIC 6m - LED streifen Outdoor - App-Steuerung - IP68 - Google Home & Alexa RGBIC neon led strip Multicolors",
+      "productLink": "/de/product/_lideka-neon-rgb-ic-led-streifen-6m-led-strips-multicolors-135581100.html",
+      "productId": "135581100",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
+      "keywordList":
+      [
+        {
+          "name": "neon streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20streifen"
+        },
+        {
+          "name": "neon led streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20led%20streifen"
+        },
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0006",
+      "marketplace": "Mediamarkt",
+      "product": "LKNRGBIC-3",
+      "productTitle": "LIDEKA Neon LED Strip Light RGBIC 9m - LED streifen Outdoor - App-Steuerung - IP68 - Google Home & Alexa RGBIC neon led strip Neon RGBIC",
+      "productLink": "/de/product/_lideka-neon-rgb-ic-led-streifen-9m-led-strips-multicolors-135708872.html",
+      "productId": "135708872",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
+      "keywordList":
+      [
+        {
+          "name": "neon streifen",
+          "link":"https://www.mediamarkt.de/de/search.html?query=neon%20streifen&filter=brand:LIDEKA"
+        },
+        {
+          "name": "neon led streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20led%20streifen"
+        },
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0007",
+      "marketplace": "Mediamarkt",
+      "product": "LK-03-N-RGB",
+      "productTitle": "LIDEKA Neon LED Strip Light RGB 3m - LED streifen Outdoor mit App-Steuerung - IP68 - Google Home & Alexa RGB neon led strip Multicolors",
+      "productLink": "/de/product/_lideka-neon-led-streifen-3m-led-strips-multicolors-135581120.html",
+      "productId": "135581120",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led leiste"],
+      "keywordList":
+      [
+        {
+          "name": "neon streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20streifen&filter=brand:LIDEKA&filter=currentprice:49-50"
+        },
+        {
+          "name": "neon led streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20led%20streifen&filter=brand:LIDEKA&filter=currentprice:49-50"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0008",
+      "marketplace": "Mediamarkt",
+      "product": "LKNRGB-2",
+      "productTitle": "LIDEKA Neon LED Strip Light RGB 6m - LED streifen Outdoor mit App-Steuerung - IP68 - Google Home & Alexa RGB neon led strip Multicolors",
+      "productLink": "/de/product/_lideka-neon-led-streifen-6m-led-strips-multicolors-135581069.html",
+      "productId": "135581069",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
+      "keywordList":
+      [
+        {
+          "name": "neon streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20streifen"
+        },
+        {
+          "name": "neon led streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20led%20streifen"
+        },
+        {
+          "name": "rgbic",
+          "link": ""
+        },
+        {
+          "name": "led streifen",
+          "link": ""
+        },
+        {
+          "name": "led strip",
+          "link": ""
+        },
+        {
+          "name": "led leiste",
+          "link": ""
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0009",
+      "marketplace": "Mediamarkt",
+      "product": "LKNRGB-3",
+      "productTitle": "LIDEKA Neon LED Strip Light RGB 9m - LED streifen Outdoor mit App-Steuerung - IP68 - Google Home & Alexa RGB neon led strip Neon RGB",
+      "productLink": "/de/product/_lideka-neon-led-streifen-9m-led-strips-multicolors-135581123.html",
+      "productId": "135581123",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic"],
+      "keywordList":
+      [
+        {
+          "name": "neon streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20streifen&filter=brand:LIDEKA&filter=currentprice:139-140"
+        },
+        {
+          "name": "neon led streifen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=neon%20led%20streifen"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0010",
+      "marketplace": "Mediamarkt",
+      "product": "LK-03",
+      "productTitle": "LIDEKA RGB LED Strip Light 3m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa led-Streifen RGB",
+      "productLink": "/de/product/_lideka-led-streifen-3m-led-stripe-multicolors-135263218.html",
+      "productId": "135263218",
+      "keywords": ["led streifen", "led strip 3m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led strip 3m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%203m&filter=brand:LIDEKA"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA&filter=currentprice:29-30"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0011",
+      "marketplace": "Mediamarkt",
+      "product": "LK-05",
+      "productTitle": "LIDEKA RGB LED Strip Light 5m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa RGB led Streifen RGB",
+      "productLink": "/de/product/_lideka-led-streifen-5m-led-stripe-multicolors-135263229.html",
+      "productId": "135263229",
+      "keywords": ["led streifen", "led strip 5m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led strip 5m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%205m&filter=brand:LIDEKA"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0012",
+      "marketplace": "Mediamarkt",
+      "product": "LK-010",
+      "productTitle": "LIDEKA RGB LED Strip Light 10m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa led Streifen RGB",
+      "productLink": "/de/product/_lideka-led-streifen-10m-led-stripe-multicolors-135263219.html",
+      "productId": "135263219",
+      "keywords": ["led streifen", "led strip 10m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led strip 10m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%2010m&filter=brand:LIDEKA"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA&filter=currentprice:42-43"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0013",
+      "marketplace": "Mediamarkt",
+      "product": "LK-015",
+      "productTitle": "LIDEKA RGB LED Strip Light 15m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa led Streifen RGB",
+      "productLink": "/de/product/_lideka-led-streifen-15m-led-stripe-multicolors-135263236.html",
+      "productId": "135263236",
+      "keywords": ["led streifen", "led strip 15m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led strip 15m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%2015m&filter=brand:LIDEKA&filter=currentprice:44-45"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA&filter=currentprice:44-45"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0014",
+      "marketplace": "Mediamarkt",
+      "product": "LK-020",
+      "productTitle": "LIDEKA RGB LED Strip Light 20m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa RGB led Streifen RGB",
+      "productLink": "/de/product/_lideka-led-streifen-20m-led-stripe-multicolors-135263173.html",
+      "productId": "135263173",
+      "keywords": ["led streifen", "led strip 20m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led strip 20m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%2020m"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0015",
+      "marketplace": "Mediamarkt",
+      "product": "LK-025",
+      "productTitle": "LIDEKA RGB LED Strip Light 25m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Streifen RGB",
+      "productLink": "/de/product/_lideka-smart-led-strip-20-5-m-rgb-led-streifen-rgb-141659446.html",
+      "productId": "141659446",
+      "keywords": ["led-streifen", "led-streifen 25m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led-streifen 25m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led-streifen%2025m"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA&filter=currentprice:74-75"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0016",
+      "marketplace": "Mediamarkt",
+      "product": "LK-030",
+      "productTitle": "LIDEKA RGB LED Strip Light 30m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Streifen RGB",
+      "productLink": "/de/product/_lideka-intelligent-rgb-30m-led-streifen-rgb-140385552.html",
+      "productId": "140385552",
+      "keywords": ["led-streifen", "led-streifen 30m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led-streifen 30m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%2030m"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA&filter=currentprice:78-79"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0017",
+      "marketplace": "Mediamarkt",
+      "product": "LK-035",
+      "productTitle": "LIDEKA RGB LED Strip Light 35m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Streifen RGB",
+      "productLink": "/de/product/_lideka-smart-led-strip-20-15-m-rgb-led-streifen-rgb-141659405.html",
+      "productId": "141659405",
+      "keywords": ["led-streifen", "led-streifen 35m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA&filter=currentprice:84-85"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0018",
+      "marketplace": "Mediamarkt",
+      "product": "LK-040",
+      "productTitle": "LIDEKA RGB LED Strip Light 40m - 720 LEDs - LED Streifen mit App-Steuerung - mit Google Home & Alexa LED Streifen RGB",
+      "productLink": "/de/product/_lideka-smart-led-strip-720-led-40-m-rgb-led-streifen-rgb-141659406.html",
+      "productId": "141659406",
+      "keywords": ["led streifen", "led streifen 40m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led streifen 40m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%2040m"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgb%20led%20strip&filter=brand:LIDEKA&filter=currentprice:79-80"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0019",
+      "marketplace": "Mediamarkt",
+      "product": "LK-050",
+      "productTitle": "LIDEKA RGB LED Strip Light 50m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa Led Streifen RGB",
+      "productLink": "/de/product/_lideka-intelligent-rgb-50m-led-streifen-rgb-140385557.html",
+      "productId": "140385557",
+      "keywords": ["led streifen", "led streifen 50m", "led leiste", "rgb led strip", "led strip"],
+      "keywordList":
+      [
+        {
+          "name": "led streifen 50m",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strip%2050m"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0020",
+      "marketplace": "Mediamarkt",
+      "product": "LKR-05",
+      "productTitle": "LIDEKA RGBIC LED Strip Light 5m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa Led strip RGBIC",
+      "productLink": "/de/product/_lideka-led-streifen-5m-rgbic-regenbogen-led-strips-multicolors-135666742.html",
+      "productId": "135666742",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0021",
+      "marketplace": "Mediamarkt",
+      "product": "LKR-010",
+      "productTitle": "LIDEKA RGBIC LED Strip Light 10m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa RGBIC led strip RGBIC",
+      "productLink": "/de/product/_lideka-led-streifen-10m-rgbic-regenbogen-led-strips-multicolors-135666767.html",
+      "productId": "135666767",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic&filter=brand:LIDEKA&filter=currentprice:49-50"
+        },
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:49-50"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0022",
+      "marketplace": "Mediamarkt",
+      "product": "LKR-020",
+      "productTitle": "LIDEKA RGBIC LED Strip Light 20m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa RGBIC led strip RGBIC",
+      "productLink": "/de/product/_lideka-led-streifen-20m-rgbic-regenbogen-led-strips-multicolors-135666796.html",
+      "productId": "135666796",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen"],
+      "keywordList":
+      [
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0023",
+      "marketplace": "Mediamarkt",
+      "product": "LKR-030",
+      "productTitle": "LIDEKA RGBIC LED Strip Light 30m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED strip RGBIC",
+      "productLink": "/de/product/_lideka-led-streifen-30m-rgbic-regenbogen-led-strips-multicolors-135581102.html",
+      "productId": "135581102",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic&filter=brand:LIDEKA&filter=currentprice:139-140"
+        },
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:139-140"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0024",
+      "marketplace": "Mediamarkt",
+      "product": "LKR-040",
+      "productTitle": "LIDEKA RGBIC LED Strip Light 40m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED strips RGBIC",
+      "productLink": "/de/product/_lideka-led-streifen-40m-rgbic-regenbogen-led-strips-multicolors-135666786.html",
+      "productId": "135666786",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic&filter=brand:LIDEKA&filter=currentprice:174-175"
+        },
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:174-175"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0025",
+      "marketplace": "Mediamarkt",
+      "product": "LKR-050",
+      "productTitle": "LIDEKA RGBIC LED Strip Light 50m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa Led Strip RGBIC",
+      "productLink": "/de/product/_lideka-led-streifen-50m-rgbic-regenbogen-led-strips-multicolors-135666804.html",
+      "productId": "135666804",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "rgbic",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbic&filter=brand:LIDEKA&filter=currentprice:249-250"
+        },
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:249-250"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0026",
+      "marketplace": "Mediamarkt",
+      "product": "LK-05-W",
+      "productTitle": "LIDEKA RGBW LED Strip Light 5m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Streifen RGB + White Light",
+      "productLink": "/de/product/_lideka-intelligent-rgbw-5m-warmes-led-streifen-rgb-white-light-140385569.html",
+      "productId": "140385569",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips", "rgbw"],
+      "keywordList":
+      [
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:46-47"
+        },
+        {
+          "name": "rgbw",
+          "link": "https://www.mediamarkt.de/de/search.html?query=rgbw&filter=brand:LIDEKA&filter=currentprice:46-47"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0027",
+      "marketplace": "Mediamarkt",
+      "product": "LK-010-W",
+      "productTitle": "LIDEKA RGBW LED Strip Light 10m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Strip RGB + White Light",
+      "productLink": "/de/product/_lideka-intelligenter-rgbw-led-streifen-10m-led-strip-rgb-white-light-137532413.html",
+      "productId": "137532413",
+      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:59-60"
         }
       ],
       "isRunning" : false,
