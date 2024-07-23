@@ -610,6 +610,60 @@
       ],
       "isRunning" : false,
       "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0028",
+      "marketplace": "Mediamarkt",
+      "product": "RGBW-LK10-2",
+      "productTitle": "LIDEKA RGBW LED Strip Light 20m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Strip RGB + White Light",
+      "productLink": "/de/product/_lideka-intelligenter-rgbw-led-streifen-20m-led-strip-rgb-white-light-137532271.html",
+      "productId": "137532271",
+      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:99-100"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0029",
+      "marketplace": "Mediamarkt",
+      "product": "RGBW-LK10-3",
+      "productTitle": "LIDEKA RGBW LED Strip Light 30m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Strip RGB + White Light",
+      "productLink": "/de/product/_lideka-intelligenter-rgbw-led-streifen-30m-led-strip-rgb-white-light-137532365.html",
+      "productId": "137532365",
+      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:129-130"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-1-0030",
+      "marketplace": "Mediamarkt",
+      "product": "RGBW-LK10-5",
+      "productTitle": "LIDEKA RGBW LED Strip Light 50m - LED Streifen mit App-Steuerung - Kompatibel mit Google Home & Alexa LED Streifen RGB + White Light",
+      "productLink": "/de/product/_lideka-lkw-050-led-streifen-rgb-white-light-140444974.html",
+      "productId": "140444974",
+      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywordList":
+      [
+        {
+          "name": "led strips",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20strips&filter=brand:LIDEKA&filter=currentprice:249-250"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
     }
   ]
 }
