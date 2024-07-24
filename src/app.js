@@ -70,12 +70,30 @@ async function copyAndReplaceFile(source, destination) {
 }
 
 // Start the server
-app.listen(port, () => {
+const server = app.listen(port, async () => {
     console.log(`Server is running on port ${port}`);
     console.log('Starting the server and connecting to database....');
 
-    // Execute the file move operation after the server has started
-    copyAndReplaceFile(sourcePath, destinationPath).catch((err) => {
-        console.error('Failed to move and replace the file:', err);
-    });
+    try {
+        // Execute the file copy operation after the server has started
+        await copyAndReplaceFile(sourcePath, destinationPath, destinationDir);
+    } catch (err) {
+        console.error('Failed to copy and replace the file:', err);
+    }
+});
+
+server.on('error', (err) => {
+    console.error('Server encountered an error:', err);
+});
+
+
+// Handle uncaught exceptions and unhandled rejections
+process.on('uncaughtException', (err) => {
+    console.error('Uncaught Exception:', err);
+    // Optionally restart the server or take some action
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+    console.error('Unhandled Rejection at:', promise, 'reason:', reason);
+    // Optionally restart the server or take some action
 });
