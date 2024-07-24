@@ -792,6 +792,185 @@
       ],
       "isRunning" : false,
       "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0021",
+      "marketplace": "Mediamarkt",
+      "product": "Powerbank 20K - Slim",
+      "productTitle": "QUCHIQ Drahtlose Power Bank - Schnellladung - LED - Für iPhone, Samsung - Micro-USB & C-Eingang Power bank 20000mAh Black",
+      "productLink": "/de/product/_quchiq-wireless-bank-powerbank-20000mah-black-136183987.html",
+      "productId": "136183987",
+      "keywords": 
+      [
+        "powerbank 20000 mah", "powerbank handy", "powerbanks für iphone", "powerbank"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "powerbank 20000 mah",
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbank%2020000%20mah&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "powerbanks für iphone",
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbanks%20f%C3%BCr%20iphone&filter=brand:QUCHIQ"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0022",
+      "marketplace": "Mediamarkt",
+      "product": "Mini Power Bank",
+      "productTitle": "QUCHIQ Mini Power bank Schnellladung - Mini Ladegerät - Micro-USB & C - LED - iPhone, Samsung, Apple PowerBank 10000mAh Black",
+      "productLink": "/de/product/_quchiq-bank-mini-powerbank-20000mah-black-135708877.html",
+      "productId": "135708877",
+      "keywords": 
+      [
+        "powerbank 20000 mah", "mini powerbank", "powerbanks für iphone", "powerbank", "power 20000mah bank"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "mini powerbank",
+          "link": "https://www.mediamarkt.de/de/search.html?query=mini%20powerbank&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "powerbanks für iphone",
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbanks%20f%C3%BCr%20iphone"
+        },
+        {
+          "name": "powerbank",
+          "link": "https://www.mediamarkt.de/de/category/powerbanks-5354.html?query=powerbank&filter=brand:QUCHIQ"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0023",
+      "marketplace": "Mediamarkt",
+      "product": "Powerbank 20K",
+      "productTitle": "QUCHIQ Drahtlose Power bank - Schnellladung - Für iPhone, Samsung, Apple - Micro-USB & C-Eingang Powerbank 20000mAh Black",
+      "productLink": "/de/product/_quchiq-wireless-bank-powerbank-20000mah-black-135708876.html",
+      "productId": "135708876",
+      "keywords": 
+      [
+        "powerbank 20000 mah", "powerbanks für iphone", "powerbank", "power 20000mah bank"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "powerbank 20000 mah",
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbank%2020000%20mah&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "powerbanks für iphone",
+          "link": "https://www.mediamarkt.de/de/search.html?query=powerbanks%20f%C3%BCr%20iphone"
+        },
+        {
+          "name": "powerbank",
+          "link": "https://www.mediamarkt.de/de/category/powerbanks-5354.html?query=powerbank&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "power 20000mah bank",
+          "link": "https://www.mediamarkt.de/de/search.html?query=power%2020000mah%20bank&filter=brand:QUCHIQ"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0024",
+      "marketplace": "Mediamarkt",
+      "product": "Baby camera White",
+      "productTitle": "BS PRODUCTEN Babyphone mit Kamera und App – WLAN – FULL HD – Baby Monitor - Nachtsicht - Bewegungserkennung, Babyphone mit Kamera, Auflösung Foto: 1080x720, Auflösung Video: 1080x720",
+      "productLink": "/de/product/_bs-producten-babyphone-mit-kamera-und-app-weiss-wlan-ip-camera-135260955.html",
+      "productId": "135260955",
+      "keywords": 
+      [
+        "babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "babyphone mit kamera",
+          "link": "https://www.mediamarkt.de/de/search.html?query=babyphone%20mit%20kamera"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0025",
+      "marketplace": "Mediamarkt",
+      "product": "Baby camera Black",
+      "productTitle": "BS PRODUCTEN Babyphone mit Kamera und App – WLAN – FULL HD – Baby Monitor - Nachtsicht - Bewegungserkennung, Babyphone mit Kamera, Auflösung Foto: 1080x720, Auflösung Video: 1080x720",
+      "productLink": "/de/product/_bs-producten-babyphone-mit-kamera-und-app-schwarz-wlan-ip-camera-135258949.html",
+      "productId": "135258949",
+      "keywords": 
+      [
+        "babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "babyphone mit kamera",
+          "link": "https://www.mediamarkt.de/de/search.html?query=babyphone%20mit%20kamera"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0026",
+      "marketplace": "Mediamarkt",
+      "product": "Security camera Black",
+      "productTitle": "BS PRODUCTEN Hundekamera mit App - FULL HD - 2,4 GHz - Nachtsicht Innenkamera - WLAN - Haustierkamera, IP camera, Auflösung Foto: 1080x720, Auflösung Video: 1080x720",
+      "productLink": "/de/product/_bs-producten-hundekamera-mit-app-uberwachungskamera-wlan-innen-24-ghz-schwarz-ip-camera-135259001.html",
+      "productId": "135259001",
+      "keywords": 
+      [
+        "überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "überwachungskamera innen",
+          "link": "https://www.mediamarkt.de/de/category/smarte-innenkameras-2322.html?query=%C3%BCberwachungskamera%20innen&filter=brand:BS%20PRODUCTEN"
+        },
+        {
+          "name": "überwachungskamera",
+          "link": "https://www.mediamarkt.de/de/search.html?query=%C3%BCberwachungskamera&filter=brand:BS%20PRODUCTEN"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0027",
+      "marketplace": "Mediamarkt",
+      "product": "Security camera White",
+      "productTitle": "BS PRODUCTEN Hundekamera mit App - FULL HD - 2,4 GHz - Nachtsicht Innenkamera - WLAN - Haustierkamera, IP camera, Auflösung Foto: 1080x720, Auflösung Video: 1080x720",
+      "productLink": "/de/product/_bs-producten-hundekamera-mit-app-uberwachungskamera-wlan-innen-24-ghz-weiss-ip-camera-135259007.html",
+      "productId": "135259007",
+      "keywords": 
+      [
+        "überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "überwachungskamera innen",
+          "link": "https://www.mediamarkt.de/de/category/smarte-innenkameras-2322.html?query=%C3%BCberwachungskamera%20innen&filter=brand:BS%20PRODUCTEN"
+        },
+        {
+          "name": "überwachungskamera",
+          "link": "https://www.mediamarkt.de/de/search.html?query=%C3%BCberwachungskamera&filter=brand:BS%20PRODUCTEN"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
     }
   ]
 }
