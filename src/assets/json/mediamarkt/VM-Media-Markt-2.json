@@ -751,6 +751,47 @@
       ],
       "isRunning" : false,
       "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0020",
+      "marketplace": "Mediamarkt",
+      "product": "Earplugs-S42",
+      "productTitle": "QUCHIQ Drahtlose Bluetooth-Ohrhörer - Sport, Noise Cancelling, Mikrofon, In-Ear-Pods, mit Mikrofon, S42, In-ear Kabellose Bluetooth Ohrhörer Bluetooth Schwarz",
+      "productLink": "/de/product/_quchiq-s42-in-ear-kabellose-bluetooth-ohrhorer-bluetooth-schwarz-139411662.html",
+      "productId": "139411662",
+      "keywords": 
+      [
+        "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "kabellose kopfhörer"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20kabellos&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20%C3%BCber%20bluetooth&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.mediamarkt.de/de/search.html?query=bluetooth%20kopfh%C3%B6rer%20inear&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.mediamarkt.de/de/search.html?query=bluetooth%20kopfh%C3%B6rer%20in%20ear&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kopfhörer bluetooth",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20bluetooth&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kabellose%20kopfh%C3%B6rer&filter=brand:QUCHIQ"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
     }
   ]
 }
