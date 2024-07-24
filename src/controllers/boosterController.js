@@ -1,6 +1,6 @@
 import { triggerAllBolKaufland } from '../js/static/kaufland-booster.js';
 import { triggerAllBlokkerBooster } from '../js/static/blokker-booster.js';
-import { triggerAllBolBooster } from '../js/static/bol-dynamic-booster.js';
+import { triggerAllBolBooster } from '../js/static/bol-dynamic-booster-with-fingerprint.js';
 import { triggerAllMediaMarktBooster } from '../js/static/mediamarkt-dynamic-booster.js';
 import { downloadProxies } from '../helpers/boosterSteps.js';
 

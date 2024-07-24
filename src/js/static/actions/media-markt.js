@@ -1,8 +1,6 @@
 import 'dotenv/config';
 import * as booster  from '../../../helpers/boosterSteps.js'
 import * as random from '../../../helpers/random.js'
-
-
 export const clickPrivacyAndCountryButton = async (page, browser) => {
     try {
         const acceptTermsButtonXPath = `//*[@id='pwa-consent-layer-accept-all-button']`;

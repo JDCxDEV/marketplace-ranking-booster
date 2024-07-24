@@ -4,6 +4,7 @@ import dotenv from 'dotenv';
 import path from 'path';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
+import fs from 'fs/promises'; // Using fs.promises
 import 'dotenv/config';
 import apiRoutes from './routes/api.js';
 import accountRoutes from './routes/accountRoutes.js';
@@ -48,8 +49,33 @@ app.get('/account', (req, res) => {
     res.sendFile(path.join(__dirname, '../public', 'account.html'));
 });
 
+// Define source and destination paths for the file
+const sourcePath = path.resolve(__dirname, './../script/lockfile.js');
+const destinationDir = path.resolve(__dirname, './../node_modules/proper-lockfile/lib/');
+const destinationPath = path.join(destinationDir, 'lockfile.js');
+
+// Function to move and replace the file
+async function copyAndReplaceFile(source, destination) {
+    try {
+        // Ensure the destination directory exists
+        await fs.mkdir(destinationDir, { recursive: true });
+
+        // Copy and replace the file
+        await fs.copyFile(source, destination); // This replaces any existing file
+
+        console.log('File copied and replaced successfully');
+    } catch (err) {
+        console.error('Error copying file:', err);
+    }
+}
+
 // Start the server
 app.listen(port, () => {
     console.log(`Server is running on port ${port}`);
     console.log('Starting the server and connecting to database....');
+
+    // Execute the file move operation after the server has started
+    copyAndReplaceFile(sourcePath, destinationPath).catch((err) => {
+        console.error('Failed to move and replace the file:', err);
+    });
 });
