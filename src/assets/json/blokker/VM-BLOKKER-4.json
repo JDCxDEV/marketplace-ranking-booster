@@ -8,7 +8,7 @@
           "productId": "4579811",
           "productTitle": "Lideka TV USB LED Strip 6 meter (3+3m) RGB - met Afstandsbediening - Gaming Lichtstrip met App",
           "keywords": ["led strip 6 meter"],
-          "keywordLink": ["https://www.blokker.nl/search/lideka?q=led%20strip%206%20meter&pmin=0%2C00"],
+          "keywordLink": ["https://www.blokker.nl/search?q=led%20strip%206%20meter"],
           "isRunning" : false,
           "isMostWantedList": true
         },
@@ -21,8 +21,8 @@
           "keywords": ["led strip", "rgb led strip", "led strip 3 meter", "neon led strip buiten"],
           "keywordLink": 
           [
-            "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-            "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
+            "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=44&pmax=45",
+            "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=44&pmax=45",
             "https://www.blokker.nl/search/lideka?q=led%20strip%203%20meter&pmin=0%2C00"
           ],
           "isRunning" : false,
@@ -37,8 +37,8 @@
           "keywords": ["led strip", "rgb led strip", "ledstrip", "led strip 3 meter", "neon led strip buiten"],
           "keywordLink":
           [
-            "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-            "https://www.blokker.nl/search/lideka?q=led%20strip%203%20meter&pmin=0%2C00"
+            "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=54&pmax=55",
+            "https://www.blokker.nl/search?q=led%20strip%203%20meter"
           ],
           "isRunning" : false,
           "isMostWantedList": true
@@ -52,9 +52,9 @@
           "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
           "keywordLink":
           [
-            "https://www.blokker.nl/powerbanks/lideka?pmin=0%2C00",
+            "https://www.blokker.nl/powerbanks",
             "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
-            "https://www.blokker.nl/search/lideka?q=solar%20powerbank&pmin=0%2C00"
+            "https://www.blokker.nl/search?q=solar%20powerbank"
           ],
           "isRunning" : false,
           "isMostWantedList": true
@@ -68,9 +68,9 @@
           "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
           "keywordLink":
           [
-            "https://www.blokker.nl/powerbanks/lideka?pmin=0%2C00",
+            "https://www.blokker.nl/powerbanks",
             "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
-            "https://www.blokker.nl/search/lideka?q=solar%20powerbank&pmin=0%2C00"
+            "https://www.blokker.nl/search?q=solar%20powerbank"
           ],
           "isRunning" : false,
           "isMostWantedList": true
@@ -84,7 +84,7 @@
           "keywords": ["solar panel", "draagbaar zonnepaneel", "solar charger", "opvouwbaar zonnepaneel", "solar oplader"],
           "keywordLink":
         [
-          "https://www.blokker.nl/search/lideka?q=solar%20panel&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=solar%20panel",
           "https://www.blokker.nl/search/lideka?q=solar%20charger&pmin=0%2C00"
         ],
         "isRunning" : false,
@@ -99,12 +99,12 @@
         "keywords": ["zitkussen", "zitkussen orthopedisch", "stuitkussen", "zitkussen ergonomisch", "wigkussen", "zitkussens", "zit kussen", "zitkussen bed", "zitkussen bureaustoel"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/comfy-center?q=zitkussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=zitkussen%20orthopedisch&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=stuitkussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=zitkussen%20ergonomisch&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=wigkussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=zitkussen%20bureaustoel&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=zitkussen",
+          "https://www.blokker.nl/search?q=zitkussen%20orthopedisch",
+          "https://www.blokker.nl/search?q=stuitkussen",
+          "https://www.blokker.nl/search?q=zitkussen%20ergonomisch",
+          "https://www.blokker.nl/search?q=wigkussen",
+          "https://www.blokker.nl/search?q=zitkussen%20bureaustoel"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -124,13 +124,13 @@
         ],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/comfy-center?q=rugkussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=rugkussen%20onderrug&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=rugkussen%20auto&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=rugsteun%20auto&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=rugkussen%20ergonomisch&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=rugkussen%20onderrug%20voor%20bank&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=rugkussen%20bureaustoel&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=rugkussen",
+          "https://www.blokker.nl/search?q=rugkussen%20onderrug",
+          "https://www.blokker.nl/search?q=rugkussen%20auto",
+          "https://www.blokker.nl/search?q=rugsteun%20auto",
+          "https://www.blokker.nl/search?q=rugkussen%20ergonomisch",
+          "https://www.blokker.nl/search?q=rugkussen%20onderrug%20voor%20bank",
+          "https://www.blokker.nl/search?q=rugkussen%20bureaustoel"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -151,10 +151,10 @@
         [
           "https://www.blokker.nl/search/comfy-center?q=kussen&pmin=0%2C00",
           "https://www.blokker.nl/hoofdkussens/comfy-center?pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=hoofdkussen%20traagschuim&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=traagschuim%20kussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=hoofdkussen%20nekpijn&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=traagschuim%20kussens&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=hoofdkussen%20traagschuim",
+          "https://www.blokker.nl/search?q=traagschuim%20kussen",
+          "https://www.blokker.nl/search?q=hoofdkussen%20nekpijn",
+          "https://www.blokker.nl/search?q=traagschuim%20kussens"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -173,11 +173,11 @@
         ],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/comfy-center?q=kniekussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=zijslaapkussen%20volwassenen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=beenkussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=kniekussen%20orthopedisch&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=beenkussen%20rugslaper&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=kniekussen",
+          "https://www.blokker.nl/search?q=zijslaapkussen%20volwassenen",
+          "https://www.blokker.nl/search?q=beenkussen",
+          "https://www.blokker.nl/search?q=kniekussen%20orthopedisch",
+          "https://www.blokker.nl/search?q=beenkussen%20rugslaper"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -196,12 +196,12 @@
         ],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/comfy-center?q=zijslaapkussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=kniekussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=zijslaapkussen%20volwassenen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=beenkussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=kniekussen%20orthopedisch&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=beenkussen%20rugslaper&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=zijslaapkussen",
+          "https://www.blokker.nl/search?q=kniekussen",
+          "https://www.blokker.nl/search?q=zijslaapkussen%20volwassenen",
+          "https://www.blokker.nl/search?q=beenkussen",
+          "https://www.blokker.nl/search?q=kniekussen%20orthopedisch",
+          "https://www.blokker.nl/search?q=beenkussen%20rugslaper"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -220,12 +220,12 @@
         ],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/comfy-center?q=donut%20kussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=donut&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=zitring&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=zitring%20kussen&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=donut%20kussen%20stuitje&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=donut%20kussen%20piercing&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=donut%20kussen",
+          "https://www.blokker.nl/search?q=donut",
+          "https://www.blokker.nl/search?q=zitring",
+          "https://www.blokker.nl/search?q=zitring%20kussen",
+          "https://www.blokker.nl/search?q=donut%20kussen%20stuitje",
+          "https://www.blokker.nl/search?q=donut%20kussen%20piercing"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -239,11 +239,11 @@
         "keywords": ["matraswig", "bedbinder", "liefdesbrug", "matrasbinder", "matraswig met band", "matras wig", "matraswiggen", "matraswig de luxe"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/comfy-center?q=matraswig&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=bedbinder&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=liefdesbrug&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=matraswig%20met%20band&pmin=0%2C00",
-          "https://www.blokker.nl/search/comfy-center?q=matraswig%20de%20luxe&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=matraswig",
+          "https://www.blokker.nl/search?q=bedbinder",
+          "https://www.blokker.nl/search?q=liefdesbrug",
+          "https://www.blokker.nl/search?q=matraswig%20met%20band",
+          "https://www.blokker.nl/search?q=matraswig%20de%20luxe"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -257,11 +257,11 @@
         "keywords": ["borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "kolf", "borstkolf dubbel", "draadloze borstkolf", "breast pump"],
         "keywordLink":
         [
-          "https://www.blokker.nl/search/nurturegoods?q=borstkolf&pmin=0%2C00",
-          "https://www.blokker.nl/search/nurturegoods?q=elektrische%20borstkolf&pmin=0%2C00",
-          "https://www.blokker.nl/search/nurturegoods?q=borstkolf%20electrisch%20dubbel&pmin=0%2C00",
-          "https://www.blokker.nl/search/nurturegoods?q=borstkolf%20dubbel&pmin=0%2C00",
-          "https://www.blokker.nl/search/nurturegoods?q=draadloze%20borstkolf&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=borstkolf",
+          "https://www.blokker.nl/search?q=elektrische%20borstkolf",
+          "https://www.blokker.nl/search?q=borstkolf%20electrisch%20dubbel",
+          "https://www.blokker.nl/search?q=borstkolf%20dubbel",
+          "https://www.blokker.nl/search?q=draadloze%20borstkolf"
         ],
         "isRunning" : false,
         "isMostWantedList": true
