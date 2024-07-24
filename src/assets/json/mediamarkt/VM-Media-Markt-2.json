@@ -1,537 +1,756 @@
 {
-    "products":
-    [
-      {
-        "id": "VM-2-0001",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E27-9W",
-        "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
-        "productLink": "/de/product/_lideka-e27-smart-wifi-dimmbare-1er-pack-led-leuchtmittel-e27-multicolors-5-watt-135873344.html",
-        "productId": "135873344",
-        "keywords": 
-        [
-            "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
-            "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "led lampe e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led lampen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 birne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led leuchtmittel e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birnen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0002",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E27-9W-2",
-        "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
-        "productLink": "/de/product/_lideka-e27-smart-led-lampe-9w-wifi-dimmbare-2er-pack-led-leuchtmittel-e27-multicolors-5-watt-135261501.html",
-        "productId": "135261501",
-        "keywords": 
-        [
-            "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
-            "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "led lampe e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led lampen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 birne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led leuchtmittel e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birnen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0003",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E27-9W-3",
-        "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
-        "productLink": "/de/product/_lideka-e27-smart-led-lampe-9w-wifi-dimmbare-3er-pack-led-leuchtmittel-e27-multicolors-5-watt-135231278.html",
-        "productId": "135231278",
-        "keywords": 
-        [
-            "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
-            "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "led lampe e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led lampen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 birne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led leuchtmittel e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birnen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0004",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E27-9W-4",
-        "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
-        "productLink": "/de/product/_lideka-e27-smart-led-lampe-9w-wifi-dimmbare-4er-pack-led-leuchtmittel-e27-multicolors-5-watt-135231280.html",
-        "productId": "135231280",
-        "keywords": 
-        [
-            "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
-            "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "led lampe e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led lampen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 birne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led glühbirne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led leuchtmittel e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birne e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
-          },
-          {
-            "name": "e27 lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
-          },
-          {
-            "name": "led birnen e27",
-            "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0005",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E14",
-        "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 lumens",
-        "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-1er-pack-led-bulb-e14-multicolors-135231296.html",
-        "productId": "135231296",
-        "keywords": 
-        [
-            "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "e14"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:19-20"
-          },
-          {
-            "name": "smart home lampen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:19-20"
-          },
-          {
-            "name": "smart home lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:19-20"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:19-20"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:19-20"
-          },
-          {
-            "name": "e14",
-            "link": "https://www.mediamarkt.de/de/search.html?query=e14&filter=brand:LIDEKA"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0006",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E14-2",
-        "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 lumenes",
-        "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-2er-pack-led-bulb-e14-135231202.html",
-        "productId": "135231202",
-        "keywords": 
-        [
-            "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:29-30"
-          },
-          {
-            "name": "smart home lampen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:29-30"
-          },
-          {
-            "name": "smart home lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:29-30"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:29-30"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:29-30"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0007",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E14-3",
-        "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 lumens",
-        "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-3er-pack-led-lampen-e14-6-watt-135231302.html",
-        "productId": "135231302",
-        "keywords": 
-        [
-            "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:39-40"
-          },
-          {
-            "name": "smart home lampen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:39-40"
-          },
-          {
-            "name": "smart home lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:39-40"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:39-40"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:39-40"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0008",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-E14-4",
-        "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 Lumen",
-        "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-4er-pack-led-leuchtmittel-e14-multicolors-6-watt-135231303.html",
-        "productId": "135231303",
-        "keywords": 
-        [
-            "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:49-50"
-          },
-          {
-            "name": "smart home lampen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:49-50"
-          },
-          {
-            "name": "smart home lampe",
-            "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:49-50"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:49-50"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:49-50"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0009",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-GU10",
-        "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt",
-        "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-1er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135259486.html",
-        "productId": "135259486",
-        "keywords": 
-        [
-            "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "gu10 spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot&filter=brand:LIDEKA"
-          },
-          {
-            "name": "gu10 led spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
-          },
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0010",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-GU10-2",
-        "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt 400 Lumens",
-        "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-2er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135261458.html",
-        "productId": "135261458",
-        "keywords": 
-        [
-            "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "einbaustrahler gu 10"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "gu10 spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot&filter=brand:LIDEKA"
-          },
-          {
-            "name": "gu10 led spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
-          },
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:29-30"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0011",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-GU10-3",
-        "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt 400 Lumens",
-        "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-3er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135231297.html",
-        "productId": "135231297",
-        "keywords": 
-        [
-            "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "einbaustrahler gu 10"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "gu10 spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot&filter=brand:LIDEKA"
-          },
-          {
-            "name": "gu10 led spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
-          },
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:39-40"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      },
-      {
-        "id": "VM-2-0012",
-        "marketplace": "Mediamarkt",
-        "product": "SLB-GU10-4",
-        "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt 400 Lumens",
-        "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-4er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135259821.html",
-        "productId": "135259821",
-        "keywords": 
-        [
-            "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "einbaustrahler gu 10"
-        ],
-        "keywordList":
-        [
-          {
-            "name": "gu10 spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot%20lideka"
-          },
-          {
-            "name": "gu10 led spot",
-            "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
-          },
-          {
-            "name": "alexa glühbirne",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=currentprice:49-50"
-          },
-          {
-            "name": "alexa glühbirnen",
-            "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:49-50"
-          },
-          {
-            "name": "glühbirnen alexa",
-            "link": "https://mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:49-50"
-          }
-        ],
-        "isRunning" : false,
-        "isOutOfStock": false
-      }
-    ]
+  "products":
+  [
+    {
+      "id": "VM-2-0001",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E27-9W",
+      "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
+      "productLink": "/de/product/_lideka-e27-smart-wifi-dimmbare-1er-pack-led-leuchtmittel-e27-multicolors-5-watt-135873344.html",
+      "productId": "135873344",
+      "keywords": 
+      [
+        "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
+        "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "led lampe e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led lampen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 birne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led leuchtmittel e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birnen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0002",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E27-9W-2",
+      "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
+      "productLink": "/de/product/_lideka-e27-smart-led-lampe-9w-wifi-dimmbare-2er-pack-led-leuchtmittel-e27-multicolors-5-watt-135261501.html",
+      "productId": "135261501",
+      "keywords": 
+      [
+        "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
+        "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "led lampe e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led lampen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 birne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led leuchtmittel e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birnen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0003",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E27-9W-3",
+      "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
+      "productLink": "/de/product/_lideka-e27-smart-led-lampe-9w-wifi-dimmbare-3er-pack-led-leuchtmittel-e27-multicolors-5-watt-135231278.html",
+      "productId": "135231278",
+      "keywords": 
+      [
+        "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
+        "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "led lampe e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led lampen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 birne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led leuchtmittel e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birnen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0004",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E27-9W-4",
+      "productTitle": "LIDEKA LED Lampe E27 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E27 RGB + WW + CW 9 Watt 800 Lumens",
+      "productLink": "/de/product/_lideka-e27-smart-led-lampe-9w-wifi-dimmbare-4er-pack-led-leuchtmittel-e27-multicolors-5-watt-135231280.html",
+      "productId": "135231280",
+      "keywords": 
+      [
+        "led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne",
+        "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "led lampe e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampe%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20gl%C3%BChbirne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led lampen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20lampen%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 birne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20birne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led glühbirne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20gl%C3%BChbirne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led leuchtmittel e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20leuchtmittel%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birne e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birne%20e27&filter=brand:LIDEKA"
+        },
+        {
+          "name": "e27 lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e27%20lampe&filter=brand:LIDEKA"
+        },
+        {
+          "name": "led birnen e27",
+          "link": "https://www.mediamarkt.de/de/search.html?query=led%20birnen%20e27&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0005",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E14",
+      "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 lumens",
+      "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-1er-pack-led-bulb-e14-multicolors-135231296.html",
+      "productId": "135231296",
+      "keywords": 
+      [
+        "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "e14"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:19-20"
+        },
+        {
+          "name": "smart home lampen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:19-20"
+        },
+        {
+          "name": "smart home lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:19-20"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:19-20"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:19-20"
+        },
+        {
+          "name": "e14",
+          "link": "https://www.mediamarkt.de/de/search.html?query=e14&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0006",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E14-2",
+      "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 lumenes",
+      "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-2er-pack-led-bulb-e14-135231202.html",
+      "productId": "135231202",
+      "keywords": 
+      [
+        "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:29-30"
+        },
+        {
+          "name": "smart home lampen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:29-30"
+        },
+        {
+          "name": "smart home lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:29-30"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:29-30"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:29-30"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0007",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E14-3",
+      "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 lumens",
+      "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-3er-pack-led-lampen-e14-6-watt-135231302.html",
+      "productId": "135231302",
+      "keywords": 
+      [
+        "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:39-40"
+        },
+        {
+          "name": "smart home lampen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:39-40"
+        },
+        {
+          "name": "smart home lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:39-40"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:39-40"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:39-40"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0008",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-E14-4",
+      "productTitle": "LIDEKA LED Lampe e14 warmweiss - RGBWW - Kaltweiß & Warmweiß Smart Lampen - Dimmbar - mit Google & Alexa Smart Glühbirne E14 RGB + WW + CW 6 Watt 600 Lumen",
+      "productLink": "/de/product/_lideka-e14-led-lampen-dimmbar-6w-600lm-4er-pack-led-leuchtmittel-e14-multicolors-6-watt-135231303.html",
+      "productId": "135231303",
+      "keywords": 
+      [
+        "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA&filter=currentprice:49-50"
+        },
+        {
+          "name": "smart home lampen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampen&filter=brand:LIDEKA&filter=currentprice:49-50"
+        },
+        {
+          "name": "smart home lampe",
+          "link": "https://www.mediamarkt.de/de/search.html?query=smart%20home%20lampe&filter=brand:LIDEKA&filter=currentprice:49-50"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:49-50"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:49-50"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0009",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-GU10",
+      "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt",
+      "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-1er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135259486.html",
+      "productId": "135259486",
+      "keywords": 
+      [
+        "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "gu10 spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot&filter=brand:LIDEKA"
+        },
+        {
+          "name": "gu10 led spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
+        },
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=brand:LIDEKA"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0010",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-GU10-2",
+      "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt 400 Lumens",
+      "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-2er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135261458.html",
+      "productId": "135261458",
+      "keywords": 
+      [
+        "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "einbaustrahler gu 10"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "gu10 spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot&filter=brand:LIDEKA"
+        },
+        {
+          "name": "gu10 led spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
+        },
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:29-30"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0011",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-GU10-3",
+      "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt 400 Lumens",
+      "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-3er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135231297.html",
+      "productId": "135231297",
+      "keywords": 
+      [
+        "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "einbaustrahler gu 10"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "gu10 spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot&filter=brand:LIDEKA"
+        },
+        {
+          "name": "gu10 led spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
+        },
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:39-40"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0012",
+      "marketplace": "Mediamarkt",
+      "product": "SLB-GU10-4",
+      "productTitle": "LIDEKA GU10 LED Spots Warmweiss und RGB - Smarte LED dimmbar - Kompatibel mit Alexa Echo, Google Home Smart Glühbirne GU10 RGB + WW + CW 5 Watt 400 Lumens",
+      "productLink": "/de/product/_lideka-gu10-led-lampen-dimmbar-5w-rgb-4er-pack-led-leuchtmittel-gu10-multicolors-9-watt-135259821.html",
+      "productId": "135259821",
+      "keywords": 
+      [
+        "einbaustrahler gu10", "gu10 spot", "smart home lampen", "gu10 led spot", "alexa glühbirne", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "einbaustrahler gu 10"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "gu10 spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20spot%20lideka"
+        },
+        {
+          "name": "gu10 led spot",
+          "link": "https://www.mediamarkt.de/de/search.html?query=gu10%20led%20spot&filter=brand:LIDEKA"
+        },
+        {
+          "name": "alexa glühbirne",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirne&filter=currentprice:49-50"
+        },
+        {
+          "name": "alexa glühbirnen",
+          "link": "https://www.mediamarkt.de/de/search.html?query=alexa%20gl%C3%BChbirnen&filter=brand:LIDEKA&filter=currentprice:49-50"
+        },
+        {
+          "name": "glühbirnen alexa",
+          "link": "https://mediamarkt.de/de/search.html?query=gl%C3%BChbirnen%20alexa&filter=brand:LIDEKA&filter=currentprice:49-50"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0013",
+      "marketplace": "Mediamarkt",
+      "product": "TV strip 3m",
+      "productTitle": "LIDEKA LED TV Hintergrundbeleuchtung RGB 3m – für 40-60 Inch TV – App-Steuerung – für TV, PC, Deko LED Strip RGB",
+      "productLink": "/de/product/_lideka-led-tv-hintergrundbeleuchtung-3m-led-strips-multicolors-135666794.html",
+      "productId": "135666794",
+      "keywords": 
+      [
+        "led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=tv%20hintergrundbeleuchtung&filter=brand:LIDEKA"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.mediamarkt.de/de/search.html?query=hintergrundbeleuchtung%20tv&filter=brand:LIDEKA"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=fernseher%20hintergrundbeleuchtung&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0014",
+      "marketplace": "Mediamarkt",
+      "product": "TV strip 4m",
+      "productTitle": "LIDEKA LED TV Hintergrundbeleuchtung RGB 4m – für 40-70 Inch TV – App-Steuerung – für TV, PC, Deko Led Stripes RGB",
+      "productLink": "/de/product/_lideka-intelligent-usb-rgb-tv-4-m-22m-led-stripes-rgb-140258238.html",
+      "productId": "140258238",
+      "keywords": 
+      [
+        "led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=tv%20hintergrundbeleuchtung&filter=currentprice:39-40"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.mediamarkt.de/de/search.html?query=hintergrundbeleuchtung%20tv&filter=brand:LIDEKA"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=fernseher%20hintergrundbeleuchtung&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0015",
+      "marketplace": "Mediamarkt",
+      "product": "TV strip 5m",
+      "productTitle": "LIDEKA LED TV Hintergrundbeleuchtung RGB 5m – für 40-70 Inch TV – App-Steuerung – für TV, PC, Deko LED Streifen RGB",
+      "productLink": "/de/product/_lideka-intelligent-usb-rgb-tv-5-m-23m-led-streifen-rgb-140385574.html",
+      "productId": "140385574",
+      "keywords": 
+      [
+        "led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=tv%20hintergrundbeleuchtung&filter=brand:LIDEKA"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.mediamarkt.de/de/search.html?query=hintergrundbeleuchtung%20tv&filter=brand:LIDEKA"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=fernseher%20hintergrundbeleuchtung&filter=brand:LIDEKA"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0016",
+      "marketplace": "Mediamarkt",
+      "product": "TV strip 6m",
+      "productTitle": "LIDEKA LED TV Hintergrundbeleuchtung RGB 6m – für 40-80 Inch TV – App-Steuerung – für TV, PC, Deko Led Stripes RGB",
+      "productLink": "/de/product/_lideka-intelligent-usb-rgb-tv-6-m-33m-led-stripes-rgb-140258268.html",
+      "productId": "140258268",
+      "keywords": 
+      [
+        "led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=tv%20hintergrundbeleuchtung&filter=brand:LIDEKA&filter=currentprice:42-43"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.mediamarkt.de/de/search.html?query=hintergrundbeleuchtung%20tv&filter=brand:LIDEKA&filter=currentprice:42-43"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.mediamarkt.de/de/search.html?query=fernseher%20hintergrundbeleuchtung&filter=brand:LIDEKA&filter=currentprice:42-43"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0017",
+      "marketplace": "Mediamarkt",
+      "product": "Earplugs-L52",
+      "productTitle": "QUCHIQ Drahtlose Bluetooth-Ohrhörer - Sport, Noise Cancelling, Mikrofon, In-Ear-Pods, mit Mikrofon, L52, In-ear Kabellose Bluetooth Ohrhörer Bluetooth Schwarz",
+      "productLink": "/de/product/_quchiq-l52-in-ear-kabellose-bluetooth-ohrhorer-bluetooth-schwarz-139411730.html",
+      "productId": "139411730",
+      "keywords": 
+      [
+        "bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "bluetooth kopfhörer in ear", "kopfhörer kabellos", "kabellose kopfhörer"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20%C3%BCber%20bluetooth&filter=brand:QUCHIQ"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0018",
+      "marketplace": "Mediamarkt",
+      "product": "Earplugs-J58 W",
+      "productTitle": "QUCHIQ Drahtlose Bluetooth-Ohrhörer - Sport, Noise Cancelling, Mikrofon, In-Ear-Pods, mit Mikrofon, J58 W, In-ear Kabellose Bluetooth-Ohrhörer Bluetooth Weiß",
+      "productLink": "/de/product/_quchiq-j58-w-in-ear-kabellose-bluetooth-ohrhorer-bluetooth-weiss-139411656.html",
+      "productId": "139411656",
+      "keywords": 
+      [
+        "bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kopfhörer kabellos", "kabellose kopfhörer"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "bluetooth kopfhörer",
+          "link": "https://www.mediamarkt.de/de/category/bluetooth-kopfh%C3%B6rer-312.html?query=bluetooth%20kopfh%C3%B6rer&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20kabellos&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20%C3%BCber%20bluetooth&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.mediamarkt.de/de/search.html?query=bluetooth%20kopfh%C3%B6rer%20inear&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.mediamarkt.de/de/search.html?query=bluetooth%20kopfh%C3%B6rer%20in%20ear&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kabellose%20kopfh%C3%B6rer&filter=brand:QUCHIQ"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    },
+    {
+      "id": "VM-2-0019",
+      "marketplace": "Mediamarkt",
+      "product": "Earplugs-L21",
+      "productTitle": "QUCHIQ Drahtlose Bluetooth-Ohrhörer - Sport, Noise Cancelling, Mikrofon, In-Ear-Pods, mit Mikrofon, L21, In-ear Kabellose Bluetooth-Ohrhörer Bluetooth Schwarz",
+      "productLink": "/de/product/_quchiq-l21-in-ear-kabellose-bluetooth-ohrhorer-bluetooth-schwarz-139411655.html",
+      "productId": "139411655",
+      "keywords": 
+      [
+        "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "kabellose kopfhörer"
+      ],
+      "keywordList":
+      [
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20kabellos&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20%C3%BCber%20bluetooth&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.mediamarkt.de/de/search.html?query=bluetooth%20kopfh%C3%B6rer%20inear&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.mediamarkt.de/de/search.html?query=bluetooth%20kopfh%C3%B6rer%20in%20ear&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kopfhörer bluetooth",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20bluetooth&filter=brand:QUCHIQ"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.mediamarkt.de/de/search.html?query=kabellose%20kopfh%C3%B6rer&filter=brand:QUCHIQ"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": false
+    }
+  ]
 }
