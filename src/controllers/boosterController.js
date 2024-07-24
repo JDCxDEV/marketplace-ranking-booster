@@ -1,6 +1,7 @@
 import { triggerAllBolKaufland } from '../js/static/kaufland-booster.js';
 import { triggerAllBlokkerBooster } from '../js/static/blokker-booster.js';
-import { triggerAllBolBooster } from '../js/static/bol-dynamic-booster-with-fingerprint.js';
+import { triggerAllBolBoosterFingerPrint } from '../js/static/bol-dynamic-booster-with-fingerprint.js';
+import { triggerAllBolBooster } from '../js/static/bol-dynamic-booster.js';
 import { triggerAllMediaMarktBooster } from '../js/static/mediamarkt-dynamic-booster.js';
 import { downloadProxies } from '../helpers/boosterSteps.js';
 
@@ -22,7 +23,7 @@ export const getRequestTriggerBooster = async (req, res) => {
     const vm = vmJsonFile.vms.find(item => item.key === currentVM);
 
     const triggerMap = {
-        'bol': triggerAllBolBooster,
+        'bol': !vm.test ? triggerAllBolBooster : triggerAllBolBoosterFingerPrint,
         'kaufland': triggerAllBolKaufland,
         'blokker': triggerAllBlokkerBooster,
         'mediamarkt': triggerAllMediaMarktBooster
@@ -30,7 +31,7 @@ export const getRequestTriggerBooster = async (req, res) => {
 
     const triggerFunction = triggerMap[currentMP];
     if (triggerFunction) {
-        await triggerFunction(thread, currentVM, vm);
+        triggerFunction(thread, currentVM, vm);
     }
 
     return res.status(200).json({ message: 'POST request successful', data: req.body });

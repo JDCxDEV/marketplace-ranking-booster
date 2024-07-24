@@ -73,9 +73,10 @@ const getProxiesCredentials = async () => {
         {   
             id: 'smart-proxy-nl-with-finger-print',
             name: 'smart proxy nl',
-            host: 'https://dc.smartproxy.com:10000',
-            username: 'smartProxyFirstBooster',
-            password: '+onuCIUw2Pp52datz5'
+            name: 'ip royal nl',
+            host: await getRandomProxy('ip-royal-nl-with-pass'),
+            username: '14aad7c0e11df',
+            password: '093042f8bf'
         },
     ];
 };

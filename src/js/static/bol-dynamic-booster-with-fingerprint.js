@@ -19,7 +19,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
       changeGeolocation: true,
     });
   } catch (error) {
-    console.error('Error using proxy or fingerprint:', error);
+    //console.error('Error using proxy or fingerprint:', error);
     return;
   }
 
@@ -53,7 +53,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     await performActions(page, browser, product);
 
   } catch (error) {
-    console.error('Error during browser interaction:', error);
+    // console.error('Error during browser interaction:', error);
     clearTimeout(timerId);
     if (browser) {
       await browser.close();
@@ -96,7 +96,7 @@ const performActions = async (page, browser, product) => {
   await booster.addRandomTimeGap(4, 6);
 
   if (!(await action.clickCurrentProduct(page, browser, productId))) {
-    throw new Error('Failed to navigate to product');
+    //throw new Error('Failed to navigate to product');
   }
 
   await booster.addRandomTimeGap(8, 10);
@@ -130,7 +130,7 @@ const dynamicallyImportJsonFile = async (file)  => {
   return jsonObject
 }
 
-export const triggerAllBolBooster = async (thread, currentVM, virtualMachine = {}) => {
+export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtualMachine = {}) => {
   await booster.addRandomTimeGap(2, 3);
 
   const productJsonFile = await dynamicallyImportJsonFile(currentVM + '.json');
@@ -182,13 +182,10 @@ const handleBatchProcessing = async (batch, timeoutPromise) => {
   try {
     await Promise.race([Promise.all(batch), timeoutPromise]);
   } catch (error) {
-    console.error('Error:', error.message);
+    // console.error('Error:', error.message);
   }
 };
 
 const handleError = (error) => {
-  console.error(error.message);
-  if (!process.env.TURN_OFF_LOGS) {
-    console.error(error);
-  }
+  // console.error(error.message);
 };

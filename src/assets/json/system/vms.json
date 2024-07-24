@@ -6,7 +6,7 @@
       "key": "VM-1",
       "name": "Virtual Machine 1",
       "steps": "per-page",
-      "proxy": "ip-royal-nl"
+      "proxy": "smart-proxy-nl-2"
     },
     {
       "id": 2,
@@ -227,10 +227,11 @@
     {
       "id": 29,
       "marketplace": "Bol.com", 
-      "key": "VM-1-Test",
+      "key": "VM-1-test",
       "name": "Virtual Machine Finger Print Test",
       "steps": "per-page",
-      "proxy": "ip-royal-nl"
+      "proxy": "smart-proxy-nl-with-finger-print",
+      "test": true
     }
   ]
 }
