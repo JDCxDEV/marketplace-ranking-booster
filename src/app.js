@@ -86,7 +86,6 @@ server.on('error', (err) => {
     console.error('Server encountered an error:', err);
 });
 
-
 // Handle uncaught exceptions and unhandled rejections
 process.on('uncaughtException', (err) => {
     console.error('Uncaught Exception:', err);
