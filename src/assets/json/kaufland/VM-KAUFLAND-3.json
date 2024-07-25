@@ -29,27 +29,27 @@
       [
         {
           "name": "bluetooth kopfhörer",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=bluetooth%20kopfh%C3%B6rer"
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer"
         },
         {
           "name": "kopfhörer kabellos",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=kopfh%C3%B6rer%20kabellos"
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
         },
         {
           "name": "kopfhörer über bluetooth",
-          "link": "https://www.kaufland.de/s/?price=3300-3400&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
         },
         {
           "name": "bluetooth kopfhörer inear",
-          "link": "https://www.kaufland.de/s/?price=3300-3400&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
         },
         {
           "name": "bluetooth kopfhörer in ear",
-          "link": "https://www.kaufland.de/s/?price=3300-3400&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
         },
         {
           "name": "kabellose kopfhörer",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3300-3400&search_value=kabellose%20kopfh%C3%B6rer"
+          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
         }
       ],
       "isRunning" : false
@@ -60,7 +60,7 @@
       "product": "Earplugs-J58 B",
       "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
       "productId": "479447294",
-      "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+      "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "bluetooth kopfhörer inear", "kopfhörer über bluetooth", "kopfhörer bluetooth", "kabellose kopfhörer"],
       "keyword":
       [
         {
@@ -72,16 +72,16 @@
           "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
         },
         {
-          "name": "bluetooth kopfhörer",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer"
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
         },
         {
           "name": "kopfhörer über bluetooth",
           "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
         },
         {
-          "name": "bluetooth kopfhörer inear",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          "name": "kopfhörer bluetooth",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20bluetooth"
         },
         {
           "name": "kabellose kopfhörer",
@@ -193,9 +193,13 @@
       "product": "Mini Power Bank",
       "productTitle": "QuchiQ™ Powerbank 10000 mAh Klein Aber Stark -Mini Powerbank -Mobiler Akkulader - powerbanks für iPhone Samsung-Micro USB & USB-C Eingang - LED-Lampen",
       "productId": "479041891",
-      "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 20000mah bank", "powerbanks für iphone"],
+      "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 10000mah bank", "powerbanks für iphone"],
       "keyword":
       [
+        {
+          "name": "powerbank 20000 mah",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank%2010000%20mah"
+        },
         {
           "name": "powerbank",
           "link": "https://www.kaufland.de/s/?search_value=powerbank"
@@ -227,10 +231,6 @@
         {
           "name": "powerbank",
           "link": "https://www.kaufland.de/s/?search_value=powerbank"
-        },
-        {
-          "name": "power 20000 mah bank",
-          "link": "https://www.kaufland.de/s/?21=6042731&search_value=power%2020000%20mah%20bank"
         },
         {
           "name": "powerbanks für iphone",
@@ -343,4 +343,4 @@
       "isRunning" : false 
     }
   ]
-}
+} 
