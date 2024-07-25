@@ -1,243 +1,243 @@
 {
-    "products":
-    [
-        {
-            "id": "VM-1-0001",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb E14 1x",
-            "productId": "4562283",
-            "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 1 - Google, Alexa en Siri",
-            "keywords": ["led lampen", "e14 led lamp"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e14%20led%20lamp&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0002",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb E14 2x",
-            "productId": "4562290",
-            "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 2 - Google, Alexa en Siri",
-            "keywords": ["led lampen", "e14 led lamp"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e14%20led%20lamp&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0003",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb E14 3x",
-            "productId": "4562293",
-            "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 3 - Google, Alexa en Siri",
-            "keywords": ["led lampen", "e14 led lamp"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e14%20led%20lamp&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0004",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb GU10 1x",
-            "productId": "4562288",
-            "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 1 - RGBW - Google, Alexa en Siri",
-            "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=gu10%20led%20lamp&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0005",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb GU10 2x",
-            "productId": "4562279",
-            "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 2 - RGBW - Google, Alexa en Siri",
-            "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=gu10%20led%20lamp&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0006",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb GU10 3x",
-            "productId": "4562281",
-            "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 3 - RGBW - Google, Alexa en Siri",
-            "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=gu10%20led%20lamp&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0007",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb E27 1x",
-            "productId": "4562287",
-            "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - RGBW - Google, Alexa en Siri",
-            "keywords": ["led lampen", "e27 led lamp", "e27"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e27%20led%20lamp&pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e27&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0008",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb E27 2x",
-            "productId": "4562295",
-            "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 2 - RGBW - Google, Alexa en Siri",
-            "keywords": ["led lampen", "e27 led lamp", "e27"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e27%20led%20lamp&pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e27&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0009",
-            "marketplace": "Blokker.nl",
-            "product": "LED bulb E27 3x",
-            "productId": "4562282",
-            "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 3 - RGBW - Google, Alexa en Siri",
-            "keywords": ["led lampen", "e27 led lamp", "e27"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e27%20led%20lamp&pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=e27&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0010",
-            "marketplace": "Blokker.nl",
-            "product": "LED strip RGB 3m",
-            "productId": "4627906",
-            "productTitle": "Lideka - LED Strip 3M - RGB - Afstandsbediening - Gaming Lichtstrip met App - LED strips - 90 LED's - Ook Voor TV",
-            "keywords": ["led strip", "rgb led strip", "led-strips", "ledstrip", "led strip met afstandsbediening"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=29&pmax=30",
-              "https://www.blokker.nl/search/lideka?q=led-strips&pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0011",
-            "marketplace": "Blokker.nl",
-            "product": "LED strip RGB 5m",
-            "productId": "4627944",
-            "productTitle": "Lideka - LED Strip 5m RGB - Afstandsbediening - Gaming Lichtstrip met App - 300 LED's - Knipbaar - Ook Voor TV",
-            "keywords": ["led strip", "rgb led strip","led strip met afstandsbediening", "led verlichting strips", "led strip 5 meter"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=34&pmax=35",
-              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=34&pmax=35",
-              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=34&pmax=35",
-              "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=34&pmax=35"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0012",
-            "marketplace": "Blokker.nl",
-            "product": "LED strip RGB 10m",
-            "productId": "4627898",
-            "productTitle": "Lideka - LED Strip 10m (2x5) RGB - Afstandsbediening - Gaming Lichtstrip met App - 300 LEDs - Zelfklevend Licht",
-            "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=42&pmax=43",
-              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=42&pmax=43",
-              "https://www.blokker.nl/search/lideka?q=led-strips&pmin=42&pmax=43",
-              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0013",
-            "marketplace": "Blokker.nl",
-            "product": "LED strip RGB 15m",
-            "productId": "4627901",
-            "productTitle": "Lideka - LED Strip 15m (2x7.5) RGB - Afstandsbediening - Gaming Lichtstrip met App - 270 LEDs - Zelfklevend Licht",
-            "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "lichtstrip", "led strip 15 meter"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=44&pmax=45",
-              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=44&pmax=45",
-              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=lichtstrip&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0014",
-            "marketplace": "Blokker.nl",
-            "product": "LED strip RGB 15m",
-            "productId": "4627899",
-            "productTitle": "Lideka - LED Strip 15m (2x7.5) RGB - 3.0A - 50K Branduren - Afstandsbediening en App - 270 LEDs - Zelfklevend Licht",
-            "keywords": ["rgb led strip", "led strip met afstandsbediening", "led verlichting strips"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=44&pmax=45",
-              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
-              "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=44&pmax=45"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          },
-          {
-            "id": "VM-1-0015",
-            "marketplace": "Blokker.nl",
-            "product": "LED strip RGB 20m",
-            "productId": "4627903",
-            "productTitle": "Lideka - LED Strip 20m (2x10) RGB - Afstandsbediening - Gaming Lichtstrip met App - 360 LEDs - Zelfklevend Licht",
-            "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 20 meter"],
-            "keywordLink": 
-            [
-              "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=59&pmax=60",
-              "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=59&pmax=60",
-              "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
-            ],
-            "isRunning" : false,
-            "isMostWantedList": true
-          }
-    ]
-  }
+  "products":
+  [
+    {
+      "id": "VM-1-0001",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E14 1x",
+      "productId": "4562283",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 1 - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e14 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=e14%20led%20lamp"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0002",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E14 2x",
+      "productId": "4562290",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 2 - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e14 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=e14%20led%20lamp"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0003",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E14 3x",
+      "productId": "4562293",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 3 - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e14 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=e14%20led%20lamp"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0004",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb GU10 1x",
+      "productId": "4562288",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 1 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=gu10%20led%20lamp"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0005",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb GU10 2x",
+      "productId": "4562279",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 2 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=gu10%20led%20lamp"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0006",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb GU10 3x",
+      "productId": "4562281",
+      "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 3 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=gu10%20led%20lamp"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0007",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E27 1x",
+      "productId": "4562287",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e27 led lamp", "e27"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=e27%20led%20lamp",
+        "https://www.blokker.nl/search?q=e27"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0008",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E27 2x",
+      "productId": "4562295",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 2 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e27 led lamp", "e27"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=e27%20led%20lamp",
+        "https://www.blokker.nl/search?q=e27"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0009",
+      "marketplace": "Blokker.nl",
+      "product": "LED bulb E27 3x",
+      "productId": "4562282",
+      "productTitle": "Lideka Slimme LED Smart Lampen - E27 - 9W - Set Van 3 - RGBW - Google, Alexa en Siri",
+      "keywords": ["led lampen", "e27 led lamp", "e27"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/search?q=e27%20led%20lamp",
+        "https://www.blokker.nl/search?q=e27"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0010",
+      "marketplace": "Blokker.nl",
+      "product": "LED strip RGB 3m",
+      "productId": "4627906",
+      "productTitle": "Lideka - LED Strip 3M - RGB - Afstandsbediening - Gaming Lichtstrip met App - LED strips - 90 LED's - Ook Voor TV",
+      "keywords": ["led strip", "rgb led strip", "led-strips", "ledstrip", "led strip met afstandsbediening"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led-strips",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0011",
+      "marketplace": "Blokker.nl",
+      "product": "LED strip RGB 5m",
+      "productId": "4627944",
+      "productTitle": "Lideka - LED Strip 5m RGB - Afstandsbediening - Gaming Lichtstrip met App - 300 LED's - Knipbaar - Ook Voor TV",
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led strip 5 meter"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search?q=led%20verlichting%20strips"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0012",
+      "marketplace": "Blokker.nl",
+      "product": "LED strip RGB 10m",
+      "productId": "4627898",
+      "productTitle": "Lideka - LED Strip 10m (2x5) RGB - Afstandsbediening - Gaming Lichtstrip met App - 300 LEDs - Zelfklevend Licht",
+      "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led-strips",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0013",
+      "marketplace": "Blokker.nl",
+      "product": "LED strip RGB 15m",
+      "productId": "4627901",
+      "productTitle": "Lideka - LED Strip 15m (2x7.5) RGB - Afstandsbediening - Gaming Lichtstrip met App - 270 LEDs - Zelfklevend Licht",
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "lichtstrip", "led strip 15 meter"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search?q=lichtstrip"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0014",
+      "marketplace": "Blokker.nl",
+      "product": "LED strip RGB 15m - 50k",
+      "productId": "4627899",
+      "productTitle": "Lideka - LED Strip 15m (2x7.5) RGB - 3.0A - 50K Branduren - Afstandsbediening en App - 270 LEDs - Zelfklevend Licht",
+      "keywords": ["rgb led strip", "led strip met afstandsbediening", "led verlichting strips"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search?q=led%20verlichting%20strips"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0015",
+      "marketplace": "Blokker.nl",
+      "product": "LED strip RGB 20m",
+      "productId": "4627903",
+      "productTitle": "Lideka - LED Strip 20m (2x10) RGB - Afstandsbediening - Gaming Lichtstrip met App - 360 LEDs - Zelfklevend Licht",
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 20 meter"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
+    }
+  ]
+}
