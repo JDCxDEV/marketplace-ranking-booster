@@ -20,7 +20,7 @@
         "https://www.bol.com/nl/nl/s/?searchtext=weegschaalkeuken",
         "https://www.bol.com/nl/nl/s/?searchtext=digitale+keukenweegschaal",
         "https://www.bol.com/nl/nl/s/?searchtext=keukenweegschalen",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&12194=24-25&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=keuken+weegschaal&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=precisie+keukenweegschaal"
       ],
       "isRunning" : false,
@@ -213,9 +213,9 @@
       "keywordLink": 
       [
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+tijdmarkeringen",
@@ -242,7 +242,7 @@
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
@@ -259,39 +259,12 @@
     {
       "id": "VM-1-0011",
       "marketplace": "Bol.com",
-      "product": "Water bottle RG",
-      "productId": "9300000029090914",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Rosé Goud",
-      "keywords": 
-      [
-        "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
-        "drinkfles kinderen", "waterfles met tijdmarkeringen", "waterfles 1 liter", "waterfles met fruit filter", "drinkfles kind"
-      ],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+tijdmarkeringen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0012",
-      "marketplace": "Bol.com",
       "product": "Water bottle G",
       "productId": "9300000045223456",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Groen",
       "keywords": 
       [
-        "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter",
+        "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter", 
         "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
         "drinkfles kinderen", "drinkflessen volwassenen"
       ],
@@ -306,37 +279,37 @@
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+volwassenen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen+volwassenen"
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen+volwassenen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+volwassenen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
     },
     {
-      "id": "VM-1-0013",
+      "id": "VM-1-0012",
       "marketplace": "Bol.com",
       "product": "Water bottle T",
       "productId": "9300000045223407",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Turquoise",
       "keywords": 
       [
-        "drinkfles", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter", "waterfles",
-        "drinkflessen", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "waterflessen kinderen",
+        "drinkfles", "waterfles", "waterfles 1 liter", "drinkflessen", "waterflessen", 
+        "drinkfles 1 liter", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "waterflessen kinderen",
         "waterfles met rietje volwassenen", "drinkfles volwassenen", "drinkfles kinderen", "drinkflessen volwassenen", "drinkfles kind"
       ],
       "keywordLink": 
-      [
+      [ 
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen&view=list&filter_N=4296450201&rating=all",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
         "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+kinderen",
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterflessen+kinderen&view=list&filter_N=4296450201&rating=all",
         "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+rietje+volwassenen",
         "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+volwassenen",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+kinderen&view=list&filter_N=4296450201&rating=all",
@@ -347,7 +320,7 @@
       "isMostWantedList": true
     },
     {
-      "id": "VM-1-0014",
+      "id": "VM-1-0013",
       "marketplace": "Bol.com",
       "product": "Water bottle GR",
       "productId": "9300000022722259",
