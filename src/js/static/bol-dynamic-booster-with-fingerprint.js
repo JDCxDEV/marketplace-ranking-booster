@@ -160,6 +160,7 @@ export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtual
       }
     } catch (error) {
       handleError(error);
+      return;
     }
   }
 };
@@ -195,7 +196,8 @@ const handleBatchProcessing = async (batch, timeoutPromise) => {
   try {
     await Promise.race([Promise.all(batch), timeoutPromise]);
   } catch (error) {
-    console.error('Error:', error.message);
+    return;
+    // console.error('Error:', error.message);
   }
 };
 
