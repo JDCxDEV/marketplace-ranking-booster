@@ -19,7 +19,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
       changeGeolocation: true,
     });
   } catch (error) {
-    //console.error('Error using proxy or fingerprint:', error);
+    console.error('Error using proxy or fingerprint:', error.message);
     return;
   }
 
@@ -58,7 +58,7 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     await performActions(page, browser, product);
 
   } catch (error) {
-    // console.error('Error during browser interaction:', error);
+    console.error('Error during browser interaction:', error.message);
     clearTimeout(timerId);
     if (browser) {
       await browser.close();
@@ -161,7 +161,7 @@ export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtual
         console.log(`Product ${index + 1} in thread ${mainIndex} completed.`);
       }
     } catch (error) {
-      handleError(error);
+      handleError(error.message);
       return;
     }
   }
@@ -198,11 +198,11 @@ const handleBatchProcessing = async (batch, timeoutPromise) => {
   try {
     await Promise.race([Promise.all(batch), timeoutPromise]);
   } catch (error) {
+    console.error('Erro handling batch:', error.message);
     return;
-    // console.error('Error:', error.message);
   }
 };
 
 const handleError = (error) => {
-  // console.error(error.message);
+  console.error(error.message);
 };
