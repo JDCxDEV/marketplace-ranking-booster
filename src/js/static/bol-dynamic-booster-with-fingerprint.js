@@ -103,7 +103,9 @@ const performActions = async (page, browser, product) => {
   await booster.addRandomTimeGap(4, 6);
 
   if (!(await action.clickCurrentProduct(page, browser, productId))) {
-    //throw new Error('Failed to navigate to product');
+    if (browser) {
+      await browser.close();
+    }
   }
 
   await booster.addRandomTimeGap(8, 10);
