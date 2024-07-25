@@ -32,7 +32,19 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
   }, threadTimer * 1000);
 
   try {
-    browser = await plugin.launch({ headless: false });
+    browser = await plugin.launch({ 
+      headless: false,
+      args: [
+        '--window-position=0,0',
+        '--disable-gpu',
+        '--disable-dev-shm-usage',
+        '--disable-accelerated-2d-canvas',
+        '--no-first-run',
+        '--no-zygote',
+        '--start-maximized',
+        '--no-sandbox'
+      ]
+    });
     const page = await browser.newPage();
     const link = getLink(product, steps);
 
@@ -140,6 +152,10 @@ export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtual
 
   for (let mainIndex = 1; mainIndex <= thread; mainIndex++) {
     console.log(`Current thread: ${mainIndex}`);
+      // Force garbage collection
+      if (global.gc) {
+        global.gc();
+      }
     try {
       for (let index = 0; index < products.length; index++) {
         await processProductBatch(products[index], virtualMachine);
