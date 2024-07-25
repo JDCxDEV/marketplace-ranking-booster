@@ -29,22 +29,15 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     if (browser) {
       await browser.close();
     }
+
+    return
   }, threadTimer * 1000);
 
   try {
     browser = await plugin.launch({ 
       headless: false,
-      args: [
-        '--window-position=0,0',
-        '--disable-gpu',
-        '--disable-dev-shm-usage',
-        '--disable-accelerated-2d-canvas',
-        '--no-first-run',
-        '--no-zygote',
-        '--start-maximized',
-        '--no-sandbox'
-      ]
     });
+
     const page = await browser.newPage();
     const link = getLink(product, steps);
 
@@ -70,6 +63,8 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
     if (browser) {
       await browser.close();
     }
+
+    return;
   }
 };
 
@@ -152,10 +147,12 @@ export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtual
 
   for (let mainIndex = 1; mainIndex <= thread; mainIndex++) {
     console.log(`Current thread: ${mainIndex}`);
-      // Force garbage collection
-      if (global.gc) {
-        global.gc();
-      }
+
+    // Force garbage collection
+    if (global.gc) {
+      global.gc();
+    }
+
     try {
       for (let index = 0; index < products.length; index++) {
         await processProductBatch(products[index], virtualMachine);
@@ -168,7 +165,7 @@ export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtual
 };
 
 const processProductBatch = async (product, virtualMachine) => {
-  const timeoutMilliseconds = 400000; // 6 minutes
+  const timeout = 6 * 60 * 1000; // 6 minutes in milliseconds
   const timeoutSeconds = 360; // 6 minutes
   const productThreads = 4;
   let currentBatch = [];
@@ -188,7 +185,7 @@ const processProductBatch = async (product, virtualMachine) => {
   const timeoutPromise = new Promise((_, reject) => {
     setTimeout(() => {
       reject(new Error('Timeout exceeded'));
-    }, timeoutMilliseconds);
+    }, timeout);
   });
 
   await handleBatchProcessing(currentBatch, timeoutPromise);
@@ -198,7 +195,7 @@ const handleBatchProcessing = async (batch, timeoutPromise) => {
   try {
     await Promise.race([Promise.all(batch), timeoutPromise]);
   } catch (error) {
-    // console.error('Error:', error.message);
+    console.error('Error:', error.message);
   }
 };
 
