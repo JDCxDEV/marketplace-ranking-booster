@@ -12,17 +12,16 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider, wor
   await lock.acquire('KEY', async () => {
     let fingerprint;
     let proxy;
-    
-    console.log(workingDir)
-    plugin.setWorkingFolder(`./workerFolder/${workingDir}`);
-    plugin.setRequestTimeout(2 * 60000);
-
-    fingerprint = await plugin.fetch('R1Q984LgHhqw8Dx5xBHkEjStoC50FScwFgkoqjT8uSI1TBItRAkceXqKfGXUyO1k', {
-      tags: ['Desktop'],
-      timeLimit: '60 days',
-    });
 
     try {
+      plugin.setWorkingFolder(`./workerFolder/${workingDir}`);
+      plugin.setRequestTimeout(2 * 60000);
+  
+      fingerprint = await plugin.fetch('R1Q984LgHhqw8Dx5xBHkEjStoC50FScwFgkoqjT8uSI1TBItRAkceXqKfGXUyO1k', {
+        tags: ['Desktop'],
+        timeLimit: '60 days',
+      });
+  
       plugin.useFingerprint(fingerprint);
       proxy = await proxies.getAssignedProxies(proxyProvider);
 
@@ -68,15 +67,15 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider, wor
   
       await performActions(page, browser, product);
   
-    } catch (error) {
-      console.error('Error during browser interaction:', error.message);
-    } finally {
-      clearTimeout(timerId);
-      if (browser) {
-        await browser.close();
+      } catch (error) {
+        console.error('Error during browser interaction:', error.message);
+      } finally {
+        clearTimeout(timerId);
+        if (browser) {
+          await browser.close();
+        }
       }
-    }
-  });
+    },{ timeout: threadTimer * 1000 });
 };
 
 const getLink = (product, steps) => {
