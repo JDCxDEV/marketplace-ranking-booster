@@ -1,5 +1,6 @@
 {
-  "products": [
+  "products":
+  [
     {
       "id": "VM-1-0001",
       "marketplace": "Kaufland",
@@ -253,7 +254,7 @@
         },
         {
           "name": "trinkflaschen",
-          "link": "https://www.kaufland.de/s/?21=6908328&price=2100-2200&search_value=trinkflaschen"
+          "link": "https://www.kaufland.de/s/?search_value=trinkflaschen"
         },
         {
           "name": "1l wasserflasche",
@@ -268,12 +269,12 @@
       "product": "Water bottle RB",
       "productTitle": "Lekro Trinkflaschen 1L, Wasserflasche für Uni, Arbeit, Fitness, Fahrrad, Outdoor, Leicht, Stoßfest, SoftTouch +Sieb, BPA-frei, Trinkflaschen-Rosa/Blau",
       "productId": "468110675",
-      "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche", "trinkflaschen"],
+      "keywords": ["trinkflasche", "trinkflasche 1l", "wasserflasche", "trinkflaschen", "1l wasserflasche"],
       "keyword":
       [
         {
           "name": "trinkflasche",
-          "link": "https://www.kaufland.de/s/?price=3100-3200&search_value=trinkflasche"
+          "link": "https://www.kaufland.de/s/?search_value=trinkflasche"
         },
         {
           "name": "trinkflasche 1l",
@@ -285,11 +286,11 @@
         },
         {
           "name": "trinkflaschen",
-          "link": "https://www.kaufland.de/s/?21=6908328&price=3100-3200&search_value=trinkflaschen"
+          "link": "https://www.kaufland.de/s/?search_value=trinkflaschen"
         },
         {
           "name": "1l wasserflasche",
-          "link": "https://www.kaufland.de/s/?21=6908328&search_value=1l%20wasserflasche"
+          "link": "https://www.kaufland.de/s/?search_value=1l%20wasserflasche"
         }
       ],
       "isRunning" : false 
@@ -381,7 +382,7 @@
         },
         {
           "name": "trinkflaschen",
-          "link": "https://www.kaufland.de/s/?price=2100-2200&search_value=trinkflaschen"
+          "link": "https://www.kaufland.de/s/?21=6908328&price=2100-2200&search_value=trinkflaschen"
         },
         {
           "name": "1l wasserflasche",

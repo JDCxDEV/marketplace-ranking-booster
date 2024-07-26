@@ -1,5 +1,5 @@
 {
-"products":
+  "products":
   [
     {
       "id": "VM-2-0001",
@@ -104,9 +104,14 @@
       "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
       "productId": "488843216",
       "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
-      "keyword":[],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "keyword":
+      [
+        {
+          "name": "rückenkissen",
+          "link": "https://www.kaufland.de/s/?search_value=r%C3%BCckenkissen"
+        }
+      ],
+      "isRunning" : false
     },
     {
       "id": "VM-2-0006",
@@ -143,7 +148,7 @@
         },
         {
           "name": "kissen",
-          "link": "https://www.kaufland.de/s/?21=6931310&price=4300-4400&search_value=kissen"
+          "link": "https://www.kaufland.de/s/?search_value=kissen"
         },
         {
           "name": "nackenstützkissen",
