@@ -2,63 +2,6 @@
   "products":
   [
     {
-      "id": "VM-1-0009",
-      "marketplace": "Bol.com",
-      "product": "Water bottle RG",
-      "productId": "9300000029090914",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Rosé Goud",
-      "keywords": 
-      [
-        "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
-        "drinkfles kinderen", "waterfles met tijdmarkeringen", "waterfles 1 liter", "waterfles met fruit filter", "drinkfles kind"
-      ],
-      "keywordLink": 
-      [
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+tijdmarkeringen",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+1+liter",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
-      "id": "VM-1-0010",
-      "marketplace": "Bol.com",
-      "product": "Water bottle RB",
-      "productId": "9300000022722291",
-      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Roze/Blauw",
-      "keywords": 
-      [
-        "drinkfles", "drinkflessen", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter",
-        "waterfles met fruit filter", "waterflessen volwassenen", "drinkfles kind", "waterflessen met rietje", "waterfles",
-        "water fles", "drinkfles kinderen"
-      ],
-      "keywordLink":
-      [
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkflessen&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles+1+liter&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=drinkfles+1+liter&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterfles+met+fruit+filter",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+volwassenen",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kind",
-        "https://www.bol.com/nl/nl/s/?searchtext=waterflessen+met+rietje",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=waterfles&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?page=1&searchtext=water+fles&view=list&filter_N=4296450201&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=drinkfles+kinderen"
-      ],
-      "isRunning" : false,
-      "isMostWantedList": true
-    },
-    {
       "id": "VM-17-0001",
       "marketplace": "Bol.com",
       "product": "Beamer",
@@ -69,8 +12,8 @@
       [
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamer&view=list&filter_N=7558495748&rating=all",
         "https://www.bol.com/nl/nl/s/?page=1&searchtext=beamers&view=list&filter_N=7558495748&rating=all",
-        "https://www.bol.com/nl/nl/s/?searchtext=mini+beamer",
-        "https://www.bol.com/nl/nl/s/?searchtext=beamer+mini"
+        "https://www.bol.com/nl/nl/s/?page=1&searchtext=mini+beamer&view=list&12194=140-160&rating=all",
+        "https://www.bol.com/nl/nl/s/?searchtext=beamer+mini&view=list&12194=140-160&rating=all"
       ],
       "isRunning" : false,
       "isMostWantedList": true
