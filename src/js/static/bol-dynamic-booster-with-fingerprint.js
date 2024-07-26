@@ -1,71 +1,82 @@
-import * as booster  from '../../helpers/boosterSteps.js'
+import puppeteer from 'puppeteer-extra';
+import * as booster from '../../helpers/boosterSteps.js';
 import * as proxies from '../../helpers/proxies.js';
-import * as action from './actions/bol.js'
-import * as array from '../../helpers/array.js'
-import { plugin } from 'puppeteer-with-fingerprints';
+import * as action from './actions/bol.js';
+import * as array from '../../helpers/array.js';
+import { plugin  } from 'puppeteer-with-fingerprints';
+import AsyncLock from 'async-lock';
 
-const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => {
-  const fingerprint = await plugin.fetch('R1Q984LgHhqw8Dx5xBHkEjStoC50FScwFgkoqjT8uSI1TBItRAkceXqKfGXUyO1k', {
-    tags: ['Desktop'],
-    timeLimit: '15 days',
+
+const initBooster = async (product, threadTimer = 300, steps, proxyProvider, workingDir, threadName) => {
+  var lock = new AsyncLock();
+  await lock.acquire('KEY', async () => {
+    let fingerprint;
+    let proxy;
+    
+    console.log(workingDir)
+    plugin.setWorkingFolder(`./workerFolder/${workingDir}`);
+    plugin.setRequestTimeout(2 * 60000);
+
+    fingerprint = await plugin.fetch('R1Q984LgHhqw8Dx5xBHkEjStoC50FScwFgkoqjT8uSI1TBItRAkceXqKfGXUyO1k', {
+      tags: ['Desktop'],
+      timeLimit: '60 days',
+    });
+
+    try {
+      plugin.useFingerprint(fingerprint);
+      proxy = await proxies.getAssignedProxies(proxyProvider);
+
+      plugin.useProxy(proxy.host, {
+        changeTimezone: true,
+        changeGeolocation: true,
+      });
+    } catch (error) {
+      console.error('Error using proxy or fingerprint:', error.message);
+      return;
+    }
+
+    let browser = null;
+
+    const timerId = setTimeout(async () => {
+      if (browser) {
+        await browser.close();
+      }
+      return;
+    }, threadTimer * 1000);
+  
+    try {
+      browser = await plugin.launch({
+        headless: false,
+      });
+  
+      const page = await browser.newPage();
+      const link = getLink(product, steps);
+  
+      if (!link) return;
+  
+      await page.goto(link, { waitUntil: 'domcontentloaded' });
+  
+      if (await isTooManyRequests(page)) {
+        await page.reload({ waitUntil: 'domcontentloaded' });
+      }
+  
+      const content = await page.content();
+  
+      if (!content) {
+        await browser.close();
+      }
+  
+      await performActions(page, browser, product);
+  
+    } catch (error) {
+      console.error('Error during browser interaction:', error.message);
+    } finally {
+      clearTimeout(timerId);
+      if (browser) {
+        await browser.close();
+      }
+    }
   });
-
-  try {
-    plugin.useFingerprint(fingerprint);
-    const proxy = await proxies.getAssignedProxies(proxyProvider);
-
-    plugin.useProxy(proxy.host, {
-      changeTimezone: true,
-      changeGeolocation: true,
-    });
-  } catch (error) {
-    console.error('Error using proxy or fingerprint:', error.message);
-    return;
-  }
-
-  let browser = null;
-
-  const timerId = setTimeout(async () => {
-    if (browser) {
-      await browser.close();
-    }
-
-    return
-  }, threadTimer * 1000);
-
-  try {
-    browser = await plugin.launch({ 
-      headless: false,
-    });
-
-    const page = await browser.newPage();
-    const link = getLink(product, steps);
-
-    if (!link) return;
-
-    await page.goto(link, { waitUntil: 'domcontentloaded' });
-
-    if (await isTooManyRequests(page)) {
-      await page.reload({ waitUntil: 'domcontentloaded' });
-    }
-
-    const content = await page.content();
-
-    if (!content) {
-      throw new Error('Failed to load page content');
-    }
-
-    await performActions(page, browser, product);
-
-  } catch (error) {
-    console.error('Error during browser interaction:', error.message);
-    clearTimeout(timerId);
-    if (browser) {
-      await browser.close();
-    }
-
-    return;
-  }
 };
 
 const getLink = (product, steps) => {
@@ -129,15 +140,15 @@ const performActions = async (page, browser, product) => {
   }
 };
 
-const dynamicallyImportJsonFile = async (file)  => {
+const dynamicallyImportJsonFile = async (file) => {
   const { default: jsonObject } = await import(`./../../assets/json/bol/${file}`, {
-      assert: {
-        type: 'json'
-      }
+    assert: {
+      type: 'json'
+    }
   });
 
-  return jsonObject
-}
+  return jsonObject;
+};
 
 export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtualMachine = {}) => {
   await booster.addRandomTimeGap(2, 3);
@@ -157,7 +168,7 @@ export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtual
 
     try {
       for (let index = 0; index < products.length; index++) {
-        await processProductBatch(products[index], virtualMachine);
+        await processProductBatch(products[index], virtualMachine, `Product ${index + 1} ${mainIndex}.`);
         console.log(`Product ${index + 1} in thread ${mainIndex} completed.`);
       }
     } catch (error) {
@@ -167,20 +178,22 @@ export const triggerAllBolBoosterFingerPrint = async (thread, currentVM, virtual
   }
 };
 
-const processProductBatch = async (product, virtualMachine) => {
+const processProductBatch = async (product, virtualMachine, threadName) => {
   const timeout = 6 * 60 * 1000; // 6 minutes in milliseconds
   const timeoutSeconds = 360; // 6 minutes
   const productThreads = 4;
   let currentBatch = [];
 
   for (let threadIndex = 0; threadIndex < productThreads; threadIndex++) {
-    await booster.addRandomTimeGap(2, 3);
+    const workingDir = `workerDir-${threadIndex}`;
     currentBatch.push(
       initBooster(
         product,
         timeoutSeconds,
         product.isPerPage ? 'per-page' : virtualMachine.steps,
-        virtualMachine.proxy
+        virtualMachine.proxy,
+        workingDir,
+        threadName
       )
     );
   }
@@ -198,9 +211,9 @@ const handleBatchProcessing = async (batch, timeoutPromise) => {
   try {
     await Promise.race([Promise.all(batch), timeoutPromise]);
   } catch (error) {
-    console.error('Erro handling batch:', error.message);
+    console.error('Error handling batch:', error.message);
     return;
-  }
+  } 
 };
 
 const handleError = (error) => {
