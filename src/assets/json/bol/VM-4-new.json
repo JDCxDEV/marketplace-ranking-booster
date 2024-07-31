@@ -99,37 +99,104 @@
         {
             "id": "VM-4-0008",
             "marketplace": "Bol.com",
-            "product": "",
-            "productId": "",
-            "productTitle": "",
-            "price": ,
+            "product": "ComfyCentre Matraswig",
+            "productId": "9300000092095073",
+            "productTitle": "ComfyCentre Matraswig met band - Extra Brede Liefdesbrug voor Matrassen - Matraswiggen - Bedbinder - Matrasbinder De Luxe - 200x30cm",
+            "price": 42,
             "keywords":
             [
-                ""
+                "matrasbinder", "matraswig", "bedbinder", "liefdesbrug", "matraswig met band",
+                "matras wig", "matraswiggen", "matraswig de luxe"
             ]
         },
         {
             "id": "VM-4-0009",
             "marketplace": "Bol.com",
-            "product": "",
-            "productId": "",
-            "productTitle": "",
-            "price": ,
+            "product": "ComfyCentre Bed Bridge",
+            "productId": "9300000173871552",
+            "productTitle": "ComfyCentre Matraswig - Extra Brede Liefdesbrug voor Matrassen - Matraswiggen - Bedbinder - Matrasbinder De Luxe - 200x30cm - Perfect voor 180 x 200 cm Matrassen",
+            "price": 39,
             "keywords":
             [
-                ""
+                "matrasbinder", "matraswig", "bedbinder", "liefdesbrug", "matraswig met band",
+                "matras wig", "matraswiggen", "matraswig de luxe"
             ]
         },
         {
             "id": "VM-4-0010",
             "marketplace": "Bol.com",
-            "product": "",
-            "productId": "",
-            "productTitle": "",
-            "price": ,
+            "product": "Security Camera Black",
+            "productId": "9200000124101802",
+            "productTitle": "Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Petcam met app - Hondencamera - Bewakingscamera voor Binnen Indoor Camera - Zwart",
+            "price": 32,
             "keywords":
             [
-                ""
+                "beveiligingscamera's", "beveiligingscamera", "hondencamera", "beveiligingscamera binnen", "bewakingscamera voor binnen",
+                "petcam", "huisdiercamera met app", "hondencamera met app", "indoor camera"
+            ]
+        },
+        {
+            "id": "VM-4-0011",
+            "marketplace": "Bol.com",
+            "product": "Security Camera White",
+            "productId": "9300000163662072",
+            "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Wit",
+            "price": 30,
+            "keywords":
+            [
+                "beveiligingscamera's", "beveiligingscamera", "beveiligingscamera binnen", "hondencamera", "bewakingscamera voor binnen",
+                "huisdiercamera met app", "petcam", "hondencamera met app", "indoor camera"
+            ]
+        },
+        {
+            "id": "VM-4-0012",
+            "marketplace": "Bol.com",
+            "product": "BabyFoon Black",
+            "productId": "9300000179671207",
+            "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Zwart",
+            "price": 30,
+            "keywords":
+            [
+                "babyfoon", "babyfoon met camera", "baby monitor", "babyfoons", "babyfoon met camera en app",
+                "babyfoon camera", "baby camera", "babyfoon met app", "babyfoon met camera en app wifi", "babyfoon met camera bestverkocht"
+            ]
+        },
+        {
+            "id": "VM-4-0013",
+            "marketplace": "Bol.com",
+            "product": "BabyFoon White",
+            "productId": "9300000163662072",
+            "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Wit",
+            "price": 30,
+            "keywords":
+            [
+                "babyfoon met camera", "baby monitor", "babyfoon", "baby camera", "babyfoon met camera en app",
+                "babyfoon met camera en app wifi", "babyfoon met camera bestverkocht", "babyfoon met app", "babyfoons", "babyfoon camera"
+            ]
+        },
+        {
+            "id": "VM-4-0014",
+            "marketplace": "Bol.com",
+            "product": "BorstKolf",
+            "productId": "9300000021841114",
+            "productTitle": "NurtureGoods Dual Efficient Borstkolf - Smart 3.0 - Vernieuwd 2024 model - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu - Inclusief 2x180 ml Babyfles, Kolfdagboek en Speen - Breast Pump Electrisch Dubbel",
+            "price": 94,
+            "keywords":
+            [
+                "borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "borstkolf dubbel", "draadloze borstkolf",
+                "breast pump", "kolf"
+            ]
+        },
+        {
+            "id": "VM-4-0015",
+            "marketplace": "Bol.com",
+            "product": "Vertical Tuin 2",
+            "productId": "9200000132275261",
+            "productTitle": "GreenGrounds™ Verticale Tuin - 9 Ruime Vakken - 50x50 cm - Moestuin - Hangende Plantenzak",
+            "price": 24,
+            "keywords":
+            [
+                "moestuin", "verticale tuin", "verticale tuin met watersysteem", "verticale moestuin"
             ]
         }
     ]
