@@ -1,0 +1,137 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-2-0001",
+            "marketplace": "Bol.com",
+            "product": "Vershoudbakjes set Blue",
+            "productId": "9300000144995169",
+            "productTitle": "HI NATURE™ Vershoudbakjes set 4 stuks - Bewaarbakjes opvouwbaar - Diepvriesbakjes vierkant - Meal prep bakjes - Lunchbox set - Magnetron bakjes met deksel - BPA Vrij Siliconen vershouddoos - Silicone bakjes - Voedselcontainer",
+            "price": 19,
+            "keywords":
+            [
+                "vershoudbakjes", "lunchbox"
+            ]
+        },
+        {
+            "id": "VM-2-0002",
+            "marketplace": "Bol.com",
+            "product": "Vershoudbakjes set Green",
+            "productId": "9300000150763046",
+            "productTitle": "HI NATURE™ Vershoudbakjes set 4 stuks - Bewaarbakjes opvouwbaar - Diepvriesbakjes vierkant - Meal prep bakjes - Lunchbox set - Magnetron bakjes met deksel - BPA Vrij Siliconen vershouddoos - Silicone bakjes - Voedselcontainer",
+            "price": 19,
+            "keywords":
+            [
+                "diepvriesbakjes"
+            ]
+        },
+        {
+            "id": "VM-2-0003",
+            "marketplace": "Bol.com",
+            "product": "Air Fryer set Black",
+            "productId": "9300000151158026",
+            "productTitle": "HI NATURE™ Airfryer accessoires - Airfryer siliconen bakje vierkant set inclusief Wanten voor Airfryer XXL - Siliconen ovenschaal BPA Vrij Accessoires Heteluchtfriteuse Bakvormen – Bakpapier Alternatief - Mand Bakvorm - 20 CM (Zwart)",
+            "price": 19,
+            "keywords":
+            [
+                "airfryer siliconen bakje"
+            ]
+        },
+        {
+            "id": "VM-2-0004",
+            "marketplace": "Bol.com",
+            "product": "Induction Mat set 4X",
+            "productId": "9300000151491811",
+            "productTitle": "HI NATURE™ Inductie Beschermer set 4 Stuks - Inductie mat - Pannenonderzetter - Hittebestendig - Panbeschermers - Onderzetters Pannen - Inductie Afdekplaat - Afdekplaat Voor Kookplaat - Inductie Matjes Rond - 100% BPA Vrie (Zwart)",
+            "price": 19,
+            "keywords":
+            [
+                "inductie beschermer", "inductie mat"
+            ]
+        },
+        {
+            "id": "VM-2-0005",
+            "marketplace": "Bol.com",
+            "product": "Knife set 6",
+            "productId": "9300000157616761",
+            "productTitle": "HI NATURE™ Steakmessen 6 Stuks RVS | Vleesmessen, Messenset, Keukenmessen | Vaatwasserbestendig - 22cm - Zilver",
+            "price": 16,
+            "keywords":
+            [
+                "steakmessen"
+            ]
+        },
+        {
+            "id": "VM-2-0006",
+            "marketplace": "Bol.com",
+            "product": "Cutlery set 36",
+            "productId": "9300000157248742",
+            "productTitle": "HI NATURE™ Bestekset 6 Persoons (36-delig) Zilver | Bestek, Lepels, Messen, Vorken, Steakmessen - Vaatwasserbestendig | Hoogwaardige Roestvrij Staal / RVS",
+            "price": 31,
+            "keywords":
+            [
+                "bestek", "bestek set"
+            ]
+        },
+        {
+            "id": "VM-2-0007",
+            "marketplace": "Bol.com",
+            "product": "Cheese Grater Long",
+            "productId": "9300000162752838",
+            "productTitle": "HI NATURE™ Premium Rasp zester - Handrasp lang- Citroenrasp - Kaasrasp - Gemberrasp - Knoflookrasp | Roestvrij staal Zwart",
+            "price": 14,
+            "keywords":
+            [
+                "kaasrasp"
+            ]
+        },
+        {
+            "id": "VM-2-0008",
+            "marketplace": "Bol.com",
+            "product": "Cheese Grater Multi",
+            "productId": "9300000162752984",
+            "productTitle": "HI NATURE™ Premium Multi Rasp zester - Handrasp - Citroenrasp - Kaasrasp - Gemberrasp - Knoflookrasp | Roestvrij staal Zwart",
+            "price": 14,
+            "keywords":
+            [
+                "rasp"
+            ]
+        },
+        {
+            "id": "VM-2-0009",
+            "marketplace": "Bol.com",
+            "product": "Knife sharpener",
+            "productId": "9300000162752580",
+            "productTitle": "HI NATURE™ Professionele Messenslijper - Aanzetstaal - Doortrekslijper – Antislip - Scharenslijper - Messen slijper - Knife sharpener - RVS",
+            "price": 14,
+            "keywords":
+            [
+                "messenslijper", "aanzetstaal"
+            ]
+        },
+        {
+            "id": "VM-2-0010",
+            "marketplace": "Bol.com",
+            "product": "Pizza cutter",
+            "productId": "9300000162751963",
+            "productTitle": "HI NATURE™ Pizzasnijder – Pizzames – Pizzaroller – Robuust & Scherp Wiel- Vaatwasserbestendig – Antislip",
+            "price": 7,
+            "keywords":
+            [
+                "pizzasnijder"
+            ]
+        },
+        {
+            "id": "VM-2-0011",
+            "marketplace": "Bol.com",
+            "product": "Child Cutlary set 4",
+            "productId": "9300000167744817",
+            "productTitle": "HI NATURE™ Kinder Bestek 4 Delig - Kinderbestek - Kinderbestekset Zilver - Bestekset kinderen - Bestek kinderen - RVS - Zilverwit Edelstaal 18/10",
+            "price": 11,
+            "keywords":
+            [
+                "kinderbestek"
+            ]
+        }
+    ]
+}
