@@ -1,0 +1,136 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-4-0001",
+            "marketplace": "Bol.com",
+            "product": "ComfyCentre Zitkussen",
+            "productId": "9200000113156202",
+            "productTitle": "ComfyCentre Zitkussen Orthopedisch & Ergonomisch voor Auto en Bureaustoel - Wigkussen - Stuitkussen - Thuiswerken - Stoelkussen met Traagschuim voor Bed",
+            "price": 46,
+            "keywords":
+            [
+                "wigkussen", "stuitkussen", "zitkussen", "zitkussen orthopedisch", "zitkussens",
+                "zitkussen ergonomisch", "zit kussen", "zitkussen bed", "zitkussen bureaustoel"
+            ]
+        },
+        {
+            "id": "VM-4-0002",
+            "marketplace": "Bol.com",
+            "product": "ComfyCentre Rugkussen L",
+            "productId": "9200000102903684",
+            "productTitle": "ComfyCentre Ergonomisch Rugkussen Onderrug - Voor Auto, Bureaustoel, Bank en Bed - Rugsteun - Lendensteun - Lendekussen - Thuiswerken",
+            "price": 39,
+            "keywords":
+            [
+                "lendekussen", "lendekussen auto", "rugkussen", "rugkussen onderrug", "rugkussen bed",
+                "rug kussen", "rugkussen bank", "rugkussen ergonomisch", "rugkussen onderrug voor bank", "rugkussen bureaustoel",
+                "rug kussen onderrug", "rugkussen auto", "lendekussen rugsteun", "lendesteun", "rugsteun bed",
+                "rugsteun auto"
+            ]
+        },
+        {
+            "id": "VM-4-0003",
+            "marketplace": "Bol.com",
+            "product": "ComfyCentre Rugkussen XL",
+            "productId": "9300000002846923",
+            "productTitle": "ComfyCentre Ergonomisch Rugkussen XL Auto & Bureaustoel - Rugsteun Onderrug - Lendensteun - Lendekussen",
+            "price": 29,
+            "keywords":
+            [
+                "rugkussen onderrug", "lendekussen", "ergonomisch rugkussen", "rugkussen", "rug kussen",
+                "rugkussen ergonomisch", "rugkussen bureaustoel", "rug kussen onderrug", "rugkussen auto", "rugsteun auto"
+            ]
+        },
+        {
+            "id": "VM-4-0004",
+            "marketplace": "Bol.com",
+            "product": "ComfyCentre Hoofdkussen",
+            "productId": "9200000119421203",
+            "productTitle": "ComfyCentre Hoofdkussen - Traagschuim Kussen Tegen Nekpijn en Rugklachten - Orthopedisch & Ergonomisch - Pillow met Memory Foam en Neksteun voor Zijslaper - 30 Dagen Proefslapen - Kussens",
+            "price": 45,
+            "keywords":
+            [
+                "traagschuim kussen", "memory foam kussen", "hoofdkussen", "hoofdkussens", "hoofdkussen nekklachten",
+                "kussen", "pillow", "hoofdkussen nekpijn", "hoofdkussen zijslaper", "hoofdkussen traagschuim"
+            ]
+        },
+        {
+            "id": "VM-4-0005",
+            "marketplace": "Bol.com",
+            "product": "ComfyCentre Kniekussen Band",
+            "productId": "9200000099810485",
+            "productTitle": "ComfyCentre Kniekussen met band voor in bed - Orthopedisch & Ergonomisch Beenkussen - Traagschuim - Zijslaapkussen - Zijslaper en Rugslaper - Kussen Benen - 30 Dagen Proberen - Kniekussens Volwassenen",
+            "price": 31,
+            "keywords":
+            [
+                "kniekussen", "beenkussen", "kniekussen voor in bed", "zijslaapkussen volwassenen", "kniekussens",
+                "kniekussen voor in bed zijslapers", "kniekussen orthopedisch", "knie kussen"
+            ]
+        },
+        {
+            "id": "VM-4-0006",
+            "marketplace": "Bol.com",
+            "product": "ComfyCentre Kniekussen",
+            "productId": "9200000099810333",
+            "productTitle": "ComfyCentre Kniekussen voor in bed - Orthopedisch & Ergonomisch Beenkussen - Traagschuim - Zijslaapkussen - Zijslapers en Rugslapers - Kussen Benen - 30 Dagen Proberen - Kniekussens Volwassenen",
+            "price": 28,
+            "keywords":
+            [
+                "beenkussen", "zijslaapkussen volwassenen", "kniekussen voor in bed", "kniekussen", "zijslaapkussen",
+                "kniekussens", "kniekussen voor in bed zijslapers", "kniekussen orthopedisch", "knie kussen", "kniekussen voor in bed orthopesich",
+                "beenkussen zijslaper", "beenkussen rugslaper", "been kussen"
+            ]
+        },
+        {
+            "id": "VM-4-0007",
+            "marketplace": "Bol.com",
+            "product": "ComfyCentre Donut Kussen",
+            "productId": "9300000095328594",
+            "productTitle": "ComfyCentre Donut Kussen Orthopedisch & Ergonomisch Voor Auto En Bureaustoel - Stuitkussen - Ringkussen - Zitring Kussen - voor Aambeien, Piercing en Stuitje - Zitkussen",
+            "price": 32,
+            "keywords":
+            [
+                "ringkussen", "zitring kussen", "aambeien kussen", "donut kussen", "donutkussen",
+                "donut kussen stuitje", "donut kussen piercing", "stuitkussen",  "donut", "zitring",
+                "zitkussen orthopedisch"
+            ]
+        },
+        {
+            "id": "VM-4-0008",
+            "marketplace": "Bol.com",
+            "product": "",
+            "productId": "",
+            "productTitle": "",
+            "price": ,
+            "keywords":
+            [
+                ""
+            ]
+        },
+        {
+            "id": "VM-4-0009",
+            "marketplace": "Bol.com",
+            "product": "",
+            "productId": "",
+            "productTitle": "",
+            "price": ,
+            "keywords":
+            [
+                ""
+            ]
+        },
+        {
+            "id": "VM-4-0010",
+            "marketplace": "Bol.com",
+            "product": "",
+            "productId": "",
+            "productTitle": "",
+            "price": ,
+            "keywords":
+            [
+                ""
+            ]
+        }
+    ]
+}
