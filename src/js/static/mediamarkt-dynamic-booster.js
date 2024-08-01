@@ -201,8 +201,6 @@ const initBooster = async (product, threadTimer = 300, steps, proxyProvider) => 
   }
 }
 
-
-
 export const triggerAllMediaMarktBooster = async (thread, currentVM, virtualMachine = {}) => {
   await init.startBooster(thread, currentVM, virtualMachine, 5, 'mediamarkt', await initBooster);
 };

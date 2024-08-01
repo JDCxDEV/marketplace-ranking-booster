@@ -134,7 +134,7 @@
       "key": "VM-17",
       "name": "Virtual Machine 17",
       "steps": "per-page",
-      "proxy": "smart-proxy-nl"
+      "proxy": "ip-royal-nl"
     },
     {
       "id": 18,
@@ -217,12 +217,21 @@
       "proxy": "ip-royal-nl"
     },
     {
-      "id": 27,
+      "id": 28,
       "marketplace": "Mediamarkt.de",
       "key": "VM-Media-Markt-1",
       "name": "Virtual Machine 28",
       "steps": "per-page",
       "proxy": "ip-royal-be"
+    },
+    {
+      "id": 29,
+      "marketplace": "Bol.com", 
+      "key": "VM-1-test",
+      "name": "Virtual Machine Finger Print Test",
+      "steps": "per-page",
+      "proxy": "smart-proxy-nl-with-finger-print",
+      "test": true
     }
   ]
 }

@@ -300,7 +300,7 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       } catch (error) {
         // continue
       }
-
+      
       try {
         const compareClick = `//*[@data-test="compare-checkbox"]`;
 
