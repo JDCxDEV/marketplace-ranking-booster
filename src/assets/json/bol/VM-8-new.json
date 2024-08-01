@@ -1,0 +1,200 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-8-0001",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 30m",
+            "productId": "9300000123487430",
+            "productTitle": "Lideka - LED Strip 30 (2x15) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 660 LED Lights - Zelfklevend Led Licht",
+            "price": 94,
+            "keywords":
+            [
+                "led strip 30 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0002",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 40m",
+            "productId": "9300000076780791",
+            "productTitle": "Lideka - LED Strip 40 (2x20) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 720 LED Lights - Zelfklevend Led Licht",
+            "price": 75,
+            "keywords":
+            [
+                "led strip 40 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0003",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 50m",
+            "productId": "9300000076781734",
+            "productTitle": "Lideka - LED Strip 50 (20+20+10) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 1020 LED Lights - Zelfklevend Led Licht",
+            "price": 134,
+            "keywords":
+            [
+                "led strip 50 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0004",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBW 5m",
+            "productId": "9300000129847288",
+            "productTitle": "Lideka - LED Strip 5 Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 300 LED Lights - 10mm Breed - 2.0A - Elke 15CM Knippen - Zelfklevend Led Licht",
+            "price": 48,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips", 
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led light strip", "smart led strip", "led strip 5 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0005",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBW 10m",
+            "productId": "9300000129847287",
+            "productTitle": "Lideka® - RGBW LED Strip Warm en Koud Wit 10 Meter (2x5) - Zelfklevend met afstandsbediening En App - Smart LED Strip - Compatible met Google Home, Amazon Alexa En Siri",
+            "price": 45,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led",
+                "led strip 10 meter", "led light strip 10 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0006",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBW 15m",
+            "productId": "9300000131510406",
+            "productTitle": "Lideka - LED Strip 15 (3 sets van 5m) Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 900 LED Lights - Zelfklevend Led Licht",
+            "price": 132,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led light strip"
+            ]
+        },
+        {
+            "id": "VM-8-0007",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBW 20m",
+            "productId": "9300000130919985",
+            "productTitle": "Lideka - LED Strip 20 (2x10) Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 300 LED Lights - Zelfklevend Led Licht",
+            "price": 98,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led strip 20 meter", "led light strip"
+            ]
+        },
+        {
+            "id": "VM-8-0008",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBW 40m",
+            "productId": "9300000132267093",
+            "productTitle": "Lideka - LED Strip 40 (4x10) Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 720 LED Lights - Zelfklevend Led Licht",
+            "price": 158,
+            "keywords":
+            [
+                "led strip 40 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0009",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBW 50m",
+            "productId": "9300000132267091",
+            "productTitle": "Lideka - LED Strip 50 (5x10) Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 1500 LED Lights - Zelfklevend Led Licht",
+            "price": 244,
+            "keywords":
+            [
+                "led strip 50 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0010",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBIC 5m",
+            "productId": "9300000032504691",
+            "productTitle": "Lideka - LED Strip 5 Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 150 LED Lights - 10mm Breed - 2.0A - Elke 15CM Knippen - Zelfklevend Led Licht",
+            "price": 44,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led light strip", "smart led strip", "led strip 5 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0011",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBIC 10m",
+            "productId": "9300000032504732",
+            "productTitle": "Lideka - LED Strip 10 (2x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 300 LED Lights - Zelfklevend Led Licht",
+            "price": 52,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led light strip", "led strip 10 meter", "led light strip 10 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0012",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBIC 15m",
+            "productId": "9300000127935975",
+            "productTitle": "Lideka - LED Strip 15 (3x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 450 LED Lights - Zelfklevend Led Licht",
+            "price": 98,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led light strip"
+            ]
+        },
+        {
+            "id": "VM-8-0013",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBIC 20m",
+            "productId": "9300000127935976",
+            "productTitle": "Lideka - LED Strip 20 (4x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 600 LED Lights - Zelfklevend Led Licht",
+            "price": 97,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led strip 20 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0014",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBIC 30m",
+            "productId": "9300000127935978",
+            "productTitle": "Lideka - LED Strip 30 (6x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 750 LED Lights - Zelfklevend Led Licht",
+            "price": 140,
+            "keywords":
+            [
+                "led strip 30 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0015",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBIC 40m",
+            "productId": "9300000127935977",
+            "productTitle": "Lideka - LED Strip 40 (8x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 1200 LED Lights - Zelfklevend Led Licht",
+            "price": 189,
+            "keywords":
+            [
+                "led strip 40 meter"
+            ]
+        }
+    ]
+}
