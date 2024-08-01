@@ -1,0 +1,146 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-9-0001",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGBIC 50m",
+            "productId": "9300000137057509",
+            "productTitle": "Lideka - LED Strip 50 (10x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 1500 LED Lights - Zelfklevend Led Licht",
+            "price": 200,
+            "keywords":
+            [
+                "led strip 50 meter"
+            ]
+        },
+        {
+            "id": "VM-9-0002",
+            "marketplace": "Bol.com",
+            "product": "LED strip TV 2m",
+            "productId": "9300000032517844",
+            "productTitle": "Lideka - TV USB LED Strip 2 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 60 LED Lights - 10mm Breed - Zelfklevend Led Licht",
+            "price": 22,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+                "gaming", "rgb led strip", "gaming lights", "led strip usb", "led strip tv",
+                "led strip voor tv", "ambilight strip", "led strip 2 meter"
+            ]
+        },
+        {
+            "id": "VM-9-0003",
+            "marketplace": "Bol.com",
+            "product": "LED strip TV 3m",
+            "productId": "9300000032517889",
+            "productTitle": "Lideka - TV USB LED Strip 3 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 90 LED Lights - 10mm Breed - Zelfklevend Led Licht - Ook Voor TV",
+            "price": 23,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+                "gaming", "rgb led strip", "gaming lights", "led strip usb", "led strip tv",
+                "led strip voor tv", "led strip 3 meter"
+            ]
+        },
+        {
+            "id": "VM-9-0004",
+            "marketplace": "Bol.com",
+            "product": "LED strip TV 6m",
+            "productId": "9300000077012899",
+            "productTitle": "Lideka - TV USB LED Strip 6 meter (3+3m) RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 180 LED Lights - 10mm Breed - Zelfklevend Led Licht - Ook Voor TV",
+            "price": 39,
+            "keywords":
+            [
+                "led strip 6 meter"
+            ]
+        },
+        {
+            "id": "VM-9-0005",
+            "marketplace": "Bol.com",
+            "product": "LED strip NEON RGB 3m",
+            "productId": "9300000137732718",
+            "productTitle": "Lideka - LED Strip 3 Meter NEON RGB - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
+            "price": 45,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+                "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon led strip buiten"
+            ]
+        },
+        {
+            "id": "VM-9-0006",
+            "marketplace": "Bol.com",
+            "product": "LED strip NEON RGBIC 3m",
+            "productId": "9300000137732719",
+            "productTitle": "Lideka® - RGBIC Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
+            "price": 54,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+                "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon lamp",
+                "neon led strip buiten", "neon verlichting"
+            ]
+        },
+        {
+            "id": "VM-9-0007",
+            "marketplace": "Bol.com",
+            "product": "LED strip NEON RGB 6m",
+            "productId": "9300000130919989",
+            "productTitle": "Lideka - LED Strip 6 Meter NEON RGB - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
+            "price": 91,
+            "keywords":
+            [
+                "led strip 6 meter"
+            ]
+        },
+        {
+            "id": "VM-9-0008",
+            "marketplace": "Bol.com",
+            "product": "LED strip NEON IC 6m",
+            "productId": "9300000130919987",
+            "productTitle": "Lideka - LED Strip 6 Meter NEON RGB + IC - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
+            "price": 100,
+            "keywords":
+            [
+                "led strip 6 meter"
+            ]
+        },
+        {
+            "id": "VM-9-0009",
+            "marketplace": "Bol.com",
+            "product": "Solar Powerbank Single",
+            "productId": "9300000004675166",
+            "productTitle": "Lideka - Solar Powerbank Charger - 4x USB - USB C - Snel & Draadloos Opladen﻿ - 30.000 mAh - Op Zonne-energie - Outdoor - Geschikt voor Iphone, Samsung, Apple",
+            "price": 87,
+            "keywords":
+            [
+                "powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank", "powerbank samsung",
+                "powerbank apple", "powerbank solar"
+            ]
+        },
+        {
+            "id": "VM-9-0010",
+            "marketplace": "Bol.com",
+            "product": "Solar Powerbank Combi",
+            "productId": "9300000097064082",
+            "productTitle": "Lideka - Solar Powerbank + Solar Charger - 4x USB - USB C - Snel & Draadloos Opladen﻿ - 30.000 mAh - Op Zonne-energie - Outdoor - Geschikt voor Iphone, Samsung, Apple",
+            "price": 129,
+            "keywords":
+            [
+                "powerbank solar", "powerbank", "powerbank zonneenergie", "solar powerbank", "powerbank iphone",
+                "powerbank samsung", "powerbank apple"
+            ]
+        },
+        {
+            "id": "VM-9-0011",
+            "marketplace": "Bol.com",
+            "product": "Solar Charger",
+            "productId": "9300000053397557",
+            "productTitle": "Lideka - Solar Charger Panel - Werkt Met Powerbank - Solar Panel Op Zonne-energie - Outdoor - 2400 mAh 5V Per Uur - 346.5 g - Geschikt voor Iphone Samsung Apple - Draagbaar en Opvouwbaar Zonnepaneel",
+            "price": 58,
+            "keywords":
+            [
+                "solar charger", "solar panel", "solar oplader", "draagbaar zonnepaneel", "opvouwbaar zonnepaneel"
+            ]
+        }
+    ]
+}
