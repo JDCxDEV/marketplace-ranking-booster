@@ -1,0 +1,208 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-7-0001",
+            "marketplace": "Bol.com",
+            "product": "LED bulb E14 1x",
+            "productId": "9300000134538251",
+            "productTitle": "Lideka® - Slimme LED Smart Lampen - E14 - RGBW - met App - 6W - 600 Lumen - 2700K - 6500K - Smart LED Verlichting - Dimbaar - Google, Alexa en Siri",
+            "price": 21,
+            "keywords":
+            [
+                "led lampen", "e14", "e14 led lamp", "e14 lamp", "e14 led",
+                "led lamp e14"
+            ]
+        },
+        {
+            "id": "VM-7-0002",
+            "marketplace": "Bol.com",
+            "product": "LED bulb E14 2x",
+            "productId": "9300000130635534",
+            "productTitle": "Lideka - LED Lamp E14 2x - RGBW - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 6W - 600 Lumen - 2700K - 6500K",
+            "price": 35,
+            "keywords":
+            [
+                "ledlamp", "e14", "e14 led lamp", "e14 lamp", "e14 led",
+                "led lamp e14"
+            ]
+        },
+        {
+            "id": "VM-7-0003",
+            "marketplace": "Bol.com",
+            "product": "LED bulb E14 3x",
+            "productId": "9300000130635535",
+            "productTitle": "Lideka - LED Lamp E14 3x - RGBW - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 6W - 600 Lumen - 2700K - 6500K",
+            "price": 46,
+            "keywords":
+            [
+                "e14", "e14 led lamp", "e14 lamp", "e14 led", "led lamp e14",
+                "ledlamp", "led lampen"
+            ]
+        },
+        {
+            "id": "VM-7-0004",
+            "marketplace": "Bol.com",
+            "product": "LED bulb GU10 1x",
+            "productId": "9300000129700113",
+            "productTitle": "Lideka - LED Lamp GU10 - Spot - RGBW - Warm White - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 6W - 400 Lumen - 2700K - 6500K",
+            "price": 20,
+            "keywords":
+            [
+                "led spot", "gu10 lamp", "led lampen gu10", "gu10", "gu10 led lamp dimbaar",
+                "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "led spot gu10", "ledlamp",
+                "led lampen"
+            ]
+        },
+        {
+            "id": "VM-7-0005",
+            "marketplace": "Bol.com",
+            "product": "LED bulb GU10 2x",
+            "productId": "9300000130635538",
+            "productTitle": "Lideka - LED Lamp GU10 2x - Spot - RGBW - Warm White - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 6W - 400 Lumen - 2700K - 6500K",
+            "price": 30,
+            "keywords":
+            [
+                "led spot", "gu10 lamp", "led lampen gu10", "gu10", "gu10 led lamp dimbaar",
+                "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "led spot gu10", "ledlamp",
+                "led lampen"
+            ]
+        },
+        {
+            "id": "VM-7-0006",
+            "marketplace": "Bol.com",
+            "product": "LED bulb GU10 3x",
+            "productId": "9300000159101339",
+            "productTitle": "Lideka - LED Lamp GU10 3x - Spot - RGBW - Warm White - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 6W - 400 Lumen - 2700K - 6500K",
+            "price": 45,
+            "keywords":
+            [
+                "led spot", "gu10 lamp", "led lampen gu10", "gu10", "gu10 led lamp dimbaar",
+                "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "led spot gu10", "ledlamp",
+                "led lampen"
+            ]
+        },
+        {
+            "id": "VM-7-0007",
+            "marketplace": "Bol.com",
+            "product": "LED bulb E27 1x",
+            "productId": "9300000129700110",
+            "productTitle": "Lideka - LED Lamp E27 - RGBW - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 9W - 800 Lumen - 2700K - 6500K",
+            "price": 21,
+            "keywords":
+            [
+                "ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27",
+                "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"
+            ]
+        },
+        {
+            "id": "VM-7-0008",
+            "marketplace": "Bol.com",
+            "product": "LED bulb E27 2x",
+            "productId": "9300000130635543",
+            "productTitle": "Lideka - LED Lamp E27 2x - RGBW - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 9W - 800 Lumen - 2700K - 6500K",
+            "price": 31,
+            "keywords":
+            [
+                "ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27",
+                "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"
+            ]
+        },
+        {
+            "id": "VM-7-0009",
+            "marketplace": "Bol.com",
+            "product": "LED bulb E27 3x",
+            "productId": "9300000130635542",
+            "productTitle": "Lideka - LED Lamp E27 3x - RGBW - LED Lampen met App - Smart LED Verlichting - Dimbaar - Google en Alexa - 9W - 800 Lumen - 2700K - 6500K",
+            "price": 42,
+            "keywords":
+            [
+                "ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27",
+                "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"
+            ]
+        },
+        {
+            "id": "VM-7-0010",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 3m",
+            "productId": "9300000032504808",
+            "productTitle": "Lideka - LED Strip 3 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 90 LED Lights - 10mm Breed - Zelfklevend Led Licht - Ook Voor TV",
+            "price": 30,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "rgb led strip", "led", "led light", "led licht",
+                "gaming lights", "led light strip"
+            ]
+        },
+        {
+            "id": "VM-7-0011",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 5m",
+            "productId": "9300000003262228",
+            "productTitle": "Lideka - LED Strip 5 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 300 LED Lights - 10mm Breed - 2.0A - Elke 15CM Knippen - Zelfklevend Led Licht - Ook Voor TV",
+            "price": 32,
+            "keywords":
+            [
+                "rgb led strip", "led strip 5 meter", "smart led strip", "led verlichting strips", "led strip met afstandsbediening",
+                "lichtstrip", "led strip", "led-strips", "led", "ledstrip",
+                "led light", "led licht", "gaming lights", "led light strip"
+            ]
+        },
+        {
+            "id": "VM-7-0012",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 10m",
+            "productId": "9300000123487425",
+            "productTitle": "Lideka - LED Strip 10 (2x5) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 300 LED Lights - Zelfklevend Led Licht",
+            "price": 43,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "rgb led strip", "led", "led light", "led licht",
+                "gaming lights", "led light strip", "led strip 10 meter", "led light strip 10 meter"
+            ]
+        },
+        {
+            "id": "VM-7-0013",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 15m",
+            "productId": "9300000032504791",
+            "productTitle": "Lideka - LED Strip 15 (2x7.5) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 270 LED Lights - Zelfklevend Led Licht",
+            "price": 44,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "rgb led strip", "led", "led light", "led licht",
+                "gaming lights", "led light strip", "led strip 15 meter"
+            ]
+        },
+        {
+            "id": "VM-7-0014",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 15m -2",
+            "productId": "9300000160767481",
+            "productTitle": "Lideka - LED Strip 15 Meter (2x7.5) - RGB - 3.0 A - 50K Branduren - met Afstandsbediening en App - 270 Led's - Led Light Strip Verlichting - Led Lights - Led Light Strip - Licht strip - Zelfklevend Led Licht",
+            "price": 45,
+            "keywords":
+            [
+                "led strip met afstandsbediening", "led verlichting strips", "lichtstrip", "rgb led strip", "led",
+                "led light", "led licht", "gaming lights", "led light strip"
+            ]
+        },
+        {
+            "id": "VM-7-0015",
+            "marketplace": "Bol.com",
+            "product": "LED strip RGB 20m",
+            "productId": "9300000076758957",
+            "productTitle": "Lideka - LED Strip 20 (2x10) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 360 LED Lights - Zelfklevend Led Licht",
+            "price": 54,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
+                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
+                "led licht", "gaming lights", "led strip 20 meter", "led light strip"
+            ]
+        }
+    ]
+}
