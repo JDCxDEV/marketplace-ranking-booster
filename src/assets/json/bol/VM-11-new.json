@@ -1,0 +1,65 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-11-0001",
+            "marketplace": "Bol.com",
+            "product": "LAKOO BabyGuard Kitty",
+            "productId": "9300000155386506",
+            "productTitle": "Lakoo® BabyGuard Kitty - Babyfoon - baby monitor - Babyfoon met Camera en app - Video Audio - White Noise - uitbreidbaar - Gratis App 5 inch HD scherm - Nachtzicht - Tweeweg Audio - Temperatuurweergave - Baby Monitor Op afstand bestuurbaar",
+            "price": 179,
+            "keywords":
+            [
+                "babyfoon met camera", "baby monitor", "babyfoon met camera en app"
+            ]
+        },
+        {
+            "id": "VM-11-0002",
+            "marketplace": "Bol.com",
+            "product": "LAKOO BabyGuard HD PRO",
+            "productId": "9300000150088115",
+            "productTitle": "Lakoo® BabyGuard HD PRO - Babyfoon - baby monitor - Uitbreidbaar - Babyfoon met Camera en Beeldscherm - 1080p Full HD",
+            "price": 89,
+            "keywords":
+            [
+                "babyfoon met camera", "baby monitor"
+            ]
+        },
+        {
+            "id": "VM-11-0003",
+            "marketplace": "Bol.com",
+            "product": "LAKOO - White noise machine-baby",
+            "productId": "9300000165933767",
+            "productTitle": "Lakoo® - White noise machine-baby - Muziekmobiel Baby - Met lamp 8 Verschillende kleuren - 20 verschillende geluiden - met timer - Witte ruis machine",
+            "price": 29,
+            "keywords":
+            [
+                "white noise", "muziekmobiel baby"
+            ]
+        },
+        {
+            "id": "VM-11-0004",
+            "marketplace": "Bol.com",
+            "product": "Lakoo BabyGuard Royal Heritage",
+            "productId": "9300000175672284",
+            "productTitle": "Lakoo® BabyGuard Pro 6 - Babyfoon met Camera en app - Babyfoon met monitor - 1080P HD-resolutie - White Noise - wifi - Uitbreid baar - nachtzicht - Gratis app - Terugspreekfunctie - Tempratuurweergave - Meest verkochte",
+            "price": 179,
+            "keywords":
+            [
+                "babyfoon met camera", "baby monitor", "babyfoon met camera en app"
+            ]
+        },
+        {
+            "id": "VM-11-0005",
+            "marketplace": "Bol.com",
+            "product": "LAKOO - Wifi Full",
+            "productId": "9300000179792541",
+            "productTitle": "LAKOO - WiFi Full HD Beveiligingscamera - Indoor Camera - Beweeg- en Geluidsdetectie - Bewakingscamera voor Binnen - Met Nachtzicht - Petcam met App - Huisdiercamera - Hondencamera - Draadloze Camera - zwart",
+            "price": 34,
+            "keywords":
+            [
+                "beveiligingscamera binnen", "beveiligingscamera's"
+            ]
+        }
+    ]
+}
