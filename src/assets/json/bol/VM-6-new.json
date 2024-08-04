@@ -37,7 +37,7 @@
                 "opbergmand", "opbergmanden", "mand", "opberg mand"
             ]
         },
-        {
+        { 
             "id": "VM-6-0004",
             "marketplace": "Bol.com",
             "product": "Opbergmand Zwart",
@@ -159,19 +159,6 @@
         },
         {
             "id": "VM-6-0014",
-            "marketplace": "Bol.com",
-            "product": "Wasmanden - Roze",
-            "productId": "9300000118407910",
-            "productTitle": "Mand van Sophie Nordinn® - Opbergmand Stockholm (Roze) - Wasmand - Wasmanden - 40 Liter",
-            "price": 26,
-            "keywords":
-            [
-                "mand", "opbergmanden", "opberg mand", "wasmanden", "waszak",
-                "opbergmand", "wasmand", "wasmanden"
-            ]
-        },
-        {
-            "id": "VM-6-0015",
             "marketplace": "Bol.com",
             "product": "Opbergmand Wit",
             "productId": "9300000029386064",

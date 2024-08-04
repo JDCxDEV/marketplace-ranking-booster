@@ -148,19 +148,7 @@
         {
             "id": "VM-10-0013",
             "marketplace": "Bol.com",
-            "product": "KOI Artisan® Santokumes Koksmes",
-            "productId": "9300000176531299",
-            "productTitle": "KOI Artisan® Santokumes - 17,78 cm - Koksmes - Scheermesscherp Lemmet - Japanse Hoog Koolstof Roestvrij Staal - Stijlvol Damascus Patroon - Ergonomisch Ontworpen - Bestand tegen Vlekken & Corrosie",
-            "price": 24,
-            "keywords":
-            [
-                "koksmes", "japanse messen"
-            ]
-        },
-        {
-            "id": "VM-10-0014",
-            "marketplace": "Bol.com",
-            "product": "KOI Artisan® Santokumes Koksmes",
+            "product": "KOI Artisan® Santokumes Koksmes - 12,7cm",
             "productId": "9300000176531128",
             "productTitle": "KOI Artisan® Santokumes - 12,7 cm - Koksmes - Scheermesscherp Lemmet - Japanse Keukenmessen van Hoog Koolstof - Roestvrij Staal - Bestand tegen Vlekken en Corrosie",
             "price": 22,
@@ -170,7 +158,7 @@
             ]
         },
         {
-            "id": "VM-10-0015",
+            "id": "VM-10-0014",
             "marketplace": "Bol.com",
             "product": "KOI Artisan® Magnetische Messenhouder",
             "productId": "9300000176530458",
@@ -182,7 +170,7 @@
             ]
         },
         {
-            "id": "VM-10-0016",
+            "id": "VM-10-0015",
             "marketplace": "Bol.com",
             "product": "KOI Artisan® Multifunctionele Schaar",
             "productId": "9300000176530472",
@@ -194,7 +182,7 @@
             ]
         },
         {
-            "id": "VM-10-0017",
+            "id": "VM-10-0016",
             "marketplace": "Bol.com",
             "product": "KOI Artisan® Knoflookpers",
             "productId": "9300000176531391",
@@ -206,7 +194,7 @@
             ]
         },
         {
-            "id": "VM-10-0018",
+            "id": "VM-10-0017",
             "marketplace": "Bol.com",
             "product": "KOI Artisan® Messenblok",
             "productId": "9300000176531341",
@@ -218,7 +206,7 @@
             ]
         },
         {
-            "id": "VM-10-0019",
+            "id": "VM-10-0018",
             "marketplace": "Bol.com",
             "product": "KOI Artisan® Messenslijper",
             "productId": "9300000176530951",

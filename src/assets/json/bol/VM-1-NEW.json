@@ -1,182 +1,182 @@
 {
-    "products":
-    [
-      {
-        "id": "VM-1-0001",
-        "marketplace": "Bol.com",
-        "product": "Kitchen scale White",
-        "productId": "9300000016708111",
-        "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg – Tarra Functie - Wit",
-        "price": 20,
-        "keywords": 
-        [
-          "weegschaal keuken", "keukenweegschaal", "precisie weegschaal", "weegschaalkeuken", "digitale keukenweegschaal",
-          "keukenweegschalen", "keuken weegschaal", "precisie keukenweegschaal"
-        ]
-      },
-      {
-        "id": "VM-1-0002",
-        "marketplace": "Bol.com",
-        "product": "Kitchen scale USB",
-        "productId": "9300000071469949",
-        "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg – Tarra Functie - Zwart",
-        "price": 23,
-        "keywords": 
-        [
-          "keukenweegschaal", "weegschaal keuken", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen",
-          "precisie keukenweegschaal", "keuken weegschaal", "precisie weegschaal", "keukenweegschaal digitaal", "keukenweegschaal oplaadbaar"
-        ]
-      },
-      {
-        "id": "VM-1-0003",
-        "marketplace": "Bol.com",
-        "product": "Kitchen scale Black",
-        "price": 20,
-        "productId": "9300000016707946",
-        "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr-15kg – Tarra Functie - Zwart",
-        "keywords": [
-          "weegschaal keuken", "keukenweegschaal", "keukenweegschaal digitaal",
-          "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal"
-        ]
-      },
-      {
-        "id": "VM-1-0004",
-        "marketplace": "Bol.com",
-        "product": "Sleepmask",
-        "price": 20,
-        "productId": "9300000048501922",
-        "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
-        "keywords": ["slaapmasker", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmaskers", "oogmasker"]
-      },
-      {
-        "id": "VM-1-0005",
-        "marketplace": "Bol.com",
-        "product": "Reading Lamp",
-        "price": 20,
-        "productId": "9300000048093676",
-        "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar - Voor in Bed - Klemlamp voor Volwassenen en Kinderen - Slaapkamer Lampje",
-        "keywords": 
-        [
-          "leeslampje", "leeslampje voor boek", "leeslampje voor in bed", "led leeslampje", "leeslampje klem",
-          "leeslampje boek", "klemlampen", "leeslampje met klem", "oplaadbaar lampje", "leeslampje voor boek oplaadbaar usb",
-          "leeslampje volwassenen", "leeslampje slaapkamer", "leeslampje kind", "klemlamp"
-        ]
-      },
-      {
-        "id": "VM-1-0006",
-        "marketplace": "Bol.com",
-        "product": "Steakknives",
-        "price": 11,
-        "productId": "9300000018260977",
-        "productTitle": "Lekro Steakmessen – 8-delige Steakmessenset – Vaatwasserbestendig - RVS - Zwart",
-        "keywords": ["steakmessen", "steakmessen vaatwasserbestendig", "steakmessen zwart", "steakmes", "vleesmessen"]
-      },
-      {
-        "id": "VM-1-0007",
-        "marketplace": "Bol.com",
-        "product": "Water bottle RG",
-        "price": 22,
-        "productId": "9300000029090914",
-        "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Rosé Goud",
-        "keywords": 
-        [
-          "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
-          "drinkfles kinderen", "waterfles met tijdmarkeringen", "waterfles 1 liter", "waterfles met fruit filter", "drinkfles kind"
-        ]
-      },
-      {
-        "id": "VM-1-0008",
-        "marketplace": "Bol.com",
-        "product": "Water bottle BB",
-        "price": 24,
-        "productId": "9300000022722144",
-        "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Blauw",
-        "keywords": 
-        [
-          "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter",
-          "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
-          "drinkfles kinderen", "drinkflessen volwassenen"
-        ]
-      },
-      {
-        "id": "VM-1-0009",
-        "marketplace": "Bol.com",
-        "product": "Water bottle RB",
-        "productId": "9300000022722291",
-        "price": 21,
-        "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Roze/Blauw",
-        "keywords": 
-        [
-          "drinkfles", "drinkflessen", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter",
-          "waterfles met fruit filter", "waterflessen volwassenen", "drinkfles kind", "waterflessen met rietje", "waterfles",
-          "water fles", "drinkfles kinderen"
-        ]
-      },
-      {
-        "id": "VM-1-0010",
-        "marketplace": "Bol.com",
-        "product": "Water bottle G",
-        "productId": "9300000045223456",
-        "price": 22,
-        "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Groen",
-        "keywords": 
-        [
-          "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter", 
-          "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
-          "drinkfles kinderen", "drinkflessen volwassenen"
-        ]
-      },
-      {
-        "id": "VM-1-0011",
-        "marketplace": "Bol.com",
-        "product": "Water bottle T",
-        "productId": "9300000045223407",
-        "price": 23,
-        "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Turquoise",
-        "keywords": 
-        [
-          "drinkfles", "waterfles", "waterfles 1 liter", "drinkflessen", "waterflessen", 
-          "drinkfles 1 liter", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "waterflessen kinderen",
-          "waterfles met rietje volwassenen", "drinkfles volwassenen", "drinkfles kinderen", "drinkflessen volwassenen", "drinkfles kind"
-        ]
-      },
-      {
-        "id": "VM-1-0012",
-        "marketplace": "Bol.com",
-        "product": "Water bottle GR",
-        "productId": "9300000022722259",
-        "price": 21,
-        "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Grijs",
-        "keywords": [
-          "waterfles", "drinkfles", "waterfles 1 liter", "drinkflessen",
-          "waterflessen", "waterfles met fruit filter", "drinkfles kind", "drinkfles 1 liter"
-        ]
+  "products":
+  [
+    {
+      "id": "VM-1-0001",
+      "marketplace": "Bol.com",
+      "product": "Kitchen scale White",
+      "productId": "9300000016708111",
+      "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg – Tarra Functie - Wit",
+      "price": 20,
+      "keywords": 
+      [
+        "weegschaal keuken", "keukenweegschaal", "precisie weegschaal", "weegschaalkeuken", "digitale keukenweegschaal",
+        "keukenweegschalen", "keuken weegschaal", "precisie keukenweegschaal"
+      ]
+    },
+    {
+      "id": "VM-1-0002",
+      "marketplace": "Bol.com",
+      "product": "Kitchen scale USB",
+      "productId": "9300000071469949",
+      "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg – Tarra Functie - Zwart",
+      "price": 20,
+      "keywords": 
+      [
+        "keukenweegschaal", "weegschaal keuken", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen",
+        "precisie keukenweegschaal", "keuken weegschaal", "precisie weegschaal", "keukenweegschaal digitaal", "keukenweegschaal oplaadbaar"
+      ]
+    },
+    {
+      "id": "VM-1-0003",
+      "marketplace": "Bol.com",
+      "product": "Kitchen scale Black",
+      "price": 20,
+      "productId": "9300000016707946",
+      "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr-15kg – Tarra Functie - Zwart",
+      "keywords": [
+        "weegschaal keuken", "keukenweegschaal", "keukenweegschaal digitaal",
+        "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal"
+      ]
+    },
+    {
+      "id": "VM-1-0004",
+      "marketplace": "Bol.com",
+      "product": "Sleepmask",
+      "price": 20,
+      "productId": "9300000048501922",
+      "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
+      "keywords": ["slaapmasker", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmaskers", "oogmasker"]
+    },
+    {
+      "id": "VM-1-0005",
+      "marketplace": "Bol.com",
+      "product": "Reading Lamp",
+      "price": 20,
+      "productId": "9300000048093676",
+      "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar - Voor in Bed - Klemlamp voor Volwassenen en Kinderen - Slaapkamer Lampje",
+      "keywords": 
+      [
+        "leeslampje", "leeslampje voor boek", "leeslampje voor in bed", "led leeslampje", "leeslampje klem",
+        "leeslampje boek", "klemlampen", "leeslampje met klem", "oplaadbaar lampje", "leeslampje voor boek oplaadbaar usb",
+        "leeslampje volwassenen", "leeslampje slaapkamer", "leeslampje kind", "klemlamp"
+      ]
+    },
+    {
+      "id": "VM-1-0006",
+      "marketplace": "Bol.com",
+      "product": "Steakknives",
+      "price": 11,
+      "productId": "9300000018260977",
+      "productTitle": "Lekro Steakmessen – 8-delige Steakmessenset – Vaatwasserbestendig - RVS - Zwart",
+      "keywords": ["steakmessen", "steakmessen vaatwasserbestendig", "steakmessen zwart", "steakmes", "vleesmessen"]
+    },
+    {
+      "id": "VM-1-0007",
+      "marketplace": "Bol.com",
+      "product": "Water bottle RG",
+      "price": 22,
+      "productId": "9300000029090914",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Rosé Goud",
+      "keywords": 
+      [
+        "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
+        "drinkfles kinderen", "waterfles met tijdmarkeringen", "waterfles 1 liter", "waterfles met fruit filter", "drinkfles kind"
+      ]
+    },
+    {
+      "id": "VM-1-0008",
+      "marketplace": "Bol.com",
+      "product": "Water bottle BB",
+      "price": 24,
+      "productId": "9300000022722144",
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Blauw",
+      "keywords": 
+      [
+        "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter",
+        "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
+        "drinkfles kinderen", "drinkflessen volwassenen"
+      ]
+    },
+    {
+      "id": "VM-1-0009",
+      "marketplace": "Bol.com",
+      "product": "Water bottle RB",
+      "productId": "9300000022722291",
+      "price": 23,
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Roze/Blauw",
+      "keywords": 
+      [
+        "drinkfles", "drinkflessen", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter",
+        "waterfles met fruit filter", "waterflessen volwassenen", "drinkfles kind", "waterflessen met rietje", "waterfles",
+        "water fles", "drinkfles kinderen"
+      ]
+    },
+    {
+      "id": "VM-1-0010",
+      "marketplace": "Bol.com",
+      "product": "Water bottle G",
+      "productId": "9300000045223456",
+      "price": 22,
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Groen",
+      "keywords": 
+      [
+        "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter", 
+        "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
+        "drinkfles kinderen", "drinkflessen volwassenen"
+      ]
+    },
+    {
+      "id": "VM-1-0011",
+      "marketplace": "Bol.com",
+      "product": "Water bottle T",
+      "productId": "9300000045223407",
+      "price": 23,
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Turquoise",
+      "keywords": 
+      [
+        "drinkfles", "waterfles", "waterfles 1 liter", "drinkflessen", "waterflessen", 
+        "drinkfles 1 liter", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "waterflessen kinderen",
+        "waterfles met rietje volwassenen", "drinkfles volwassenen", "drinkfles kinderen", "drinkflessen volwassenen", "drinkfles kind"
+      ]
+    },
+    {
+      "id": "VM-1-0012",
+      "marketplace": "Bol.com",
+      "product": "Water bottle GR",
+      "productId": "9300000022722259",
+      "price": 21,
+      "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Grijs",
+      "keywords": [
+        "waterfles", "drinkfles", "waterfles 1 liter", "drinkflessen",
+        "waterflessen", "waterfles met fruit filter", "drinkfles kind", "drinkfles 1 liter"
+      ]
 
-      },
-      {
-        "id": "VM-1-0013",
-        "marketplace": "Bol.com",
-        "product": "Earplugs",
-        "productId": "9300000082254510",
-        "price": 20,
-        "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart",
-        "keywords": 
-        [
-          "oordoppen", "oordopjes slapen", "oordoppen slapen", "slaapoordoppen", "earplugs", 
-          "slaap oordopjes", "sleep plugs", "geluidsdempende oordopjes", "oordoppen snurken", "oordoppen slapen siliconen"
-        ]
-      },
-      {
-        "id": "VM-1-0014",
-        "marketplace": "Bol.com",
-        "product": "Vegetable Cutter",
-        "productId": "9300000032558171",
-        "price": 29,
-        "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
-        "keywords": [
-          "mandolines", "mandoline groentesnijder", "uiensnijder",
-          "mandoline", "mandoline keukensnijder", "groentesnijder"
-        ]
-      }
-    ]
-  }
+    },
+    {
+      "id": "VM-1-0013",
+      "marketplace": "Bol.com",
+      "product": "Earplugs",
+      "productId": "9300000082254510",
+      "price": 20,
+      "productTitle": "Somnifiq Slaap Oordoppen – Oordopjes Slapen – Anti-Snurk – Earplugs - Gehoorbescherming – Party Plugs - Sleep Plugs - Hoge Geluidsdemping (35dB) - 2 Maten (M/L) - BPA vrije Siliconen - Zwart",
+      "keywords": 
+      [
+        "oordoppen", "oordopjes slapen", "oordoppen slapen", "slaapoordoppen", "earplugs", 
+        "slaap oordopjes", "sleep plugs", "geluidsdempende oordopjes", "oordoppen snurken", "oordoppen slapen siliconen"
+      ]
+    },
+    {
+      "id": "VM-1-0014",
+      "marketplace": "Bol.com",
+      "product": "Vegetable Cutter",
+      "productId": "9300000032558171",
+      "price": 29,
+      "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
+      "keywords": [
+        "mandolines", "mandoline groentesnijder", "uiensnijder",
+        "mandoline", "mandoline keukensnijder", "groentesnijder"
+      ]
+    }
+  ]
+}
