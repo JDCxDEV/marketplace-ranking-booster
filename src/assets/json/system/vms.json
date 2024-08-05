@@ -52,7 +52,7 @@
       "id": 7,
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-3",
-      "name": "Virtual Machine 7",
+      "name": "Virtual Machine 19",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "marketplace": "Blokker.nl",
       "key": "VM-BLOKKER-3",
-      "name": "Virtual Machine 9",
+      "name": "Virtual Machine 14",
       "steps": "per-page",
       "proxy": "ip-royal-nl"
     },
@@ -140,7 +140,7 @@
       "id": 18,
       "marketplace": "Blokker.nl",
       "key": "VM-BLOKKER-1",
-      "name": "Virtual Machine 18",
+      "name": "Virtual Machine 15",
       "steps": "per-page",
       "proxy": "ip-royal-be"
     },
@@ -148,7 +148,7 @@
       "id": 19,
       "marketplace": "Blokker.nl",
       "key": "VM-BLOKKER-2",
-      "name": "Virtual Machine 19",
+      "name": "Virtual Machine 16",
       "steps": "per-page",
       "proxy": "ip-royal-be"
     },
@@ -180,7 +180,7 @@
       "id": 23,
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-1",
-      "name": "Virtual Machine 1",
+      "name": "Virtual Machine 17",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
     },
@@ -188,7 +188,7 @@
       "id": 24,
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-2",
-      "name": "Virtual Machine 2",
+      "name": "Virtual Machine 18",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
     },
