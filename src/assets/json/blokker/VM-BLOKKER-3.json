@@ -29,18 +29,18 @@
       ],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-        "https://www.blokker.nl/search?q=gaming",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=49&pmax=50",
+        "https://www.blokker.nl/search/lideka?q=gaming&pmin=0%2C00",
         "https://www.blokker.nl/search/lideka?q=led&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=49&pmax=50",
         "https://www.blokker.nl/search/lideka?q=led-strips&pmin=49&pmax=50",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
         "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=49&pmax=50",
         "https://www.blokker.nl/search?q=lichtstrip",
         "https://www.blokker.nl/search/lideka?q=led%20light&pmin=49&pmax=50",
         "https://www.blokker.nl/search/lideka?q=led%20licht&pmin=49&pmax=50",
-        "https://www.blokker.nl/search?q=smart%20led%20strip"
+        "https://www.blokker.nl/search/lideka?q=smart%20led%20strip&pmin=49&pmax=50"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -72,7 +72,6 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
-        "https://www.blokker.nl/search?q=led-strips",
         "https://www.blokker.nl/search?q=led%20strip%2010%20meter"
       ],
       "isRunning" : false,
@@ -178,10 +177,10 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 10 meter", "led verlichting strips"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=led%20strip",
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
-        "https://www.blokker.nl/search?q=led%20verlichting%20strips"
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=59&pmax=60",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=59&pmax=60",
+        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=59&pmax=60"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -195,11 +194,11 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led light strip"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=led%20strip",
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
-        "https://www.blokker.nl/search?q=led%20verlichting%20strips",
-        "https://www.blokker.nl/search?q=led%20light%20strip"
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
+        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=99&pmax=100",
+        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=99&pmax=100"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -246,7 +245,7 @@
       "keywords": ["led strip", "rgb led strip", "gaming lights", "led strip 3 meter", "led strip tv"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=27&pmax=28",
         "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=27&pmax=28",
         "https://www.blokker.nl/search?q=led%20strip%20tv"
       ],

@@ -133,8 +133,8 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e27%20led%20lamp",
-        "https://www.blokker.nl/search?q=e27"
+        "https://www.blokker.nl/search/lideka?q=e27%20led%20lamp&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=e27&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -168,7 +168,7 @@
         "https://www.blokker.nl/search?q=led%20strip",
         "https://www.blokker.nl/search?q=rgb%20led%20strip",
         "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
-        "https://www.blokker.nl/search?q=led%20verlichting%20strips"
+        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
