@@ -96,7 +96,8 @@
         "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter",
         "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
         "drinkfles kinderen", "drinkflessen volwassenen"
-      ]
+      ],
+      "isOutOfStock": true
     },
     {
       "id": "VM-1-0009",
