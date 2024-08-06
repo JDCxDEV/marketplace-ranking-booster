@@ -13,6 +13,10 @@
                 {
                     "name": "brotmesser",
                     "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=brotmesser"
+                },
+                {
+                    "name": "kochmesser",
+                    "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
                 }
             ],
             "isRunning" : false 
