@@ -126,7 +126,7 @@
       "id": "VM-1-0006",
       "marketplace": "Kaufland",
       "product": "Reading Lamp",
-      "productTitle": "SomSomnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
+      "productTitle": "Somnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
       "productId": "470719876",
       "keywords": ["leselampe", "leselampe buch klemme"],
       "keyword":
@@ -350,7 +350,7 @@
         },
         {
           "name": "trinkflaschen",
-          "link": "https://www.kaufland.de/s/?21=6908328&price=2100-2200&search_value=trinkflaschen"
+          "link": "https://www.kaufland.de/s/?search_value=trinkflaschen"
         },
         {
           "name": "1l wasserflasche",
@@ -379,10 +379,6 @@
         {
           "name": "wasserflasche",
           "link": "https://www.kaufland.de/s/?search_value=wasserflasche"
-        },
-        {
-          "name": "trinkflaschen",
-          "link": "https://www.kaufland.de/s/?21=6908328&price=2100-2200&search_value=trinkflaschen"
         },
         {
           "name": "1l wasserflasche",
