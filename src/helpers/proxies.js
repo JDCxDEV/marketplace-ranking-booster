@@ -43,8 +43,8 @@ const getProxiesCredentials = async () => {
             id: 'ip-royal-be',
             name: 'ip royal be',
             host: await getRandomProxy('ip-royal-be'),
-            username: '14a196fbcf0c4',
-            password: '101d7b8992'
+            username: 'booster',
+            password: '2f64d18523'
         },
         { 
             id: 'smart-proxy-de',
@@ -59,8 +59,8 @@ const getProxiesCredentials = async () => {
             id: 'ip-royal-nl',
             name: 'ip royal nl',
             host: await getRandomProxy('ip-royal-nl'),
-            username: '14aad7c0e11df',
-            password: '093042f8bf'
+            username: 'booster',
+            password: 'd987ada4b0'
         },
         {
             id: 'smart-proxy-nl-2',
