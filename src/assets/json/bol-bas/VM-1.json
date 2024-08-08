@@ -20,7 +20,7 @@
       "product": "Kitchen scale USB",
       "productId": "9300000071469949",
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg – Tarra Functie - Zwart",
-      "price": 20,
+      "price": 19,
       "keywords": 
       [
         "keukenweegschaal", "weegschaal keuken", "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen",
@@ -34,7 +34,8 @@
       "price": 20,
       "productId": "9300000016707946",
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr-15kg – Tarra Functie - Zwart",
-      "keywords": [
+      "keywords":
+      [
         "weegschaal keuken", "keukenweegschaal", "keukenweegschaal digitaal",
         "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal"
       ]
@@ -96,8 +97,7 @@
         "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter",
         "water fles", "waterfles met fruit filter", "waterflessen volwassenen", "waterflessen met rietje", "drinkfles volwassenen",
         "drinkfles kinderen", "drinkflessen volwassenen"
-      ],
-      "isOutOfStock": true
+      ]
     },
     {
       "id": "VM-1-0009",
@@ -148,7 +148,8 @@
       "productId": "9300000022722259",
       "price": 21,
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Grijs",
-      "keywords": [
+      "keywords": 
+      [
         "waterfles", "drinkfles", "waterfles 1 liter", "drinkflessen",
         "waterflessen", "waterfles met fruit filter", "drinkfles kind", "drinkfles 1 liter"
       ]
@@ -174,7 +175,8 @@
       "productId": "9300000032558171",
       "price": 29,
       "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
-      "keywords": [
+      "keywords": 
+      [
         "mandolines", "mandoline groentesnijder", "uiensnijder",
         "mandoline", "mandoline keukensnijder", "groentesnijder"
       ]

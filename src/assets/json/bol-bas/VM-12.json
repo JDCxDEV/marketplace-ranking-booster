@@ -71,7 +71,8 @@
             "keywords":
             [
                 "horlogeband", "horlogebandje", "horlogebandjes"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-12-0007",
@@ -131,7 +132,8 @@
             "keywords":
             [
                 "fitbit bandje", "fitbit bandje charge 3", "fitbit charge 4 bandje", "fitbit bandje charge 4", "fitbit charge 3 bandje"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-12-0012",
@@ -179,7 +181,8 @@
             "keywords":
             [
                 "fitbit bandje", "fitbit bandje charge 5", "fitbit charge 5 bandje", "fitbit charge 6 bandje"
-            ]
+            ],
+            "isOutOfStock": true
         }
     ]
 }
