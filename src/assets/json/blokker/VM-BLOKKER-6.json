@@ -18,7 +18,8 @@
             "https://www.blokker.nl/search/sophie-nordinn?q=kookschort%20mannen&pmin=0%2C00"
           ],
           "isRunning" : false,
-          "isMostWantedList": true
+          "isMostWantedList": true,
+          "isOutOfStock": true
         },
         {
             "id": "VM-6-0002",
@@ -33,8 +34,9 @@
               "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort&pmin=0%2C00",
               "https://www.blokker.nl/search/sophie-nordinn?q=keukenschorten&pmin=0%2C00",
               "https://www.blokker.nl/search/sophie-nordinn?q=kookschort&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort%20vrouw&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=kookschort%20mannen&pmin=0%2C00"
+              "https://www.blokker.nl/search?q=keukenschort%20vrouw",
+              "https://www.blokker.nl/search?q=kookschort%20mannen"
+
             ],
             "isRunning" : false,
             "isMostWantedList": true
@@ -52,8 +54,8 @@
               "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort&pmin=0%2C00",
               "https://www.blokker.nl/search/sophie-nordinn?q=keukenschorten&pmin=0%2C00",
               "https://www.blokker.nl/search/sophie-nordinn?q=kookschort&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort%20vrouw&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=kookschort%20mannen&pmin=0%2C00"
+              "https://www.blokker.nl/search?q=keukenschort%20vrouw",
+              "https://www.blokker.nl/search?q=kookschort%20mannen"
             ],
             "isRunning" : false,
             "isMostWantedList": true
@@ -68,13 +70,13 @@
             "keywordLink": 
             [
               "https://www.blokker.nl/search/sophie-nordinn?q=schort&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort%20dames&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=keukenschorten&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=kookschort&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort%20vrouw&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=kookschort%20mannen&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=kookschort%20dames&pmin=0%2C00"
+              "https://www.blokker.nl/search?q=keukenschort%20dames",
+              "https://www.blokker.nl/search?q=keukenschort",
+              "https://www.blokker.nl/search?q=keukenschorten",
+              "https://www.blokker.nl/search?q=kookschort",
+              "https://www.blokker.nl/search?q=keukenschort%20vrouw",
+              "https://www.blokker.nl/search?q=kookschort%20mannen",
+              "https://www.blokker.nl/search?q=kookschort%20dames"
             ],
             "isRunning" : false,
             "isMostWantedList": true
@@ -120,7 +122,8 @@
               "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
             ],
             "isRunning" : false,
-            "isMostWantedList": true
+            "isMostWantedList": true,
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0008",
@@ -134,7 +137,8 @@
               "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
             ],
             "isRunning" : false,
-            "isMostWantedList": true
+            "isMostWantedList": true,
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0009",
@@ -149,7 +153,8 @@
               "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
             ],
             "isRunning" : false,
-            "isMostWantedList": true
+            "isMostWantedList": true,
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0010",
@@ -192,7 +197,8 @@
               "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
             ],
             "isRunning" : false,
-            "isMostWantedList": true
+            "isMostWantedList": true,
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0013",
@@ -231,8 +237,9 @@
             "keywords": ["opbergmanden", "mand", "plantenmand", "plantenmand binnen"],
             "keywordLink": 
             [
-              "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00",
-              "https://www.blokker.nl/search/sophie-nordinn?q=plantenmand&pmin=0%2C00"
+              "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+              "https://www.blokker.nl/search?q=mand",
+              "https://www.blokker.nl/search?q=plantenmand"
             ],
             "isRunning" : false,
             "isMostWantedList": true
