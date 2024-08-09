@@ -254,7 +254,8 @@
             "https://www.blokker.nl/search?q=mand&pmin=26&pmax=27"
           ],
           "isRunning" : false,
-          "isMostWantedList": true
+          "isMostWantedList": true,
+          "isOutOfStock": true
       }
   ]
 }
