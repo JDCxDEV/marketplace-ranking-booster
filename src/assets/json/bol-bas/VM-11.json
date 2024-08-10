@@ -60,6 +60,66 @@
             [
                 "beveiligingscamera binnen", "beveiligingscamera's"
             ]
-        }
+        },
+        {
+            "id": "VM-2-0012",
+            "marketplace": "Bol.com",
+            "product": "Camera BagPack",
+            "productId": "9300000155114539",
+            "productTitle": "Tedroka® professionele camerarugzak&reistas- waterdichte universele cameratas -laptoptas- anti-diefstal waterafstotend",
+            "price": 104,
+            "keywords":
+            [
+                "cameratassen", "cameratas", "cameratassen", "cameratas spiegelreflexcamera"
+            ]
+        },
+        {
+            "id": "VM-2-0013",
+            "marketplace": "Bol.com",
+            "product": "Drone C-Fly-Mini",
+            "productId": "9300000156268265",
+            "productTitle": "Tedroka C-Fly Drone - met GPS 4K-camera - Vliegtijd van 52 minuten - 4K UHD-video - inclusief 2 batterijen, draagbare tas en SD kaart",
+            "price": 359,
+            "keywords":
+            [
+                "drones", "drone", "drone met camera"
+            ]
+        },
+        {
+            "id": "VM-2-0014",
+            "marketplace": "Bol.com",
+            "product": "Drone C-Fly-Mini With Powerbank",
+            "productId": "9300000160202760",
+            "productTitle": "Tedroka C-Fly Drone - GPS 4K-camera - Vliegtijd 52 minuten - 4K UHD-video - inclusief 2 batterijen, powerbank, draagbare tas en SD kaart",
+            "price": 399,
+            "keywords":
+            [
+                "drones", "drone", "drone met camera"
+            ]
+        },
+        {
+            "id": "VM-2-0015",
+            "marketplace": "Bol.com",
+            "product": "Drone with GPS 4K Camera",
+            "productId": "9300000168665744",
+            "productTitle": "Tedroka C-Fly Drone met GPS 4K-camera - vliegtijd 52 minuten - 4K UHD-video - inclusief 2 batterijen, Tedroka® cameratas, draagbare tas & SD kaart",
+            "price": 439,
+            "keywords":
+            [
+                "drone met camera", "drone", "drones"
+            ]
+        },
+        {
+            "id": "VM-2-0016",
+            "marketplace": "Bol.com",
+            "product": "Drone with GPS 4k",
+            "productId": "9300000180111304",
+            "productTitle": "Tedroka® 1 INCH drone - met GPS 4K 1 inch -camera - Vliegtijd van 105 minuten - 4K UHD-video - inclusief 3 batterijen, ingebouwde obstakelvermijding draagbare tas en 64 GB SD kaart",
+            "price": 749,
+            "keywords":
+            [
+                "drone met camera", "drone", "drones"
+            ]
+        },
     ]
 }
