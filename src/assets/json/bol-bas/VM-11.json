@@ -43,7 +43,7 @@
             "product": "Lakoo BabyGuard Royal Heritage",
             "productId": "9300000175672284",
             "productTitle": "Lakoo® BabyGuard Pro 6 - Babyfoon met Camera en app - Babyfoon met monitor - 1080P HD-resolutie - White Noise - wifi - Uitbreid baar - nachtzicht - Gratis app - Terugspreekfunctie - Tempratuurweergave - Meest verkochte",
-            "price": 179,
+            "price": 176,
             "keywords":
             [
                 "babyfoon met camera", "baby monitor", "babyfoon met camera en app"
@@ -62,7 +62,7 @@
             ]
         },
         {
-            "id": "VM-2-0012",
+            "id": "VM-11-0006",
             "marketplace": "Bol.com",
             "product": "Camera BagPack",
             "productId": "9300000155114539",
@@ -74,7 +74,7 @@
             ]
         },
         {
-            "id": "VM-2-0013",
+            "id": "VM-11-0007",
             "marketplace": "Bol.com",
             "product": "Drone C-Fly-Mini",
             "productId": "9300000156268265",
@@ -86,7 +86,7 @@
             ]
         },
         {
-            "id": "VM-2-0014",
+            "id": "VM-11-0008",
             "marketplace": "Bol.com",
             "product": "Drone C-Fly-Mini With Powerbank",
             "productId": "9300000160202760",
@@ -98,7 +98,7 @@
             ]
         },
         {
-            "id": "VM-2-0015",
+            "id": "VM-11-0009",
             "marketplace": "Bol.com",
             "product": "Drone with GPS 4K Camera",
             "productId": "9300000168665744",
@@ -110,7 +110,7 @@
             ]
         },
         {
-            "id": "VM-2-0016",
+            "id": "VM-11-0010",
             "marketplace": "Bol.com",
             "product": "Drone with GPS 4k",
             "productId": "9300000180111304",
@@ -121,5 +121,17 @@
                 "drone met camera", "drone", "drones"
             ]
         },
+        {
+            "id": "VM-11-0011",
+            "marketplace": "Bol.com",
+            "product": "Drone K911Max",
+            "productId": "9300000119994059",
+            "productTitle": "Tedroka® K911 Max- Drone - 4K camera - Obstakelvermijding - Inclusief GPS - 800 m bereik -Inclusief draagbare tas, twee batterijen",
+            "price": 269,
+            "keywords":
+            [
+                "drone met camera", "drone", "drones"
+            ]
+        }
     ]
 }
