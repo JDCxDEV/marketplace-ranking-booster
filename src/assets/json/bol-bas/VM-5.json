@@ -61,7 +61,7 @@
             "price": 23,
             "keywords":
             [
-                "mand", "opbergmand", "opberg mand", "wasmanden", "waszak", "opbergmanden"
+                "mand", "opbergmand", "opberg mand", "opbergmanden"
             ]
         },
         {
@@ -82,7 +82,7 @@
             "product": "Opbergmand - Bruin Wit",
             "productId": "9200000125600697",
             "productTitle": "Bestseller #1 Mand van Sophie Nordinn® - Opbergmand Goteborg (Bruin/wit Groot) - Wasmand - Wasmanden",
-            "price": 34,
+            "price": 37,
             "keywords":
             [
                 "opbergmand", "opberg mand", "opbergmanden"
@@ -97,7 +97,7 @@
             "price": 21,
             "keywords":
             [
-                "wasmand", "opbergmand", "mand", "opberg mand", "opbergmanden"
+                "wasmand", "opbergmand", "opberg mand", "opbergmanden"
             ]
         },
         {
@@ -145,7 +145,7 @@
             "price": 26,
             "keywords":
             [
-                "wasmand", "opbergmand", "mand", "opberg mand", "opbergmanden"
+                "wasmand", "opbergmand", "opberg mand", "opbergmanden"
             ]
         },
         {
@@ -169,7 +169,7 @@
             "price": 22,
             "keywords":
             [
-                "mand", "opbergmanden", "opberg mand", "opbergmand"
+                "opbergmanden", "opberg mand", "opbergmand"
             ]
         },
         {
@@ -181,7 +181,7 @@
             "price": 24,
             "keywords":
             [
-                "opbergmanden", "opberg mand", "wasmanden", "waszak", "opbergmand",
+                "opbergmanden", "opberg mand", "wasmanden", "opbergmand",
                 "wasmand"
             ]
         }
