@@ -46,7 +46,7 @@
             "price": 9,
             "keywords":
             [
-                "horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"
+                "horlogebandje 20mm"
             ]
         },
         {
@@ -96,7 +96,8 @@
             "keywords":
             [
                 "horlogeband", "horlogebandje", "horlogebandjes", "horlogebandje 20mm"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-12-0009",
@@ -120,7 +121,8 @@
             "keywords":
             [
                 "fitbit bandje", "fitbit charge 2 bandje", "fitbit bandje charge 2"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-12-0011",
@@ -132,8 +134,7 @@
             "keywords":
             [
                 "fitbit bandje", "fitbit bandje charge 3", "fitbit charge 4 bandje", "fitbit bandje charge 4", "fitbit charge 3 bandje"
-            ],
-            "isOutOfStock": true
+            ]
         },
         {
             "id": "VM-12-0012",
