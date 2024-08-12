@@ -23,7 +23,7 @@
             "price": 9,
             "keywords":
             [
-                "fitbit bandje", "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit charge 3 bandje", "fitbit charge 4 bandje"
+                "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit charge 3 bandje", "fitbit charge 4 bandje"
             ]
         },
         {
@@ -119,7 +119,7 @@
             "price": 11,
             "keywords":
             [
-                "fitbit bandje", "fitbit luxe bandje", "fitbit luxe special edition", "fitbit luxe"
+                "fitbit bandje", "fitbit luxe bandje", "fitbit luxe"
             ]
         },
         {
@@ -168,7 +168,8 @@
             "keywords":
             [
                 "fitbit bandje"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-13-0015",
