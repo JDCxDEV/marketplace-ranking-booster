@@ -23,8 +23,7 @@
             "price": 29,
             "keywords":
             [
-                "apple watch bandje", "apple watch bandje 45 mm", "apple watch bandje 49 mm", "apple watch bandje 44 mm", "bandje apple watch 44 mm",
-                "bandje apple watch", "apple watch bandje 42 mm"
+                "apple watch bandje", "apple watch bandje 45 mm", "bandje apple watch"
             ]
         },
         {
@@ -151,7 +150,7 @@
             "price": 16,
             "keywords":
             [
-                "bandje samsung galaxy watch 3", "galaxy watch bandje", "samsung galaxy watch bandje"
+                "galaxy watch bandje"
             ]
         },
         {
@@ -163,7 +162,7 @@
             "price": 16,
             "keywords":
             [
-                "samsung galaxy watch bandje", "galaxy watch bandje", "bandje samsung galaxy watch 3"
+                "samsung galaxy watch bandje", "galaxy watch bandje"
             ]
         },
         {
@@ -176,7 +175,8 @@
             "keywords":
             [
                 "samsung galaxy watch bandje", "galaxy watch bandje"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-15-0015",
