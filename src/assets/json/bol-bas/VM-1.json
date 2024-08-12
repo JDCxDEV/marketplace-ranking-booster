@@ -36,8 +36,8 @@
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr-15kg – Tarra Functie - Zwart",
       "keywords":
       [
-        "weegschaal keuken", "keukenweegschaal", "keukenweegschaal digitaal",
-        "weegschaalkeuken", "digitale keukenweegschaal", "keukenweegschalen", "keuken weegschaal"
+        "weegschaal keuken", "keukenweegschaal", "keukenweegschaal digitaal", "weegschaalkeuken", "digitale keukenweegschaal",
+        "keukenweegschalen", "keuken weegschaal"
       ]
     },
     {
@@ -47,7 +47,11 @@
       "price": 20,
       "productId": "9300000048501922",
       "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
-      "keywords": ["slaapmasker", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker", "slaapmaskers", "oogmasker"]
+      "keywords": 
+      [
+        "slaapmasker", "slaapmasker vrouwen", "slaapmasker mannen", "slaapmasker 3d", "zijden slaapmasker",
+        "slaapmaskers", "oogmasker"
+      ]
     },
     {
       "id": "VM-1-0005",
@@ -70,7 +74,10 @@
       "price": 11,
       "productId": "9300000018260977",
       "productTitle": "Lekro Steakmessen – 8-delige Steakmessenset – Vaatwasserbestendig - RVS - Zwart",
-      "keywords": ["steakmessen", "steakmessen vaatwasserbestendig", "steakmessen zwart", "steakmes", "vleesmessen"]
+      "keywords":
+      [
+        "steakmessen", "steakmessen vaatwasserbestendig", "steakmessen zwart", "steakmes", "vleesmessen"
+      ]
     },
     {
       "id": "VM-1-0007",
@@ -81,7 +88,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Rosé Goud",
       "keywords": 
       [
-        "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen", "waterfles met tijdmarkeringen", "waterfles 1 liter"
+        "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
+        "waterfles met tijdmarkeringen"
       ]
     },
     {
@@ -106,8 +114,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Roze/Blauw",
       "keywords": 
       [
-        "drinkfles", "drinkflessen", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter", "waterflessen volwassenen", "waterfles",
-        "water fles"
+        "drinkfles", "drinkflessen", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter",
+        "waterflessen volwassenen", "waterfles", "water fles"
       ]
     },
     {
@@ -120,8 +128,7 @@
       "keywords": 
       [
         "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter", 
-        "water fles", "waterflessen volwassenen", "drinkfles volwassenen",
-        "drinkflessen volwassenen"
+        "water fles", "waterflessen volwassenen", "drinkfles volwassenen", "drinkflessen volwassenen"
       ]
     },
     {
@@ -134,8 +141,7 @@
       "keywords": 
       [
         "drinkfles", "waterfles", "waterfles 1 liter", "drinkflessen", "waterflessen", 
-        "drinkfles 1 liter", "waterflessen volwassenen", "waterflessen kinderen",
-        "waterfles met rietje volwassenen", "drinkfles volwassenen", "drinkflessen volwassenen"
+        "drinkfles 1 liter", "waterflessen volwassenen", "drinkfles volwassenen", "drinkflessen volwassenen"
       ]
     },
     {
@@ -147,8 +153,8 @@
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Grijs",
       "keywords": 
       [
-        "waterfles", "drinkfles", "waterfles 1 liter", "drinkflessen",
-        "waterflessen", "drinkfles 1 liter"
+        "waterfles", "drinkfles", "waterfles 1 liter", "drinkflessen", "waterflessen",
+        "drinkfles 1 liter"
       ]
 
     },
@@ -174,8 +180,8 @@
       "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
       "keywords": 
       [
-        "mandolines", "mandoline groentesnijder", "uiensnijder",
-        "mandoline", "mandoline keukensnijder", "groentesnijder"
+        "mandolines", "mandoline groentesnijder", "uiensnijder", "mandoline", "mandoline keukensnijder",
+        "groentesnijder"
       ]
     }
   ]
