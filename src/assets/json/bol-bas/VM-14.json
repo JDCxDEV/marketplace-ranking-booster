@@ -47,8 +47,7 @@
             "price": 15,
             "keywords":
             [
-                "apple watch bandje", "bandje apple watch", "apple watch bandje 38 mm", "apple watch bandje 40 mm", "apple watch bandje 41 mm",
-                "bandje apple watch 40mm"
+                "apple watch bandje", "bandje apple watch", "apple watch bandje 38 mm", "apple watch bandje 40 mm"
             ]
         },
         {
@@ -73,8 +72,7 @@
             "price": 29,
             "keywords":
             [
-                "apple watch bandje", "apple watch bandje 45 mm", "bandje apple watch", "apple watch bandje 42 mm", "apple watch bandje 44 mm",
-                "bandje apple watch 44 mm", "apple watch bandje 49 mm"
+                "apple watch bandje", "apple watch bandje 45 mm", "bandje apple watch"
             ]
         },
         {
@@ -101,7 +99,8 @@
             [
                 "apple watch bandje", "apple watch bandje 40 mm", "bandje apple watch", "bandje apple watch 40mm", "apple watch bandje 38 mm",
                 "apple watch bandje 41 mm"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-14-0009",
@@ -164,8 +163,7 @@
             "price": 18,
             "keywords":
             [
-                "apple watch bandje", "apple watch bandje 40 mm", "apple watch bandje 41 mm", "apple watch bandje 38 mm", "bandje apple watch",
-                "fitbit charge 4 bandje"
+                "apple watch bandje", "apple watch bandje 40 mm", "apple watch bandje 41 mm", "apple watch bandje 38 mm", "bandje apple watch"
             ]
         },
         {
