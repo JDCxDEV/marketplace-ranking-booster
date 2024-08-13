@@ -25,8 +25,7 @@
             [
                 "lendekussen", "lendekussen auto", "rugkussen", "rugkussen onderrug", "rugkussen bed",
                 "rug kussen", "rugkussen bank", "rugkussen ergonomisch", "rugkussen onderrug voor bank", "rugkussen bureaustoel",
-                "rug kussen onderrug", "rugkussen auto", "lendekussen rugsteun", "lendesteun", "rugsteun bed",
-                "rugsteun auto"
+                "rug kussen onderrug", "rugkussen auto", "lendekussen rugsteun", "rugsteun bed", "rugsteun auto"
             ]
         },
         {
@@ -51,8 +50,8 @@
             "price": 48,
             "keywords":
             [
-                "traagschuim kussen", "memory foam kussen", "hoofdkussen", "hoofdkussens", "hoofdkussen nekklachten",
-                "kussen", "pillow", "hoofdkussen nekpijn", "hoofdkussen zijslaper", "hoofdkussen traagschuim"
+                "traagschuim kussen", "memory foam kussen", "hoofdkussen", "hoofdkussens", "kussen",
+                "pillow", "hoofdkussen nekpijn", "hoofdkussen zijslaper", "hoofdkussen traagschuim"
             ]
         },
         {
@@ -141,7 +140,7 @@
             "product": "Security Camera White",
             "productId": "9300000163662072",
             "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Wit",
-            "price": 30,
+            "price": 24,
             "keywords":
             [
                 "beveiligingscamera's", "beveiligingscamera", "beveiligingscamera binnen", "hondencamera", "bewakingscamera voor binnen",
@@ -167,7 +166,7 @@
             "product": "BabyFoon White",
             "productId": "9300000163662072",
             "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Wit",
-            "price": 30,
+            "price": 24,
             "keywords":
             [
                 "babyfoon met camera", "baby monitor", "babyfoon", "baby camera", "babyfoon met camera en app",
@@ -180,7 +179,7 @@
             "product": "BorstKolf",
             "productId": "9300000021841114",
             "productTitle": "NurtureGoods Dual Efficient Borstkolf - Smart 3.0 - Vernieuwd 2024 model - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu - Inclusief 2x180 ml Babyfles, Kolfdagboek en Speen - Breast Pump Electrisch Dubbel",
-            "price": 89,
+            "price": 79,
             "keywords":
             [
                 "borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "borstkolf dubbel", "draadloze borstkolf",
@@ -197,6 +196,18 @@
             "keywords":
             [
                 "moestuin", "verticale tuin", "verticale tuin met watersysteem", "verticale moestuin"
+            ]
+        },
+        {
+            "id": "VM-4-0016",
+            "marketplace": "Bol.com",
+            "product": "Vertical Tuin",
+            "productId": "9200000132275156",
+            "productTitle": "GreenGrounds™ Verticale Tuin met Watersysteem - 18 Ruime Vakken - 50x100 cm - Moestuin - Hangende Plantenzak",
+            "price": 34,
+            "keywords":
+            [
+                "verticale tuin", "verticale tuin met watersysteem", "verticale moestuin", "verticale moestuin"
             ]
         }
     ]
