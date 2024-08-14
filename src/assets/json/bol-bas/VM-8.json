@@ -4,42 +4,6 @@
         {
             "id": "VM-8-0001",
             "marketplace": "Bol.com",
-            "product": "LED strip RGB 30m",
-            "productId": "9300000123487430",
-            "productTitle": "Lideka - LED Strip 30 (2x15) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 660 LED Lights - Zelfklevend Led Licht",
-            "price": 94,
-            "keywords":
-            [
-                "led strip 30 meter"
-            ]
-        },
-        {
-            "id": "VM-8-0002",
-            "marketplace": "Bol.com",
-            "product": "LED strip RGB 40m",
-            "productId": "9300000076780791",
-            "productTitle": "Lideka - LED Strip 40 (2x20) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 720 LED Lights - Zelfklevend Led Licht",
-            "price": 83,
-            "keywords":
-            [
-                "led strip 40 meter"
-            ]
-        },
-        {
-            "id": "VM-8-0003",
-            "marketplace": "Bol.com",
-            "product": "LED strip RGB 50m",
-            "productId": "9300000076781734",
-            "productTitle": "Lideka - LED Strip 50 (20+20+10) Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Led Light Strip Verlichting - 1020 LED Lights - Zelfklevend Led Licht",
-            "price": 134,
-            "keywords":
-            [
-                "led strip 50 meter"
-            ]
-        },
-        {
-            "id": "VM-8-0004",
-            "marketplace": "Bol.com",
             "product": "LED strip RGBW 5m",
             "productId": "9300000129847288",
             "productTitle": "Lideka - LED Strip 5 Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 300 LED Lights - 10mm Breed - 2.0A - Elke 15CM Knippen - Zelfklevend Led Licht",
@@ -52,7 +16,7 @@
             ]
         },
         {
-            "id": "VM-8-0005",
+            "id": "VM-8-0002",
             "marketplace": "Bol.com",
             "product": "LED strip RGBW 10m",
             "productId": "9300000129847287",
@@ -65,7 +29,7 @@
             ]
         },
         {
-            "id": "VM-8-0006",
+            "id": "VM-8-0003",
             "marketplace": "Bol.com",
             "product": "LED strip RGBW 15m",
             "productId": "9300000131510406",
@@ -79,7 +43,7 @@
             ]
         },
         {
-            "id": "VM-8-0007",
+            "id": "VM-8-0004",
             "marketplace": "Bol.com",
             "product": "LED strip RGBW 20m",
             "productId": "9300000130919985",
@@ -93,31 +57,7 @@
             ]
         },
         {
-            "id": "VM-8-0008",
-            "marketplace": "Bol.com",
-            "product": "LED strip RGBW 40m",
-            "productId": "9300000132267093",
-            "productTitle": "Lideka - LED Strip 40 (4x10) Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 720 LED Lights - Zelfklevend Led Licht",
-            "price": 167,
-            "keywords":
-            [
-                "led strip 40 meter"
-            ]
-        },
-        {
-            "id": "VM-8-0009",
-            "marketplace": "Bol.com",
-            "product": "LED strip RGBW 50m",
-            "productId": "9300000132267091",
-            "productTitle": "Lideka - LED Strip 50 (5x10) Meter RGB + Wit - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 1500 LED Lights - Zelfklevend Led Licht",
-            "price": 244,   
-            "keywords":
-            [
-                "led strip 50 meter"
-            ]
-        },
-        {
-            "id": "VM-8-0010",
+            "id": "VM-8-0005",
             "marketplace": "Bol.com",
             "product": "LED strip RGBIC 5m",
             "productId": "9300000032504691",
@@ -131,7 +71,7 @@
             ]
         },
         {
-            "id": "VM-8-0011",
+            "id": "VM-8-0006",
             "marketplace": "Bol.com",
             "product": "LED strip RGBIC 10m",
             "productId": "9300000032504732",
@@ -145,7 +85,7 @@
             ]
         },
         {
-            "id": "VM-8-0012",
+            "id": "VM-8-0007",
             "marketplace": "Bol.com",
             "product": "LED strip RGBIC 15m",
             "productId": "9300000127935975",
@@ -159,7 +99,7 @@
             ]
         },
         {
-            "id": "VM-8-0013",
+            "id": "VM-8-0008",
             "marketplace": "Bol.com",
             "product": "LED strip RGBIC 20m",
             "productId": "9300000127935976",
@@ -173,28 +113,96 @@
             ]
         },
         {
-            "id": "VM-8-0014",
+            "id": "VM-8-0009",
             "marketplace": "Bol.com",
-            "product": "LED strip RGBIC 30m",
-            "productId": "9300000127935978",
-            "productTitle": "Lideka - LED Strip 30 (6x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 750 LED Lights - Zelfklevend Led Licht",
-            "price": 147,
+            "product": "LED strip TV 2m",
+            "productId": "9300000032517844",
+            "productTitle": "Lideka - TV USB LED Strip 2 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 60 LED Lights - 10mm Breed - Zelfklevend Led Licht",
+            "price": 22,
             "keywords":
             [
-                "led strip 30 meter"
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+                "gaming", "rgb led strip", "gaming lights", "led strip usb", "led strip tv",
+                "led strip voor tv", "ambilight strip", "led strip 2 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0010",
+            "marketplace": "Bol.com",
+            "product": "LED strip TV 3m",
+            "productId": "9300000032517889",
+            "productTitle": "Lideka - TV USB LED Strip 3 Meter RGB - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 90 LED Lights - 10mm Breed - Zelfklevend Led Licht - Ook Voor TV",
+            "price": 20,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+                "gaming", "rgb led strip", "gaming lights", "led strip usb", "led strip tv",
+                "led strip voor tv", "led strip 3 meter"
+            ]
+        },
+        {
+            "id": "VM-8-0011",
+            "marketplace": "Bol.com",
+            "product": "LED strip NEON RGB 3m",
+            "productId": "9300000137732718",
+            "productTitle": "Lideka - LED Strip 3 Meter NEON RGB - met Afstandsbediening - IP68 - Gaming Lichtstrip met App - LED-strips - Verlichting - Neon Lamp - Zelfklevend Led Licht - LED Lights voor Buiten",
+            "price": 46,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
+                "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon led strip buiten"
+            ]
+        },
+        {
+            "id": "VM-8-0012",
+            "marketplace": "Bol.com",
+            "product": "LED strip NEON RGBIC 3m",
+            "productId": "9300000137732719",
+            "productTitle": "Lideka® - RGBIC Neon LED Strip 3 Meter - IP68 Voor Buiten - Met App En Afstandsbediening - Smart LED-strip - Volledig Dimbaar - Compatible met Google Home, Amazon Alexa En Siri",
+            "price": 54,
+            "keywords":
+            [
+                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led strip 3 meter",
+                "neon lamp", "neon led strip buiten", "neon verlichting"
+            ]
+        },
+        {
+            "id": "VM-8-0013",
+            "marketplace": "Bol.com",
+            "product": "Solar Powerbank Single",
+            "productId": "9300000004675166",
+            "productTitle": "Lideka - Solar Powerbank Charger - 4x USB - USB C - Snel & Draadloos Opladen﻿ - 30.000 mAh - Op Zonne-energie - Outdoor - Geschikt voor Iphone, Samsung, Apple",
+            "price": 87,
+            "keywords":
+            [
+                "powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank", "powerbank samsung",
+                "powerbank apple", "powerbank solar"
+            ]
+        },
+        {
+            "id": "VM-8-0014",
+            "marketplace": "Bol.com",
+            "product": "Solar Powerbank Combi",
+            "productId": "9300000097064082",
+            "productTitle": "Lideka - Solar Powerbank + Solar Charger - 4x USB - USB C - Snel & Draadloos Opladen﻿ - 30.000 mAh - Op Zonne-energie - Outdoor - Geschikt voor Iphone, Samsung, Apple",
+            "price": 128,
+            "keywords":
+            [
+                "powerbank solar", "powerbank", "powerbank zonneenergie", "solar powerbank", "powerbank iphone",
+                "powerbank samsung", "powerbank apple"
             ]
         },
         {
             "id": "VM-8-0015",
             "marketplace": "Bol.com",
-            "product": "LED strip RGBIC 40m",
-            "productId": "9300000127935977",
-            "productTitle": "Lideka - LED Strip 40 (8x5m) Meter RGB + IC - met Afstandsbediening - Gaming Lichtstrip met App - LED-strips - Verlichting - 1200 LED Lights - Zelfklevend Led Licht",
-            "price": 189,
+            "product": "Solar Charger",
+            "productId": "9300000053397557",
+            "productTitle": "Lideka - Solar Charger Panel - Werkt Met Powerbank - Solar Panel Op Zonne-energie - Outdoor - 2400 mAh 5V Per Uur - 346.5 g - Geschikt voor Iphone Samsung Apple - Draagbaar en Opvouwbaar Zonnepaneel",
+            "price": 58,
             "keywords":
             [
-                "led strip 40 meter"
+                "solar charger", "solar panel", "solar oplader", "draagbaar zonnepaneel", "opvouwbaar zonnepaneel"
             ]
-        }
+        }      
     ]
 }
