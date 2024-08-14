@@ -52,7 +52,7 @@
       "id": 7,
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-3",
-      "name": "Virtual Machine 19",
+      "name": "Virtual Machine 19 (T/TH/SAT) 3rd 4th Sunday",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
     },
@@ -68,7 +68,7 @@
       "id": 9,
       "marketplace": "Blokker.nl",
       "key": "VM-BLOKKER-3",
-      "name": "Virtual Machine 14",
+      "name": "Virtual Machine 14 (M/W/F) 1st 2nd Sunday",
       "steps": "per-page",
       "proxy": "ip-royal-nl"
     },
@@ -140,7 +140,7 @@
       "id": 18,
       "marketplace": "Blokker.nl",
       "key": "VM-BLOKKER-1",
-      "name": "Virtual Machine 15",
+      "name": "Virtual Machine 15 (M/W/F) 1st 2nd Sunday",
       "steps": "per-page",
       "proxy": "ip-royal-be"
     },
@@ -148,7 +148,7 @@
       "id": 19,
       "marketplace": "Blokker.nl",
       "key": "VM-BLOKKER-2",
-      "name": "Virtual Machine 16",
+      "name": "Virtual Machine 16 (M/W/F) 1st 2nd Sunday",
       "steps": "per-page",
       "proxy": "ip-royal-be"
     },
@@ -180,7 +180,7 @@
       "id": 23,
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-1",
-      "name": "Virtual Machine 17",
+      "name": "Virtual Machine 17 (T/TH/SAT) 3rd 4th Sunday",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
     },
@@ -188,7 +188,7 @@
       "id": 24,
       "marketplace": "Kaufland.com",
       "key": "VM-KAUFLAND-2",
-      "name": "Virtual Machine 18",
+      "name": "Virtual Machine 18 (T/TH/SAT) 3rd 4th Sunday",
       "steps": "per-page",
       "proxy": "smart-proxy-de"
     },
@@ -232,6 +232,54 @@
       "steps": "per-page",
       "proxy": "smart-proxy-nl-with-finger-print",
       "test": true
+    },
+    {
+      "id": 30,
+      "marketplace": "Kaufland.com",
+      "key": "VM-KAUFLAND-4",
+      "name": "Virtual Machine 17 (M/W/F) 1st 2nd Sunday",
+      "steps": "per-page",
+      "proxy": "smart-proxy-de"
+    },
+    {
+      "id": 31,
+      "marketplace": "Kaufland.com",
+      "key": "VM-KAUFLAND-5",
+      "name": "Virtual Machine 18 (M/W/F) 1st 2nd Sunday",
+      "steps": "per-page",
+      "proxy": "smart-proxy-de"
+    },
+    {
+      "id": 32,
+      "marketplace": "Kaufland.com",
+      "key": "VM-KAUFLAND-6",
+      "name": "Virtual Machine 19 (M/W/F) 1st 2nd Sunday",
+      "steps": "per-page",
+      "proxy": "smart-proxy-de"
+    },
+    {
+      "id": 33,
+      "marketplace": "Blokker.nl",
+      "key": "VM-BLOKKER-4",
+      "name": "Virtual Machine 14 (T/TH/S) 3rd 4th Sunday",
+      "steps": "per-page",
+      "proxy": "ip-royal-be"
+    },
+    {
+      "id": 34,
+      "marketplace": "Blokker.nl",
+      "key": "VM-BLOKKER-5",
+      "name": "Virtual Machine 15 (T/TH/S) 3rd 4th Sunday",
+      "steps": "per-page",
+      "proxy": "ip-royal-be"
+    },
+    {
+      "id": 35,
+      "marketplace": "Blokker.nl",
+      "key": "VM-BLOKKER-6",
+      "name": "Virtual Machine 16 (T/TH/S) 3rd 4th Sunday",
+      "steps": "per-page",
+      "proxy": "ip-royal-be"
     }
   ]
 }
