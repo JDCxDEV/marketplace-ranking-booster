@@ -184,6 +184,18 @@
                 "fitbit bandje", "fitbit bandje charge 5", "fitbit charge 5 bandje", "fitbit charge 6 bandje"
             ],
             "isOutOfStock": true
+        },
+        {
+            "id": "VM-12-0016",
+            "marketplace": "Bol.com",
+            "product": "7061111181050",
+            "productId": "9200000098292404",
+            "productTitle": "SmartphoneClip® Sport bandje Oranje Large geschikt voor Garmin Fenix 5/6 en Forerunner 935/945",
+            "price": 11,
+            "keywords":
+            [
+                "garmin bandje"
+            ]
         }
     ]
 }
