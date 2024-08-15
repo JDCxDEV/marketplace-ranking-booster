@@ -43,7 +43,7 @@
             "product": "Lakoo BabyGuard Royal Heritage",
             "productId": "9300000175672284",
             "productTitle": "Lakoo® BabyGuard Pro 6 - Babyfoon met Camera en app - Babyfoon met monitor - 1080P HD-resolutie - White Noise - wifi - Uitbreid baar - nachtzicht - Gratis app - Terugspreekfunctie - Tempratuurweergave - Meest verkochte",
-            "price": 176,
+            "price": 166,
             "keywords":
             [
                 "babyfoon met camera", "baby monitor", "babyfoon met camera en app"
@@ -67,7 +67,7 @@
             "product": "Camera BagPack",
             "productId": "9300000155114539",
             "productTitle": "Tedroka® professionele camerarugzak&reistas- waterdichte universele cameratas -laptoptas- anti-diefstal waterafstotend",
-            "price": 104,
+            "price": 99,
             "keywords":
             [
                 "cameratassen", "cameratas", "cameratas spiegelreflexcamera"
@@ -131,7 +131,8 @@
             "keywords":
             [
                 "drone met camera", "drone", "drones"
-            ]
+            ],
+            "isOutOfStock": true
         }
     ]
 }
