@@ -86,7 +86,8 @@
             [
                 "apple watch bandje", "apple watch bandje 40 mm", "bandje apple watch", "bandje apple watch 40mm", "apple watch bandje 41 mm",
                 "apple watch bandje 38 mm"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-14-0008",
