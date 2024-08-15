@@ -24,7 +24,8 @@
             "keywords":
             [
                 "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit charge 3 bandje", "fitbit charge 4 bandje"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-13-0003",
@@ -144,7 +145,8 @@
             "keywords":
             [
                 "fitbit bandje", "fitbit charge 3 bandje", "fitbit charge 4 bandje", "fitbit bandje charge 3", "fitbit bandje charge 4"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-13-0013",
