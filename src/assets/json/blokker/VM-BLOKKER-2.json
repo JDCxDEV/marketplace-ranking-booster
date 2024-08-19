@@ -105,10 +105,10 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led strip 5 meter"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=led%20strip",
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
-        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=0%2C00"
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=34&pmax=35",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=34&pmax=35",
+        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=34&pmax=35",
+        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=34&pmax=35"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -207,18 +207,18 @@
       ],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=49&pmax=50",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
         "https://www.blokker.nl/search/lideka?q=gaming&pmin=0%2C00",
         "https://www.blokker.nl/search/lideka?q=led&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=49&pmax=50",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
         "https://www.blokker.nl/search/lideka?q=led-strips&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
         "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=49&pmax=50",
+        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=0%2C00",
         "https://www.blokker.nl/search?q=lichtstrip",
         "https://www.blokker.nl/search/lideka?q=led%20light&pmin=49&pmax=50",
         "https://www.blokker.nl/search/lideka?q=led%20licht&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=smart%20led%20strip&pmin=49&pmax=50"
+        "https://www.blokker.nl/search?q=smart%20led%20strip"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -232,10 +232,10 @@
       "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=led-strips&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%2010%20meter&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=led-strips",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search?q=led%20strip%2010%20meter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
