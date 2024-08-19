@@ -131,8 +131,7 @@
             "keywords":
             [
                 "placemats", "placemat", "placemat kunststof"
-            ],
-            "isOutOfStock": true
+            ]
         },
         {
             "id": "VM-6-0012",
@@ -156,7 +155,8 @@
             "keywords":
             [
                 "placemats", "placemat", "placemat kunststof"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0014",
@@ -176,7 +176,7 @@
             "product": "Opbergmand - Wit stiksel",
             "productId": "9300000029386042",
             "productTitle": "Bestseller #1 Mand van Sophie Nordinn® - Opbergmand Goteborg (Wit stiksel klein) - Wasmand - Wasmanden - 22 L",
-            "price": 31,
+            "price": 29,
             "keywords":
             [
                 "wasmand", "opbergmand", "opbergmanden", "opberg mand"
