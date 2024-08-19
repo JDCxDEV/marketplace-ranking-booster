@@ -119,7 +119,8 @@
       "keywords": ["steakmessen", "steakmessen vaatwasserbestendig"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search/lekro?q=steakmessen%20vaatwasserbestendig&pmin=0%2C00"
+        "https://www.blokker.nl/steakmessen",
+        "https://www.blokker.nl/search?q=steakmessen%20vaatwasserbestendig"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -163,7 +164,7 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -191,7 +192,7 @@
       "keywords": ["drinkfles", "waterfles", "drinkflessen"],
       "keywordLink":
       [
-        "https://www.blokker.nl/drinkflessen"
+        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
