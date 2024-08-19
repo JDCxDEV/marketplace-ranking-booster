@@ -177,7 +177,8 @@
             [
                 "powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank", "powerbank samsung",
                 "powerbank apple", "powerbank solar"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-8-0014",
