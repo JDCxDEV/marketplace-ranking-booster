@@ -7,13 +7,13 @@
       "product": "Earphone 1",
       "productId": "4562320",
       "productTitle": "QuchiQ Draadloze Bluetooth-oordopjes Sportruisonderdrukkende microfoon In-ear Compatibel met iPhone/Samsung",
-      "keywords": ["bluetooth oordopjes", "draadloze oordopjes", "oordopjes Draadloos", "sport oordopjes", "oortjes"],
+      "keywords": ["bluetooth oordopjes", "draadloze oordopjes", "oordopjes draadloos", "sport oordopjes", "oortjes"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=bluetooth%20oordopjes",
         "https://www.blokker.nl/search?q=draadloze%20oordopjes",
-        "https://www.blokker.nl/search?q=oordopjes%20Draadloos",
-        "https://www.blokker.nl/search/quchiq?q=oortjes&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=oordopjes%20draadloos",
+        "https://www.blokker.nl/search?q=oortjes"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -49,7 +49,7 @@
         "https://www.blokker.nl/search?q=oordopjes%20draadloos",
         "https://www.blokker.nl/search?q=oortjes%20draadloos",
         "https://www.blokker.nl/search?q=sport%20oordopjes",
-        "https://www.blokker.nl/search/quchiq?q=oortjes&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=oortjes"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -175,8 +175,7 @@
       "keywords": ["beveiligingscamera", "beveiligingscamera's", "huisdiercamera"],
       "keywordLink": ["https://www.blokker.nl/search/bs-producten?q=beveiligingscamera%27s&pmin=0%2C00"],
       "isRunning" : false,
-      "isMostWantedList": true,
-      "isOutOfStock": true
+      "isMostWantedList": true
     },
     {
       "id": "VM-4-0012",
@@ -207,10 +206,10 @@
         "keywords": ["schort", "keukenschort dames", "keukenschort", "keukenschorten", "keukenshort", "kookschort", "keukenschort vrouw", "kookschort mannen", "kookschort dames"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/sophie-nordinn?q=schort&pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort&pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=keukenschorten&pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=kookschort&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=schort",
+          "https://www.blokker.nl/search?q=keukenschort",
+          "https://www.blokker.nl/search?q=keukenschorten",
+          "https://www.blokker.nl/search?q=kookschort",
           "https://www.blokker.nl/search?q=keukenschort%20vrouw",
           "https://www.blokker.nl/search?q=kookschort%20mannen"
 
@@ -227,10 +226,10 @@
         "keywords": ["schort", "keukenschort dames", "keukenschort", "keukenschorten", "keukenshort", "kookschort", "keukenschort vrouw", "kookschort mannen", "kookschort dames"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/sophie-nordinn?q=schort&pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=keukenschort&pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=keukenschorten&pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=kookschort&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=schort",
+          "https://www.blokker.nl/search?q=keukenschort",
+          "https://www.blokker.nl/search?q=keukenschorten",
+          "https://www.blokker.nl/search?q=kookschort",
           "https://www.blokker.nl/search?q=keukenschort%20vrouw",
           "https://www.blokker.nl/search?q=kookschort%20mannen"
         ],
@@ -246,7 +245,7 @@
         "keywords": ["schort", "keukenschort dames", "keukenschort", "keukenschorten", "keukenshort", "kookschort", "keukenschort vrouw", "kookschort mannen", "kookschort dames"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/sophie-nordinn?q=schort&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=schort",
           "https://www.blokker.nl/search?q=keukenschort%20dames",
           "https://www.blokker.nl/search?q=keukenschort",
           "https://www.blokker.nl/search?q=keukenschorten",
@@ -267,7 +266,7 @@
         "keywords": ["kledinghangers", "kledinghanger", "kleding hangers"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/kledinghangers/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/kledinghangers"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -281,8 +280,8 @@
         "keywords": ["wasmand", "opbergmand", "waszak", "wasmanden", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
+          "https://www.blokker.nl/opbergmanden",
+          "https://www.blokker.nl/search?q=mand"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -311,7 +310,7 @@
         "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=26%2C00&pmax=27%2C00"
         ],
         "isRunning" : false,
         "isMostWantedList": true,
@@ -342,7 +341,7 @@
         "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
         "keywordLink":  
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/opbergmanden"
         ],
         "isRunning" : false,
         "isMostWantedList": true
