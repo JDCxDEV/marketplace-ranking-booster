@@ -10,7 +10,7 @@
         "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/opbergmanden",
           "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
         ],
         "isRunning" : false,
@@ -68,7 +68,7 @@
         "keywords": ["opbergmanden", "mand", "plantenmand", "plantenmand binnen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/opbergmanden",
           "https://www.blokker.nl/search?q=mand",
           "https://www.blokker.nl/search?q=plantenmand"
         ],
@@ -84,7 +84,8 @@
       "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=mand"
+        "https://www.blokker.nl/search?q=mand",
+        "https://www.blokker.nl/opbergmanden"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -98,7 +99,7 @@
         "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/opbergmanden",
           "https://www.blokker.nl/search?q=mand"
         ],
         "isRunning" : false,
@@ -129,7 +130,7 @@
         "keywordLink": 
         [
           "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=wasmand%20zwart&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=wasmand%20zwart",
           "https://www.blokker.nl/search/sophie-nordinn?q=opbergmand%20zwart&pmin=0%2C00"
         ],
         "isRunning" : false,
@@ -144,7 +145,7 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -158,8 +159,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
+          "https://www.blokker.nl/placemats",
+          "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -173,8 +174,8 @@
         "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=placemat%20rond&pmin=0%2C00",
+          "https://www.blokker.nl/placemats",
+          "https://www.blokker.nl/search?q=placemat%20rond&pmin=20&pmax=21",
           "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
         ],
         "isRunning" : false,
@@ -189,7 +190,7 @@
         "keywords": ["placemats", "placemat", "placemat rond", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -203,8 +204,8 @@
         "keywords": ["placemat kunststof", "placemat", "placemats", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/sophie-nordinn?q=placemat%20kunststof&pmin=0%2C00",
-          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search?q=placemat%20kunststof",
+          "https://www.blokker.nl/placemats",
           "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
         ],
         "isRunning" : false,
@@ -220,7 +221,7 @@
         "keywordLink": 
         [
           "https://www.blokker.nl/search/sophie-nordinn?q=placemat%20kunststof&pmin=0%2C00",
-          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/placemats"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -234,8 +235,8 @@
         "keywords": ["placemats", "placemat", "placemat kunststof", "placemats rond"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats/sophie-nordinn?pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=placemat%20kunststof&pmin=0%2C00",
+          "https://www.blokker.nl/placemats",
+          "https://www.blokker.nl/search?q=placemat%20kunststof",
           "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00"
         ],
         "isRunning" : false,
