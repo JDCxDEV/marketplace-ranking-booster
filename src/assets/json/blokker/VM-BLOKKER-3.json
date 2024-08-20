@@ -10,10 +10,10 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 10 meter", "led verlichting strips"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=59&pmax=60",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=59&pmax=60",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=59&pmax=60"
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search?q=led%20verlichting%20strips"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -27,11 +27,11 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led light strip"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=99&pmax=100",
-        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=99&pmax=100"
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search?q=led%20verlichting%20strips",
+        "https://www.blokker.nl/search?q=led%20light%20strip"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -45,9 +45,9 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 20 meter"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=led%20strip",
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening"
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=99&pmax=100",
+        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -78,8 +78,8 @@
       "keywords": ["led strip", "rgb led strip", "gaming lights", "led strip 3 meter", "led strip tv"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=27&pmax=28",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=27&pmax=28",
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
         "https://www.blokker.nl/search?q=led%20strip%20tv"
       ],
       "isRunning" : false,
@@ -107,7 +107,7 @@
       [
         "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=44&pmax=45",
         "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=44&pmax=45",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%203%20meter&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=led%20strip%203%20meter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -136,7 +136,7 @@
       "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
       "keywordLink":
       [
-        "https://www.blokker.nl/powerbanks/lideka?pmin=0%2C00",
+        "https://www.blokker.nl/powerbanks",
         "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
         "https://www.blokker.nl/search?q=solar%20powerbank"
       ],
@@ -152,7 +152,7 @@
       "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
       "keywordLink":
       [
-        "https://www.blokker.nl/powerbanks/lideka?pmin=0%2C00",
+        "https://www.blokker.nl/powerbanks",
         "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
         "https://www.blokker.nl/search?q=solar%20powerbank"
       ],
@@ -169,7 +169,7 @@
       "keywordLink":
     [
       "https://www.blokker.nl/search?q=solar%20panel",
-      "https://www.blokker.nl/search/lideka?q=solar%20charger&pmin=0%2C00"
+      "https://www.blokker.nl/search?q=solar%20charger"
     ],
     "isRunning" : false,
     "isMostWantedList": true
@@ -212,6 +212,7 @@
         "https://www.blokker.nl/search?q=rugkussen%20onderrug",
         "https://www.blokker.nl/search?q=rugkussen%20auto",
         "https://www.blokker.nl/search?q=rugsteun%20auto",
+        "https://www.blokker.nl/search?q=rugkussen%20bank",
         "https://www.blokker.nl/search?q=rugkussen%20ergonomisch",
         "https://www.blokker.nl/search?q=rugkussen%20onderrug%20voor%20bank",
         "https://www.blokker.nl/search?q=rugkussen%20bureaustoel"
@@ -234,7 +235,7 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/search/comfy-center?q=kussen&pmin=0%2C00",
-        "https://www.blokker.nl/hoofdkussens/comfy-center?pmin=0%2C00",
+        "https://www.blokker.nl/hoofdkussens",
         "https://www.blokker.nl/search?q=hoofdkussen%20traagschuim",
         "https://www.blokker.nl/search?q=traagschuim%20kussen",
         "https://www.blokker.nl/search?q=hoofdkussen%20nekpijn",
