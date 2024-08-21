@@ -26,7 +26,7 @@
       "keywords": ["koksmes", "broodmes", "japanse messen"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/broodmessen/koi-artisan?pmin=0%2C00"
+        "https://www.blokker.nl/broodmessen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -40,7 +40,7 @@
         "keywords": ["koksmes", "broodmes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/broodmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/broodmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -54,7 +54,8 @@
         "keywords": ["koksmes", "damascus mes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen",
+          ""
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -68,7 +69,7 @@
         "keywords": ["koksmes", "damascus mes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -97,7 +98,7 @@
         "keywords": ["koksmes", "damascus mes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -111,7 +112,7 @@
         "keywords": ["koksmes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -140,7 +141,7 @@
         "keywords": ["koksmes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -154,7 +155,7 @@
         "keywords": ["koksmes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -168,7 +169,7 @@
         "keywords": ["koksmes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -182,7 +183,7 @@
         "keywords": ["koksmes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -196,7 +197,7 @@
         "keywords": ["koksmes", "japanse messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/koksmessen/koi-artisan?pmin=44%2C00&pmax=45%2C00"
+          "https://www.blokker.nl/koksmessen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -210,7 +211,7 @@
         "keywords": ["koksmes", "japanse messen", "messenset", "messensets", "messenset japans"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/messensets/koi-artisan?pmin=79%2C00&pmax=80%2C00"
+          "https://www.blokker.nl/messensets"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -224,9 +225,9 @@
         "keywords": ["messenmagneet", "magnetische messenhouder", "messenhouder"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/koi-artisan?q=messenmagneet&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=messenmagneet",
           "https://www.blokker.nl/search?q=magnetische%20messenhouder",
-          "https://www.blokker.nl/search/koi-artisan?q=messenhouder&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=messenhouder"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -269,7 +270,7 @@
         "keywords": ["knoflookpers", "knoflookpersen", "knoflook pers"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/knoflookpersen/koi-artisan?pmin=0%2C00"
+          "https://www.blokker.nl/knoflookpersen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -283,8 +284,8 @@
         "keywords": ["messenblok", "messenblok zonder messen", "messenblokken met messen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search/koi-artisan?q=messenblok&pmin=0%2C00",
-          "https://www.blokker.nl/search/koi-artisan?q=messenblokken%20met%20messen&pmin=0%2C00"
+          "https://www.blokker.nl/search?q=messenblok",
+          "https://www.blokker.nl/search?q=messenblokken%20met%20messen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -311,14 +312,14 @@
       "product": "BorstKolf",
       "productId": "4582785",
       "productTitle": "NurtureGoods Smart 3.0 - Draadloze Dubbele Elektrische Borstkolf - Oplaadbare Accu",
-      "keywords": ["borstkolf", "elektrische borstkolf", "borstkolf electrisch dubbel", "kolf", "borstkolf dubbel", "draadloze borstkolf", "breast pump"],
+      "keywords": ["elektrische borstkolf", "borstkolf", "draadloze borstkolf", "kolf", "borstkolf electrisch dubbel", "breast pump", "borstkolf dubbel"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search?q=borstkolf",
         "https://www.blokker.nl/search?q=elektrische%20borstkolf",
+        "https://www.blokker.nl/search?q=borstkolf",
+        "https://www.blokker.nl/search?q=draadloze%20borstkolf",
         "https://www.blokker.nl/search?q=borstkolf%20electrisch%20dubbel",
-        "https://www.blokker.nl/search?q=borstkolf%20dubbel",
-        "https://www.blokker.nl/search?q=draadloze%20borstkolf"
+        "https://www.blokker.nl/search?q=borstkolf%20dubbel"
       ],
       "isRunning" : false,
       "isMostWantedList": true

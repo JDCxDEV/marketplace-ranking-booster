@@ -310,11 +310,10 @@
         "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=26%2C00&pmax=27%2C00"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
         ],
         "isRunning" : false,
-        "isMostWantedList": true,
-        "isOutOfStock": true
+        "isMostWantedList": true
     },
     {
         "id": "VM-4-0020",
@@ -345,6 +344,20 @@
         ],
         "isRunning" : false,
         "isMostWantedList": true
+    },
+    {
+      "id": "VM-4-0022",
+      "marketplace": "Blokker.nl",
+      "product": "Opbergmand - Wit stiksel",
+      "productId": "4581548",
+      "productTitle": "Sophie Nordinn Opbergmand Goteborg (Wit stiksel klein) - Wasmand - Wasmanden - 22 L",
+      "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
+      "keywordLink":  
+      [
+        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
     }
   ]
 }

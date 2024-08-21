@@ -380,6 +380,20 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true
+    },
+    {
+      "id": "VM-3-0022",
+      "marketplace": "Blokker.nl",
+      "product": "Opbergmand - Wit",
+      "productId": "4581440",
+      "productTitle": "Sophie Nordinn Opbergmand Goteborg (Wit klein) - Wasmand - Wasmanden - Waszak - 22 L",
+      "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
     }
   ]
 }

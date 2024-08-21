@@ -298,6 +298,20 @@
       ],
       "isRunning" : false,
       "isMostWantedList": true
+    },
+    {
+      "id": "VM-1-0022",
+      "marketplace": "Blokker.nl",
+      "product": "Opbergmand - Grijs",
+      "productId": "4581436",
+      "productTitle": "Sophie Nordinn Opbergmand Goteborg (Grijs klein) - Wasmand - Wasmanden - 22 L",
+      "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+      ],
+      "isRunning" : false,
+      "isMostWantedList": true
     }
   ]
 }
