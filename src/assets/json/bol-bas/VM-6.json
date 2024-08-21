@@ -168,7 +168,8 @@
             "keywords":
             [
                 "opbergmanden", "wasmanden", "opbergmand", "wasmand", "opbergmand wit"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0015",
