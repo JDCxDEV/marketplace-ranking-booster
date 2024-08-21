@@ -7,7 +7,7 @@
       "product": "Kitchen scale White",
       "productId": "9300000016708111",
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg – Tarra Functie - Wit",
-      "price": 22,
+      "price": 23,
       "keywords": 
       [
         "weegschaal keuken", "keukenweegschaal", "precisie weegschaal", "weegschaalkeuken", "digitale keukenweegschaal",
@@ -65,7 +65,8 @@
         "leeslampje", "leeslampje voor boek", "leeslampje voor in bed", "led leeslampje", "leeslampje klem",
         "leeslampje boek", "klemlampen", "leeslampje met klem", "oplaadbaar lampje", "leeslampje voor boek oplaadbaar usb",
         "leeslampje volwassenen", "leeslampje slaapkamer", "leeslampje kind", "klemlamp"
-      ]
+      ],
+      "isOutOfStock": true
     },
     {
       "id": "VM-1-0006",
@@ -176,7 +177,7 @@
       "marketplace": "Bol.com",
       "product": "Vegetable Cutter",
       "productId": "9300000032558171",
-      "price": 34,
+      "price": 36,
       "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
       "keywords": 
       [
