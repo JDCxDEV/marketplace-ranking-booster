@@ -95,7 +95,8 @@
             "keywords":
             [
                 "koksmes", "japanse messen"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-10-0009",
@@ -143,7 +144,8 @@
             "keywords":
             [
                 "koksmes", "japanse messen", "messenset", "messensets"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-10-0013",
@@ -163,7 +165,7 @@
             "product": "KOI Artisan® Magnetische Messenhouder",
             "productId": "9300000176530458",
             "productTitle": "KOI Artisan® Magnetische Messenhouder voor Muur - 40 cm - Wandmontage Horizontaal Messenrek/Bar - Messen Magneetstrip - Multifunctioneel Gebruik",
-            "price": 26,
+            "price": 29,
             "keywords":
             [
                 "messenmagneet", "magnetische messenhouder", "messenhouder"
@@ -175,7 +177,7 @@
             "product": "KOI Artisan® Multifunctionele Schaar",
             "productId": "9300000176530472",
             "productTitle": "KOI Artisan® Multifunctionele Roestvrijstalen Schaar - Premium Keukenschaar - Vaatwasserbestendig - Flesopener - Potopener - Notenkraker",
-            "price": 30,
+            "price": 26,
             "keywords":
             [
                 "keukenschaar"
