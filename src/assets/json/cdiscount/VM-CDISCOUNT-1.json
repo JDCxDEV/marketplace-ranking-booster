@@ -1,0 +1,365 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-1-0001",
+            "marketplace": "cdiscount.com",
+            "product": "Kitchen scale White",
+            "productId": "52897",
+            "productTitle": "Balance de cuisine numérique Lekro, 15KG, écran LCD, fonction TARE, balance de cuisine pour la cuisson et la pâtisserie, étanche",
+            "price": 24,
+            "keywords":
+            [
+                "balance de cuisine rechargeable", "balance de précision"
+            ]
+        },
+        {
+            "id": "VM-1-0002",
+            "marketplace": "cdiscount.com",
+            "product": "Kitchen scale USB",
+            "productId": "11736",
+            "productTitle": "Balance de cuisine numérique Lekro, 15 kg, écran LCD, fonction TARE, balance de cuisine pour la pâtisserie et la cuisine",
+            "price": 26,
+            "keywords":
+            [
+                "balance cuisine", "balance precision"
+            ]
+        },
+        {
+            "id": "VM-1-0003",
+            "marketplace": "cdiscount.com",
+            "product": "Kitchen scale Black",
+            "productId": "52537",
+            "productTitle": "Balance de cuisine numérique Lekro, 15KG, écran LCD, fonction TARE, balance de cuisine pour la cuisson et la pâtisserie, étanche",
+            "price": 24,
+            "keywords":
+            [
+                "balance cuisine", "balance precision"
+            ]
+        },
+        {
+            "id": "VM-1-0004",
+            "marketplace": "cdiscount.com",
+            "product": "Reading Lamp",
+            "productId": "76879",
+            "productTitle": "Somnifiq Lampe de lecture LED avec pince - 3 modes de température de couleur - luminosité variable - col flexible à 360 °C",
+            "price": 27,
+            "keywords":
+            [
+                "lampe bureau", "lampe de bureau led"
+            ]
+        },
+        {
+            "id": "VM-1-0005",
+            "marketplace": "cdiscount.com",
+            "product": "Steakknives",
+            "productId": "53657",
+            "productTitle": "Lekro Steakmesser Set de couteaux à steak - Lavable au lave-vaisselle - Set de couteaux de cuisine - Set de couteaux de chef",
+            "price": 19,
+            "keywords":
+            [
+                "couteau cuisine", "couteau"
+            ]
+        },
+        {
+            "id": "VM-1-0006",
+            "marketplace": "cdiscount.com",
+            "product": "Water bottle RG",
+            "productId": "53538",
+            "productTitle": "Gourde Lekro 1L, Bouteille d'eau pour l'université, le travail, le fitness, le vélo, l'extérieur, légère, résistante aux chocs",
+            "price": 31,
+            "keywords":
+            [
+                "gourde 1l", "gourde enfant"
+            ]
+        },
+        {
+            "id": "VM-1-0007",
+            "marketplace": "cdiscount.com",
+            "product": "Water bottle BB",
+            "productId": "53461",
+            "productTitle": "Bouteille Lekro 1L, bouteille d'eau pour l'université, le travail, le fitness, le vélo, l'extérieur, légère, résistante aux chocs",
+            "price": 31,
+            "keywords":
+            [
+                "gourde 1l", "gourde enfant"
+            ]
+        },
+        {
+            "id": "VM-1-0008",
+            "marketplace": "cdiscount.com",
+            "product": "Water bottle RB",
+            "productId": "78648",
+            "productTitle": "Lekro gourde 1L, gourde pour l'université, le travail, le fitness, le vélo, l'extérieur, légère, antichoc, soft touch + tamis",
+            "price": 196,
+            "keywords":
+            [
+                "gourde", "gourde 1l"
+            ]
+        },
+        {
+            "id": "VM-1-0009",
+            "marketplace": "cdiscount.com",
+            "product": "Water bottle G",
+            "productId": "55468",
+            "productTitle": "Gourde Lekro 1L, Bouteille d'eau pour l'université, le travail, le fitness, le vélo, l'extérieur, légère, résistante aux chocs",
+            "price": 31,
+            "keywords":
+            [
+                "gourde enfant", "gourde air up"
+            ]
+        },
+        {
+            "id": "VM-1-0010",
+            "marketplace": "cdiscount.com",
+            "product": "Water bottle T",
+            "productId": "53061",
+            "productTitle": "Gourde Lekro 1L, Bouteille d'eau pour l'université, le travail, le fitness, le vélo, l'extérieur, légère, résistante aux chocs",
+            "price": 31,
+            "keywords":
+            [
+                "gourde", "gourde 1l"
+            ]
+        },
+        {
+            "id": "VM-1-0011",
+            "marketplace": "cdiscount.com",
+            "product": "Water bottle GR",
+            "productId": "76520",
+            "productTitle": "Gourde Lekro 1L, Bouteille d'eau pour l'université, le travail, le fitness, le vélo, l'extérieur, légère, résistante aux chocs",
+            "price": 31,
+            "keywords":
+            [
+                "gourde air up", "gourde 1l"
+            ]
+        },
+        {
+            "id": "VM-1-0012",
+            "marketplace": "cdiscount.com",
+            "product": "Earplugs",
+            "productId": "96796",
+            "productTitle": "Bouchons d'oreilles Somnifiq pour dormir -30dB Protection contre le bruit, confort de port, bouchons d'oreilles lavables en",
+            "price": 22,
+            "keywords":
+            [
+                "boules quies", "bouchon oreille moto"
+            ]
+        },
+        {
+            "id": "VM-1-0013",
+            "marketplace": "cdiscount.com",
+            "product": "Vegetable Cutter",
+            "productId": "23238",
+            "productTitle": "Lekro, coupe-légumes, coupe-spirale, coupe-légumes - coupe-oignons, coupe-patates, coupe-fruits - coupe-légumes, 12 - pièces",
+            "price": 38,
+            "keywords":
+            [
+                "mandoline cuisine", "coupe legumes multifonctions"
+            ]
+        },
+        {
+            "id": "VM-1-0014",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E14 1x",
+            "productId": "13874",
+            "productTitle": "Lideka® - Ampoules intelligentes LED intelligentes - E14 - RGBW - avec App - 6W - 600 Lumen - 2700K - 6500K - Éclairage LED",
+            "price": 26,
+            "keywords":
+            [
+                "ampoule led couleur", "ampoule connectée"
+            ]
+        },
+        {
+            "id": "VM-1-0015",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E14 2x",
+            "productId": "78600",
+            "productTitle": "Lideka® E14 Smart LED Lampe 6W 2700K, 16 millions de couleurs DIY, WLAN Mehrfarbige Dimmbare Birne, lumière chaude/blanche",
+            "price": 38,
+            "keywords":
+            [
+                "ampoule led couleur", "ampoule connectée"
+            ]
+        },
+        {
+            "id": "VM-1-0016",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E14 3x",
+            "productId": "80268",
+            "productTitle": "Lideka® Lampe LED intelligente E14 6W 2700K, 16 millions de couleurs DIY, ampoule à intensité variable multicolore WLAN",
+            "price": 49,
+            "keywords":
+            [
+                "ampoule led couleur", "ampoule connectée"
+            ]
+        },
+        {
+            "id": "VM-1-0017",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E14 4x",
+            "productId": "79870",
+            "productTitle": "Lideka® E14 Smart LED Ampoule 6W 2700K, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 62,
+            "keywords":
+            [
+                "ampoule led couleur", "ampoule connectée"
+            ]
+        },
+        {
+            "id": "VM-1-0018",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E14 5x",
+            "productId": "53363",
+            "productTitle": "Lideka® E14 Smart LED Ampoule 6W 2700K, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 74,
+            "keywords":
+            [
+                "ampoule e14", "ampoule e14 40w"
+            ]
+        },
+        {
+            "id": "VM-1-0019",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E14 6x",
+            "productId": "84526",
+            "productTitle": "Lideka® E14 Lampe LED intelligente 6 W 2700 K, 16 millions de couleurs DIY, ampoule WLAN multicolore à intensité variable",
+            "price": 86,
+            "keywords":
+            [
+                "ampoule connectée alexa", "ampoule led couleur"
+            ]
+        },
+        {
+            "id": "VM-1-0020",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E14 7x",
+            "productId": "42032",
+            "productTitle": "Lampe LED intelligente Lideka® E14 6 W 2700 K, 16 millions de couleurs DIY, ampoule à intensité variable multicolore WLAN",
+            "price": 97,
+            "keywords":
+            [
+                "ampoule e14", "ampoule e14 40w"
+            ]
+        },
+        {
+            "id": "VM-1-0021",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb GU10 1x",
+            "productId": "86400",
+            "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16 millions de couleurs DIY, WLAN Mehrfarbige Dimmbare Birne, lumière blanche/blanche chaude",
+            "price": 26,
+            "keywords":
+            [
+                "ampoule connectée", "ampoule connectée alexa"
+            ]
+        },
+        {
+            "id": "VM-1-0022",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb GU10 2x",
+            "productId": "84094",
+            "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 38,
+            "keywords":
+            [
+                "ampoule led couleur", "ampoule connectée alexa"
+            ]
+        },
+        {
+            "id": "VM-1-0023",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb GU10 3x",
+            "productId": "84562",
+            "productTitle": "Lideka® Lampe LED intelligente GU10 5 W 400 lm, 16 millions de couleurs DIY",
+            "price": 49,
+            "keywords":
+            [
+                "ampoule connectée", "ampoule led couleur"
+            ]
+        },
+        {
+            "id": "VM-1-0024",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb GU10 4x",
+            "productId": "84015",
+            "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 62,
+            "keywords":
+            [
+                "ampoule connectée", "ampoule led couleur"
+            ]
+        },
+        {
+            "id": "VM-1-0025",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb GU10 5x",
+            "productId": "80520",
+            "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 74,
+            "keywords":
+            [
+                "ampoule connectée", "ampoule connectée alexa"
+            ]
+        },
+        {
+            "id": "VM-1-0026",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb GU10 6x",
+            "productId": "13870",
+            "productTitle": "Lideka® Lampe LED intelligente GU10 5 W 400 lm, 16 millions de couleurs DIY, ampoule WLAN multicolore à intensité variable, lumière",
+            "price": 86,
+            "keywords":
+            [
+                "ampoule connectée", "ampoule connectée alexa"
+            ]
+        },
+        {
+            "id": "VM-1-0027",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb GU10 7x",
+            "productId": "78024",
+            "productTitle": "Lideka® Lampe LED intelligente GU10 5 W 400 lm, 16 millions de couleurs DIY, ampoule multicolore WLAN à intensité variable",
+            "price": 97,
+            "keywords":
+            [
+                "ampoule connectée", "ampoule connectée alexa"
+            ]
+        },
+        {
+            "id": "VM-1-0028",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E27 2x",
+            "productId": "79446",
+            "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 34,
+            "keywords":
+            [
+                "ampoule e27", "ampoule connectée"
+            ]
+        },
+        {
+            "id": "VM-1-0029",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E27 3x",
+            "productId": "78705",
+            "productTitle": "Lideka® E27 Lampe LED intelligente 9 W 806 lm, 16 millions de couleurs DIY, ampoule multicolore WLAN à intensité variable",
+            "price": 44,
+            "keywords":
+            [
+                "ampoule e27", "ampoule connectée"
+            ]
+        },
+        {
+            "id": "VM-1-0030",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E27 4x",
+            "productId": "78747",
+            "productTitle": "Lideka® E27 Smart LED Ampoule 9W 806LM, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 54,
+            "keywords":
+            [
+                "ampoule connectée", "ampoule connectée alexa"
+            ]
+        }
+    ]
+}

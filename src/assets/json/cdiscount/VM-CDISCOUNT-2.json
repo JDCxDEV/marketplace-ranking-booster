@@ -1,0 +1,365 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-2-0001",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E27 5x",
+            "productId": "83558",
+            "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16 millions de couleurs DIY, WLAN Ampoule multicolore à intensité variable",
+            "price": 64,
+            "keywords":
+            [
+                "ampoule led couleur", "ampoule connectée alexa"
+            ]
+        },
+        {
+            "id": "VM-2-0002",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E27 5x -1",
+            "productId": "42030",
+            "productTitle": "Lideka® E27 Lampe LED intelligente 9 W 806 lm, 16 millions de couleurs DIY, ampoule multicolore WLAN à intensité variable, lumière",
+            "price": 74,
+            "keywords":
+            [
+                "ampoule e27", "ampoule connectée"
+            ]
+        },
+        {
+            "id": "VM-2-0003",
+            "marketplace": "cdiscount.com",
+            "product": "LED bulb E27 7x",
+            "productId": "83607",
+            "productTitle": "Lideka® E27 Lampe LED intelligente 9 W 806 lm, 16 millions de couleurs DIY, ampoule multicolore WLAN à intensité variable",
+            "price": 84,
+            "keywords":
+            [
+                "tapo lumiere", "ampoule tp link"
+            ]
+        },
+        {
+            "id": "VM-2-0004",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 3m",
+            "productId": "76078",
+            "productTitle": "Lideka® RGB LED Strip 3m, RGB, LED Strip, App contrôle WLAN et télécommande, led lead, Musik Sync, avec Alexa et Google Assistant",
+            "price": 43,
+            "keywords":
+            [
+                "ruban led exterieur etanche", "leds pour chambre"
+            ]
+        },
+        {
+            "id": "VM-2-0005",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 5m",
+            "productId": "76508",
+            "productTitle": "Lideka® RGB LED Strip 5m, RGB, LED Strip, App contrôle WLAN et télécommande, led lead, Musik Sync, avec Alexa et Google Assistant",
+            "price": 44,
+            "keywords":
+            [
+                "leds pour chambre", "led exterieur etanche"
+            ]
+        },
+        {
+            "id": "VM-2-0006",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 15m",
+            "productId": "12351",
+            "productTitle": "Lideka® RGB LED Strip 15m (2x7.5) RGB, LED Strip, App contrôle WLAN et télécommande, led bar, MusikSync, avec Alexa et Google",
+            "price": 56,
+            "keywords":
+            [
+                "bandeau led exterieur etanche", "led chambre"
+            ]
+        },
+        {
+            "id": "VM-2-0007",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 20m",
+            "productId": "84736",
+            "productTitle": "Lideka® – Bande LED 20 mètres (2x10) – Google Home & Alexa – Accessoires de jeu – Avec télécommande - Bandes lumineuses",
+            "price": 58,
+            "keywords":
+            [
+                "ruban led 20m", "lumiere led"
+            ]
+        },
+        {
+            "id": "VM-2-0008",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 25m",
+            "productId": "51920",
+            "productTitle": "Lideka® RGB LED Strip 25m, RGB, LED Strip, App contrôle WLAN et télécommande, barre de led, Music Sync, avec Alexa et Google",
+            "price": 94,
+            "keywords":
+            [
+                "led chambre", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-2-0009",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 30m",
+            "productId": "55602",
+            "productTitle": "Lideka® - RGB LED Strip - 30m, LED Strip, App contrôle WLAN et télécommande, Alexa et Google Assistant, Music Sync",
+            "price": 102,
+            "keywords":
+            [
+                "leds pour chambre", "ruban led exterieur etanche"
+            ]
+        },
+        {
+            "id": "VM-2-0010",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 35m",
+            "productId": "78479",
+            "productTitle": "Lideka® RGB LED-Streifen 35m, RGB, LED Strip, App Steuerung WLAN et Fernbedienung, LED leiste, Musik Sync, avec Alexa et Google",
+            "price": 107,
+            "keywords":
+            [
+                "led", "led chambreled chambre"
+            ]
+        },
+        {
+            "id": "VM-2-0011",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 40m",
+            "productId": "53662",
+            "productTitle": "Lideka® RGB LED Strip 40m, RGB, LED Strip, App contrôle WLAN et télécommande, barre de led, Music Sync",
+            "price": 109,
+            "keywords":
+            [
+                "leds", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-2-0012",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGB 50m",
+            "productId": "76356",
+            "productTitle": "Lideka® RGB LED Strip 50m, RGB, LED Strip, App contrôle WLAN et télécommande, barre de led, Music Sync, avec Alexa et Google",
+            "price": 148,
+            "keywords":
+            [
+                "led chambre", "leds pour chambre"
+            ]
+        },
+        {
+            "id": "VM-2-0013",
+            "marketplace": "cdiscount.com",
+            "product": "LED RVB 4m",
+            "productId": "78454",
+            "productTitle": "Lideka® Bande LED de rétroéclairage TV, bande LED RVB de 4m, avec Alexa et Google Assistant, APP, Synchronisation musique",
+            "price": 43,
+            "keywords":
+            [
+                "led chambre", "ruban led exterieur etanche"
+            ]
+        },
+        {
+            "id": "VM-2-0014",
+            "marketplace": "cdiscount.com",
+            "product": "LED RVB 5m",
+            "productId": "84178",
+            "productTitle": "Lideka® Bande de rétroéclairage LED pour TV, bande LED RVB de 5 m, avec Alexa et Google Assistant, application",
+            "price": 48,
+            "keywords":
+            [
+                "govee led", "bande lumineuse led pour tv"
+            ]
+        },
+        {
+            "id": "VM-2-0015",
+            "marketplace": "cdiscount.com",
+            "product": "LED RVB 5m + TV 3m",
+            "productId": "13925",
+            "productTitle": "Lideka® Bande LED 5 m RVB + USB Éclairage de fond TV 3 m, contrôle par application WLAN avec Alexa et Google, LED SMD 5050, chaîne",
+            "price": 59,
+            "keywords":
+            [
+                "led murale", "bande led"
+            ]
+        },
+        {
+            "id": "VM-2-0016",
+            "marketplace": "cdiscount.com",
+            "product": "LED RVB 10m",
+            "productId": "53058",
+            "productTitle": "Lideka® Bande LED RVB 10m (2x5) RVB, bande LED, app control WLAN et télécommande, bande LED, synchronisation musicale",
+            "price": 49,
+            "keywords":
+            [
+                "led", "led chambre"
+            ]
+        },
+        {
+            "id": "VM-2-0017",
+            "marketplace": "cdiscount.com",
+            "product": "LED RVB 20m",
+            "productId": "12149",
+            "productTitle": "Lideka® Bande LED RVB 20m (2x10) RVB, bande LED, app control WLAN et télécommande, bande LED, synchronisation musicale",
+            "price": 59,
+            "keywords":
+            [
+                "led chambre", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-2-0018",
+            "marketplace": "cdiscount.com",
+            "product": "LED RVB 20m",
+            "productId": "79243",
+            "productTitle": "Lideka® - Bande LED RVB - 20 m, (2x10) bandes LED, contrôle par application WLAN et télécommande, Alexa et Google Assistant",
+            "price": 59,
+            "keywords":
+            [
+                "ruban led exterieur etanche", "led chambre"
+            ]
+        },
+        {
+            "id": "VM-2-0019",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip RVB 15+3 M",
+            "productId": "17107",
+            "productTitle": "Lideka® - Les bandes LED lumineuses - Paquet de 15 + 3 mètres - RVB - Met App",
+            "price": 81,
+            "keywords":
+            [
+                "ruban led", "laid"
+            ]
+        },
+        {
+            "id": "VM-2-0020",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip RVB 30M",
+            "productId": "52854",
+            "productTitle": "Lideka® Bande LED RVB 30m, RVB, bande LED, app control WLAN et télécommande, bande LED, synchronisation musicale",
+            "price": 99,
+            "keywords":
+            [
+                "led", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-2-0021",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip 10m",
+            "productId": "83016",
+            "productTitle": "Bande LED Lideka® – intelligente et atmosphérique – 10 mètres (2 x 5) – 16 millions de couleurs – haute luminosité – option musique",
+            "price": 48,
+            "keywords":
+            [
+                "led", "led chambre"
+            ]
+        },
+        {
+            "id": "VM-2-0022",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip 10+3M",
+            "productId": "14351",
+            "productTitle": "Lideka Home Pack LED Lideka® - Bande LED RVB - Paquet de 10 + 3 mètres - Éclairage Slimme",
+            "price": 74,
+            "keywords":
+            [
+                "ruban led", "laid"
+            ]
+        },
+        {
+            "id": "VM-2-0023",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip RGB 3M + TV 2M",
+            "productId": "42689",
+            "productTitle": "Lideka® - Bande LED Multi Couleurs - RGB 3m + TV 2m – Pack LED S",
+            "price": 54,
+            "keywords":
+            [
+                "ruban led", "laid"
+            ]
+        },
+        {
+            "id": "VM-2-0024",
+            "marketplace": "cdiscount.com",
+            "product": "LED RGB CCT (10+5)",
+            "productId": "84179",
+            "productTitle": "Lideka® Bande LED RGB CCT - 15 mètres (10+5) - Met app - 15 mètres",
+            "price": 96,
+            "keywords":
+            [
+                "ruban led exterieur etanche", "rubans à led"
+            ]
+        },
+        {
+            "id": "VM-2-0025",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip 20M + 3M",
+            "productId": "42545",
+            "productTitle": "Lideka® - la bande LED extérieure 20 mètres + 3 mètres la bande LED extérieure",
+            "price": 86,
+            "keywords":
+            [
+                "led murale", "bande led"
+            ]
+        },
+        {
+            "id": "VM-2-0026",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip 5M",
+            "productId": "27083",
+            "productTitle": "Lideka® – Bande LED 5 mètres Avec Télécommande - Accessoires Gaming la bande LED",
+            "price": 43,
+            "keywords":
+            [
+                "led murale", "laid"
+            ]
+        },
+        {
+            "id": "VM-2-0027",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip 10M + 3M TV",
+            "productId": "42690",
+            "productTitle": "Lideka® - Bande LED avec application - 10 mètres - incl. Bande TV 3M - RVB",
+            "price": 64,
+            "keywords":
+            [
+                "ruban led", "laid"
+            ]
+        },
+        {
+            "id": "VM-2-0028",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip",
+            "productId": "57",
+            "productTitle": "Lideka® bande LED est facilement contrôlable via des commandes vocales avec Google Home ou Amazon Alexa",
+            "price": 57,
+            "keywords":
+            [
+                "led", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-2-0029",
+            "marketplace": "cdiscount.com",
+            "product": "LED CRI 95 RGB 10m + RGBIC 5m",
+            "productId": "84601",
+            "productTitle": "Lideka® - Bande LED CRI 95 - RGB 10M + RGBIC 5M - Avec spécifications",
+            "price": 81,
+            "keywords":
+            [
+                "leds", "bandeau led"
+            ]
+        },
+        {
+            "id": "VM-2-0030",
+            "marketplace": "cdiscount.com",
+            "product": "LED Neon RGB 3m + RGB 20m",
+            "productId": "85108",
+            "productTitle": "Lideka® - Bande LED NEON RGB 3 mètres + Bande LED RGB 20 mètres",
+            "price": 102,
+            "keywords":
+            [
+                "led 3m", "led ruban"
+            ]
+        }
+    ]
+}

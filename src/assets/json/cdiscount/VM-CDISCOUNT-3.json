@@ -1,0 +1,365 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-3-0001",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip RVB 25M (10+15)",
+            "productId": "43030",
+            "productTitle": "Lideka® - Bande LED RVB - 25 mètres - paquet de 10 + 15, bandes LED, avec Alexa et Google Assistant, APP, synchronisation musicale",
+            "price": 91,
+            "keywords":
+            [
+                "laid", "led murale"
+            ]
+        },
+        {
+            "id": "VM-3-0002",
+            "marketplace": "cdiscount.com",
+            "product": "LED RBG 10m+ LED TV 2m",
+            "productId": "86453",
+            "productTitle": "Lideka® - Bande LED 12 mètres - RGB 10m + TV 2m – Pack LED L",
+            "price": 62,
+            "keywords":
+            [
+                "laid", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-3-0003",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip 5M + RVB 5M",
+            "productId": "15721",
+            "productTitle": "Lideka® - Bande LED Couleurs - 5 + 5 mètres - RVB - Incl. Téléphone d'application",
+            "price": 72,
+            "keywords":
+            [
+                "ruban led", "laid"
+            ]
+        },
+        {
+            "id": "VM-3-0004",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip RVB 10+3 M",
+            "productId": "18280",
+            "productTitle": "Lideka® - Bande LED SMD 5050 RGB - 5M RGBIC + RGB 15M - IP65 - Éclairage LED",
+            "price": 84,
+            "keywords":
+            [
+                "led murale", "bande led"
+            ]
+        },
+        {
+            "id": "VM-3-0005",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip RVB 10+5M",
+            "productId": "17102",
+            "productTitle": "Lideka® - Bande lumineuse LED - paquet de 10 + 5 mètres - avec application - RVB - pour plafond et salle de bain - bandes",
+            "price": 78,
+            "keywords":
+            [
+                "bande led", "led murale"
+            ]
+        },
+        {
+            "id": "VM-3-0006",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip 15m",
+            "productId": "26949",
+            "productTitle": "Lideka - Bande LED 15 mètres (2x7,5) - Google Home & Alexa - Accessoires gaming - Avec télécommande",
+            "price": 54,
+            "keywords":
+            [
+                "led", "bande led"
+            ]
+        },
+        {
+            "id": "VM-3-0007",
+            "marketplace": "cdiscount.com",
+            "product": "LED Dsico Light 10M RGBIC + 3M RGB",
+            "productId": "18262",
+            "productTitle": "Lideka® - Bande LED Disco Lights - 10M RGBIC + 3M RGB - Multi couleur - Éclairage",
+            "price": 81,
+            "keywords":
+            [
+                "ruban led", "led"
+            ]
+        },
+        {
+            "id": "VM-3-0008",
+            "marketplace": "cdiscount.com",
+            "product": "Smart LED 10M RGBIC + 10MRGB",
+            "productId": "18261",
+            "productTitle": "Lideka® - la bande LED lumineuse Smart Life - RGBIC 10M + RGB 10M la bande LED",
+            "price": 87,
+            "keywords":
+            [
+                "bande led", "led murale"
+            ]
+        },
+        {
+            "id": "VM-3-0009",
+            "marketplace": "cdiscount.com",
+            "product": "Smart LED Strip 6M",
+            "productId": "42548",
+            "productTitle": "Lideka® - Bande LED 6 mètres - Smart - RGB - Application Met",
+            "price": 66,
+            "keywords":
+            [
+                "bande led", "laid"
+            ]
+        },
+        {
+            "id": "VM-3-0010",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 5m",
+            "productId": "42753",
+            "productTitle": "Lideka® - Bande LED RGBW blanc chaud et froid 5 mètres - Autocollante avec télécommande et application - Bande LED intelligente",
+            "price": 54,
+            "keywords":
+            [
+                "laid", "bandeau led"
+            ]
+        },
+        {
+            "id": "VM-3-0011",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 10m",
+            "productId": "83017",
+            "productTitle": "Lideka® LED Strip 10m (2x5) RGBW Froid & Blanc Chaud, App Contrôle WLAN & Télécommande, led strip, Music Sync",
+            "price": 64,
+            "keywords":
+            [
+                "led", "led chambre"
+            ]
+        },
+        {
+            "id": "VM-3-0012",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 10m 2x5",
+            "productId": "84595",
+            "productTitle": "Lideka® Bande LED 10m (2x5) RGBW blanc froid et blanc chaud, App contrôle WLAN et télécommande, bande led",
+            "price": 96,
+            "keywords":
+            [
+                "laid", "led lumiere"
+            ]
+        },
+        {
+            "id": "VM-3-0013",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 15m",
+            "productId": "83170",
+            "productTitle": "Lideka® LED Strip 15m (3x5) RGBW Froid & Blanc Chaud, Contrôle App WLAN & Télécommande, led strip, Music Sync",
+            "price": 134,
+            "keywords":
+            [
+                "led chambre", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-3-0014",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 20m",
+            "productId": "77130",
+            "productTitle": "Lideka® Bande LED 20m (4x5) RGBW Blanc froid et chaud, App Control WLAN & Remote Control, Bande LED, Music Sync",
+            "price": 104,
+            "keywords":
+            [
+                "leds pour chambre", "led chambre"
+            ]
+        },
+        {
+            "id": "VM-3-0015",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 30m",
+            "productId": "83900",
+            "productTitle": "Lideka® bande LED 30m (6x5) RGBW Froid & Blanc Chaud, App Contrôle WLAN & Télécommande, led bar, MusikSync",
+            "price": 144,
+            "keywords":
+            [
+                "govee led", "bandeau led"
+            ]
+        },
+        {
+            "id": "VM-3-0016",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 40m",
+            "productId": "80547",
+            "productTitle": "Bande LED Lideka® 40 m (8x5) RGBW blanc froid et chaud, contrôle par application WLAN et télécommande, bande LED",
+            "price": 189,
+            "keywords":
+            [
+                "led chambre", "leds pour chambre"
+            ]
+        },
+        {
+            "id": "VM-3-0017",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBW 50m",
+            "productId": "84013",
+            "productTitle": "Lideka® bande LED 50m (10x5) RGBW blanc chaud et froid, App contrôle WLAN et télécommande, led strip",
+            "price": 234,
+            "keywords":
+            [
+                "leds", "bandeau led"
+            ]
+        },
+        {
+            "id": "VM-3-0018",
+            "marketplace": "cdiscount.com",
+            "product": "LED RGB Warm Wit - 25m",
+            "productId": "84871",
+            "productTitle": "Lideka® Bande LED Warm Wit Dimbaar - RGBW - 25 mètres - Met app – 25 mètres",
+            "price": 142,
+            "keywords":
+            [
+                "led govee", "bandeau led"
+            ]
+        },
+        {
+            "id": "VM-3-0019",
+            "marketplace": "cdiscount.com",
+            "product": "LED Strip RGBW Cold - Cold White",
+            "productId": "78989",
+            "productTitle": "Lideka® Bande LED 5 m RGBW blanc froid et chaud, contrôle par application WLAN et télécommande, bande LED",
+            "price": 54,
+            "keywords":
+            [
+                "ruban led", "laid"
+            ]
+        },
+        {
+            "id": "VM-3-0020",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 5m",
+            "productId": "82666",
+            "productTitle": "Lideka® Bande LED 5 m RGBIC arc-en-ciel, contrôle par application WLAN et télécommande, bande LED, bande LED, bandes LED",
+            "price": 49,
+            "keywords":
+            [
+                "ruban led 5m", "leds pour chambre"
+            ]
+        },
+        {
+            "id": "VM-3-0021",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 10m",
+            "productId": "77165",
+            "productTitle": "Lideka® LED Strip 10m (2x5) RGBIC rainbow, App contrôle WLAN et télécommande, led bar, bande LED, led strips, rgbic",
+            "price": 56,
+            "keywords":
+            [
+                "ruban led", "led"
+            ]
+        },
+        {
+            "id": "VM-3-0022",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 15m",
+            "productId": "27212",
+            "productTitle": "Lideka® Bande LED 15m (3x5) RGBIC arc-en-ciel, contrôle par application WiFi et télécommande, bande LED, bande LED",
+            "price": 109,
+            "keywords":
+            [
+                "led", "ruban led"
+            ]
+        },
+        {
+            "id": "VM-3-0023",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 20m",
+            "productId": "76501",
+            "productTitle": "Lideka® Bande LED 20m (4x5) RGBIC arc-en-ciel, app control WLAN et télécommande, Bande LED, Bande LED, Bande LED, Bande LED, RGBIC",
+            "price": 97,
+            "keywords":
+            [
+                "leds pour chambre", "ruban led exterieur etanche"
+            ]
+        },
+        {
+            "id": "VM-3-0024",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 30m",
+            "productId": "83617",
+            "productTitle": "Bande LED Lideka® RGBIC 30 m (6x5), bande LED, contrôle par application WLAN et télécommande, bande LED, synchronisation musicale",
+            "price": 136,
+            "keywords":
+            [
+                "led murale", "leds"
+            ]
+        },
+        {
+            "id": "VM-3-0025",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 40m",
+            "productId": "86451",
+            "productTitle": "Lideka® RGBIC LED-Streifen 40m (8x5), LED Strip, App Steuerung WLAN et Fernbedienung, LED leiste, Musik Sync",
+            "price": 179,
+            "keywords":
+            [
+                "ruban led", "led"
+            ]
+        },
+        {
+            "id": "VM-3-0026",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 50m",
+            "productId": "78116",
+            "productTitle": "Lideka® Bande LED RGBIC 50m (10x5), bande LED, app control WLAN et télécommande, bande LED, synchronisation musicale",
+            "price": 219,
+            "keywords":
+            [
+                "ruban led", "led"
+            ]
+        },
+        {
+            "id": "VM-3-0027",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 30m (6x5m)",
+            "productId": "79848",
+            "productTitle": "Lideka Home Pack LED Lideka® - Bande LED RGBIC 30m autocollante (6x5m) avec télécommande, WiFi & application",
+            "price": 139,
+            "keywords":
+            [
+                "bande led", "ruban led exterieur"
+            ]
+        },
+        {
+            "id": "VM-3-0028",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 20m (4x5m)",
+            "productId": "84528",
+            "productTitle": "Lideka® - Bande LED RGBIC 20m autocollante (4x5m) avec télécommande, Wifi & App - Bande LED intelligente Alexa Google Siri",
+            "price": 94,
+            "keywords":
+            [
+                "bande led", "led murale"
+            ]
+        },
+        {
+            "id": "VM-3-0029",
+            "marketplace": "cdiscount.com",
+            "product": "LED strip RGBIC 40m (8x6m)",
+            "productId": "83765",
+            "productTitle": "Lideka Home Led pakketten Lideka® - Bande LED RGBIC 40m autocollante (8x5m) avec télécommande, Wifi & App - Smart LED-Bstreifen",
+            "price": 183,
+            "keywords":
+            [
+                "leds", "rubans à led"
+            ]
+        },
+        {
+            "id": "VM-3-0030",
+            "marketplace": "cdiscount.com",
+            "product": "LED Neon RGBIC 3m + RGB 15m",
+            "productId": "86217",
+            "productTitle": "Lideka® - Bande LED NEON RGBIC 3 mètres + Bande LED RGB 15 mètres - IP68 pour usage extérieur - autocollante avec télécommande et",
+            "price": 106,
+            "keywords":
+            [
+                "led", "ruban led"
+            ]
+        }
+    ]
+}
