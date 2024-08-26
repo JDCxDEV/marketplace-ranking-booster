@@ -115,7 +115,8 @@
             [
                 "apple watch bandje", "bandje apple watch", "apple watch bandje 42 mm", "bandje apple watch 44 mm", "apple watch bandje 44 mm",
                 "apple watch bandje 45 mm", "apple watch bandje 49 mm"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-15-0010",
