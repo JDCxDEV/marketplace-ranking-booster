@@ -13,10 +13,6 @@
                 {
                     "name": "brotmesser",
                     "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=brotmesser"
-                },
-                {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
                 }
             ],
             "isRunning" : false 
@@ -30,10 +26,6 @@
             "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
             "keyword":
             [
-                {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
-                },
                 {
                     "name": "brotmesser",
                     "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=brotmesser"
@@ -145,10 +137,6 @@
                 {
                     "name": "küchenmesser",
                     "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=k%C3%BCchenmesser"
-                },
-                {
-                    "name": "filetmesser",
-                    "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=filetmesser"
                 }
             ],
             "isRunning" : false 
@@ -375,7 +363,8 @@
                     "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=kochmesser"
                 }
             ],
-            "isRunning" : false 
+            "isRunning" : false,
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0022",
