@@ -221,16 +221,36 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
       await executeScrollSequence(page);
 
       for (let i = 1; i <= 5; i++) {
-        await booster.addRandomTimeGap(3, 10)
+        // Add a random time gap
+        await booster.addRandomTimeGap(3, 5);
+        
         try {
-          let imageGallery = `a[data-cs-override-id="image-gallery-thumbnail-${booster.generateNumberBetween(1, 6)}"]`;
-          await page.waitForSelector(imageGallery);
-          await page.hover(imageGallery)
-          await booster.addRandomTimeGap(3, 10)
-        }catch(error) {
-          // wait and hover
+            // Wait for all elements with class 'slider__item' to be present
+            await page.waitForSelector('.slider__item', { timeout: 10000 });
+            
+            // Get all elements with the class 'slider__item'
+            const sliderItems = await page.$$('.slider__item');
+            
+            // Check if there are any elements with the class 'slider__item'
+            if (sliderItems.length === 0) {
+                console.log('No elements with class "slider__item" found.');
+                continue; // Move to the next iteration if no elements are found
+            }
+    
+            // Generate a random index to select a random element
+            const randomIndex = Math.floor(Math.random() * sliderItems.length);
+    
+            // Hover over the random element
+            await sliderItems[randomIndex].hover();
+    
+            console.log(`Hovered over element at index: ${randomIndex}`);
+            
+            // Add another random time gap
+            await booster.addRandomTimeGap(3, 5);
+        } catch (error) {
+            console.error('Error hovering over element:', error);
         }
-      }
+    }
 
       await executeScrollSequence(page);
 
@@ -255,20 +275,24 @@ const initBooster = async (product, threadTimer = 360, steps, proxyProvider) => 
 
       // click cart
       try {
+        const addToCartXPath = `//button[@data-cs-override-id="add-to-cart-button"]`;
 
-        const addToCartClick = `button[data-cs-override-id="add-to-cart-button"]`;
-        
-        await page.waitForSelector(addToCartClick, { timeout: 10000 });
+        // Wait for the XPath selector to appear
+        await page.waitForXPath(addToCartXPath, { timeout: 10000 });
         await booster.addRandomTimeGap(5, 7);
-      
+
+        // Find the element using XPath
+        const [addToCartButton] = await page.$x(addToCartXPath);
+
         // Hover over the custom element
-        await page.hover(addToCartClick);
+        await addToCartButton.hover();
         await booster.addRandomTimeGap(3, 2);
 
-        await page.click(addToCartClick);
+        // Click the element
+        await addToCartButton.click();
         await booster.addRandomTimeGap(3, 5);
       } catch (error) {
-        // continue
+        console.log(error.message);
       }
 
       if(random.fiftyFiftyChance()) {
