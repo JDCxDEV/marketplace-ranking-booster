@@ -96,15 +96,15 @@
       [
         {
           "name": "neon streifen",
-          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20streifen"
         },
         {
           "name": "neon led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
+          "link": "https://www.kaufland.de/s/?price=12400-12500&search_value=neon%20led%20streifen"
         },
         {
           "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?search_value=rgbic"
+          "link": "https://www.kaufland.de/s/?price=12400-12500&search_value=rgbic"
         },
         {
           "name": "led streifen",
@@ -132,11 +132,11 @@
       [
         {
           "name": "neon streifen",
-          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20streifen"
         },
         {
           "name": "neon led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20led%20streifen"
         },
         {
           "name": "rgbic",
@@ -175,10 +175,6 @@
           "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
         },
         {
-          "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgbic"
-        },
-        {
           "name": "led streifen",
           "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
@@ -208,7 +204,7 @@
         },
         {
           "name": "led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          "link": "https://www.kaufland.de/s/?21=5941848&price=10400-10500&search_value=led%20strip"
         },
         {
           "name": "led streifen",
@@ -216,7 +212,7 @@
         },
         {
           "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          "link": "https://www.kaufland.de/s/?21=5941848&price=10400-10500&search_value=led%20streifen"
         }
       ],
       "isRunning" : false 
@@ -288,7 +284,7 @@
         },
         {
           "name": "led strip 5m",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip%205m"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip%205m"
         },
         {
           "name": "led leiste",
@@ -356,7 +352,7 @@
         },
         {
           "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
         },
         {
           "name": "led leiste",
@@ -475,7 +471,7 @@
       "keyword":
       [
         {
-          "name": "led streifen 30m",
+          "name": "led streifen 35m",
           "link": "https://www.kaufland.de/s/?search_value=led%20strip%2035m"
         },
         {
@@ -485,6 +481,10 @@
         {
           "name": "led-streifen",
           "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
         },
         {
           "name": "rgb led strip",
