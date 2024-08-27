@@ -38,7 +38,7 @@
       "marketplace": "Kaufland",
       "product": "LK-050",
       "productTitle": "Lideka® RGB LED-Streifen 50m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
-      "productId": "443340420",
+      "productId": "443340402",
       "keywords": ["led strip 50m", "led streifen", "rgb led strip", "led strip", "led leiste"],
       "keyword":
       [
@@ -128,7 +128,7 @@
         },
         {
           "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          "link": "https://www.kaufland.de/s/?21=5941848&price=5600-5700&search_value=led%20streifen"
         },
         {
           "name": "led strips",
@@ -160,7 +160,7 @@
         },
         {
           "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=10900-11000&search_value=led%20streifen"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
         },
         {
           "name": "led strips",
@@ -232,7 +232,7 @@
         },
         {
           "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          "link": "https://www.kaufland.de/s/?21=5941848&price=13600-13700&search_value=led%20strips"
         }
       ],
       "isRunning" : false 
@@ -327,10 +327,6 @@
           "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
         },
         {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
           "name": "led streifen",
           "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
@@ -385,10 +381,6 @@
         {
           "name": "led leisten",
           "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=9600-9700&search_value=led%20streifen"
         }
       ],
       "isRunning" : false 
@@ -480,7 +472,7 @@
         },
         {
           "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
         {
           "name": "led strips",
