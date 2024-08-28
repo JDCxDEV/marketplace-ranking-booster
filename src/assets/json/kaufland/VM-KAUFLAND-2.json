@@ -4,170 +4,6 @@
     {
       "id": "VM-2-0001",
       "marketplace": "Kaufland",
-      "product": "Baby camera White",
-      "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Weiß",
-      "productId": "479444940",
-      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"],
-      "keyword":
-      [
-        {
-          "name": "babyphone mit kamera",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20mit%20kamera"
-        },
-        {
-          "name": "babyphone kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
-        },
-        {
-          "name": "babyphone kamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
-        }
-      ],
-      "isRunning" : false 
-    },
-    {
-      "id": "VM-2-0002",
-      "marketplace": "Kaufland",
-      "product": "Baby camera Black",
-      "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
-      "productId": "479445987",
-      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone kamera innen", "babyphone überwachungskamera für innen"],
-      "keyword":
-      [
-        {
-          "name": "babyphone mit kamera",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20mit%20kamera"
-        },
-        {
-          "name": "babyphone kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
-        },
-        {
-          "name": "babyphone kamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
-        }
-      ],
-      "isRunning" : false 
-    },
-    {
-      "id": "VM-2-0003",
-      "marketplace": "Kaufland",
-      "product": "Security camera Black",
-      "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
-      "productId": "478956641",
-      "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
-      "keyword":
-      [
-        {
-          "name": "überwachungskamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera%20innen"
-        },
-        {
-          "name": "überwachungskamera",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera"
-        },
-        {
-          "name": "kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=kamera%20%C3%BCberwachung%20innen"
-        }
-      ],
-      "isRunning" : false 
-    },
-    {
-      "id": "VM-2-0004",
-      "marketplace": "Kaufland",
-      "product": "Security camera White",
-      "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, , Weiß",
-      "productId": "478953181",
-      "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
-      "keyword":
-      [
-        {
-          "name": "überwachungskamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera%20innen"
-        },
-        {
-          "name": "überwachungskamera",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera"
-        },
-        {
-          "name": "kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=kamera%20%C3%BCberwachung%20innen"
-        }
-      ],
-      "isRunning" : false 
-    },
-    {
-      "id": "VM-2-0005",
-      "marketplace": "Kaufland",
-      "product": "ComfyCentre Rugkussen",
-      "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
-      "productId": "488843216",
-      "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
-      "keyword":
-      [
-        {
-          "name": "rückenkissen",
-          "link": "https://www.kaufland.de/s/?search_value=r%C3%BCckenkissen"
-        }
-      ],
-      "isRunning" : false
-    },
-    {
-      "id": "VM-2-0006",
-      "marketplace": "Kaufland",
-      "product": "ComfyCentre Zitkussen",
-      "productTitle": "COMFYCENTRE Orthopädisches Sitzkissen für Büro, Auto und Rollstuhl - Ergonomisches Memory Foam Steißbeinkissen - Perfekt für Rückenschmerzen",
-      "productId": "488843198",
-      "keywords": ["sitzkissen", "orthopädisches kissen", "sitzkissen orthopädisch", "keilkissen", "sitzkissen stuhl"],
-      "keyword":
-      [
-        {
-          "name": "orthopädisches kissen",
-          "link": "https://www.kaufland.de/s/?21=6931310&price=4900-5000&search_value=orthop%C3%A4disches%20kissen"
-        },
-        {
-          "name": "sitzkissen orthopädisch",
-          "link": "https://www.kaufland.de/s/?search_value=sitzkissen%20orthop%C3%A4disch"
-        }
-      ],
-      "isRunning" : false 
-    },
-    {
-      "id": "VM-2-0007",
-      "marketplace": "Kaufland",
-      "product": "ComfyCentre Hoofdkussen",
-      "productTitle": "COMFYCENTRE Orthopädisches Nackenkissen aus Memory Foam 40x60cm - Ergonomisches Kopfkissen - Seitenschläferkissen - Nackenstützkissen",
-      "productId": "488843245",
-      "keywords": ["kopfkissen", "kissen", "nackenstützkissen", "orthopädisches kissen", "memory-schaum-kissen"],
-      "keyword":
-      [
-        {
-          "name": "kopfkissen",
-          "link": "https://www.kaufland.de/s/?21=6931310&price=4300-4400&search_value=kopfkissen"
-        },
-        {
-          "name": "kissen",
-          "link": "https://www.kaufland.de/s/?search_value=kissen"
-        },
-        {
-          "name": "nackenstützkissen",
-          "link": "https://www.kaufland.de/s/?search_value=nackenst%C3%BCtzkissen"
-        },
-        {
-          "name": "orthopädisches kissen",
-          "link": "https://www.kaufland.de/s/?search_value=orthop%C3%A4disches%20kissen"
-        },
-        {
-          "name": "memory-schaum-kissen",
-          "link": "https://www.kaufland.de/s/?21=6931310&search_value=memory-schaum-kissen"
-        }
-      ],
-      "isRunning" : false 
-    },
-    {
-      "id": "VM-2-0008",
-      "marketplace": "Kaufland",
       "product": "ComfyCentre Kniekussen Band",
       "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer (Band) - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables",
       "productId": "488843256",
@@ -182,7 +18,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-2-0009",
+      "id": "VM-2-0002",
       "marketplace": "Kaufland",
       "product": "ComfyCentre Kniekussen",
       "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables Visco Schlafki",
@@ -198,7 +34,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-2-0010",
+      "id": "VM-2-0003",
       "marketplace": "Kaufland",
       "product": "ComfyCentre Donut Kussen",
       "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro",
@@ -214,7 +50,7 @@
       "isRunning" : false
     },
     {
-      "id": "VM-2-0011",
+      "id": "VM-2-0004",
       "marketplace": "Kaufland",
       "product": "ComfyCentre Ergonomisch Rugkussen",
       "productTitle": "COMFYCENTRE Ergonomisches Memory-Schaum-Rückenkissen mit antistatischem, orthopädischem Lendenkissen für Bürostuhl, Autositz, Rollstuhl, Sitzkissen",
@@ -242,7 +78,7 @@
       "isRunning" : false 
     },
     {
-      "id": "VM-2-0012",
+      "id": "VM-2-0005",
       "marketplace": "Kaufland",
       "product": "ComfyCentre Bed Bridge",
       "productTitle": "ComfyCentre Matratzenkeil mit Riemen – Extra breite Liebesbrücke für Matratzen – Matratzenkeile – Bettbinder – Matratzenbinder De Luxe – 200 x 30 cm",
@@ -257,6 +93,359 @@
         {
           "name": "matratzenkeil",
           "link": "https://www.kaufland.de/s/?search_value=matratzenkeil"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0006",
+      "marketplace": "Kaufland",
+      "product": "Earplugs-L52",
+      "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Schwarz",
+      "productId": "479446317",
+      "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer kabellos", "kabellose kopfhörer"],
+      "keyword":
+      [
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": true
+    },
+    {
+      "id": "VM-2-0007",
+      "marketplace": "Kaufland",
+      "product": "Earplugs-J58 W",
+      "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Weiß",
+      "productId": "479447264",
+      "keywords": ["bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
+      "keyword":
+      [
+        {
+          "name": "bluetooth kopfhörer",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer"
+        },
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+        },
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
+        }
+      ],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-2-0008",
+      "marketplace": "Kaufland",
+      "product": "Earplugs-J58 B",
+      "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
+      "productId": "479447294",
+      "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "bluetooth kopfhörer inear", "kopfhörer über bluetooth", "kopfhörer bluetooth", "kabellose kopfhörer"],
+      "keyword":
+      [
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+        },
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+        },
+        {
+          "name": "kopfhörer bluetooth",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20bluetooth"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0009",
+      "marketplace": "Kaufland",
+      "product": "Earplugs-L21",
+      "productTitle": "QuchiQ™ -Mini Bluetooth Kopfhörer 5.1, Kopfhörer Kabellos In Ear mit 4 ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
+      "productId": "479447274",
+      "keywords": ["bluetooth kopfhörer in ear", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kopfhörer kabellos", "kabellose kopfhörer"],
+      "keyword":
+      [
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+        },
+        {
+          "name": "kopfhörer bluetooth",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=kopfh%C3%B6rer%20bluetooth"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.kaufland.de/s/?price=2600-2700&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+        },
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.kaufland.de/s/?price=2600-2700&search_value=kopfh%C3%B6rer%20kabellos"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=kabellose%20kopfh%C3%B6rer"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": true
+    },
+    {
+      "id": "VM-2-0010",
+      "marketplace": "Kaufland",
+      "product": "Earplugs-M48",
+      "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
+      "productId": "479447749",
+      "keywords": ["kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+      "keyword":
+      [
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+        },
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+        },
+        {
+          "name": "kopfhörer bluetooth",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20bluetooth"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0011",
+      "marketplace": "Kaufland",
+      "product": "Powerbank 20K -1",
+      "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
+      "productId": "479104287",
+      "keywords": ["powerbank 20000 mah", "powerbank", "powerbank handy", "powerbanks für iphone"],
+      "keyword":
+      [
+        {
+          "name": "powerbank 20000 mah",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank%2020000%20mah"
+        },
+        {
+          "name": "powerbank",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank"
+        },
+        {
+          "name": "powerbanks für iphone",
+          "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0012",
+      "marketplace": "Kaufland",
+      "product": "Mini Power Bank",
+      "productTitle": "QuchiQ™ Powerbank 10000 mAh Klein Aber Stark -Mini Powerbank -Mobiler Akkulader - powerbanks für iPhone Samsung-Micro USB & USB-C Eingang - LED-Lampen",
+      "productId": "479041891",
+      "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 10000mah bank", "powerbanks für iphone"],
+      "keyword":
+      [
+        {
+          "name": "powerbank 20000 mah",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank%2010000%20mah"
+        },
+        {
+          "name": "powerbank",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank"
+        },
+        {
+          "name": "mini powerbank",
+          "link": "https://www.kaufland.de/s/?search_value=mini%20powerbank"
+        },
+        {
+          "name": "powerbanks für iphone",
+          "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0013",
+      "marketplace": "Kaufland",
+      "product": "Powerbank 20K -2",
+      "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
+      "productId": "479047515",
+      "keywords": ["powerbank 20000 mah", "powerbank", "power 20000 mah bank", "powerbanks für iphone"],
+      "keyword":
+      [
+        {
+          "name": "powerbank 20000 mah",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank%2020000%20mah"
+        },
+        {
+          "name": "powerbank",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank"
+        },
+        {
+          "name": "powerbanks für iphone",
+          "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0014",
+      "marketplace": "Kaufland",
+      "product": "Robot Toy Yellow",
+      "productTitle": "QuchiQ™ 8 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 345 Bausteine",
+      "productId": "479448234",
+      "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+      "keyword":
+      [
+        {
+          "name": "transformers roboter spielzeug",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=transformers%20roboter%20spielzeug"
+        },
+        {
+          "name": "roboter spielzeug",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=roboter%20spielzeug"
+        },
+        {
+          "name": "spielzeug roboter",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=spielzeug%20roboter"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": true
+    },
+    {
+      "id": "VM-2-0015",
+      "marketplace": "Kaufland",
+      "product": "Robot Toy Blue",
+      "productTitle": "QuchiQ™ 6 in 1 Transformers Roboter spielzeug, Baukästen Polizei und Feuerwehrauto Spielzeug, Spielfigurensets 482 Bausteine, Wandelbares Actionfigur",
+      "productId": "443566009",
+      "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+      "keyword":
+      [
+        {
+          "name": "transformers roboter spielzeug",
+          "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=transformers%20roboter%20spielzeug"
+        },
+        {
+          "name": "roboter spielzeug",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=2900-3000&search_value=roboter%20spielzeug"
+        },
+        {
+          "name": "spielzeug roboter",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=2900-3000&search_value=spielzeug%20roboter"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": true
+    },
+    {
+      "id": "VM-2-0016",
+      "marketplace": "Kaufland",
+      "product": "Robot Toy Red",
+      "productTitle": "QuchiQ™ 8 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 356 Bausteine",
+      "productId": "479447783",
+      "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+      "keyword":
+      [
+        {
+          "name": "transformers roboter spielzeug",
+          "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=transformers%20roboter%20spielzeug"
+        },
+        {
+          "name": "roboter spielzeug",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=roboter%20spielzeug"
+        },
+        {
+          "name": "spielzeug roboter",
+          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=spielzeug%20roboter"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": true
+    },
+    {
+      "id": "VM-2-0017",
+      "marketplace": "Kaufland",
+      "product": "Daylight Lamp",
+      "productTitle": "QuchiQ™ Tageslichtlampe 10.000 Lux– Lichttherapielampe –flimmer- und UV-freie, 3 Farben, Schreibtischlampe, Timer-Funktion, Sonnenlichttherapie, Ener",
+      "productId": "480325737",
+      "keywords": ["tageslichtlampe", "tageslichtlampe schreibtisch", "lichttherapielampe", "tageslichtlampen", "tageslichtlampe 10000 lux", "tageslichtlampe beurer"],
+      "keyword":
+      [
+        {
+          "name": "tageslichtlampe",
+          "link": "https://www.kaufland.de/s/?search_value=tageslichtlampe"
+        },
+        {
+          "name": "lichttherapielampe",
+          "link": "https://www.kaufland.de/s/?21=6042731&search_value=lichttherapielampe"
+        },
+        {
+          "name": "tageslichtlampen",
+          "link": "https://www.kaufland.de/s/?search_value=tageslichtlampen"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-2-0018",
+      "marketplace": "Kaufland",
+      "product": "Solar Powerbank Single",
+      "productTitle": "Lideka® Solar Powerbank 30,000mAh Tragbare Ladegerät, 6 Anschlüsse, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple, für Wandern Reise",
+      "productId": "432693120",
+      "keywords": ["power bank", "powerbank iphone", "power bank 30000mah", "solar powerbank"],
+      "keyword":
+      [
+        {
+          "name": "solar powerbank",
+          "link": "https://www.kaufland.de/s/?search_value=solar%20powerbank"
         }
       ],
       "isRunning" : false 

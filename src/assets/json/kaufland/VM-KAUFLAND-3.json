@@ -4,88 +4,67 @@
     {
       "id": "VM-3-0001",
       "marketplace": "Kaufland",
-      "product": "Earplugs-L52",
-      "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Schwarz",
-      "productId": "479446317",
-      "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer kabellos", "kabellose kopfhörer"],
+      "product": "Solar Powerbank Double",
+      "productTitle": "Lideka® Solar Powerbank 32,400mAh + Solarladegerät, 6 Anschlüsse, Lampe, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple, Hocheffizient",
+      "productId": "455398073",
+      "keywords": ["powerbank iphone", "power bank", "solar powerbank", "power bank 30000mah"],
       "keyword":
       [
         {
-          "name": "kopfhörer über bluetooth",
-          "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          "name": "solar powerbank",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=solar%20powerbank"
         }
       ],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "isRunning" : false 
     },
     {
       "id": "VM-3-0002",
       "marketplace": "Kaufland",
-      "product": "Earplugs-J58 W",
-      "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Weiß",
-      "productId": "479447264",
-      "keywords": ["bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
+      "product": "Solar Powerbank Triple",
+      "productTitle": "Lideka® 1 Solar Powerbank 30,000mAh, 6 Anschlüsse, Lampe & 2x Tragbare Solar Ladegerä, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple",
+      "productId": "450401896",
+      "keywords": ["powerbank iphone", "power bank", "solar powerbank", "power bank 30000mah"],
       "keyword":
       [
         {
-          "name": "bluetooth kopfhörer",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer"
-        },
-        {
-          "name": "kopfhörer kabellos",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
-        },
-        {
-          "name": "kopfhörer über bluetooth",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
-        },
-        {
-          "name": "bluetooth kopfhörer inear",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
-        },
-        {
-          "name": "bluetooth kopfhörer in ear",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
-        },
-        {
-          "name": "kabellose kopfhörer",
-          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
+          "name": "solar powerbank",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=solar%20powerbank"
         }
       ],
-      "isRunning" : false
+      "isRunning" : false 
     },
     {
       "id": "VM-3-0003",
       "marketplace": "Kaufland",
-      "product": "Earplugs-J58 B",
-      "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
-      "productId": "479447294",
-      "keywords": ["bluetooth kopfhörer in ear", "kopfhörer kabellos", "bluetooth kopfhörer inear", "kopfhörer über bluetooth", "kopfhörer bluetooth", "kabellose kopfhörer"],
+      "product": "LK-03-N-IC",
+      "productTitle": "Lideka® NEON LED-Streifen 3m, RGBIC Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "463128914",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
       "keyword":
       [
         {
-          "name": "bluetooth kopfhörer in ear",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          "name": "neon streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
         },
         {
-          "name": "kopfhörer kabellos",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
+          "name": "neon led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
         },
         {
-          "name": "bluetooth kopfhörer inear",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          "name": "rgbic",
+          "link": "https://www.kaufland.de/s/?search_value=rgbic"
         },
         {
-          "name": "kopfhörer über bluetooth",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
         {
-          "name": "kopfhörer bluetooth",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20bluetooth"
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
         },
         {
-          "name": "kabellose kopfhörer",
-          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
         }
       ],
       "isRunning" : false 
@@ -93,72 +72,71 @@
     {
       "id": "VM-3-0004",
       "marketplace": "Kaufland",
-      "product": "Earplugs-L21",
-      "productTitle": "QuchiQ™ -Mini Bluetooth Kopfhörer 5.1, Kopfhörer Kabellos In Ear mit 4 ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
-      "productId": "479447274",
-      "keywords": ["bluetooth kopfhörer in ear", "kopfhörer bluetooth", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "kopfhörer kabellos", "kabellose kopfhörer"],
+      "product": "LKNRGBIC-2",
+      "productTitle": "Lideka® NEON LED-Streifen 6m, RGBIC Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "461186183",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
       "keyword":
       [
         {
-          "name": "bluetooth kopfhörer in ear",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+          "name": "neon streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20streifen"
         },
         {
-          "name": "kopfhörer bluetooth",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=kopfh%C3%B6rer%20bluetooth"
+          "name": "neon led streifen",
+          "link": "https://www.kaufland.de/s/?price=12400-12500&search_value=neon%20led%20streifen"
         },
         {
-          "name": "kopfhörer über bluetooth",
-          "link": "https://www.kaufland.de/s/?price=2600-2700&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          "name": "rgbic",
+          "link": "https://www.kaufland.de/s/?price=12400-12500&search_value=rgbic"
         },
         {
-          "name": "bluetooth kopfhörer inear",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=12400-12500&search_value=led%20streifen"
         },
         {
-          "name": "kopfhörer kabellos",
-          "link": "https://www.kaufland.de/s/?price=2600-2700&search_value=kopfh%C3%B6rer%20kabellos"
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=12400-12500&search_value=led%20strip"
         },
         {
-          "name": "kabellose kopfhörer",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=2600-2700&search_value=kabellose%20kopfh%C3%B6rer"
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
         }
       ],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "isRunning" : false 
     },
     {
       "id": "VM-3-0005",
       "marketplace": "Kaufland",
-      "product": "Earplugs-M48",
-      "productTitle": "QuchiQ™ -Bluetooth Kopfhörer 5.3, Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IP7 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass",
-      "productId": "479447749",
-      "keywords": ["kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer bluetooth", "bluetooth kopfhörer inear", "kabellose kopfhörer"],
+      "product": "LKNRGBIC-3",
+      "productTitle": "Lideka® NEON LED-Streifen 9m, RGBIC Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, MusikSync, mit Alexa und Google Assistant, Deko",
+      "productId": "461186150",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led strip", "led leiste"],
       "keyword":
       [
         {
-          "name": "kopfhörer kabellos",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
+          "name": "neon streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20streifen"
         },
         {
-          "name": "kopfhörer über bluetooth",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+          "name": "neon led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20led%20streifen"
         },
         {
-          "name": "bluetooth kopfhörer in ear",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+          "name": "rgbic",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgbic"
         },
         {
-          "name": "kopfhörer bluetooth",
-          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20bluetooth"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=17400-17500&search_value=led%20streifen"
         },
         {
-          "name": "bluetooth kopfhörer inear",
-          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=17400-17500&search_value=led%20strip"
         },
         {
-          "name": "kabellose kopfhörer",
-          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
         }
       ],
       "isRunning" : false 
@@ -166,23 +144,27 @@
     {
       "id": "VM-3-0006",
       "marketplace": "Kaufland",
-      "product": "Powerbank 20K -1",
-      "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
-      "productId": "479104287",
-      "keywords": ["powerbank 20000 mah", "powerbank", "powerbank handy", "powerbanks für iphone"],
+      "product": "LK-03-N-RGB",
+      "productTitle": "Lideka® NEON LED-Streifen 3m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "463128290",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led leiste"],
       "keyword":
       [
         {
-          "name": "powerbank 20000 mah",
-          "link": "https://www.kaufland.de/s/?search_value=powerbank%2020000%20mah"
+          "name": "neon streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
         },
         {
-          "name": "powerbank",
-          "link": "https://www.kaufland.de/s/?search_value=powerbank"
+          "name": "neon led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
         },
         {
-          "name": "powerbanks für iphone",
-          "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
         }
       ],
       "isRunning" : false 
@@ -190,27 +172,31 @@
     {
       "id": "VM-3-0007",
       "marketplace": "Kaufland",
-      "product": "Mini Power Bank",
-      "productTitle": "QuchiQ™ Powerbank 10000 mAh Klein Aber Stark -Mini Powerbank -Mobiler Akkulader - powerbanks für iPhone Samsung-Micro USB & USB-C Eingang - LED-Lampen",
-      "productId": "479041891",
-      "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 10000mah bank", "powerbanks für iphone"],
+      "product": "LKNRGB-2",
+      "productTitle": "Lideka® NEON LED-Streifen 6m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "461186182",
+      "keywords": ["neon streifen", "neon led streifen", "led strip", "rgbic", "led streifen", "led leiste"],
       "keyword":
       [
         {
-          "name": "powerbank 20000 mah",
-          "link": "https://www.kaufland.de/s/?search_value=powerbank%2010000%20mah"
+          "name": "neon streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
         },
         {
-          "name": "powerbank",
-          "link": "https://www.kaufland.de/s/?search_value=powerbank"
+          "name": "neon led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
         },
         {
-          "name": "mini powerbank",
-          "link": "https://www.kaufland.de/s/?search_value=mini%20powerbank"
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=10400-10500&search_value=led%20strip"
         },
         {
-          "name": "powerbanks für iphone",
-          "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=10400-10500&search_value=led%20streifen"
         }
       ],
       "isRunning" : false 
@@ -218,23 +204,19 @@
     {
       "id": "VM-3-0008",
       "marketplace": "Kaufland",
-      "product": "Powerbank 20K -2",
-      "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
-      "productId": "479047515",
-      "keywords": ["powerbank 20000 mah", "powerbank", "power 20000 mah bank", "powerbanks für iphone"],
+      "product": "LKNRGB-3",
+      "productTitle": "Lideka® NEON LED-Streifen 9m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "461186151",
+      "keywords": ["neon streifen", "neon led streifen", "rgbic"],
       "keyword":
       [
         {
-          "name": "powerbank 20000 mah",
-          "link": "https://www.kaufland.de/s/?search_value=powerbank%2020000%20mah"
+          "name": "neon streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
         },
         {
-          "name": "powerbank",
-          "link": "https://www.kaufland.de/s/?search_value=powerbank"
-        },
-        {
-          "name": "powerbanks für iphone",
-          "link": "https://www.kaufland.de/s/?search_value=powerbanks%20f%C3%BCr%20iphone"
+          "name": "neon led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
         }
       ],
       "isRunning" : false 
@@ -242,98 +224,319 @@
     {
       "id": "VM-3-0009",
       "marketplace": "Kaufland",
-      "product": "Robot Toy Yellow",
-      "productTitle": "QuchiQ™ 8 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 345 Bausteine",
-      "productId": "479448234",
-      "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+      "product": "LK-03",
+      "productTitle": "Lideka® RGB LED-Streifen 3m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "432693131",
+      "keywords": ["led streifen", "led strip 3m", "led leiste", "rgb led strip", "led strip"],
       "keyword":
       [
         {
-          "name": "transformers roboter spielzeug",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=transformers%20roboter%20spielzeug"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
         {
-          "name": "roboter spielzeug",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=roboter%20spielzeug"
+          "name": "led strip 3m",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip%203m"
         },
         {
-          "name": "spielzeug roboter",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=spielzeug%20roboter"
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
         }
       ],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "isRunning" : false 
     },
     {
       "id": "VM-3-0010",
       "marketplace": "Kaufland",
-      "product": "Robot Toy Blue",
-      "productTitle": "QuchiQ™ 6 in 1 Transformers Roboter spielzeug, Baukästen Polizei und Feuerwehrauto Spielzeug, Spielfigurensets 482 Bausteine, Wandelbares Actionfigur",
-      "productId": "443566009",
-      "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+      "product": "LK-05",
+      "productTitle": "Lideka® RGB LED-Streifen 5m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "432693142",
+      "keywords": ["led streifen", "led strip 5m", "led leiste", "rgb led strip", "led strip"],
       "keyword":
       [
         {
-          "name": "transformers roboter spielzeug",
-          "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=transformers%20roboter%20spielzeug"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streif"
         },
         {
-          "name": "roboter spielzeug",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=2900-3000&search_value=roboter%20spielzeug"
+          "name": "led strip 5m",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip%205m"
         },
         {
-          "name": "spielzeug roboter",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=2900-3000&search_value=spielzeug%20roboter"
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
         }
       ],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "isRunning" : false 
     },
     {
       "id": "VM-3-0011",
       "marketplace": "Kaufland",
-      "product": "Robot Toy Red",
-      "productTitle": "QuchiQ™ 8 in 1 Transformers Roboter spielzeug Baukästen Spielzeug Polizei und Feuerwehrauto Spielzeugauto Spielfigurensets 356 Bausteine",
-      "productId": "479447783",
-      "keywords": ["transformers roboter spielzeug", "optimus prime optimus", "optimus prime transformers", "roboter spielzeug", "spielzeug roboter"],
+      "product": "LK-010",
+      "productTitle": "Lideka® RGB LED-Streifen 10m (2x5) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "432693132",
+      "keywords": ["led strip 10m", "led streifen", "led leiste", "rgb led strip", "led strip"],
       "keyword":
       [
         {
-          "name": "transformers roboter spielzeug",
-          "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=transformers%20roboter%20spielzeug"
+          "name": "led strip 10m",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%2010m"
         },
         {
-          "name": "roboter spielzeug",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=roboter%20spielzeug"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
         {
-          "name": "spielzeug roboter",
-          "link": "https://www.kaufland.de/s/?21=6042731&price=3800-3900&search_value=spielzeug%20roboter"
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
         }
       ],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "isRunning" : false 
     },
     {
       "id": "VM-3-0012",
       "marketplace": "Kaufland",
-      "product": "Daylight Lamp",
-      "productTitle": "QuchiQ™ Tageslichtlampe 10.000 Lux– Lichttherapielampe –flimmer- und UV-freie, 3 Farben, Schreibtischlampe, Timer-Funktion, Sonnenlichttherapie, Ener",
-      "productId": "480325737",
-      "keywords": ["tageslichtlampe", "tageslichtlampe schreibtisch", "lichttherapielampe", "tageslichtlampen", "tageslichtlampe 10000 lux", "tageslichtlampe beurer"],
+      "product": "LK-015",
+      "productTitle": "Lideka® RGB LED-Streifen 15m (2x7.5) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, MusikSync, mit Alexa und Google Assistant, Deko",
+      "productId": "432693129",
+      "keywords": ["led streifen 15m", "led strip", "led streifen", "led leiste", "rgb led strip"],
       "keyword":
       [
         {
-          "name": "tageslichtlampe",
-          "link": "https://www.kaufland.de/s/?search_value=tageslichtlampe"
+          "name": "led streifen 15m",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen%2015m"
         },
         {
-          "name": "lichttherapielampe",
-          "link": "https://www.kaufland.de/s/?21=6042731&search_value=lichttherapielampe"
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
         },
         {
-          "name": "tageslichtlampen",
-          "link": "https://www.kaufland.de/s/?search_value=tageslichtlampen"
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0013",
+      "marketplace": "Kaufland",
+      "product": "LK-020",
+      "productTitle": "Lideka® RGB LED-Streifen 20m (2x10) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
+      "productId": "432693128",
+      "keywords": ["led streifen 20m", "led strip", "led streifen", "led leiste", "rgb led strip"],
+      "keyword":
+      [
+        {
+          "name": "led streifen 20m",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%2020m"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+        },
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0014",
+      "marketplace": "Kaufland",
+      "product": "LK-025",
+      "productTitle": "Lideka® RGB LED-Streifen 25m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
+      "productId": "461186369",
+      "keywords": ["led-streifen 25m", "led strip", "led streifen", "led leiste", "rgb led strip"],
+      "keyword":
+      [
+        {
+          "name": "led-streifen 25m",
+          "link": "https://www.kaufland.de/s/?search_value=led-streifen%2025m"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+        },
+        {
+          "name": "led-streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0015",
+      "marketplace": "Kaufland",
+      "product": "LK-030",
+      "productTitle": "Lideka® RGB LED-Streifen 30m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
+      "productId": "443196709",
+      "keywords": ["led streifen 30m", "led strip", "led-streifen", "led leiste", "rgb led strip"],
+      "keyword":
+      [
+        {
+          "name": "led streifen 30m",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%2030m"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+        },
+        {
+          "name": "led-streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0016",
+      "marketplace": "Kaufland",
+      "product": "LK-035",
+      "productTitle": "Lideka® RGB LED-Streifen 35m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
+      "productId": "443198421",
+      "keywords": ["led streifen 35m", "led strip", "led-streifen", "led leiste", "rgb led strip"],
+      "keyword":
+      [
+        {
+          "name": "led streifen 35m",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%2035m"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+        },
+        {
+          "name": "led-streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0017",
+      "marketplace": "Kaufland",
+      "product": "LK-040",
+      "productTitle": "Lideka® RGB LED-Streifen 40m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
+      "productId": "443198421",
+      "keywords": ["led strip 40m", "led streifen", "rgb led strip", "led strip", "led leiste"],
+      "keyword":
+      [
+        {
+          "name": "led strip 40m",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%2040m"
+        },
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-3-0018",
+      "marketplace": "Kaufland",
+      "product": "LK-050",
+      "productTitle": "Lideka® RGB LED-Streifen 50m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
+      "productId": "443340402",
+      "keywords": ["led strip 50m", "led streifen", "rgb led strip", "led strip", "led leiste"],
+      "keyword":
+      [
+        {
+          "name": "led strip 50m",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%2050m"
+        },
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+        },
+        {
+          "name": "rgb led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+        },
+        {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
         }
       ],
       "isRunning" : false 

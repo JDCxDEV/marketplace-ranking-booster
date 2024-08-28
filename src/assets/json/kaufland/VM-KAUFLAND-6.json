@@ -4,78 +4,6 @@
         {
             "id": "VM-6-0001",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Broodmes Scheermesscherpe",
-            "productTitle": "KOI Artisan® Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl - Wellenschliffmesser",
-            "productId": "497737197",
-            "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
-            "keyword":
-            [
-                {
-                    "name": "brotmesser",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=brotmesser"
-                }
-            ],
-            "isRunning" : false 
-        },
-        {
-            "id": "VM-6-0002",
-            "marketplace": "Kaufland",
-            "product": "KOI Artisan® Damascus Broodmes",
-            "productTitle": "KOI Artisan® Damascus Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem VG10 Superstahl",
-            "productId": "497700403",
-            "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
-            "keyword":
-            [
-                {
-                    "name": "brotmesser",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=brotmesser"
-                }
-            ],
-            "isRunning" : false 
-        },
-        {
-            "id": "VM-6-0003",
-            "marketplace": "Kaufland",
-            "product": "KOI Artisan® Damascus Koksmes - 20,32 cm",
-            "productTitle": "KOI Artisan® Damascus Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Premium Küchenmesser in Geschenkbox - Japanische Messer aus VG10 Superstahl",
-            "productId": "497699577",
-            "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
-            "keyword":
-            [
-                {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=9800-9900&search_value=kochmesser"
-                },
-                {
-                    "name": "küchenmesser",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=k%C3%BCchenmesser"
-                }
-            ],
-            "isRunning" : false 
-        },
-        {
-            "id": "VM-6-0004",
-            "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Chef",
-            "productTitle": "KOI Artisan® Kochmesser -Santokumesser des Chefs- 7 Zoll scharfe Klinge -Volle Angel-Premium Hochkohlenstoff -Küchenmesser -Damaszener deutsche Messer",
-            "productId": "497737209",
-            "keywords": ["kochmesser", "küchenmesser"],
-            "keyword":
-            [
-                {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
-                },
-                {
-                    "name": "küchenmesser",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=k%C3%BCchenmesser"
-                }
-            ],
-            "isRunning" : false 
-        },
-        {
-            "id": "VM-6-0005",
-            "marketplace": "Kaufland",
             "product": "KOI Artisan® Koksmes Chefs",
             "productTitle": "KOI Artisan® Kochmesser - Santokumesser - 17,78 cm - Rasiermesserscharfe Klinge - 67 Lagen - Damaszener Japanisches VG10 Superstahl - Korrosions",
             "productId": "497701649",
@@ -90,7 +18,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0006",
+            "id": "VM-6-0002",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Koksmes Damascus",
             "productTitle": "KOI Artisan® Kochmesser - Schälmes im Damaststil - 8,9 cm Rasiermesserscharfe Klinge - Kochmesser aus hochkarätigem rostfreiem Superstahl",
@@ -106,7 +34,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0007",
+            "id": "VM-6-0003",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Koksmes Every",
             "productTitle": "KOI ARTISAN Kochmesser - Alltagsbereich (7 Zoll, flaches Chef) Meisterkochmesser, Fleischbeil",
@@ -122,7 +50,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0008",
+            "id": "VM-6-0004",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Koksmes Fileermes",
             "productTitle": "KOI Artisan® Kochmesser - Filetiermesser - 15 cm Klinge zum Entgräten von Fisch und Fleisch - Professionelles Küchenmesser - Japanischer",
@@ -142,7 +70,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0009",
+            "id": "VM-6-0005",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Koksmes Vlees",
             "productTitle": "KOI Artisan® Kochmesser - Fleischmesser - 19,56 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl",
@@ -158,7 +86,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0010",
+            "id": "VM-6-0006",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Professioneel Koksmes - 20,32 cm",
             "productTitle": "KOI Artisan® Professionelles Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Beste Küchenmesser - Japanische Messer aus hochwertigem",
@@ -178,7 +106,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0011",
+            "id": "VM-6-0007",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Professionele Messenset",
             "productTitle": "KOI Artisan® Professionelles Messerset 3 Stücke- Kochmesser - Küchenmesserset aus rostfreiem Stahl mit ergonomischem Pakkaholzgriff - Japanisches Chef",
@@ -194,7 +122,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0012",
+            "id": "VM-6-0008",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Magnetische Messenhouder",
             "productTitle": "KOI Artisan® Magnetischer Messerhalter für die Wand - 40 cm - Wandmontage Horizontales Messerregal/Bar - Messer Magnetleiste - Vielseitige Verwendung",
@@ -214,7 +142,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0013",
+            "id": "VM-6-0009",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Multifunctionele Schaar",
             "productTitle": "KOI Artisan® Multifunktionsschere aus rostfreiem Stahl von - Premium Küchenschere - Spülmaschinenfest - Flaschenöffner - Deckelöffner - Nussknacker",
@@ -230,7 +158,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0014",
+            "id": "VM-6-0010",
             "marketplace": "Kaufland",
             "product": "Koi Artisan® Wijn Beluchter",
             "productTitle": "KOI Artisan® Weinbelüfter - Rotwein-Ausgießer mit Halterung - Weinstopfen - Sediment-Entferner-Filter - Perfekte Weinpräsente, Weinbelüfter",
@@ -246,7 +174,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0015",
+            "id": "VM-6-0011",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Knoflookpers",
             "productTitle": "KOI Artisan® Knoblauchpresse aus Edelstahl - Knoblauchzerkleinerer Rocker Presse mit Knoblauchschäler und Holzgriff, Knoblauchpresse",
@@ -262,7 +190,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0016",
+            "id": "VM-6-0012",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Messenblok",
             "productTitle": "KOI Artisan® Messerblock in Vogelaugenform ohne Messer - Entworfen zum Schutz von Messern, Geeignet für bis zu 10 Messer - Abnehmbares, Mattschwarz",
@@ -282,7 +210,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0017",
+            "id": "VM-6-0013",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Messenslijper",
             "productTitle": "KOI ARTISAN Messerschärfer Schleifstein - Zweiseitig Körnung 1000/6000 mit Winkelhilfe Rutschfeste Bambusbasis - Bester Wasserstein Messerschärfer",
@@ -298,7 +226,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0018",
+            "id": "VM-6-0014",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Damascus Koksmes - 8,89 cm",
             "productTitle": "KOI Artisan® Damascus Kochmesser - 8,89 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem Damascus VG10 Superstahl - Chef Messer",
@@ -314,7 +242,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0019",
+            "id": "VM-6-0015",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Santokumes Koksmes - 17,78 cm",
             "productTitle": "KOI Artisan® Santokumes - 17,78 cm - Kochmesser - Rasiermesserscharfe Klinge - Japanischer Hochkohlenstoff-Rostfreier Stahl - Stilvolles Damascus",
@@ -330,7 +258,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0020",
+            "id": "VM-6-0016",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Koksmes Scheermesscherp - 67 Lagen",
             "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - 67 Lagen japanisches Küchenmesser -Damascus VG10 Superstahl- Professionelles Kochmesser",
@@ -350,7 +278,7 @@
             "isRunning" : false 
         },
         {
-            "id": "VM-6-0021",
+            "id": "VM-6-0017",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Koksmes Scheermesscherp - Professionelle",
             "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - Professionelle Chef Messer - Japanische Messer aus hochkarätigem Kohlenstoff-Edelstahl",
@@ -367,7 +295,7 @@
             "isOutOfStock": true
         },
         {
-            "id": "VM-6-0022",
+            "id": "VM-6-0018",
             "marketplace": "Kaufland",
             "product": "KOI Artisan® Professioneel Koksmes - 8 Zoll",
             "productTitle": "KOI Artisan® Professionelles Kochmesser, 8 Zoll Scharfe Klinge Edelstahl, Damaszener, deutsche Messer Rostfreier Stahl Korrosions & Fleckenbeständig",

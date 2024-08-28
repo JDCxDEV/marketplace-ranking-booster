@@ -386,6 +386,74 @@
         }
       ],
       "isRunning" : false 
+    },
+    {
+      "id": "VM-1-0016",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Rugkussen",
+      "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
+      "productId": "488843216",
+      "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
+      "keyword":
+      [
+        {
+          "name": "rückenkissen",
+          "link": "https://www.kaufland.de/s/?search_value=r%C3%BCckenkissen"
+        }
+      ],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-1-0017",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Zitkussen",
+      "productTitle": "COMFYCENTRE Orthopädisches Sitzkissen für Büro, Auto und Rollstuhl - Ergonomisches Memory Foam Steißbeinkissen - Perfekt für Rückenschmerzen",
+      "productId": "488843198",
+      "keywords": ["sitzkissen", "orthopädisches kissen", "sitzkissen orthopädisch", "keilkissen", "sitzkissen stuhl"],
+      "keyword":
+      [
+        {
+          "name": "orthopädisches kissen",
+          "link": "https://www.kaufland.de/s/?21=6931310&price=4900-5000&search_value=orthop%C3%A4disches%20kissen"
+        },
+        {
+          "name": "sitzkissen orthopädisch",
+          "link": "https://www.kaufland.de/s/?search_value=sitzkissen%20orthop%C3%A4disch"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-1-0018",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Hoofdkussen",
+      "productTitle": "COMFYCENTRE Orthopädisches Nackenkissen aus Memory Foam 40x60cm - Ergonomisches Kopfkissen - Seitenschläferkissen - Nackenstützkissen",
+      "productId": "488843245",
+      "keywords": ["kopfkissen", "kissen", "nackenstützkissen", "orthopädisches kissen", "memory-schaum-kissen"],
+      "keyword":
+      [
+        {
+          "name": "kopfkissen",
+          "link": "https://www.kaufland.de/s/?21=6931310&price=4300-4400&search_value=kopfkissen"
+        },
+        {
+          "name": "kissen",
+          "link": "https://www.kaufland.de/s/?search_value=kissen"
+        },
+        {
+          "name": "nackenstützkissen",
+          "link": "https://www.kaufland.de/s/?search_value=nackenst%C3%BCtzkissen"
+        },
+        {
+          "name": "orthopädisches kissen",
+          "link": "https://www.kaufland.de/s/?search_value=orthop%C3%A4disches%20kissen"
+        },
+        {
+          "name": "memory-schaum-kissen",
+          "link": "https://www.kaufland.de/s/?21=6931310&search_value=memory-schaum-kissen"
+        }
+      ],
+      "isRunning" : false 
     }
   ]
 }
