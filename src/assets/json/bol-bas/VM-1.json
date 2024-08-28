@@ -31,7 +31,7 @@
       "id": "VM-1-0003",
       "marketplace": "Bol.com",
       "product": "Kitchen scale Black",
-      "price": 20,
+      "price": 21,
       "productId": "9300000016707946",
       "productTitle": "Lekro Digitale Precisie Keukenweegschaal – Weegschaal Keuken - 1gr-15kg – Tarra Functie - Zwart",
       "keywords":
@@ -44,7 +44,7 @@
       "id": "VM-1-0004",
       "marketplace": "Bol.com",
       "product": "Sleepmask",
-      "price": 14,
+      "price": 16,
       "productId": "9300000048501922",
       "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - Zijden Slaapmaskers - Traagschuim - 100% Verduisterend - Voor Mannen en Vrouwen",
       "keywords": 
@@ -65,8 +65,7 @@
         "leeslampje", "leeslampje voor boek", "leeslampje voor in bed", "led leeslampje", "leeslampje klem",
         "leeslampje boek", "klemlampen", "leeslampje met klem", "oplaadbaar lampje", "leeslampje voor boek oplaadbaar usb",
         "leeslampje volwassenen", "leeslampje slaapkamer", "leeslampje kind", "klemlamp"
-      ],
-      "isOutOfStock": true
+      ]
     },
     {
       "id": "VM-1-0006",
@@ -84,13 +83,13 @@
       "id": "VM-1-0007",
       "marketplace": "Bol.com",
       "product": "Water bottle RG",
-      "price": 23,
+      "price": 24,
       "productId": "9300000029090914",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Rosé Goud",
       "keywords": 
       [
         "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
-        "waterfles met tijdmarkeringen"
+        "waterfles 1 liter", "waterfles met tijdmarkeringen"
       ]
     },
     {
@@ -111,12 +110,12 @@
       "marketplace": "Bol.com",
       "product": "Water bottle RB",
       "productId": "9300000022722291",
-      "price": 22,
+      "price": 24,
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Roze/Blauw",
       "keywords": 
       [
-        "drinkfles", "drinkflessen", "waterflessen", "waterfles 1 liter", "drinkfles 1 liter",
-        "waterflessen volwassenen", "waterfles", "water fles"
+        "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen", 
+        "waterfles 1 liter", "waterflessen volwassenen",  "water fles"
       ]
     },
     {
@@ -124,12 +123,12 @@
       "marketplace": "Bol.com",
       "product": "Water bottle G",
       "productId": "9300000045223456",
-      "price": 22,
+      "price": 24,
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Groen",
       "keywords": 
       [
-        "drinkfles", "waterfles", "drinkflessen", "waterflessen", "drinkfles 1 liter", 
-        "water fles", "waterflessen volwassenen", "drinkfles volwassenen", "drinkflessen volwassenen"
+        "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen", 
+        "drinkfles volwassenen", "waterflessen volwassenen",  "drinkflessen volwassenen", "water fles"
       ]
     },
     {
@@ -150,7 +149,7 @@
       "marketplace": "Bol.com",
       "product": "Water bottle GR",
       "productId": "9300000022722259",
-      "price": 22,
+      "price": 24,
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles Met Fruit filter en Shake Bal/Shaker - 1 Liter - BPA vrij - Sportfles - Voor Volwassenen en Kinderen - Waterflessen met Rietje - Drinkfles Kind - Grijs",
       "keywords": 
       [
@@ -177,7 +176,7 @@
       "marketplace": "Bol.com",
       "product": "Vegetable Cutter",
       "productId": "9300000032558171",
-      "price": 39,
+      "price": 38,
       "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - Uiensnijder - Frietsnijder - Groentensnijder- Anti-slip mat - Glas & RSV - 12-delig",
       "keywords": 
       [
