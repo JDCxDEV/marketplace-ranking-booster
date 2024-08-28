@@ -34,7 +34,7 @@
             "product": "ComfyCentre Rugkussen XL",
             "productId": "9300000002846923",
             "productTitle": "ComfyCentre Ergonomisch Rugkussen XL Auto & Bureaustoel - Rugsteun Onderrug - Lendensteun - Lendekussen",
-            "price": 29,
+            "price": 31,
             "keywords":
             [
                 "rugkussen onderrug", "lendekussen", "ergonomisch rugkussen", "rugkussen", "rug kussen",
@@ -138,14 +138,15 @@
             "id": "VM-4-0011",
             "marketplace": "Bol.com",
             "product": "Security Camera White",
-            "productId": "9300000163662072",
-            "productTitle": "Babyfoon met Camera en App - WiFi - FULL HD - Baby Monitor - Baby Camera - Babyfoons met Beweeg en Geluidsdetectie - Indoor - Night Vision for Baby/Nanny - Bestverkocht - Wit",
-            "price": 30,
+            "productId": "9200000120784161",
+            "productTitle": "BS producten Beveiligingscamera - Huisdiercamera - WiFi - Full HD - Beweeg en geluidsdetectie - Petcam met app - Hondencamera - Bewakingscamera voor Binnen - Indoor Camera - Wit",
+            "price": 37,
             "keywords":
             [
                 "beveiligingscamera's", "beveiligingscamera", "beveiligingscamera binnen", "hondencamera", "bewakingscamera voor binnen",
                 "huisdiercamera met app", "petcam", "hondencamera met app", "indoor camera"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-4-0012",
@@ -196,7 +197,8 @@
             "keywords":
             [
                 "moestuin", "verticale tuin", "verticale tuin met watersysteem", "verticale moestuin"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-4-0016",
