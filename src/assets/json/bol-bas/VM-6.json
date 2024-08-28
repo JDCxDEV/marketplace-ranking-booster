@@ -47,7 +47,8 @@
             "keywords":
             [
                 "opbergmanden", "opberg mand", "opbergmand zwart", "wasmand zwart", "opbergmand"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0005",
@@ -115,7 +116,7 @@
             "product": "Placemat Vaxjo - Geel",
             "productId": "9300000010054929",
             "productTitle": "Placemats van Sophie Nordinn® - Placemat Vaxjo (Geel) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
-            "price": 21,
+            "price": 22,
             "keywords":
             [
                 "placemats", "placemat", "placemat kunststof"
@@ -155,8 +156,7 @@
             "keywords":
             [
                 "placemats", "placemat", "placemat kunststof"
-            ],
-            "isOutOfStock": true
+            ]
         },
         {
             "id": "VM-6-0014",
