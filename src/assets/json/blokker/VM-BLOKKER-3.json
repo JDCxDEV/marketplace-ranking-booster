@@ -7,7 +7,7 @@
       "product": "LED strip RGBIC 10m",
       "productId": "4627900",
       "productTitle": "Lideka - LED Strip 10m (2x5m) RGB + IC - Afstandsbediening - Gaming Lichtstrip met App - 300 LEDs - Zelfklevend Licht",
-      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 10 meter", "led verlichting strips"],
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening","led verlichting strips"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -27,11 +27,11 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led light strip"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
         "https://www.blokker.nl/search?q=rgb%20led%20strip",
         "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
         "https://www.blokker.nl/search?q=led%20verlichting%20strips",
-        "https://www.blokker.nl/search?q=led%20light%20strip"
+        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -42,12 +42,12 @@
       "product": "LED strip RGBIC 20m",
       "productId": "4627904",
       "productTitle": "Lideka - LED Strip 20m (4x5m) RGB + IC - Afstandsbediening - Gaming Lichtstrip met App - 600 LEDs - Zelfklevend Licht",
-      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 20 meter"],
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=99&pmax=100",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=99&pmax=100",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -58,7 +58,7 @@
       "product": "LED strip TV 2m",
       "productId": "4627912",
       "productTitle": "Lideka - TV USB LED Strip 2m RGB - Afstandsbediening - Gaming Lichtstrip met App - 60 LEDs - Zelfklevend Licht",
-      "keywords": ["led strip", "led strip 2 meter", "led strip tv", "led strip usb", "led strip voor tv"],
+      "keywords": ["led strip", "led strip tv", "led strip usb", "led strip voor tv"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -75,11 +75,11 @@
       "product": "LED strip TV 3m",
       "productId": "4627913",
       "productTitle": "Lideka - TV USB 3M RGB LED-strip - Afstandsbediening - Gaming-lichtstrip - 90 LED's - 10 mm breed",
-      "keywords": ["led strip", "rgb led strip", "gaming lights", "led strip 3 meter", "led strip tv"],
+      "keywords": ["led strip", "rgb led strip", "led strip tv"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=led%20strip",
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=27&pmax=28",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=27&pmax=28",
         "https://www.blokker.nl/search?q=led%20strip%20tv"
       ],
       "isRunning" : false,
@@ -102,11 +102,11 @@
       "product": "LED strip NEON RGB 3m",
       "productId": "4562256",
       "productTitle": "Lideka Slimme Neon RGB LED Strip 3 Meter",
-      "keywords": ["led strip", "rgb led strip", "led strip 3 meter", "neon led strip buiten"],
+      "keywords": ["led strip", "rgb led strip", "led strip 3 meter"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=44&pmax=45",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=44&pmax=45",
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
         "https://www.blokker.nl/search?q=led%20strip%203%20meter"
       ],
       "isRunning" : false,
@@ -121,7 +121,7 @@
       "keywords": ["led strip", "rgb led strip", "ledstrip", "led strip 3 meter", "neon led strip buiten"],
       "keywordLink":
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=54&pmax=55",
+        "https://www.blokker.nl/search?q=led%20strip",
         "https://www.blokker.nl/search?q=led%20strip%203%20meter"
       ],
       "isRunning" : false,
@@ -149,11 +149,11 @@
       "product": "Solar Powerbank Combi",
       "productId": "4581541",
       "productTitle": "Lideka Solar Powerbank + Solar Charger 4x USB USB C Snel & Draadloos Opladen? 30.000 mAh",
-      "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
+      "keywords": ["powerbank", "powerbank zonneenergie", "solar powerbank"],
       "keywordLink":
       [
         "https://www.blokker.nl/powerbanks",
-        "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
+        "https://www.blokker.nl/search?q=powerbank%20zonneenergie",
         "https://www.blokker.nl/search?q=solar%20powerbank"
       ],
       "isRunning" : false,
@@ -165,7 +165,7 @@
       "product": "Solar Charger",
       "productId": "4581542",
       "productTitle": "Lideka Solar Charger Panel Werkt Met Powerbank Solar Panel Op Zonne-energie Outdoor 2400 mAh 5V",
-      "keywords": ["solar panel", "draagbaar zonnepaneel", "solar charger", "opvouwbaar zonnepaneel", "solar oplader"],
+      "keywords": ["solar panel", "solar charger"],
       "keywordLink":
     [
       "https://www.blokker.nl/search?q=solar%20panel",
@@ -180,7 +180,7 @@
       "product": "ComfyCentre Zitkussen",
       "productId": "4569964",
       "productTitle": "Comfy Center Zitkussen Orthopedisch & Ergonomisch voor Auto en Bureaustoel - Wigkussen/Stuitkussen",
-      "keywords": ["zitkussen", "zitkussen orthopedisch", "stuitkussen", "zitkussen ergonomisch", "wigkussen", "zitkussens", "zit kussen", "zitkussen bed", "zitkussen bureaustoel"],
+      "keywords": ["zitkussen", "zitkussen orthopedisch", "stuitkussen", "zitkussen ergonomisch", "wigkussen", "zitkussen bureaustoel"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=zitkussen",
@@ -201,10 +201,8 @@
       "productTitle": "Comfy Center Ergonomisch Rugkussen Onderrug - Voor Auto, Bureaustoel - Rugsteun - Lendensteunkussen",
       "keywords":
       [
-        "rugkussen", "rugkussen onderrug", "rugsteun bed", "lendekussen", "rugkussen bed",
-        "rugkussen auto", "rugsteun auto", "rug kussen", "lendekussen rugsteun", "lendekussen auto",
-        "lendesteun", "rugkussen bank", "rugkussen ergonomisch", "rugkussen onderrug voor bank", "rugkussen bureaustoel",
-        "rug kussen onderrug"
+        "rugkussen", "rugkussen onderrug", "rugkussen auto", "rugsteun auto", "rugkussen bank",
+        "rugkussen ergonomisch", "rugkussen onderrug voor bank", "rugkussen bureaustoel"
       ],
       "keywordLink": 
       [
@@ -228,9 +226,8 @@
       "productTitle": "Comfy Center Hoofdkussen - Traagschuim Kussen Tegen Nekpijn en Rugklachten_Orthopedisch",
       "keywords": 
       [
-        "kussen", "hoofdkussen", "hoofdkussens", "hoofdkussen nekklachten", "hoofdkussen traagschuim",
-        "pillow", "memory foam kussen", "traagschuim kussen", "hoofdkussen nekpijn", "hoofdkussen zijslaper",
-        "hoofdkussen neksteun", "kussen slapen", "traagschuim kussens"
+        "kussen", "hoofdkussen", "hoofdkussens", "hoofdkussen traagschuim", "traagschuim kussen",
+        "hoofdkussen nekpijn", "hoofdkussen zijslaper", "traagschuim kussens"
       ],
       "keywordLink": 
       [
@@ -252,9 +249,7 @@
       "productTitle": "Comfy Center Kniekussen met band voor in bed - Orthopedisch & Ergonomisch Beenkussen/Zijslaapkussen",
       "keywords": 
       [
-        "kniekussen", "kniekussen voor in bed", "kniekussens", "zijslaapkussen volwassenen", "beenkussen",
-        "kniekussen voor in bed zijslapers", "kniekussen orthopedisch", "knie kussen", "beenkussen zijslaper", "beenkussen rugslaper",
-        "been kussen", "kniekussen voor in bed orthopesich"
+        "kniekussen", "zijslaapkussen volwassenen", "beenkussen", "kniekussen orthopedisch", "beenkussen rugslaper"
       ],
       "keywordLink": 
       [
@@ -275,9 +270,8 @@
       "productTitle": "Comfy Center Kniekussen voor in bed - Orthopedisch & Ergonomisch Beenkussen - Zijslaapkussen",
       "keywords": 
       [
-        "zijslaapkussen", "kniekussen", "kniekussen voor in bed", "kniekussens", "zijslaapkussen volwassenen",
-        "beenkussen", "kniekussen voor in bed zijslapers", "kniekussen orthopedisch", "knie kussen", "beenkussen zijslaper",
-        "beenkussen rugslaper", "been kussen", "kniekussen voor in bed orthopesich"
+        "zijslaapkussen", "kniekussen", "zijslaapkussen volwassenen", "beenkussen", "kniekussen orthopedisch",
+        "beenkussen rugslaper"
       ],
       "keywordLink": 
       [
@@ -299,8 +293,7 @@
       "productTitle": "Comfy Center Donut Kussen Orthopedisch & Ergonomisch Voor Auto En Bureaustoel - Zitring Kussen",
       "keywords": 
       [
-        "stuitkussen", "zitkussen orthopedisch", "donut kussen", "donut", "ringkussen",
-        "zitring", "aambeien kussen", "donutkussen", "zitring kussen", "donut kussen stuitje",
+       "donut kussen", "donut", "zitring", "zitring kussen", "donut kussen stuitje",
         "donut kussen piercing"
       ],
       "keywordLink": 
@@ -321,7 +314,7 @@
       "product": "ComfyCentre Bed Bridge",
       "productId": "4570058",
       "productTitle": "Comfy Center Matraswig met band - Extra Brede Liefdesbrug voor Matrassen - Bedbinder - 200x30cm",
-      "keywords": ["matraswig", "bedbinder", "liefdesbrug", "matrasbinder", "matraswig met band", "matras wig", "matraswiggen", "matraswig de luxe"],
+      "keywords": ["matraswig", "bedbinder", "liefdesbrug", "matraswig met band", "matraswig de luxe"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=matraswig",
@@ -387,10 +380,10 @@
       "product": "Opbergmand - Wit",
       "productId": "4581440",
       "productTitle": "Sophie Nordinn Opbergmand Goteborg (Wit klein) - Wasmand - Wasmanden - Waszak - 22 L",
-      "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
+      "keywords": ["opbergmand", "mand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+        "https://blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true

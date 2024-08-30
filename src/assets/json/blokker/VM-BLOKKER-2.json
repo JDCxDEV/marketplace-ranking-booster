@@ -7,7 +7,7 @@
       "product": "LED bulb GU10 2x",
       "productId": "4562279",
       "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 2 - RGBW - Google, Alexa en Siri",
-      "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
+      "keywords": ["led lampen", "gu10 led lamp"],
       "keywordLink": 
       [
         "https://www.blokker.nl/led-lampen",
@@ -25,7 +25,7 @@
       "keywords": ["led lampen", "gu10 led lamp dimbaar", "gu10 led lamp"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/led-lampen",
+        "https://www.blokker.nl/led-lampen/lideka?pmin=44%2C00&pmax=45%2C00",
         "https://www.blokker.nl/search?q=gu10%20led%20lamp"
       ],
       "isRunning" : false,
@@ -56,9 +56,9 @@
       "keywords": ["led lampen", "e27 led lamp", "e27"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e27%20led%20lamp",
-        "https://www.blokker.nl/search?q=e27"
+        "https://www.blokker.nl/led-lampen/lideka?pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=e27%20led%20lamp&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=e27&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -73,8 +73,8 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search/lideka?q=e27%20led%20lamp&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=e27&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=e27%20led%20lamp",
+        "https://www.blokker.nl/search?q=e27"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -85,7 +85,7 @@
       "product": "LED strip RGB 3m",
       "productId": "4627906",
       "productTitle": "Lideka - LED Strip 3M - RGB - Afstandsbediening - Gaming Lichtstrip met App - LED strips - 90 LED's - Ook Voor TV",
-      "keywords": ["led strip", "rgb led strip", "led-strips", "ledstrip", "led strip met afstandsbediening"],
+      "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -102,13 +102,13 @@
       "product": "LED strip RGB 5m",
       "productId": "4627944",
       "productTitle": "Lideka - LED Strip 5m RGB - Afstandsbediening - Gaming Lichtstrip met App - 300 LED's - Knipbaar - Ook Voor TV",
-      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led strip 5 meter"],
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=34&pmax=35",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=34&pmax=35",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=34&pmax=35",
-        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=34&pmax=35"
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -119,7 +119,7 @@
       "product": "LED strip RGB 10m",
       "productId": "4627898",
       "productTitle": "Lideka - LED Strip 10m (2x5) RGB - Afstandsbediening - Gaming Lichtstrip met App - 300 LEDs - Zelfklevend Licht",
-      "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
+      "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -156,9 +156,9 @@
       "keywords": ["rgb led strip", "led strip met afstandsbediening", "led verlichting strips"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=44&pmax=45",
         "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
-        "https://www.blokker.nl/search?q=led%20verlichting%20strips"
+        "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=44&pmax=45"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -201,24 +201,24 @@
       "productTitle": "Lideka - 5M RGB+Wit LED-strip - Afstandsbediening - Gaming-lichtstrip - 300 LED's - 10 mm breed - 2,0 A - Knip elke 15cm",
       "keywords": 
       [
-        "led strip", "gaming", "led", "led strip 5 meter", "rgb led strip",
-        "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips", "led light strip",
-        "lichtstrip", "led light", "led licht", "gaming lights", "smart led strip"
+        "led strip", "gaming", "led", "rgb led strip", "led-strips",
+        "led strip met afstandsbediening", "led verlichting strips", "led light strip", "lichtstrip", "led light",
+        "led licht", "smart led strip"
       ],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=49&pmax=50",
         "https://www.blokker.nl/search/lideka?q=gaming&pmin=0%2C00",
         "https://www.blokker.nl/search/lideka?q=led&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=49&pmax=50",
         "https://www.blokker.nl/search/lideka?q=led-strips&pmin=49&pmax=50",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening&pmin=49&pmax=50",
         "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=49&pmax=50",
-        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=49&pmax=50",
         "https://www.blokker.nl/search?q=lichtstrip",
         "https://www.blokker.nl/search/lideka?q=led%20light&pmin=49&pmax=50",
         "https://www.blokker.nl/search/lideka?q=led%20licht&pmin=49&pmax=50",
-        "https://www.blokker.nl/search?q=smart%20led%20strip"
+        "https://www.blokker.nl/search/lideka?q=smart%20led%20strip&pmin=49&pmax=50"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -229,12 +229,12 @@
       "product": "LED strip RGBW 10m",
       "productId": "4570198",
       "productTitle": "RGBW LED Strip Warm en Koud Wit 10 Meter (2x5) Zelfklevend met afstandsbediening App Smart LED Strip",
-      "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
+      "keywords": ["led strip", "led-strips", "led strip met afstandsbediening", "led strip 10 meter"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
         "https://www.blokker.nl/search?q=led-strips",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
+        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00",
         "https://www.blokker.nl/search?q=led%20strip%2010%20meter"
       ],
       "isRunning" : false,
@@ -246,7 +246,7 @@
       "product": "LED strip RGBW 10m 2x5",
       "productId": "4562267",
       "productTitle": "Lideka Slimme RGBW LED Strip 10 Meter",
-      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led strip 10 meter", "lichtstrip"],
+      "keywords": ["led strip", "led strip 10 meter", "lichtstrip"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -261,7 +261,7 @@
       "product": "LED strip RGBW 15m",
       "productId": "4570036",
       "productTitle": "LED Strip 15 (3 sets van 5m) Meter RGB + Wit - Gaming Lichtstrip met App - LED-strips - Verlichting",
-      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips"],
+      "keywords": ["led strip", "rgb led strip", "led verlichting strips"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -277,7 +277,7 @@
       "product": "LED strip RGBW 20m",
       "productId": "4562228",
       "productTitle": "LED Strip 20 (2 sets van 10m) Meter RGB + Wit - Gaming Lichtstrip met App - LED-strips - Verlichting",
-      "keywords": ["led strip", "rgb led strip", "led-strips", "led strip met afstandsbediening", "led strip 20 meter"],
+      "keywords": ["led strip", "rgb led strip", "led-strips", "led strip 20 meter"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -336,7 +336,7 @@
       "product": "LED strip RGBIC 5m",
       "productId": "4627894",
       "productTitle": "Lideka - 5M RGB+IC LED-strip - Afstandsbediening - Gaming-lichtstrip - 150 LED-lampjes - Knipbaar - Zelfklevend",
-      "keywords": ["led strip", "led strip 5 meter", "rgb led strip", "ledstrip", "led strip met afstandsbediening"],
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=led%20strip",
@@ -349,10 +349,10 @@
     {
       "id": "VM-2-0022",
       "marketplace": "Blokker.nl",
-      "product": "Opbergmand - Grijs",
+      "product": "Opbergmand - Turquoise",
       "productId": "4581430",
       "productTitle": "Sophie Nordinn Opbergmand Stockholm (Turquoise) - Wasmand - Wasmanden - 40 Liter",
-      "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
+      "keywords": ["opbergmand", "mand", "opbergmanden", "opberg mand"],
       "keywordLink": 
       [
         "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
@@ -367,14 +367,14 @@
       "product": "Earphone 4",
       "productId": "4562317",
       "productTitle": "QuchiQ Draadloze Bluetooth-oordopjes Diepe bas Ruisonderdrukkende microfoon Compatibel met iPhone/Samsung",
-      "keywords": ["draadloze ooordopjes", "oordopjes draadloos", "bluetooth oordopjes", "oortjes draadloos", "sport oordopjes", "oortjes"],
+      "keywords": ["draadloze ooordopjes", "oordopjes draadloos", "bluetooth oordopjes", "oortjes draadloos", "oortjes"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/quchiq?q=draadloze%20ooordopjes&pmin=0%2C00",
-        "https://www.blokker.nl/search/quchiq?q=oordopjes%20draadloos&pmin=0%2C00",
-        "https://www.blokker.nl/search/quchiq?q=bluetooth%20oordopjes&pmin=0%2C00",
-        "https://www.blokker.nl/search/quchiq?q=oortjes%20draadloos&pmin=0%2C00",
-        "https://www.blokker.nl/search/quchiq?q=oortjes&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=draadloze%20ooordopjes",
+        "https://www.blokker.nl/search?q=oordopjes%20draadloos",
+        "https://www.blokker.nl/search?q=bluetooth%20oordopjes",
+        "https://www.blokker.nl/search?q=oortjes%20draadloos",
+        "https://www.blokker.nl/search?q=oortjes"
       ],
       "isRunning" : false,
       "isMostWantedList": true
