@@ -112,6 +112,90 @@
                 "oordoppen snurken", "slaapoordoppen", "oordopjes slapen", "sleep plugs", "oordoppen slapen",
                 "slaap oordopjes", "earplugs slapen", "oordoppen"
             ]
+        },
+        {
+            "id": "VM-3-0009",
+            "marketplace": "Bol.com",
+            "product": "Oven Mitt 1",
+            "productId": "9300000029386065",
+            "productTitle": "Handschoenen van Sophie Nordinn® - Handschoen Nora (Mintgroen) - Universele wanten 2 Stuks",
+            "price": 16,
+            "keywords":
+            [
+                "ovenwanten", "ovenhandschoenen", "ovenwanten 2 stuks"
+            ]
+        },
+        {
+            "id": "VM-3-0010",
+            "marketplace": "Bol.com",
+            "product": "Oven Mitt 2",
+            "productId": "9300000029386043",
+            "productTitle": "Handschoenen van Sophie Nordinn® - Handschoen Nora (Roze) - Universele wanten 2 Stuks",
+            "price": 16,
+            "keywords":
+            [
+                "ovenwanten", "ovenhandschoenen", "ovenwanten 2 stuks"
+            ]
+        },
+        {
+            "id": "VM-3-0011",
+            "marketplace": "Bol.com",
+            "product": "Oven Mitt 3",
+            "productId": "9300000029386062",
+            "productTitle": "Sophie Nordinn® - Ovenwanten - Ovenhandschoenen - Handschoen Nora (Blauw) - Universele wanten 2 Stuks",
+            "price": 16,
+            "keywords":
+            [
+                "ovenwanten", "ovenhandschoenen", "ovenwanten 2 stuks"
+            ]
+        },
+        {
+            "id": "VM-3-0012",
+            "marketplace": "Bol.com",
+            "product": "Oven Mitt 4",
+            "productId": "9300000029386054",
+            "productTitle": "Handschoenen van Sophie Nordinn® - Handschoen Nora (Donkerblauw) - Universele wanten 2 Stuks",
+            "price": 16,
+            "keywords":
+            [
+                "ovenwanten", "ovenhandschoenen", "ovenwanten 2 stuks"
+            ]
+        },
+        {
+            "id": "VM-3-0013",
+            "marketplace": "Bol.com",
+            "product": "Oven Mitt 5",
+            "productId": "9300000029386037",
+            "productTitle": "Handschoenen van Sophie Nordinn® - Handschoen Nora (Matcha) - Universele wanten 2 Stuks",
+            "price": 16,
+            "keywords":
+            [
+                "ovenwanten", "ovenhandschoenen", "ovenwanten 2 stuks"
+            ]
+        },
+        {
+            "id": "VM-3-0014",
+            "marketplace": "Bol.com",
+            "product": "Oven Mitt 6",
+            "productId": "9300000029386057",
+            "productTitle": "Handschoenen van Sophie Nordinn® - Handschoen Nora (Rood) - Universele wanten 2 Stuks",
+            "price": 16,
+            "keywords":
+            [
+                "ovenwanten", "ovenhandschoenen", "ovenwanten 2 stuks"
+            ]
+        },
+        {
+            "id": "VM-3-0015",
+            "marketplace": "Bol.com",
+            "product": "Oven Mitt 7",
+            "productId": "9300000029386063",
+            "productTitle": "Handschoenen van Sophie Nordinn® - Handschoen Nora (Grijs) - Universele wanten 2 Stuks",
+            "price": 16,
+            "keywords":
+            [
+                "ovenwanten", "ovenhandschoenen", "ovenwanten 2 stuks"
+            ]
         }
     ]
 } 
