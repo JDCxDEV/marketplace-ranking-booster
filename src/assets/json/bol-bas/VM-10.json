@@ -182,7 +182,8 @@
             "keywords":
             [
                 "keukenschaar"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-10-0016",
@@ -226,7 +227,7 @@
             "product": "KOI Artisan® Professioneel Koksmes",
             "productId": "9300000181200622",
             "productTitle": "KOI Artisan® Professioneel Koksmes - 17,78 cm - Professionele Kwaliteit Duits Staal – Vlek- & Corrosiebestendig - Hoog Koolstof Damast Duits Messen EN1. 4116 Roestvrij Staal",
-            "price": 37,
+            "price": 29,
             "keywords":
             [
                 "koksmes", "keukenmessen"

@@ -60,7 +60,8 @@
             "keywords":
             [
                 "wasmand", "opbergmand", "opbergmanden", "opberg mand"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-6-0006",
@@ -140,7 +141,7 @@
             "product": "Placemat Vaxjo Blue",
             "productId": "Placemats van Sophie Nordinn® - Placemat Vaxjo (Lichtblauw) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
             "productTitle": "9300000010054921",
-            "price": 22,
+            "price": 21,
             "keywords":
             [
                 "placemats", "placemat", "placemat kunststof"
@@ -181,7 +182,8 @@
             "keywords":
             [
                 "wasmand", "opbergmand", "opbergmanden", "opberg mand"
-            ]
+            ],
+            "isOutOfStock": true
         }
     ]
 }
