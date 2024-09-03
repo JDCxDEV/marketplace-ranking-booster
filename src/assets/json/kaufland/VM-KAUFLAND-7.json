@@ -1,0 +1,21 @@
+{
+    "products":
+    [
+        {
+            "id": "VM-7-0001",
+            "marketplace": "Kaufland",
+            "product": "",
+            "productTitle": "",
+            "productId": "",
+            "keywords": ["", ""],
+            "keyword":
+            [
+                {
+                    "name": "",
+                    "link": ""
+                }
+            ],
+            "isRunning" : false 
+        }
+    ]
+  }
