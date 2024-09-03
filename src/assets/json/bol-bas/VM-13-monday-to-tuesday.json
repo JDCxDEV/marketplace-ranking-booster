@@ -17,15 +17,14 @@
         {
             "id": "VM-13-0002",
             "marketplace": "Bol.com",
-            "product": "8720254257907",
-            "productId": "8719992214013",
+            "product": "8719992214013",
+            "productId": "9200000100047376",
             "productTitle": "SmartphoneClip® Milanees Bandje Zwart geschikt voor Fitbit Charge 3 / Charge 4",
             "price": 9,
             "keywords":
             [
                 "fitbit bandje charge 3", "fitbit bandje charge 4", "fitbit charge 3 bandje", "fitbit charge 4 bandje"
-            ],
-            "isOutOfStock": true
+            ]
         },
         {
             "id": "VM-13-0003",
@@ -133,7 +132,8 @@
             "keywords":
             [
                 "fitbit bandje", "fitbit bandje charge 3", "fitbit charge 3 bandje", "fitbit bandje charge 4", "fitbit charge 4 bandje"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-13-0012",
