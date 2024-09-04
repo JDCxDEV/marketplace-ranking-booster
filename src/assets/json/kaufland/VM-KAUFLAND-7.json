@@ -4,15 +4,411 @@
         {
             "id": "VM-7-0001",
             "marketplace": "Kaufland",
-            "product": "",
-            "productTitle": "",
-            "productId": "",
-            "keywords": ["", ""],
+            "product": "Kitchen Apron Women -  Green",
+            "productTitle": "Sophie Nordinn® Kochschürzen Baumwolle Schürze Verstellbare Grillschürze mit langen Bändern für Männer Damen Küche Restaurant Werkenschürze (Mintgrün)",
+            "productId": "488872839",
+            "keywords": ["schürze", "kochschürze herren", "kochschürze"],
             "keyword":
             [
                 {
-                    "name": "",
-                    "link": ""
+                    "name": "schürze",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=sch%C3%BCrze"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0002",
+            "marketplace": "Kaufland",
+            "product": "Kitchen Apron Women -  Paars",
+            "productTitle": "Sophie Nordinn® Kochschürzen Baumwolle Schürze Verstellbare Grillschürze mit langen Bändern für Männer Damen, Küche, Restaurant, Werkenschürze -(Lila)",
+            "productId": "490910999",
+            "keywords": ["schürze", "kochschürze herren", "kochschürze"],
+            "keyword":
+            [
+                {
+                    "name": "schürze",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=sch%C3%BCrze"
+                },
+                {
+                    "name": "kochschürze herren",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=kochsch%C3%BCrze%20damen"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0003",
+            "marketplace": "Kaufland",
+            "product": "Kitchen Apron Women -  Roze",
+            "productTitle": "Sophie Nordinn® Kochschürzen Baumwolle Schürze Verstellbare Grillschürze mit langen Bändern für Männer Damen, Küche, Restaurant, Werkenschürze -(Rosa)",
+            "productId": "490910997",
+            "keywords": ["schürze", "kochschürze herren", "kochschürze"],
+            "keyword":
+            [
+                {
+                    "name": "schürze",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=sch%C3%BCrze"
+                },
+                {
+                    "name": "kochschürze herren",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=kochsch%C3%BCrze%20damen"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0004",
+            "marketplace": "Kaufland",
+            "product": "Mandjes Opbergen - Zwart",
+            "productTitle": "Sophie Nordinn® Elegante, praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe, Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund-Schwarz",
+            "productId": "489009849",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0005",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand  - Lichtgrijs",
+            "productTitle": "Sophie Nordinn® Elegante, praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Groß Baumwollkorb, Handtuchkorb für Badezimmer, Rund-Hellgrau",
+            "productId": "489010052",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0006",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand  - Zwart klein",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer (Schwarz klein)",
+            "productId": "489011224",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0007",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand - Bruin Wit",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe -Braun/Weiß",
+            "productId": "489010966",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=4300-4400&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=4300-4400&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0008",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand - Grijs",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer (Grijs klein)",
+            "productId": "489011480",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0009",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand - Turquoise",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe - Türkis",
+            "productId": "489015552",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0010",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand - Wit",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe Weiße klein",
+            "productId": "489011901",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0011",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Donkergrijs",
+            "productTitle": "Sophie Nordinn® Elegante, praktische Körbe, Korb Geflochten Aufbewahrungskorb Dekokörbe Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund-Dunkelgrau",
+            "productId": "489010043",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?price=2500-2600&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?price=2500-2600&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0012",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Light blue",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe -Hellblau",
+            "productId": "489014185",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2900&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2900&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0013",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Orebro",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe, Körbe",
+            "productId": "489012035",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2700-2800&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0014",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Orebro - Graanschil Katoen/wit",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe, (Weiß)",
+            "productId": "489012449",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0015",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Orebro - Zeegras Wit/Bruin",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe, Weiß/braun",
+            "productId": "489012271",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0016",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Stockholm (Grass)",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe - Grass",
+            "productId": "489012836",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0017",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Wit",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe -Weiße Naht",
+            "productId": "489010904",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3200-3300&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0018",
+            "marketplace": "Kaufland",
+            "product": "Opbergmand Zwart",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe, Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund -Schwarz",
+            "productId": "489010407",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keyword":
+            [
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3200-3300&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0019",
+            "marketplace": "Kaufland",
+            "product": "Placemat - Jute 4 stuks",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490252009",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=platzsets%20abwaschbar"
+                },
+                {
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=platzsets"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0020",
+            "marketplace": "Kaufland",
+            "product": "Placemat - Lichtgrijs 4 stuks",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490910380",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
+                },
+                {
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
