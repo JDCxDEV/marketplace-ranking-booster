@@ -63,8 +63,7 @@
             "keywords":
             [
                 "led spot", "gu10 lamp", "led lampen gu10", "gu10", "gu10 led lamp dimbaar",
-                "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "led spot gu10", "ledlamp",
-                "led lampen"
+                "gu10 led lamp", "gu10 led lamp warm white", "gu10 led", "ledlamp", "led lampen"
             ]
         },
         {
@@ -90,8 +89,8 @@
             "price": 20,
             "keywords":
             [
-                "ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27",
-                "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"
+                "led lamp e27", "led lampen e27", "e27", "e27 led lamp", "e27 lamp", 
+                "e27 led lamp dimbaar", "led lampen e27 dimbaar"
             ]
         },
         {
@@ -118,7 +117,8 @@
             [
                 "ledlamp", "led lampen", "led lamp e27", "led lampen e27", "e27",
                 "e27 led lamp", "e27 lamp", "e27 led lamp dimbaar", "e27 led", "led lampen e27 dimbaar"
-            ]
+            ],
+            "isOutOfStock": true
         },
         {
             "id": "VM-7-0010",
@@ -173,7 +173,7 @@
             [
                 "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
                 "lichtstrip", "rgb led strip", "led", "led light", "led licht",
-                "gaming lights", "led light strip", "led strip 15 meter"
+                "led light strip", "led strip 15 meter"
             ]
         },
         {

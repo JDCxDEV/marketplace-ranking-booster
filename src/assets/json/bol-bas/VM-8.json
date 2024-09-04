@@ -52,8 +52,8 @@
             "keywords":
             [
                 "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
-                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
-                "led licht", "gaming lights", "led strip 20 meter", "led light strip"
+                "lichtstrip", "rgb led strip", "led", "led light", "led licht",
+                "gaming lights", "led strip 20 meter", "led light strip"
             ]
         },
         {
@@ -65,9 +65,9 @@
             "price": 44,
             "keywords":
             [
-                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
-                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
-                "led licht", "gaming lights", "led light strip", "smart led strip", "led strip 5 meter"
+                "led strip", "led-strips", "ledstrip", "led verlichting strips",
+                "lichtstrip", "rgb led strip", "led", "led light",
+                "led licht", "led light strip", "smart led strip", "led strip 5 meter"
             ]
         },
         {
@@ -79,9 +79,9 @@
             "price": 52,
             "keywords":
             [
-                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "led verlichting strips",
-                "lichtstrip", "gaming", "rgb led strip", "led", "led light",
-                "led licht", "gaming lights", "led light strip", "led strip 10 meter", "led light strip 10 meter"
+                "led strip", "led-strips", "ledstrip", "led verlichting strips",
+                "lichtstrip", "rgb led strip", "led", "led light",
+                "led licht", "led light strip", "led strip 10 meter", "led light strip 10 meter"
             ]
         },
         {
@@ -123,7 +123,7 @@
             [
                 "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
                 "gaming", "rgb led strip", "gaming lights", "led strip usb", "led strip tv",
-                "led strip voor tv", "ambilight strip", "led strip 2 meter"
+                "led strip voor tv", "led strip 2 meter"
             ]
         },
         {
@@ -149,8 +149,8 @@
             "price": 45,
             "keywords":
             [
-                "led strip", "led-strips", "ledstrip", "led strip met afstandsbediening", "lichtstrip",
-                "gaming", "rgb led strip", "gaming lights", "led strip 3 meter", "neon led strip buiten"
+                "led strip", "led-strips", "ledstrip", "rgb led strip", "led strip 3 meter",
+                "neon led strip buiten"
             ]
         },
         {
@@ -201,7 +201,7 @@
             "price": 59,
             "keywords":
             [
-                "solar charger", "solar panel", "solar oplader", "draagbaar zonnepaneel", "opvouwbaar zonnepaneel"
+                "solar charger", "solar panel", "solar oplader"
             ]
         }      
     ]
