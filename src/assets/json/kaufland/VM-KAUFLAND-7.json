@@ -812,6 +812,146 @@
                 }
             ],
             "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0036",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 2 - Grid Grey",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Grid Grey",
+            "productId": "490910955",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0037",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 3 - Linien Gelb",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Linien Gelb",
+            "productId": "490910959",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0038",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 4 - Linien grau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Linien grau",
+            "productId": "490910960",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0039",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 5 - Dreieck Schwarz",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Dreieck Schwarz",
+            "productId": "490910991",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0040",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 6 - Schwarz",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Schwarz",
+            "productId": "490910992",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
         }
     ]
   }
