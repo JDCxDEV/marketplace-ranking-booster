@@ -412,6 +412,406 @@
                 }
             ],
             "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0021",
+            "marketplace": "Kaufland",
+            "product": "Placemat Abisko Grey",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490251906",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
+                },
+                {
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0022",
+            "marketplace": "Kaufland",
+            "product": "Placemat Abisko Verloop",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490251987",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
+                },
+                {
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0023",
+            "marketplace": "Kaufland",
+            "product": "Placemat Vaxjo - Geel",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel - Gelb",
+            "productId": "490910414",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzset"
+                },
+                {
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0024",
+            "marketplace": "Kaufland",
+            "product": "Placemat Vaxjo - Turquiose 4 stuks",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Türkis",
+            "productId": "490910413",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzset"
+                },
+                {
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?price=3300-3300&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0025",
+            "marketplace": "Kaufland",
+            "product": "Placemat Vaxjo Blue",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Hellblau",
+            "productId": "490910412",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzset"
+                },
+                {
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0026",
+            "marketplace": "Kaufland",
+            "product": "Placemat Vaxjo Grey",
+            "productTitle": "Sophie Nordinn® Tischunterlagen Abwischbar Wasserdicht Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Dunkelgrau",
+            "productId": "490910410",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keyword":
+            [
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?price=3300-3300&search_value=platzset"
+                },
+                {
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzsets"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0027",
+            "marketplace": "Kaufland",
+            "product": "Wasmanden  - Roze",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe - Rosa",
+            "productId": "489014978",
+            "keywords": ["wäschekorb", "blumentopf", "aufbewahrungskorb", "korb"],
+            "keyword":
+            [
+                {
+                    "name": "wäschekorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=w%C3%A4schekorb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=aufbewahrungskorb"
+                },
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=korb"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0028",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 1 - Minzgrün",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Minzgrün",
+            "productId": "490910866",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0029",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 2 - Roza",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Roza",
+            "productId": "490910944",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0030",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 3 - Blau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Blau",
+            "productId": "490910945",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0031",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 4 - Dunkelblau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Dunkelblau",
+            "productId": "490910947",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0032",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 5 - Matcha",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Matcha",
+            "productId": "490910948",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0033",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 6 - Rot",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Rot",
+            "productId": "490910949",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0034",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 7 - Grau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Grau",
+            "productId": "490910952",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-7-0035",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 1 - Gitter Schwarz",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Gitter Schwarz",
+            "productId": "490910953",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
         }
     ]
   }
