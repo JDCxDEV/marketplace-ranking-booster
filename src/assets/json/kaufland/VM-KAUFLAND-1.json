@@ -454,6 +454,155 @@
         }
       ],
       "isRunning" : false 
+    },
+    {
+      "id": "VM-1-0019",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Kniekussen Band",
+      "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer (Band) - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables",
+      "productId": "488843256",
+      "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+      "keyword":
+      [
+        {
+          "name": "kniekissen",
+          "link": "https://www.kaufland.de/s/?search_value=kniekissen"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-1-0020",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Kniekussen",
+      "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables Visco Schlafki",
+      "productId": "495200680",
+      "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+      "keyword":
+      [
+        {
+          "name": "kniekissen",
+          "link": "https://www.kaufland.de/s/?search_value=kniekissen"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-1-0021",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Donut Kussen",
+      "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro",
+      "productId": "488843228",
+      "keywords": ["donut-kissen", "hämorrhoidenkissen", "orthopädisches schmerzlinderungskissen"],
+      "keyword":
+      [
+        {
+          "name": "hämorrhoidenkissen",
+          "link": "https://www.kaufland.de/s/?price=3300-3400&search_value=h%C3%A4morrhoidenkissen"
+        }
+      ],
+      "isRunning" : false
+    },
+    {
+      "id": "VM-1-0022",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Ergonomisch Rugkussen",
+      "productTitle": "COMFYCENTRE Ergonomisches Memory-Schaum-Rückenkissen mit antistatischem, orthopädischem Lendenkissen für Bürostuhl, Autositz, Rollstuhl, Sitzkissen",
+      "productId": "495514310",
+      "keywords": ["ergonomisches rückenkissen", "lendenkissen", "lendenkissen für bürostuhl", "rückenkissen"],
+      "keyword":
+      [
+        {
+          "name": "ergonomisches rückenkissen",
+          "link": "https://www.kaufland.de/s/?search_value=ergonomisches%20r%C3%BCckenkissen"
+        },
+        {
+          "name": "lendenkissen",
+          "link": "https://www.kaufland.de/s/?search_value=lendenkissen"
+        },
+        {
+          "name": "lendenkissen für bürostuhl",
+          "link": "https://www.kaufland.de/s/?search_value=lendenkissen%20f%C3%BCr%20b%C3%BCrostuhl"
+        },
+        {
+          "name": "rückenkissen",
+          "link": "https://www.kaufland.de/s/?search_value=r%C3%BCckenkissen"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-1-0023",
+      "marketplace": "Kaufland",
+      "product": "ComfyCentre Bed Bridge",
+      "productTitle": "ComfyCentre Matratzenkeil mit Riemen – Extra breite Liebesbrücke für Matratzen – Matratzenkeile – Bettbinder – Matratzenbinder De Luxe – 200 x 30 cm",
+      "productId": "495367422",
+      "keywords": ["liebesbrücke", "matratzenverbinder", "matratzenkeil"],
+      "keyword":
+      [
+        {
+          "name": "liebesbrücke",
+          "link": "https://www.kaufland.de/s/?search_value=liebesbr%C3%BCcke"
+        },
+        {
+          "name": "matratzenkeil",
+          "link": "https://www.kaufland.de/s/?search_value=matratzenkeil"
+        }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-1-0024",
+      "marketplace": "Kaufland",
+      "product": "Earplugs-L52",
+      "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Schwarz",
+      "productId": "479446317",
+      "keywords": ["bluetooth kopfhörer", "kopfhörer über bluetooth", "bluetooth kopfhörer in ear", "kopfhörer kabellos", "kabellose kopfhörer"],
+      "keyword":
+      [
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.kaufland.de/s/?price=2900-3000&search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+        }
+      ],
+      "isRunning" : false,
+      "isOutOfStock": true
+    },
+    {
+      "id": "VM-1-0025",
+      "marketplace": "Kaufland",
+      "product": "Earplugs-J58 W",
+      "productTitle": "QuchiQ™ Bluetooth Kopfhörer -Kopfhörer Kabellos In Ear mit ENC Noise Cancelling Mic, IPX5 Wasserdicht Ohrhörer LED Anzeige, intensiver Bass, Weiß",
+      "productId": "479447264",
+      "keywords": ["bluetooth kopfhörer", "kopfhörer kabellos", "kopfhörer über bluetooth", "bluetooth kopfhörer inear", "bluetooth kopfhörer in ear", "kabellose kopfhörer"],
+      "keyword":
+      [
+        {
+          "name": "bluetooth kopfhörer",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer"
+        },
+        {
+          "name": "kopfhörer kabellos",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20kabellos"
+        },
+        {
+          "name": "kopfhörer über bluetooth",
+          "link": "https://www.kaufland.de/s/?search_value=kopfh%C3%B6rer%20%C3%BCber%20bluetooth"
+        },
+        {
+          "name": "bluetooth kopfhörer inear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20inear"
+        },
+        {
+          "name": "bluetooth kopfhörer in ear",
+          "link": "https://www.kaufland.de/s/?search_value=bluetooth%20kopfh%C3%B6rer%20in%20ear"
+        },
+        {
+          "name": "kabellose kopfhörer",
+          "link": "https://www.kaufland.de/s/?search_value=kabellose%20kopfh%C3%B6rer"
+        }
+      ],
+      "isRunning" : false
     }
   ]
 }

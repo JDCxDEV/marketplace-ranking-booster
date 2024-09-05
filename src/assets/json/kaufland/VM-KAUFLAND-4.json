@@ -4,243 +4,203 @@
     {
       "id": "VM-4-0001",
       "marketplace": "Kaufland",
-      "product": "LKR-05",
-      "productTitle": "Lideka® LED-Streifen 5m RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
-      "productId": "432698580",
-      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "product": "SLB-GU10-4",
+      "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 4 Stück",
+      "productId": "461186614",
+      "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
       "keyword":
       [
-        {
-          "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?search_value=rgbic"
-        },
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
-        }
+          {
+              "name": "einbaustrahler gu 10",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=einbaustrahler%20gu%2010"
+          },
+          {
+              "name": "gu10 led spot",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=gu10%20led%20spot"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0002",
       "marketplace": "Kaufland",
-      "product": "LKR-010",
-      "productTitle": "Lideka® LED-Streifen 10m (2x5) RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
-      "productId": "432698649",
-      "keywords": ["rgbic", "led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "product": "TV strip 2m",
+      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 2m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 20-46 Zoll Fernseher & WLAN",
+      "productId": "432693127",
+      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-        {
-          "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?search_value=rgbic"
-        },
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5600-5700&search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
-        }
+          {
+              "name": "led streifen",
+              "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          },
+          {
+              "name": "tv hintergrundbeleuchtung",
+              "link": "https://d-and-r-command-center.monday.com/boards/5184534509"
+          },
+          {
+              "name": "hintergrundbeleuchtung tv",
+              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
+          },
+          {
+              "name": "fernseher hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "led strip",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=2300-2400&search_value=led%20strip"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0003",
       "marketplace": "Kaufland",
-      "product": "LKR-015",
-      "productTitle": "Lideka® LED-Streifen 15m (3x5) RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
-      "productId": "461186239",
-      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "product": "TV strip 3m",
+      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 3m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 46-60 Zoll Fernseher & WLAN",
+      "productId": "432693125",
+      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
-        }
+          {
+              "name": "led streifen",
+              "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+          },
+          {
+              "name": "tv hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?search_value=tv%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "hintergrundbeleuchtung tv",
+              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
+          },
+          {
+              "name": "fernseher hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "led strip",
+              "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0004",
       "marketplace": "Kaufland",
-      "product": "LKR-020",
-      "productTitle": "Lideka® LED-Streifen 20m (4x5) RGBIC Regenbogen, App Steuerung WLAN und Fernbedienung, led leiste, LED Strip, led leisten, led strips, rgbic",
-      "productId": "461186231",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen"],
+      "product": "TV strip 4m",
+      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 4m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 60+ Zoll Fernseher & WLAN",
+      "productId": "450343025",
+      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?search_value=rgbic"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        }
+          {
+              "name": "led streifen",
+              "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+          },
+          {
+              "name": "tv hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=tv%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "hintergrundbeleuchtung tv",
+              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
+          },
+          {
+              "name": "fernseher hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=fernseher%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "led strip",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=led%20strip"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0005",
       "marketplace": "Kaufland",
-      "product": "LKR-030",
-      "productTitle": "Lideka® RGBIC LED-Streifen 30m (6x5), LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
-      "productId": "461186227",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips"],
+      "product": "TV strip 5m",
+      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 5m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 60+ Zoll Fernseher & WLAN",
+      "productId": "450343468",
+      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?search_value=rgbic"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=13600-13700&search_value=led%20strips"
-        }
+          {
+              "name": "led streifen",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20streifen"
+          },
+          {
+              "name": "tv hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?price=4800-4900&search_value=tv%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "hintergrundbeleuchtung tv",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=hintergrundbeleuchtung%20tv"
+          },
+          {
+              "name": "fernseher hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=fernseher%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "led strip",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20strip"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0006",
       "marketplace": "Kaufland",
-      "product": "LKR-040",
-      "productTitle": "Lideka® RGBIC LED-Streifen 40m (8x5), LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
-      "productId": "461186226",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips"],
+      "product": "TV strip 6m",
+      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 6m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, für 6+ Zoll Fernseher & WLAN",
+      "productId": "450343527",
+      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
-        },
-        {
-          "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?search_value=rgbic"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=17900-18000&search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
-        }
+          {
+              "name": "led streifen",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20streifen"
+          },
+          {
+              "name": "tv hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=tv%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "hintergrundbeleuchtung tv",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=hintergrundbeleuchtung%20tv"
+          },
+          {
+              "name": "fernseher hintergrundbeleuchtung",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=fernseher%20hintergrundbeleuchtung"
+          },
+          {
+              "name": "led strip",
+              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20strip"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0007",
       "marketplace": "Kaufland",
-      "product": "LKR-050",
-      "productTitle": "Lideka® RGBIC LED-Streifen 50m (10x5), LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
-      "productId": "450401297",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips"],
+      "product": "Baby camera White",
+      "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Weiß",
+      "productId": "479444940",
+      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"],
       "keyword":
       [
         {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          "name": "babyphone mit kamera",
+          "link": "https://www.kaufland.de/s/?search_value=babyphone%20mit%20kamera"
         },
         {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
+          "name": "babyphone kamera überwachung innen",
+          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
         },
         {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?search_value=rgbic"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
+          "name": "babyphone kamera innen",
+          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
         }
       ],
       "isRunning" : false 
@@ -248,27 +208,23 @@
     {
       "id": "VM-4-0008",
       "marketplace": "Kaufland",
-      "product": "LK-05-W",
-      "productTitle": "Lideka® LED Streifen 5m RGBW Kalt und Warmweiß, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, DIY Deko",
-      "productId": "463128383",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips", "rgbw"],
+      "product": "Baby camera Black",
+      "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
+      "productId": "479445987",
+      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone kamera innen", "babyphone überwachungskamera für innen"],
       "keyword":
       [
         {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          "name": "babyphone mit kamera",
+          "link": "https://www.kaufland.de/s/?search_value=babyphone%20mit%20kamera"
         },
         {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
+          "name": "babyphone kamera überwachung innen",
+          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
         },
         {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "rgbw",
-          "link": "https://www.kaufland.de/s/?search_value=rgbw"
+          "name": "babyphone kamera innen",
+          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
         }
       ],
       "isRunning" : false 
@@ -276,31 +232,23 @@
     {
       "id": "VM-4-0009",
       "marketplace": "Kaufland",
-      "product": "LK-010-W",
-      "productTitle": "Lideka® LED Streifen 10m (2x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
-      "productId": "463128417",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips"],
+      "product": "Security camera Black",
+      "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
+      "productId": "478956641",
+      "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
       "keyword":
       [
         {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
+          "name": "überwachungskamera innen",
+          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera%20innen"
         },
         {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
+          "name": "überwachungskamera",
+          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera"
         },
         {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
+          "name": "kamera überwachung innen",
+          "link": "https://www.kaufland.de/s/?search_value=kamera%20%C3%BCberwachung%20innen"
         }
       ],
       "isRunning" : false 
@@ -308,15 +256,23 @@
     {
       "id": "VM-4-0010",
       "marketplace": "Kaufland",
-      "product": "RGBW-LK5-2",
-      "productTitle": "Lideka® LED Streifen 10m (2x5) RGBW Kalt und Warmweiß, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant",
-      "productId": "461186605",
-      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "product": "Security camera White",
+      "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, , Weiß",
+      "productId": "478953181",
+      "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
       "keyword":
       [
         {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          "name": "überwachungskamera innen",
+          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera%20innen"
+        },
+        {
+          "name": "überwachungskamera",
+          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera"
+        },
+        {
+          "name": "kamera überwachung innen",
+          "link": "https://www.kaufland.de/s/?search_value=kamera%20%C3%BCberwachung%20innen"
         }
       ],
       "isRunning" : false 
@@ -324,195 +280,103 @@
     {
       "id": "VM-4-0011",
       "marketplace": "Kaufland",
-      "product": "RGBW-LK5-3",
-      "productTitle": "Lideka® LED Streifen 15m (3x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
-      "productId": "463128426",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips"],
+      "product": "KOI Artisan® Broodmes Scheermesscherpe",
+      "productTitle": "KOI Artisan® Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl - Wellenschliffmesser",
+      "productId": "497737197",
+      "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
-        }
+          {
+              "name": "brotmesser",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=brotmesser"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0012",
       "marketplace": "Kaufland",
-      "product": "RGBW-LK10-2",
-      "productTitle": "Lideka® LED Streifen20m (4x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
-      "productId": "479165742",
-      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "product": "KOI Artisan® Damascus Broodmes",
+      "productTitle": "KOI Artisan® Damascus Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem VG10 Superstahl",
+      "productId": "497700403",
+      "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
-        }
+          {
+              "name": "brotmesser",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=brotmesser"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0013",
       "marketplace": "Kaufland",
-      "product": "RGBW-LK10-3",
-      "productTitle": "Lideka® LED Streifen 30m (6x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, MusikSync, Alexa und Google Assistant, Led Strip",
-      "productId": "463128460",
-      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "product": "KOI Artisan® Damascus Koksmes - 20,32 cm",
+      "productTitle": "KOI Artisan® Damascus Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Premium Küchenmesser in Geschenkbox - Japanische Messer aus VG10 Superstahl",
+      "productId": "497699577",
+      "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
-        }
+          {
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=9800-9900&search_value=kochmesser"
+          },
+          {
+              "name": "küchenmesser",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=k%C3%BCchenmesser"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0014",
       "marketplace": "Kaufland",
-      "product": "RGBW-LK10-4",
-      "productTitle": "Lideka® LED Streifen 40m (8x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
-      "productId": "463128428",
-      "keywords": ["led leiste", "led leisten", "led strip", "led streifen"],
+      "product": "KOI Artisan® Koksmes Chef",
+      "productTitle": "KOI Artisan® Kochmesser -Santokumesser des Chefs- 7 Zoll scharfe Klinge -Volle Angel-Premium Hochkohlenstoff -Küchenmesser -Damaszener deutsche Messer",
+      "productId": "497737209",
+      "keywords": ["kochmesser", "küchenmesser"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        }
+          {
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
+          },
+          {
+              "name": "küchenmesser",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=k%C3%BCchenmesser"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0015",
       "marketplace": "Kaufland",
-      "product": "RGBW-LK10-5",
-      "productTitle": "Lideka® LED-Streifen 50m (10x5) RGBW Kalt- und Warmweiß, App Steuerung WLAN und Fernbedienung, led strip, led streifen, led leiste, led leisten, rgbw",
-      "productId": "461186152",
-      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "product": "KOI Artisan® Koksmes Chefs",
+      "productTitle": "KOI Artisan® Kochmesser - Santokumesser - 17,78 cm - Rasiermesserscharfe Klinge - 67 Lagen - Damaszener Japanisches VG10 Superstahl - Korrosions",
+      "productId": "497701649",
+      "keywords": ["kochmesser", "küchenmesser"],
       "keyword":
       [
-        {
-          "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
-        },
-        {
-          "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
-        },
-        {
-          "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-        },
-        {
-          "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-        },
-        {
-          "name": "led strips",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
-        }
+          {
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=9700-9800&search_value=kochmesser"
+          }
       ],
       "isRunning" : false 
     },
     {
       "id": "VM-4-0016",
       "marketplace": "Kaufland",
-      "product": "SLB-E27-9W",
-      "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 1 Stück",
-      "productId": "463126312",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+      "product": "KOI Artisan® Koksmes Damascus",
+      "productTitle": "KOI Artisan® Kochmesser - Schälmes im Damaststil - 8,9 cm Rasiermesserscharfe Klinge - Kochmesser aus hochkarätigem rostfreiem Superstahl",
+      "productId": "497736737",
+      "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
       "keyword":
       [
           {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20lampe%20e27"
-          },
-          {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?search_value=e27%20birne"
-          },
-          {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20leuchtmittel%20e27"
-          },
-          {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20birne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20birnen%20e27"
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
           }
       ],
       "isRunning" : false 
@@ -520,43 +384,15 @@
     {
       "id": "VM-4-0017",
       "marketplace": "Kaufland",
-      "product": "SLB-E27-9W-2",
-      "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 2 Stück",
-      "productId": "461186204",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+      "product": "KOI Artisan® Koksmes Every",
+      "productTitle": "KOI ARTISAN Kochmesser - Alltagsbereich (7 Zoll, flaches Chef) Meisterkochmesser, Fleischbeil",
+      "productId": "497737162",
+      "keywords": ["kochmesser", "küchenmesser"],
       "keyword":
       [
           {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampe%20e27"
-          },
-          {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
-          },
-          {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20leuchtmittel%20e27"
-          },
-          {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birne%20e27"
-          },
-          {
-              "name": "led glühbirne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20gl%C3%BChbirne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birnen%20e27"
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
           }
       ],
       "isRunning" : false 
@@ -564,43 +400,123 @@
     {
       "id": "VM-4-0018",
       "marketplace": "Kaufland",
-      "product": "SLB-E27-9W-3",
-      "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 3 Stück",
-      "productId": "461186203",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+      "product": "KOI Artisan® Koksmes Fileermes",
+      "productTitle": "KOI Artisan® Kochmesser - Filetiermesser - 15 cm Klinge zum Entgräten von Fisch und Fleisch - Professionelles Küchenmesser - Japanischer",
+      "productId": "497736817",
+      "keywords": ["kochmesser", "küchenmesser", "filetmesser"],
       "keyword":
       [
           {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampe%20e27"
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
           },
           {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampen%20e27"
+              "name": "küchenmesser",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=k%C3%BCchenmesser"
+          }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0019",
+      "marketplace": "Kaufland",
+      "product": "KOI Artisan® Koksmes Vlees",
+      "productTitle": "KOI Artisan® Kochmesser - Fleischmesser - 19,56 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl",
+      "productId": "497736752",
+      "keywords": ["kochmesser", "küchenmesser"],
+      "keyword":
+      [
+          {
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
+          }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0020",
+      "marketplace": "Kaufland",
+      "product": "KOI Artisan® Professioneel Koksmes - 20,32 cm",
+      "productTitle": "KOI Artisan® Professionelles Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Beste Küchenmesser - Japanische Messer aus hochwertigem",
+      "productId": "497737185",
+      "keywords": ["kochmesser", "küchenmesser"],
+      "keyword":
+      [
+          {
+              "name": "kochmesser",
+              "link": "https://www.kaufland.de/s/?price=10900-11000&search_value=kochmesser"
           },
           {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
+              "name": "küchenmesser",
+              "link": "https://www.kaufland.de/s/?price=10900-11000&search_value=k%C3%BCchenmesser"
+          }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0021",
+      "marketplace": "Kaufland",
+      "product": "KOI Artisan® Professionele Messenset",
+      "productTitle": "KOI Artisan® Professionelles Messerset 3 Stücke- Kochmesser - Küchenmesserset aus rostfreiem Stahl mit ergonomischem Pakkaholzgriff - Japanisches Chef",
+      "productId": "497736068",
+      "keywords": ["kochmesser", "küchenmesser", "messerset"],
+      "keyword":
+      [
+          {
+              "name": "messerset",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=messerset"
+          }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0022",
+      "marketplace": "Kaufland",
+      "product": "KOI Artisan® Magnetische Messenhouder",
+      "productTitle": "KOI Artisan® Magnetischer Messerhalter für die Wand - 40 cm - Wandmontage Horizontales Messerregal/Bar - Messer Magnetleiste - Vielseitige Verwendung",
+      "productId": "497792118",
+      "keywords": ["messermagnet", "magnetleiste messer", "messerhalter"],
+      "keyword":
+      [
+          {
+              "name": "magnetleiste messer",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=magnetleiste%20messer"
           },
           {
-              "name": "led glühbirne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4400-4500&search_value=led%20gl%C3%BChbirne%20e27"
-          },
+              "name": "messerhalter",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messerhalter"
+          }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0023",
+      "marketplace": "Kaufland",
+      "product": "KOI Artisan® Multifunctionele Schaar",
+      "productTitle": "KOI Artisan® Multifunktionsschere aus rostfreiem Stahl von - Premium Küchenschere - Spülmaschinenfest - Flaschenöffner - Deckelöffner - Nussknacker",
+      "productId": "497737318",
+      "keywords": ["küchenschere", "kräuterschere"],
+      "keyword":
+      [
           {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20leuchtmittel%20e27"
-          },
+              "name": "küchenschere",
+              "link": "https://www.kaufland.de/s/?21=7101284&price=4300-4400&search_value=k%C3%BCchenschere"
+          }
+      ],
+      "isRunning" : false 
+    },
+    {
+      "id": "VM-4-0024",
+      "marketplace": "Kaufland",
+      "product": "Koi Artisan® Wijn Beluchter",
+      "productTitle": "KOI Artisan® Weinbelüfter - Rotwein-Ausgießer mit Halterung - Weinstopfen - Sediment-Entferner-Filter - Perfekte Weinpräsente, Weinbelüfter",
+      "productId": "497705031",
+      "keywords": ["weinbelüfter"],
+      "keyword":
+      [
           {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birnen%20e27"
+              "name": "weinbelüfter",
+              "link": "https://www.kaufland.de/s/?search_value=weinbel%C3%BCfter"
           }
       ],
       "isRunning" : false 

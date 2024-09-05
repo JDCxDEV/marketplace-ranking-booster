@@ -4,15 +4,19 @@
         {
             "id": "VM-6-0001",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Chefs",
-            "productTitle": "KOI Artisan® Kochmesser - Santokumesser - 17,78 cm - Rasiermesserscharfe Klinge - 67 Lagen - Damaszener Japanisches VG10 Superstahl - Korrosions",
-            "productId": "497701649",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Opbergmand Wit",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe -Weiße Naht",
+            "productId": "489010904",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=9700-9800&search_value=kochmesser"
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3200-3300&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
                 }
             ],
             "isRunning" : false 
@@ -20,15 +24,19 @@
         {
             "id": "VM-6-0002",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Damascus",
-            "productTitle": "KOI Artisan® Kochmesser - Schälmes im Damaststil - 8,9 cm Rasiermesserscharfe Klinge - Kochmesser aus hochkarätigem rostfreiem Superstahl",
-            "productId": "497736737",
-            "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
+            "product": "Opbergmand Zwart",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe, Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund -Schwarz",
+            "productId": "489010407",
+            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3200-3300&search_value=korb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
                 }
             ],
             "isRunning" : false 
@@ -36,15 +44,27 @@
         {
             "id": "VM-6-0003",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Every",
-            "productTitle": "KOI ARTISAN Kochmesser - Alltagsbereich (7 Zoll, flaches Chef) Meisterkochmesser, Fleischbeil",
-            "productId": "497737162",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Placemat - Jute 4 stuks",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490252009",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=platzsets%20abwaschbar"
+                },
+                {
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -52,19 +72,27 @@
         {
             "id": "VM-6-0004",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Fileermes",
-            "productTitle": "KOI Artisan® Kochmesser - Filetiermesser - 15 cm Klinge zum Entgräten von Fisch und Fleisch - Professionelles Küchenmesser - Japanischer",
-            "productId": "497736817",
-            "keywords": ["kochmesser", "küchenmesser", "filetmesser"],
+            "product": "Placemat - Lichtgrijs 4 stuks",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490910380",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
                 },
                 {
-                    "name": "küchenmesser",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=k%C3%BCchenmesser"
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -72,15 +100,27 @@
         {
             "id": "VM-6-0005",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Vlees",
-            "productTitle": "KOI Artisan® Kochmesser - Fleischmesser - 19,56 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl",
-            "productId": "497736752",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Placemat Abisko Grey",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490251906",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
+                },
+                {
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -88,19 +128,27 @@
         {
             "id": "VM-6-0006",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Professioneel Koksmes - 20,32 cm",
-            "productTitle": "KOI Artisan® Professionelles Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Beste Küchenmesser - Japanische Messer aus hochwertigem",
-            "productId": "497737185",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Placemat Abisko Verloop",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
+            "productId": "490251987",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=10900-11000&search_value=kochmesser"
+                    "name": "platzsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
                 },
                 {
-                    "name": "küchenmesser",
-                    "link": "https://www.kaufland.de/s/?price=10900-11000&search_value=k%C3%BCchenmesser"
+                    "name": "tischsets abwaschbar",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                },
+                {
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -108,15 +156,23 @@
         {
             "id": "VM-6-0007",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Professionele Messenset",
-            "productTitle": "KOI Artisan® Professionelles Messerset 3 Stücke- Kochmesser - Küchenmesserset aus rostfreiem Stahl mit ergonomischem Pakkaholzgriff - Japanisches Chef",
-            "productId": "497736068",
-            "keywords": ["kochmesser", "küchenmesser", "messerset"],
+            "product": "Placemat Vaxjo - Geel",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel - Gelb",
+            "productId": "490910414",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "messerset",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=messerset"
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzset"
+                },
+                {
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -124,19 +180,23 @@
         {
             "id": "VM-6-0008",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Magnetische Messenhouder",
-            "productTitle": "KOI Artisan® Magnetischer Messerhalter für die Wand - 40 cm - Wandmontage Horizontales Messerregal/Bar - Messer Magnetleiste - Vielseitige Verwendung",
-            "productId": "497792118",
-            "keywords": ["messermagnet", "magnetleiste messer", "messerhalter"],
+            "product": "Placemat Vaxjo - Turquiose 4 stuks",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Türkis",
+            "productId": "490910413",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "magnetleiste messer",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=magnetleiste%20messer"
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzset"
                 },
                 {
-                    "name": "messerhalter",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messerhalter"
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?price=3300-3300&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -144,15 +204,23 @@
         {
             "id": "VM-6-0009",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Multifunctionele Schaar",
-            "productTitle": "KOI Artisan® Multifunktionsschere aus rostfreiem Stahl von - Premium Küchenschere - Spülmaschinenfest - Flaschenöffner - Deckelöffner - Nussknacker",
-            "productId": "497737318",
-            "keywords": ["küchenschere", "kräuterschere"],
+            "product": "Placemat Vaxjo Blue",
+            "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Hellblau",
+            "productId": "490910412",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "küchenschere",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=4300-4400&search_value=k%C3%BCchenschere"
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzset"
+                },
+                {
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -160,15 +228,23 @@
         {
             "id": "VM-6-0010",
             "marketplace": "Kaufland",
-            "product": "Koi Artisan® Wijn Beluchter",
-            "productTitle": "KOI Artisan® Weinbelüfter - Rotwein-Ausgießer mit Halterung - Weinstopfen - Sediment-Entferner-Filter - Perfekte Weinpräsente, Weinbelüfter",
-            "productId": "497705031",
-            "keywords": ["weinbelüfter"],
+            "product": "Placemat Vaxjo Grey",
+            "productTitle": "Sophie Nordinn® Tischunterlagen Abwischbar Wasserdicht Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Dunkelgrau",
+            "productId": "490910410",
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
-                    "name": "weinbelüfter",
-                    "link": "https://www.kaufland.de/s/?search_value=weinbel%C3%BCfter"
+                    "name": "platzset",
+                    "link": "https://www.kaufland.de/s/?price=3300-3300&search_value=platzset"
+                },
+                {
+                    "name": "platzdeckchen",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzdeckchen"
+                },
+                {
+                    "name": "platzsets",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -176,15 +252,23 @@
         {
             "id": "VM-6-0011",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Knoflookpers",
-            "productTitle": "KOI Artisan® Knoblauchpresse aus Edelstahl - Knoblauchzerkleinerer Rocker Presse mit Knoblauchschäler und Holzgriff, Knoblauchpresse",
-            "productId": "497703372",
-            "keywords": ["knoblauchpresse"],
+            "product": "Wasmanden  - Roze",
+            "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe - Rosa",
+            "productId": "489014978",
+            "keywords": ["wäschekorb", "blumentopf", "aufbewahrungskorb", "korb"],
             "keyword":
             [
                 {
-                    "name": "knoblauchpresse",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=1400-1500&search_value=knoblauchpresse"
+                    "name": "wäschekorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=w%C3%A4schekorb"
+                },
+                {
+                    "name": "aufbewahrungskorb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=aufbewahrungskorb"
+                },
+                {
+                    "name": "korb",
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=korb"
                 }
             ],
             "isRunning" : false 
@@ -192,19 +276,27 @@
         {
             "id": "VM-6-0012",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Messenblok",
-            "productTitle": "KOI Artisan® Messerblock in Vogelaugenform ohne Messer - Entworfen zum Schutz von Messern, Geeignet für bis zu 10 Messer - Abnehmbares, Mattschwarz",
-            "productId": "497711694",
-            "keywords": ["messerblock", "messerblock ohne messer"],
+            "product": "Oven Mitt 1 - Minzgrün",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Minzgrün",
+            "productId": "490910866",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
             "keyword":
             [
                 {
-                    "name": "messerblock",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=3500-3600&search_value=messerblock"
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
                 },
                 {
-                    "name": "messerblock ohne messer",
-                    "link": "https://www.kaufland.de/s/?search_value=messerblock%20ohne%20messer"
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
                 }
             ],
             "isRunning" : false 
@@ -212,15 +304,27 @@
         {
             "id": "VM-6-0013",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Messenslijper",
-            "productTitle": "KOI ARTISAN Messerschärfer Schleifstein - Zweiseitig Körnung 1000/6000 mit Winkelhilfe Rutschfeste Bambusbasis - Bester Wasserstein Messerschärfer",
-            "productId": "497791854",
-            "keywords": ["messerschärfer", "wetzstein"],
+            "product": "Oven Mitt 2 - Roza",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Roza",
+            "productId": "490910944",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
             "keyword":
             [
                 {
-                    "name": "messerschärfer",
-                    "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messersch%C3%A4rfer"
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
                 }
             ],
             "isRunning" : false 
@@ -228,15 +332,27 @@
         {
             "id": "VM-6-0014",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Damascus Koksmes - 8,89 cm",
-            "productTitle": "KOI Artisan® Damascus Kochmesser - 8,89 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem Damascus VG10 Superstahl - Chef Messer",
-            "productId": "497700921",
-            "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
+            "product": "Oven Mitt 3 - Blau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Blau",
+            "productId": "490910945",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=6100-6200&search_value=kochmesser"
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-1900&search_value=grillhandschuhe"
                 }
             ],
             "isRunning" : false 
@@ -244,15 +360,27 @@
         {
             "id": "VM-6-0015",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Santokumes Koksmes - 17,78 cm",
-            "productTitle": "KOI Artisan® Santokumes - 17,78 cm - Kochmesser - Rasiermesserscharfe Klinge - Japanischer Hochkohlenstoff-Rostfreier Stahl - Stilvolles Damascus",
-            "productId": "497713577",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Oven Mitt 4 - Dunkelblau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Dunkelblau",
+            "productId": "490910947",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=kochmesser"
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
                 }
             ],
             "isRunning" : false 
@@ -260,19 +388,27 @@
         {
             "id": "VM-6-0016",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Scheermesscherp - 67 Lagen",
-            "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - 67 Lagen japanisches Küchenmesser -Damascus VG10 Superstahl- Professionelles Kochmesser",
-            "productId": "497711181",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Oven Mitt 5 - Matcha",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Matcha",
+            "productId": "490910948",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=kochmesser"
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
                 },
                 {
-                    "name": "küchenmesser",
-                    "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=k%C3%BCchenmesser"
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
                 }
             ],
             "isRunning" : false 
@@ -280,32 +416,223 @@
         {
             "id": "VM-6-0017",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Koksmes Scheermesscherp - Professionelle",
-            "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - Professionelle Chef Messer - Japanische Messer aus hochkarätigem Kohlenstoff-Edelstahl",
-            "productId": "497713550",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Oven Mitt 6 - Rot",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Rot",
+            "productId": "490910949",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=kochmesser"
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
                 }
             ],
-            "isRunning" : false,
-            "isOutOfStock": true
+            "isRunning" : false 
         },
         {
             "id": "VM-6-0018",
             "marketplace": "Kaufland",
-            "product": "KOI Artisan® Professioneel Koksmes - 8 Zoll",
-            "productTitle": "KOI Artisan® Professionelles Kochmesser, 8 Zoll Scharfe Klinge Edelstahl, Damaszener, deutsche Messer Rostfreier Stahl Korrosions & Fleckenbeständig",
-            "productId": "497791942",
-            "keywords": ["kochmesser", "küchenmesser"],
+            "product": "Oven Mitt 7 - Grau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Grau",
+            "productId": "490910952",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
             "keyword":
             [
                 {
-                    "name": "kochmesser",
-                    "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=kochmesser"
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0019",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 1 - Gitter Schwarz",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Gitter Schwarz",
+            "productId": "490910953",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0020",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 2 - Grid Grey",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Grid Grey",
+            "productId": "490910955",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0021",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 3 - Linien Gelb",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Linien Gelb",
+            "productId": "490910959",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0022",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 4 - Linien grau",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Linien grau",
+            "productId": "490910960",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0023",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 5 - Dreieck Schwarz",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Dreieck Schwarz",
+            "productId": "490910991",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
+                }
+            ],
+            "isRunning" : false 
+        },
+        {
+            "id": "VM-6-0024",
+            "marketplace": "Kaufland",
+            "product": "Oven Mitt 6 - Schwarz",
+            "productTitle": "Sophie Nordinn® bietet hochwertige Ofenhandschuhe, Backhandschuhe, Topfhandschuhe & Grillhandschuhe für jede Küchenherausforderung - Schwarz",
+            "productId": "490910992",
+            "keywords": ["ofenhandschuhe", "backhandschuhe", "topfhandschuhe", "grillhandschuhe"],
+            "keyword":
+            [
+                {
+                    "name": "ofenhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=ofenhandschuhe"
+                },
+                {
+                    "name": "backhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=backhandschuhe"
+                },
+                {
+                    "name": "topfhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=topfhandschuhe"
+                },
+                {
+                    "name": "grillhandschuhe",
+                    "link": "https://www.kaufland.de/s/?price=2000-2000&search_value=grillhandschuhe"
                 }
             ],
             "isRunning" : false 

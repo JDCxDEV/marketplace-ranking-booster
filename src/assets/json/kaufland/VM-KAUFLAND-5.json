@@ -2,452 +2,457 @@
   "products":
   [
     {
-      "id": "VM-5-0001",
-      "marketplace": "Kaufland",
-      "product": "SLB-E27-9W-4",
-      "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 4 Stück",
-      "productId": "461186202",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
-      "keyword":
-      [
-          {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampe%20e27"
-          },
-          {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "led glühbirne e27",
-              "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=led%20gl%C3%BChbirne%20e27"
-          },
-          {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20leuchtmittel%20e27"
-          },
-          {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birnen%20e27"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0002",
-      "marketplace": "Kaufland",
-      "product": "SLB-E14",
-      "productTitle": "Lideka® E14 Smart LED Lampe 6W 2700K, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 1 Stück",
-      "productId": "463128530",
-      "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "e14"],
-      "keyword":
-      [
-          {
-              "name": "e14",
-              "link": "https://www.kaufland.de/s/?price=2600-2700&search_value=e14"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0003",
-      "marketplace": "Kaufland",
-      "product": "SLB-GU10-2",
-      "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 2 Stück",
-      "productId": "461186210",
-      "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-      "keyword":
-      [
-          {
-              "name": "einbaustrahler gu 10",
-              "link": "https://www.kaufland.de/s/?search_value=einbaustrahler%20gu%2010"
-          },
-          {
-              "name": "gu10 led spot",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3800-3900&search_value=gu10%20led%20spot"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0004",
-      "marketplace": "Kaufland",
-      "product": "SLB-GU10-3",
-      "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 3 Stück",
-      "productId": "461186615",
-      "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-      "keyword":
-      [
-          {
-              "name": "einbaustrahler gu 10",
-              "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=einbaustrahler%20gu%2010"
-          },
-          {
-              "name": "gu10 led spot",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=gu10%20led%20spot"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0005",
-      "marketplace": "Kaufland",
-      "product": "SLB-GU10-4",
-      "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 4 Stück",
-      "productId": "461186614",
-      "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
-      "keyword":
-      [
-          {
-              "name": "einbaustrahler gu 10",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=einbaustrahler%20gu%2010"
-          },
-          {
-              "name": "gu10 led spot",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=gu10%20led%20spot"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0006",
-      "marketplace": "Kaufland",
-      "product": "TV strip 2m",
-      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 2m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 20-46 Zoll Fernseher & WLAN",
-      "productId": "432693127",
-      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
-      "keyword":
-      [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://d-and-r-command-center.monday.com/boards/5184534509"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=2300-2400&search_value=led%20strip"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0007",
-      "marketplace": "Kaufland",
-      "product": "TV strip 3m",
-      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 3m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 46-60 Zoll Fernseher & WLAN",
-      "productId": "432693125",
-      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
-      "keyword":
-      [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0008",
-      "marketplace": "Kaufland",
-      "product": "TV strip 4m",
-      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 4m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 60+ Zoll Fernseher & WLAN",
-      "productId": "450343025",
-      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
-      "keyword":
-      [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=led%20strip"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0009",
-      "marketplace": "Kaufland",
-      "product": "TV strip 5m",
-      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 5m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, 60+ Zoll Fernseher & WLAN",
-      "productId": "450343468",
-      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
-      "keyword":
-      [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?price=4800-4900&search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20strip"
-          }
-      ],
-      "isRunning" : false 
-  },
-  {
-      "id": "VM-5-0010",
-      "marketplace": "Kaufland",
-      "product": "TV strip 6m",
-      "productTitle": "Lideka® LED TV Strip Hintergrundbeleuchtung, 6m RGB LED Streifen, mit Alexa und Google Assistant, APP, Musiksync, USB, für 6+ Zoll Fernseher & WLAN",
-      "productId": "450343527",
-      "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
-      "keyword":
-      [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20strip"
-          }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0001",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Knoflookpers",
+        "productTitle": "KOI Artisan® Knoblauchpresse aus Edelstahl - Knoblauchzerkleinerer Rocker Presse mit Knoblauchschäler und Holzgriff, Knoblauchpresse",
+        "productId": "497703372",
+        "keywords": ["knoblauchpresse"],
+        "keyword":
+        [
+            {
+                "name": "knoblauchpresse",
+                "link": "https://www.kaufland.de/s/?21=7101284&price=1400-1500&search_value=knoblauchpresse"
+            }
+        ],
+        "isRunning" : false 
     },
     {
-      "id": "VM-5-0011",
-      "marketplace": "Kaufland",
-      "product": "Baby camera White",
-      "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Weiß",
-      "productId": "479444940",
-      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"],
-      "keyword":
-      [
-        {
-          "name": "babyphone mit kamera",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20mit%20kamera"
-        },
-        {
-          "name": "babyphone kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
-        },
-        {
-          "name": "babyphone kamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
-        }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0002",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Messenblok",
+        "productTitle": "KOI Artisan® Messerblock in Vogelaugenform ohne Messer - Entworfen zum Schutz von Messern, Geeignet für bis zu 10 Messer - Abnehmbares, Mattschwarz",
+        "productId": "497711694",
+        "keywords": ["messerblock", "messerblock ohne messer"],
+        "keyword":
+        [
+            {
+                "name": "messerblock",
+                "link": "https://www.kaufland.de/s/?21=7101284&price=3500-3600&search_value=messerblock"
+            },
+            {
+                "name": "messerblock ohne messer",
+                "link": "https://www.kaufland.de/s/?search_value=messerblock%20ohne%20messer"
+            }
+        ],
+        "isRunning" : false 
     },
     {
-      "id": "VM-5-0012",
-      "marketplace": "Kaufland",
-      "product": "Baby camera Black",
-      "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
-      "productId": "479445987",
-      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone kamera innen", "babyphone überwachungskamera für innen"],
-      "keyword":
-      [
-        {
-          "name": "babyphone mit kamera",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20mit%20kamera"
-        },
-        {
-          "name": "babyphone kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20%C3%BCberwachung%20innen"
-        },
-        {
-          "name": "babyphone kamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=babyphone%20kamera%20innen"
-        }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0003",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Messenslijper",
+        "productTitle": "KOI ARTISAN Messerschärfer Schleifstein - Zweiseitig Körnung 1000/6000 mit Winkelhilfe Rutschfeste Bambusbasis - Bester Wasserstein Messerschärfer",
+        "productId": "497791854",
+        "keywords": ["messerschärfer", "wetzstein"],
+        "keyword":
+        [
+            {
+                "name": "messerschärfer",
+                "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messersch%C3%A4rfer"
+            }
+        ],
+        "isRunning" : false 
     },
     {
-      "id": "VM-5-0013",
-      "marketplace": "Kaufland",
-      "product": "Security camera Black",
-      "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
-      "productId": "478956641",
-      "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
-      "keyword":
-      [
-        {
-          "name": "überwachungskamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera%20innen"
-        },
-        {
-          "name": "überwachungskamera",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera"
-        },
-        {
-          "name": "kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=kamera%20%C3%BCberwachung%20innen"
-        }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0004",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Damascus Koksmes - 8,89 cm",
+        "productTitle": "KOI Artisan® Damascus Kochmesser - 8,89 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem Damascus VG10 Superstahl - Chef Messer",
+        "productId": "497700921",
+        "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
+        "keyword":
+        [
+            {
+                "name": "kochmesser",
+                "link": "https://www.kaufland.de/s/?price=6100-6200&search_value=kochmesser"
+            }
+        ],
+        "isRunning" : false 
     },
     {
-      "id": "VM-5-0014",
-      "marketplace": "Kaufland",
-      "product": "Security camera White",
-      "productTitle": "Überwachungskamera, WLAN IP Haustier Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, , Weiß",
-      "productId": "478953181",
-      "keywords": ["überwachungskamera innen", "überwachungskamera", "kamera überwachung innen"],
-      "keyword":
-      [
-        {
-          "name": "überwachungskamera innen",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera%20innen"
-        },
-        {
-          "name": "überwachungskamera",
-          "link": "https://www.kaufland.de/s/?search_value=%C3%BCberwachungskamera"
-        },
-        {
-          "name": "kamera überwachung innen",
-          "link": "https://www.kaufland.de/s/?search_value=kamera%20%C3%BCberwachung%20innen"
-        }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0005",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Santokumes Koksmes - 17,78 cm",
+        "productTitle": "KOI Artisan® Santokumes - 17,78 cm - Kochmesser - Rasiermesserscharfe Klinge - Japanischer Hochkohlenstoff-Rostfreier Stahl - Stilvolles Damascus",
+        "productId": "497713577",
+        "keywords": ["kochmesser", "küchenmesser"],
+        "keyword":
+        [
+            {
+                "name": "kochmesser",
+                "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=kochmesser"
+            }
+        ],
+        "isRunning" : false 
     },
     {
-      "id": "VM-5-0015",
-      "marketplace": "Kaufland",
-      "product": "KOI Artisan® Broodmes Scheermesscherpe",
-      "productTitle": "KOI Artisan® Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl - Wellenschliffmesser",
-      "productId": "497737197",
-      "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
-      "keyword":
-      [
-          {
-              "name": "brotmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=brotmesser"
-          }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0006",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Koksmes Scheermesscherp - 67 Lagen",
+        "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - 67 Lagen japanisches Küchenmesser -Damascus VG10 Superstahl- Professionelles Kochmesser",
+        "productId": "497711181",
+        "keywords": ["kochmesser", "küchenmesser"],
+        "keyword":
+        [
+            {
+                "name": "kochmesser",
+                "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=kochmesser"
+            },
+            {
+                "name": "küchenmesser",
+                "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=k%C3%BCchenmesser"
+            }
+        ],
+        "isRunning" : false 
     },
     {
-      "id": "VM-5-0016",
-      "marketplace": "Kaufland",
-      "product": "KOI Artisan® Damascus Broodmes",
-      "productTitle": "KOI Artisan® Damascus Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem VG10 Superstahl",
-      "productId": "497700403",
-      "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
-      "keyword":
-      [
-          {
-              "name": "brotmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=brotmesser"
-          }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0007",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Koksmes Scheermesscherp - Professionelle",
+        "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - Professionelle Chef Messer - Japanische Messer aus hochkarätigem Kohlenstoff-Edelstahl",
+        "productId": "497713550",
+        "keywords": ["kochmesser", "küchenmesser"],
+        "keyword":
+        [
+            {
+                "name": "kochmesser",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=kochmesser"
+            }
+        ],
+        "isRunning" : false,
+        "isOutOfStock": true
     },
     {
-      "id": "VM-5-0017",
-      "marketplace": "Kaufland",
-      "product": "KOI Artisan® Damascus Koksmes - 20,32 cm",
-      "productTitle": "KOI Artisan® Damascus Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Premium Küchenmesser in Geschenkbox - Japanische Messer aus VG10 Superstahl",
-      "productId": "497699577",
-      "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
-      "keyword":
-      [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=9800-9900&search_value=kochmesser"
-          },
-          {
-              "name": "küchenmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=k%C3%BCchenmesser"
-          }
-      ],
-      "isRunning" : false 
+        "id": "VM-5-0008",
+        "marketplace": "Kaufland",
+        "product": "KOI Artisan® Professioneel Koksmes - 8 Zoll",
+        "productTitle": "KOI Artisan® Professionelles Kochmesser, 8 Zoll Scharfe Klinge Edelstahl, Damaszener, deutsche Messer Rostfreier Stahl Korrosions & Fleckenbeständig",
+        "productId": "497791942",
+        "keywords": ["kochmesser", "küchenmesser"],
+        "keyword":
+        [
+            {
+                "name": "kochmesser",
+                "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=kochmesser"
+            }
+        ],
+        "isRunning" : false 
     },
     {
-      "id": "VM-5-0018",
-      "marketplace": "Kaufland",
-      "product": "KOI Artisan® Koksmes Chef",
-      "productTitle": "KOI Artisan® Kochmesser -Santokumesser des Chefs- 7 Zoll scharfe Klinge -Volle Angel-Premium Hochkohlenstoff -Küchenmesser -Damaszener deutsche Messer",
-      "productId": "497737209",
-      "keywords": ["kochmesser", "küchenmesser"],
-      "keyword":
-      [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
-          },
-          {
-              "name": "küchenmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=k%C3%BCchenmesser"
-          }
-      ],
-      "isRunning" : false 
-   }
+        "id": "VM-5-0009",
+        "marketplace": "Kaufland",
+        "product": "Kitchen Apron Women -  Green",
+        "productTitle": "Sophie Nordinn® Kochschürzen Baumwolle Schürze Verstellbare Grillschürze mit langen Bändern für Männer Damen Küche Restaurant Werkenschürze (Mintgrün)",
+        "productId": "488872839",
+        "keywords": ["schürze", "kochschürze herren", "kochschürze"],
+        "keyword":
+        [
+            {
+                "name": "schürze",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=sch%C3%BCrze"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0010",
+        "marketplace": "Kaufland",
+        "product": "Kitchen Apron Women -  Paars",
+        "productTitle": "Sophie Nordinn® Kochschürzen Baumwolle Schürze Verstellbare Grillschürze mit langen Bändern für Männer Damen, Küche, Restaurant, Werkenschürze -(Lila)",
+        "productId": "490910999",
+        "keywords": ["schürze", "kochschürze herren", "kochschürze"],
+        "keyword":
+        [
+            {
+                "name": "schürze",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=sch%C3%BCrze"
+            },
+            {
+                "name": "kochschürze herren",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=kochsch%C3%BCrze%20damen"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0011",
+        "marketplace": "Kaufland",
+        "product": "Kitchen Apron Women -  Roze",
+        "productTitle": "Sophie Nordinn® Kochschürzen Baumwolle Schürze Verstellbare Grillschürze mit langen Bändern für Männer Damen, Küche, Restaurant, Werkenschürze -(Rosa)",
+        "productId": "490910997",
+        "keywords": ["schürze", "kochschürze herren", "kochschürze"],
+        "keyword":
+        [
+            {
+                "name": "schürze",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=sch%C3%BCrze"
+            },
+            {
+                "name": "kochschürze herren",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2300&search_value=kochsch%C3%BCrze%20damen"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0012",
+        "marketplace": "Kaufland",
+        "product": "Mandjes Opbergen - Zwart",
+        "productTitle": "Sophie Nordinn® Elegante, praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe, Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund-Schwarz",
+        "productId": "489009849",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0013",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand  - Lichtgrijs",
+        "productTitle": "Sophie Nordinn® Elegante, praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Groß Baumwollkorb, Handtuchkorb für Badezimmer, Rund-Hellgrau",
+        "productId": "489010052",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2300-2400&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0014",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand  - Zwart klein",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer (Schwarz klein)",
+        "productId": "489011224",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0015",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand - Bruin Wit",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe -Braun/Weiß",
+        "productId": "489010966",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=4300-4400&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=4300-4400&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0016",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand - Grijs",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer (Grijs klein)",
+        "productId": "489011480",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0017",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand - Turquoise",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe - Türkis",
+        "productId": "489015552",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0018",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand - Wit",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe Weiße klein",
+        "productId": "489011901",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0019",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand Donkergrijs",
+        "productTitle": "Sophie Nordinn® Elegante, praktische Körbe, Korb Geflochten Aufbewahrungskorb Dekokörbe Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund-Dunkelgrau",
+        "productId": "489010043",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?price=2500-2600&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?price=2500-2600&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0020",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand Light blue",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe -Hellblau",
+        "productId": "489014185",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2900&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2900&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0021",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand Orebro",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe, Körbe",
+        "productId": "489012035",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2700-2800&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0022",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand Orebro - Graanschil Katoen/wit",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe, (Weiß)",
+        "productId": "489012449",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0023",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand Orebro - Zeegras Wit/Bruin",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe, Weiß/braun",
+        "productId": "489012271",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    },
+    {
+        "id": "VM-5-0024",
+        "marketplace": "Kaufland",
+        "product": "Opbergmand Stockholm (Grass)",
+        "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe - Grass",
+        "productId": "489012836",
+        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keyword":
+        [
+            {
+                "name": "korb",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2800&search_value=korb"
+            },
+            {
+                "name": "aufbewahrungskorb",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+            }
+        ],
+        "isRunning" : false 
+    }
   ]
 }
