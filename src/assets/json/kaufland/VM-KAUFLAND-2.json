@@ -256,7 +256,8 @@
           "link": "https://www.kaufland.de/s/?21=5941848&search_value=solar%20powerbank"
         }
       ],
-      "isRunning" : false 
+      "isRunning" : false,
+      "isOutOfStock": true
     },
     {
       "id": "VM-2-0011",
