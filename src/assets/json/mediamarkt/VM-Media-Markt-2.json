@@ -750,7 +750,7 @@
         }
       ],
       "isRunning" : false,
-      "isOutOfStock": false
+      "isOutOfStock": true
     },
     {
       "id": "VM-2-0020",
