@@ -112,12 +112,20 @@
       "product": "Sleepmask",
       "productTitle": "Somnifiq Schlafmaske, Lichtblockierende, Augenmaske, Nachtmaske, Atmungsaktive 3D Schlafbrille, Verstellbarem Riemen, Bequeme & Ergonomisches Design",
       "productId": "468093459",
-      "keywords": ["schlafmaske", "schlafmaske herren"],
+      "keywords": ["schlafmaske", "schlafbrille", "nachtmaske"],
       "keyword":
       [
         {
           "name": "schlafmaske",
           "link": "https://www.kaufland.de/s/?search_value=schlafmaske"
+        },
+        {
+          "name": "schlafbrille",
+          "link": "https://www.kaufland.de/s/?search_value=schlafbrille"
+        },
+        {
+          "name": "nachtmaske",
+          "link": "https://www.kaufland.de/s/?search_value=nachtmaske"
         }
       ],
       "isRunning" : false 
@@ -128,20 +136,23 @@
       "product": "Reading Lamp",
       "productTitle": "Somnifiq LED - Leseleuchte mit Klemme – 3 Farbtemperatur Modi Dimmbare Helligkeit – 360 °C flexibler Hals – wiederaufladbar über USB für Nachtlesen",
       "productId": "470719876",
-      "keywords": ["leselampe", "leselampe buch klemme"],
+      "keywords": ["leseleuchte mit klemme", "3 farbtemperatur leselampe", "leselampe für nachtlesen"],
       "keyword":
       [
         {
-          "name": "leselampe",
-          "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=leselampe"
+          "name": "leseleuchte mit klemme",
+          "link": "https://www.kaufland.de/s/?search_value=leseleuchte%20mit%20klemme"
         },
         {
-          "name": "leselampe buch klemme",
-          "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=leselampe%20buch%20klemme"
+          "name": "3 farbtemperatur leselampe",
+          "link": "https://www.kaufland.de/s/?price=1900-2000&search_value=3%20farbtemperatur%20leselampe"
+        },
+        {
+          "name": "leselampe für nachtlesen",
+          "link": "https://www.kaufland.de/s/?search_value=leselampe%20f%C3%BCr%20nachtlesen"
         }
       ],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "isRunning" : false
     },
     {
       "id": "VM-1-0007",
@@ -149,12 +160,20 @@
       "product": "Steakknives",
       "productTitle": "Lekro Steakmesser Steakmesser-Set – Spülmaschinenfest - Küchenmesser Set - Kochmesser Set - Edelstahl -Messerset Scharfe (8-tlg Steakmesser - Schwarz)",
       "productId": "480323660",
-      "keywords": ["steakmesser", "besteck set"],
+      "keywords": ["steakmesser", "messersets", "steakmesser set"],
       "keyword":
       [
         {
           "name": "steakmesser",
           "link": "https://www.kaufland.de/s/?search_value=steakmesser"
+        },
+        {
+          "name": "messersets",
+          "link": "https://www.kaufland.de/s/?price=1600-1700&search_value=messersets"
+        },
+        {
+          "name": "steakmesser set",
+          "link": "https://www.kaufland.de/s/?search_value=steakmesser%20set"
         }
       ],
       "isRunning" : false 
@@ -189,7 +208,7 @@
       "product": "Vegetable Cutter",
       "productTitle": "Lekro, Gemüseschneider, Spiralschneider, Gemüsehobel - Zwiebelschneider, Kartoffelschneider, Obstschneider - Vegetable Chopper, 12 - teilig, Weiß",
       "productId": "470714479",
-      "keywords": ["gemüseschneider", "nicer dicer", "gemüsehobel"],
+      "keywords": ["gemüseschneider", "gemüsehobel", "vegetable chopper"],
       "keyword":
       [
         {
@@ -199,6 +218,10 @@
         {
           "name": "gemüsehobel",
           "link": "https://www.kaufland.de/s/?search_value=gem%C3%BCsehobel"
+        },
+        {
+          "name": "vegetable chopper",
+          "link": "https://www.kaufland.de/s/?search_value=vegetable%20chopper"
         }
       ],
       "isRunning" : false 
@@ -393,12 +416,20 @@
       "product": "ComfyCentre Rugkussen",
       "productTitle": "COMFYCENTRE Rückenkissen für Büro, Auto und Rollstuhl - Hochwertiges Lendenkissen aus Memory Foam - Lordosenstütze",
       "productId": "488843216",
-      "keywords": ["rückenkissen", "orthopädisches kissen", "lesekissen", "rückenkissen bett", "rückenkissen sofa"],
+      "keywords": ["rückenkissen", "lordosenstütze", "rückenkissen memory foam"],
       "keyword":
       [
         {
           "name": "rückenkissen",
           "link": "https://www.kaufland.de/s/?search_value=r%C3%BCckenkissen"
+        },
+        {
+          "name": "lordosenstütze",
+          "link": "https://www.kaufland.de/s/?price=3100-3200&search_value=lordosenst%C3%BCtze"
+        },
+        {
+          "name": "rückenkissen memory foam",
+          "link": "https://www.kaufland.de/s/?search_value=r%C3%BCckenkissen%20memory%20foam"
         }
       ],
       "isRunning" : false
@@ -409,7 +440,7 @@
       "product": "ComfyCentre Zitkussen",
       "productTitle": "COMFYCENTRE Orthopädisches Sitzkissen für Büro, Auto und Rollstuhl - Ergonomisches Memory Foam Steißbeinkissen - Perfekt für Rückenschmerzen",
       "productId": "488843198",
-      "keywords": ["sitzkissen", "orthopädisches kissen", "sitzkissen orthopädisch", "keilkissen", "sitzkissen stuhl"],
+      "keywords": ["orthopädisches kissen", "sitzkissen orthopädisch", "orthopädisches sitzkissen"],
       "keyword":
       [
         {
@@ -419,6 +450,10 @@
         {
           "name": "sitzkissen orthopädisch",
           "link": "https://www.kaufland.de/s/?search_value=sitzkissen%20orthop%C3%A4disch"
+        },
+        {
+          "name": "orthopädisches sitzkissen",
+          "link": "https://www.kaufland.de/s/?21=6931310&price=4900-5000&search_value=orthop%C3%A4disches%20sitzkissen"
         }
       ],
       "isRunning" : false 
@@ -461,12 +496,20 @@
       "product": "ComfyCentre Kniekussen Band",
       "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer (Band) - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables",
       "productId": "488843256",
-      "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+      "keywords": ["kniekissen", "kniekissen für seitenschläfer", "komfortables kniekissen"],
       "keyword":
       [
         {
           "name": "kniekissen",
           "link": "https://www.kaufland.de/s/?search_value=kniekissen"
+        },
+        {
+          "name": "kniekissen für seitenschläfer",
+          "link": "https://www.kaufland.de/s/?search_value=kniekissen%20fu%CC%88r%20seitenschla%CC%88fer"
+        },
+        {
+          "name": "komfortables kniekissen",
+          "link": "https://www.kaufland.de/s/?search_value=komfortables%20kniekissen"
         }
       ],
       "isRunning" : false 
@@ -477,12 +520,20 @@
       "product": "ComfyCentre Kniekussen",
       "productTitle": "COMFYCENTRE Kniekissen Für Seitenschläfer - Orthopädisches und Ergonomisches Beinkissen aus Memory Foam - Knie Kissen - Komfortables Visco Schlafki",
       "productId": "495200680",
-      "keywords": ["kniekissen", "kniekissen für seitenschläfer", "pillows for sleeping"],
+      "keywords": ["kniekissen", "kniepolster memory foam", "komfortables visco schlafki"],
       "keyword":
       [
         {
           "name": "kniekissen",
           "link": "https://www.kaufland.de/s/?search_value=kniekissen"
+        },
+        {
+          "name": "kniepolster memory foam",
+          "link": "https://www.kaufland.de/s/?price=3800-3900&search_value=kniepolster%20memory%20foam"
+        },
+        {
+          "name": "komfortables visco schlafki",
+          "link": "https://www.kaufland.de/s/?search_value=komfortables%20visco%20schlafki"
         }
       ],
       "isRunning" : false 
@@ -493,12 +544,20 @@
       "product": "ComfyCentre Donut Kussen",
       "productTitle": "COMFYCENTRE Orthopädisches Sitzring für Steißbein & Hämorrhoiden - Komfortables Sitzkissen Ringkissen - Memory Foam Unterstützung - Ideal für Büro",
       "productId": "488843228",
-      "keywords": ["donut-kissen", "hämorrhoidenkissen", "orthopädisches schmerzlinderungskissen"],
+      "keywords": ["hämorrhoidenkissen", "orthopädisches sitzring", "orthopädisches sitzring"],
       "keyword":
       [
         {
           "name": "hämorrhoidenkissen",
           "link": "https://www.kaufland.de/s/?price=3300-3400&search_value=h%C3%A4morrhoidenkissen"
+        },
+        {
+          "name": "orthopädisches sitzring",
+          "link": "https://www.kaufland.de/s/?search_value=orthop%C3%A4disches%20sitzring"
+        },
+        {
+          "name": "orthopädisches sitzring",
+          "link": "https://www.kaufland.de/s/?search_value=sitzkissen%20f%C3%BCr%20stei%C3%9Fbein"
         }
       ],
       "isRunning" : false
@@ -537,7 +596,7 @@
       "product": "ComfyCentre Bed Bridge",
       "productTitle": "ComfyCentre Matratzenkeil mit Riemen – Extra breite Liebesbrücke für Matratzen – Matratzenkeile – Bettbinder – Matratzenbinder De Luxe – 200 x 30 cm",
       "productId": "495367422",
-      "keywords": ["liebesbrücke", "matratzenverbinder", "matratzenkeil"],
+      "keywords": ["liebesbrücke", "matratzenkeil", "matratzenkeil & bettbinder", "matratzenkeil mit riemen"],
       "keyword":
       [
         {
@@ -547,6 +606,14 @@
         {
           "name": "matratzenkeil",
           "link": "https://www.kaufland.de/s/?search_value=matratzenkeil"
+        },
+        {
+          "name": "matratzenkeil & bettbinder",
+          "link": "https://www.kaufland.de/s/?search_value=matratzenkeil%20%26%20bettbinder"
+        },
+        {
+          "name": "matratzenkeil mit riemen",
+          "link": "https://www.kaufland.de/s/?search_value=matratzenkeil%20mit%20riemen"
         }
       ],
       "isRunning" : false 
