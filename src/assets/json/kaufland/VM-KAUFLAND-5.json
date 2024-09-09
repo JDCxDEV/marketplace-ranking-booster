@@ -43,12 +43,17 @@
         "product": "KOI Artisan® Messenslijper",
         "productTitle": "KOI ARTISAN Messerschärfer Schleifstein - Zweiseitig Körnung 1000/6000 mit Winkelhilfe Rutschfeste Bambusbasis - Bester Wasserstein Messerschärfer",
         "productId": "497791854",
-        "keywords": ["messerschärfer", "wetzstein"],
+        "keywords": ["messerschärfer", "wetzstein", "schleifstein"],
         "keyword":
         [
             {
                 "name": "messerschärfer",
                 "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messersch%C3%A4rfer"
+            },
+            {
+                "name": "messerschärfer",
+                "link": "https://www.kaufland.de/s/?price=5400-5600&search_value=schleifstein"
+                
             }
         ],
         "isRunning" : false 
