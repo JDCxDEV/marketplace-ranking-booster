@@ -407,12 +407,20 @@
       "product": "KOI Artisan® Koksmes Damascus",
       "productTitle": "KOI Artisan® Kochmesser - Schälmes im Damaststil - 8,9 cm Rasiermesserscharfe Klinge - Kochmesser aus hochkarätigem rostfreiem Superstahl",
       "productId": "497736737",
-      "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
+      "keywords": ["kochmesser", "gemüsemesser", "schälmesser rostfreier superstahl"],
       "keyword":
       [
         {
           "name": "kochmesser",
           "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+        },
+        {
+          "name": "gemüsemesser",
+          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=gem%C3%BCsemesser"
+        },
+        {
+          "name": "schälmesser rostfreier superstahl",
+          "link": "https://www.kaufland.de/s/?search_value=sch%C3%A4lmesser%20rostfreier%20superstahl"
         }
       ],
       "isRunning" : false 
@@ -423,13 +431,21 @@
       "product": "KOI Artisan® Koksmes Every",
       "productTitle": "KOI ARTISAN Kochmesser - Alltagsbereich (7 Zoll, flaches Chef) Meisterkochmesser, Fleischbeil",
       "productId": "497737162",
-      "keywords": ["kochmesser", "küchenmesser"],
+      "keywords": ["kochmesser", "kochmesser 7 zoll", "meisterkochmesser alltagsbereich"],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+        },
+        {
+          "name": "kochmesser 7 zoll",
+          "link": "https://kaufland.de/s/?search_value=kochmesser%207%20zoll"
+        },
+        {
+          "name": "meisterkochmesser alltagsbereich",
+          "link": "https://www.kaufland.de/s/?search_value=meisterkochmesser%20alltagsbereich"
+        }
       ],
       "isRunning" : false 
     },
@@ -439,17 +455,21 @@
       "product": "KOI Artisan® Koksmes Fileermes",
       "productTitle": "KOI Artisan® Kochmesser - Filetiermesser - 15 cm Klinge zum Entgräten von Fisch und Fleisch - Professionelles Küchenmesser - Japanischer",
       "productId": "497736817",
-      "keywords": ["kochmesser", "küchenmesser", "filetmesser"],
+      "keywords": ["kochmesser", "küchenmesser", "filetiermesser 15 cm"],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
-          },
-          {
-              "name": "küchenmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=k%C3%BCchenmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?search_value=kochmesser"
+        },
+        {
+          "name": "küchenmesser",
+          "link": "https://www.kaufland.de/s/?search_value=k%C3%BCchenmesser"
+        },
+        {
+          "name": "filetiermesser 15 cm",
+          "link": "https://www.kaufland.de/s/?search_value=filetiermesser%2015%20cm"
+        }
       ],
       "isRunning" : false 
     },
@@ -459,13 +479,21 @@
       "product": "KOI Artisan® Koksmes Vlees",
       "productTitle": "KOI Artisan® Kochmesser - Fleischmesser - 19,56 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl",
       "productId": "497736752",
-      "keywords": ["kochmesser", "küchenmesser"],
+      "keywords": ["kochmesser", "fleischmesser", "japanisches kochmesser rostfreier stahl"],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?search_value=kochmesser"
+        },
+        {
+          "name": "fleischmesser",
+          "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=fleischmesser"
+        },
+        {
+          "name": "japanisches kochmesser rostfreier stahl",
+          "link": "https://www.kaufland.de/s/?search_value=japanisches%20kochmesser%20rostfreier%20stahl"
+        }
       ],
       "isRunning" : false 
     },
@@ -475,17 +503,21 @@
       "product": "KOI Artisan® Professioneel Koksmes - 20,32 cm",
       "productTitle": "KOI Artisan® Professionelles Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Beste Küchenmesser - Japanische Messer aus hochwertigem",
       "productId": "497737185",
-      "keywords": ["kochmesser", "küchenmesser"],
+      "keywords": ["kochmesser", "küchenmesser", "professionelles kochmesser 20,32 cm"],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=10900-11000&search_value=kochmesser"
-          },
-          {
-              "name": "küchenmesser",
-              "link": "https://www.kaufland.de/s/?price=10900-11000&search_value=k%C3%BCchenmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?price=10900-11000&search_value=kochmesser"
+        },
+        {
+          "name": "küchenmesser",
+          "link": "https://www.kaufland.de/s/?search_value=k%C3%BCchenmesser"
+        },
+        {
+          "name": "professionelles kochmesser 20,32 cm",
+          "link": "https://www.kaufland.de/s/?search_value=professionelles%20kochmesser%2020,32%20cm"
+        }
       ],
       "isRunning" : false 
     },
