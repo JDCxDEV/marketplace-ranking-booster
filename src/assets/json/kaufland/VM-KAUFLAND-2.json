@@ -116,7 +116,7 @@
       "product": "Powerbank 20K -1",
       "productTitle": "QuchiQ™ Powerbank 20000 mah -Schnellladefunktion Mobiler Akkulader -Powerbanks für iPhone Samsung Huawei iPad -Micro USB & USB-C Eingang - LED-Lampen",
       "productId": "479104287",
-      "keywords": ["powerbank 20000 mah", "powerbank", "powerbank handy", "powerbanks für iphone"],
+      "keywords": ["powerbank 20000 mah", "powerbank", "powerbanks für iphone"],
       "keyword":
       [
         {
@@ -140,7 +140,7 @@
       "product": "Mini Power Bank",
       "productTitle": "QuchiQ™ Powerbank 10000 mAh Klein Aber Stark -Mini Powerbank -Mobiler Akkulader - powerbanks für iPhone Samsung-Micro USB & USB-C Eingang - LED-Lampen",
       "productId": "479041891",
-      "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "power 10000mah bank", "powerbanks für iphone"],
+      "keywords": ["powerbank 20000 mah", "powerbank", "mini powerbank", "powerbanks für iphone"],
       "keyword":
       [
         {
@@ -216,12 +216,20 @@
       "product": "Solar Powerbank Single",
       "productTitle": "Lideka® Solar Powerbank 30,000mAh Tragbare Ladegerät, 6 Anschlüsse, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple, für Wandern Reise",
       "productId": "432693120",
-      "keywords": ["power bank", "powerbank iphone", "power bank 30000mah", "solar powerbank"],
+      "keywords": ["solar powerbank", "solar powerbank 30,000mah", "tragbare ladegerät"],
       "keyword":
       [
         {
           "name": "solar powerbank",
           "link": "https://www.kaufland.de/s/?search_value=solar%20powerbank"
+        },
+        {
+          "name": "solar powerbank 30,000mah",
+          "link": "https://www.kaufland.de/s/?search_value=solar%20powerbank%2030,000mah"
+        },
+        {
+          "name": "tragbare ladegerät",
+          "link": "https://www.kaufland.de/s/?price=9900-10000&search_value=tragbare%20ladeger%C3%A4t"
         }
       ],
       "isRunning" : false 
@@ -232,12 +240,20 @@
       "product": "Solar Powerbank Double",
       "productTitle": "Lideka® Solar Powerbank 32,400mAh + Solarladegerät, 6 Anschlüsse, Lampe, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple, Hocheffizient",
       "productId": "455398073",
-      "keywords": ["powerbank iphone", "power bank", "solar powerbank", "power bank 30000mah"],
+      "keywords": ["solar powerbank", "solar powerbank 32,400mah", "solarladegerät mit 6 anschlüssen"],
       "keyword":
       [
         {
           "name": "solar powerbank",
           "link": "https://www.kaufland.de/s/?21=5941848&search_value=solar%20powerbank"
+        },
+        {
+          "name": "solar powerbank 32,400mah",
+          "link": "https://www.kaufland.de/s/?search_value=solar%20powerbank%2032,400mah"
+        },
+        {
+          "name": "solarladegerät mit 6 anschlüssen",
+          "link": "https://www.kaufland.de/s/?search_value=solarladeger%C3%A4t%20mit%206%20anschl%C3%BCssen"
         }
       ],
       "isRunning" : false 
@@ -248,16 +264,23 @@
       "product": "Solar Powerbank Triple",
       "productTitle": "Lideka® 1 Solar Powerbank 30,000mAh, 6 Anschlüsse, Lampe & 2x Tragbare Solar Ladegerä, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple",
       "productId": "450401896",
-      "keywords": ["powerbank iphone", "power bank", "solar powerbank", "power bank 30000mah"],
+      "keywords": ["solar powerbank", "kabelloses aufladen powerbank", ""],
       "keyword":
       [
         {
           "name": "solar powerbank",
           "link": "https://www.kaufland.de/s/?21=5941848&search_value=solar%20powerbank"
+        },
+        {
+          "name": "kabelloses aufladen powerbank",
+          "link": "https://www.kaufland.de/s/?price=17900-18000&search_value=kabelloses%20aufladen%20powerbank"
+        },
+        {
+          "name": "powerbank mit lampe",
+          "link": "https://www.kaufland.de/s/?search_value=powerbank%20mit%20lampe"
         }
       ],
-      "isRunning" : false,
-      "isOutOfStock": true
+      "isRunning" : false
     },
     {
       "id": "VM-2-0011",
@@ -401,7 +424,7 @@
       "product": "LKNRGB-2",
       "productTitle": "Lideka® NEON LED-Streifen 6m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
       "productId": "461186182",
-      "keywords": ["neon streifen", "neon led streifen", "led strip", "rgbic", "led streifen", "led leiste"],
+      "keywords": ["neon streifen", "neon led streifen", "led strip", "led streifen", "led leiste"],
       "keyword":
       [
         {
@@ -433,7 +456,7 @@
       "product": "LKNRGB-3",
       "productTitle": "Lideka® NEON LED-Streifen 9m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
       "productId": "461186151",
-      "keywords": ["neon streifen", "neon led streifen", "rgbic"],
+      "keywords": ["neon streifen", "neon led streifen", "rgb neon led strip"],
       "keyword":
       [
         {
@@ -443,6 +466,10 @@
         {
           "name": "neon led streifen",
           "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
+        },
+        {
+          "name": "rgb neon led strip",
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20neon%20led%20strip"
         }
       ],
       "isRunning" : false 
@@ -450,7 +477,7 @@
     {
       "id": "VM-2-0017",
       "marketplace": "Kaufland",
-      "product": "LK-03",
+      "product": "LK-03M",
       "productTitle": "Lideka® RGB LED-Streifen 3m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
       "productId": "432693131",
       "keywords": ["led streifen", "led strip 3m", "led leiste", "rgb led strip", "led strip"],
@@ -482,7 +509,7 @@
     {
       "id": "VM-2-0018",
       "marketplace": "Kaufland",
-      "product": "LK-05",
+      "product": "LK-05M",
       "productTitle": "Lideka® RGB LED-Streifen 5m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
       "productId": "432693142",
       "keywords": ["led streifen", "led strip 5m", "led leiste", "rgb led strip", "led strip"],
@@ -514,7 +541,7 @@
     {
       "id": "VM-2-0019",
       "marketplace": "Kaufland",
-      "product": "LK-010",
+      "product": "LK-010M",
       "productTitle": "Lideka® RGB LED-Streifen 10m (2x5) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
       "productId": "432693132",
       "keywords": ["led strip 10m", "led streifen", "led leiste", "rgb led strip", "led strip"],
@@ -546,7 +573,7 @@
     {
       "id": "VM-2-0020",
       "marketplace": "Kaufland",
-      "product": "LK-015",
+      "product": "LK-015M",
       "productTitle": "Lideka® RGB LED-Streifen 15m (2x7.5) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, MusikSync, mit Alexa und Google Assistant, Deko",
       "productId": "432693129",
       "keywords": ["led streifen 15m", "led strip", "led streifen", "led leiste", "rgb led strip"],
@@ -578,7 +605,7 @@
     {
       "id": "VM-2-0021",
       "marketplace": "Kaufland",
-      "product": "LK-020",
+      "product": "LK-020M",
       "productTitle": "Lideka® RGB LED-Streifen 20m (2x10) RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
       "productId": "432693128",
       "keywords": ["led streifen 20m", "led strip", "led streifen", "led leiste", "rgb led strip"],
@@ -610,7 +637,7 @@
     {
       "id": "VM-2-0022",
       "marketplace": "Kaufland",
-      "product": "LK-025",
+      "product": "LK-025M",
       "productTitle": "Lideka® RGB LED-Streifen 25m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
       "productId": "461186369",
       "keywords": ["led-streifen 25m", "led strip", "led streifen", "led leiste", "rgb led strip"],
@@ -642,7 +669,7 @@
     {
       "id": "VM-2-0023",
       "marketplace": "Kaufland",
-      "product": "LK-030",
+      "product": "LK-030M",
       "productTitle": "Lideka® RGB LED-Streifen 30m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
       "productId": "443196709",
       "keywords": ["led streifen 30m", "led strip", "led-streifen", "led leiste", "rgb led strip"],
@@ -674,7 +701,7 @@
     {
       "id": "VM-2-0024",
       "marketplace": "Kaufland",
-      "product": "LK-035",
+      "product": "LK-035M",
       "productTitle": "Lideka® RGB LED-Streifen 35m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
       "productId": "443198421",
       "keywords": ["led streifen 35m", "led strip", "led-streifen", "led leiste", "rgb led strip"],
