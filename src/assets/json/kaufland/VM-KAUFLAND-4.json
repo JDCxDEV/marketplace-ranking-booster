@@ -7,17 +7,21 @@
       "product": "SLB-GU10-4",
       "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 4 Stück",
       "productId": "461186614",
-      "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+      "keywords": ["einbaustrahler gu 10", "gu10 led spot", "gu10 smart led lampe"],
       "keyword":
       [
-          {
-              "name": "einbaustrahler gu 10",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=einbaustrahler%20gu%2010"
-          },
-          {
-              "name": "gu10 led spot",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=gu10%20led%20spot"
-          }
+        {
+            "name": "einbaustrahler gu 10",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=einbaustrahler%20gu%2010"
+        },
+        {
+            "name": "gu10 led spot",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=gu10%20led%20spot"
+        },
+        {
+          "name": "gu10 smart led lampe",
+          "link": "https://www.kaufland.de/s/?search_value=gu10%20smart%20led%20lampe"
+      }
       ],
       "isRunning" : false 
     },
@@ -187,7 +191,7 @@
       "product": "Baby camera White",
       "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Weiß",
       "productId": "479444940",
-      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone überwachungskamera für innen", "babyphone kamera innen"],
+      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone kamera innen"],
       "keyword":
       [
         {
@@ -211,7 +215,7 @@
       "product": "Baby camera Black",
       "productTitle": "Babyphone, WLAN IP Babyphone Kamera Überwachung Innen, 360° Unterstützt Alexa/Google Home/2.4Ghz WiFi,Bewegungserkennung,2 Way Talk, Schwarz",
       "productId": "479445987",
-      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone überwachungskamera innen mit aufzeichnung", "babyphone kamera innen", "babyphone überwachungskamera für innen"],
+      "keywords": ["babyphone mit kamera", "babyphone kamera überwachung innen", "babyphone kamera innen"],
       "keyword":
       [
         {
@@ -283,13 +287,21 @@
       "product": "KOI Artisan® Broodmes Scheermesscherpe",
       "productTitle": "KOI Artisan® Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Japanische Messer aus hochkohlenstoffhaltigem rostfreiem Stahl - Wellenschliffmesser",
       "productId": "497737197",
-      "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
+      "keywords": ["brotmesser", "brotmesser 20,32 cm", "wellenschliffmesser"],
       "keyword":
       [
-          {
-              "name": "brotmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=brotmesser"
-          }
+        {
+          "name": "brotmesser",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=brotmesser"
+        },
+        {
+          "name": "brotmesser 20,32 cm",
+          "link": "https://www.kaufland.de/s/?search_value=brotmesser%2020,32%20cm"
+        },
+        {
+          "name": "wellenschliffmesser",
+          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=wellenschliffmesser"
+        }
       ],
       "isRunning" : false 
     },
@@ -299,13 +311,21 @@
       "product": "KOI Artisan® Damascus Broodmes",
       "productTitle": "KOI Artisan® Damascus Brotmesser - 20,32 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem VG10 Superstahl",
       "productId": "497700403",
-      "keywords": ["kochmesser", "brotmesser", "küchenmesser"],
+      "keywords": ["brotmesser", "damascus brotmesser", "67 lagen vg10 superstahl"],
       "keyword":
       [
-          {
-              "name": "brotmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=brotmesser"
-          }
+        {
+          "name": "brotmesser",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=brotmesser"
+        },
+        {
+          "name": "damascus brotmesser",
+          "link": "https://www.kaufland.de/s/?search_value=damascus%20brotmesser"
+        },
+        {
+          "name": "67 lagen vg10 superstahl",
+          "link": "https://www.kaufland.de/s/?search_value=67%20lagen%20vg10%20superstahl"
+        }
       ],
       "isRunning" : false 
     },
@@ -315,17 +335,21 @@
       "product": "KOI Artisan® Damascus Koksmes - 20,32 cm",
       "productTitle": "KOI Artisan® Damascus Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Premium Küchenmesser in Geschenkbox - Japanische Messer aus VG10 Superstahl",
       "productId": "497699577",
-      "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
+      "keywords": ["kochmesser", "küchenmesser", ""],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=9800-9900&search_value=kochmesser"
-          },
-          {
-              "name": "küchenmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=k%C3%BCchenmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?search_value=kochmesser"
+        },
+        {
+          "name": "küchenmesser",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=k%C3%BCchenmesser"
+        },
+        {
+          "name": "damascus kochmesser",
+          "link": "https://www.kaufland.de/s/?search_value=damascus%20kochmesser"
+        }
       ],
       "isRunning" : false 
     },
@@ -338,14 +362,14 @@
       "keywords": ["kochmesser", "küchenmesser"],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
-          },
-          {
-              "name": "küchenmesser",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=k%C3%BCchenmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
+        },
+        {
+          "name": "küchenmesser",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=k%C3%BCchenmesser"
+        }
       ],
       "isRunning" : false 
     },

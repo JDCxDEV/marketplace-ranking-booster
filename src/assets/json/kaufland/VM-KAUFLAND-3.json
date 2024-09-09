@@ -315,7 +315,7 @@
       "product": "LK-05-W",
       "productTitle": "Lideka® LED Streifen 5m RGBW Kalt und Warmweiß, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, DIY Deko",
       "productId": "463128383",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips", "rgbw"],
+      "keywords": ["led leiste", "led leisten", "led streifen", "rgbw"],
       "keyword":
       [
         {
@@ -343,7 +343,7 @@
       "product": "LK-010-W",
       "productTitle": "Lideka® LED Streifen 10m (2x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
       "productId": "463128417",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips"],
+      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
       "keyword":
       [
         {
@@ -375,12 +375,20 @@
       "product": "RGBW-LK5-2",
       "productTitle": "Lideka® LED Streifen 10m (2x5) RGBW Kalt und Warmweiß, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant",
       "productId": "461186605",
-      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
+      "keywords": ["led leiste", "led leisten", "led streifen"],
       "keyword":
       [
         {
+          "name": "led leiste",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=9600-9700&search_value=led%20leiste"
+        },
+        {
           "name": "led leisten",
           "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+        },
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=9600-9700&search_value=led%20streifen"
         }
       ],
       "isRunning" : false 
@@ -547,37 +555,37 @@
       "product": "SLB-E27-9W",
       "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 1 Stück",
       "productId": "463126312",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+      "keywords": ["led lampe e27", "led lampen e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
       "keyword":
       [
-          {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20lampe%20e27"
-          },
-          {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?search_value=e27%20birne"
-          },
-          {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20leuchtmittel%20e27"
-          },
-          {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20birne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?search_value=led%20birnen%20e27"
-          }
+        {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?search_value=led%20lampe%20e27"
+        },
+        {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?search_value=led%20lampen%20e27"
+        },
+        {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?search_value=e27%20birne"
+        },
+        {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?search_value=led%20leuchtmittel%20e27"
+        },
+        {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?search_value=led%20birne%20e27"
+        },
+        {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?search_value=e27%20lampe"
+        },
+        {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?search_value=led%20birnen%20e27"
+        }
       ],
       "isRunning" : false 
     },
@@ -587,41 +595,41 @@
       "product": "SLB-E27-9W-2",
       "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 2 Stück",
       "productId": "461186204",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+      "keywords": ["led lampe e27", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
       "keyword":
       [
-          {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampe%20e27"
-          },
-          {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
-          },
-          {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20leuchtmittel%20e27"
-          },
-          {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birne%20e27"
-          },
-          {
-              "name": "led glühbirne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20gl%C3%BChbirne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birnen%20e27"
-          }
+        {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampe%20e27"
+        },
+        {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampen%20e27"
+        },
+        {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
+        },
+        {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20leuchtmittel%20e27"
+        },
+        {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birne%20e27"
+        },
+        {
+            "name": "led glühbirne e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20gl%C3%BChbirne%20e27"
+        },
+        {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=e27%20lampe"
+        },
+        {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birnen%20e27"
+        }
       ],
       "isRunning" : false 
     },
@@ -631,41 +639,41 @@
       "product": "SLB-E27-9W-3",
       "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 3 Stück",
       "productId": "461186203",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+      "keywords": ["led lampe e27", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
       "keyword":
       [
-          {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampe%20e27"
-          },
-          {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
-          },
-          {
-              "name": "led glühbirne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4400-4500&search_value=led%20gl%C3%BChbirne%20e27"
-          },
-          {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20leuchtmittel%20e27"
-          },
-          {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birnen%20e27"
-          }
+        {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampe%20e27"
+        },
+        {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampen%20e27"
+        },
+        {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
+        },
+        {
+            "name": "led glühbirne e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=4400-4500&search_value=led%20gl%C3%BChbirne%20e27"
+        },
+        {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20leuchtmittel%20e27"
+        },
+        {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birne%20e27"
+        },
+        {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=e27%20lampe"
+        },
+        {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birnen%20e27"
+        }
       ],
       "isRunning" : false 
     },
@@ -675,41 +683,41 @@
       "product": "SLB-E27-9W-4",
       "productTitle": "Lideka® E27 Smart LED Lampe 9W 806LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LED Bulb, 4 Stück",
       "productId": "461186202",
-      "keywords": ["led lampe e27", "glühbirne e27", "e27 glühbirne", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
+      "keywords": ["led lampe e27", "led lampen e27", "e27 birne", "led glühbirne e27", "led leuchtmittel e27", "led birne e27", "e27 lampe", "led birnen e27"],
       "keyword":
       [
-          {
-              "name": "led lampe e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampe%20e27"
-          },
-          {
-              "name": "led lampen e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "e27 birne",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
-          },
-          {
-              "name": "led glühbirne e27",
-              "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=led%20gl%C3%BChbirne%20e27"
-          },
-          {
-              "name": "led leuchtmittel e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20leuchtmittel%20e27"
-          },
-          {
-              "name": "led birne e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birne%20e27"
-          },
-          {
-              "name": "e27 lampe",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=e27%20lampe"
-          },
-          {
-              "name": "led birnen e27",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birnen%20e27"
-          }
+        {
+            "name": "led lampe e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampe%20e27"
+        },
+        {
+            "name": "led lampen e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
+        },
+        {
+            "name": "e27 birne",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
+        },
+        {
+            "name": "led glühbirne e27",
+            "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=led%20gl%C3%BChbirne%20e27"
+        },
+        {
+            "name": "led leuchtmittel e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20leuchtmittel%20e27"
+        },
+        {
+            "name": "led birne e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birne%20e27"
+        },
+        {
+            "name": "e27 lampe",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=e27%20lampe"
+        },
+        {
+            "name": "led birnen e27",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birnen%20e27"
+        }
       ],
       "isRunning" : false 
     },
@@ -722,10 +730,10 @@
       "keywords": ["alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa", "e14"],
       "keyword":
       [
-          {
-              "name": "e14",
-              "link": "https://www.kaufland.de/s/?price=2600-2700&search_value=e14"
-          }
+        {
+            "name": "e14",
+            "link": "https://www.kaufland.de/s/?price=2600-2700&search_value=e14"
+        }
       ],
       "isRunning" : false 
     },
@@ -735,17 +743,21 @@
       "product": "SLB-GU10-2",
       "productTitle": "Lideka® GU10 Smart LED Lampe 5W 400LM, 16Millionen DIY-Farben, WLAN Mehrfarbige Dimmbare Birne, Warmweiß/Kaltesweiß licht, Musiksync, LEDBulb, 2 Stück",
       "productId": "461186210",
-      "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
+      "keywords": ["einbaustrahler gu 10", "gu10 led spot", "gu10 smart led lampe"],
       "keyword":
       [
-          {
-              "name": "einbaustrahler gu 10",
-              "link": "https://www.kaufland.de/s/?search_value=einbaustrahler%20gu%2010"
-          },
-          {
-              "name": "gu10 led spot",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=3800-3900&search_value=gu10%20led%20spot"
-          }
+        {
+            "name": "einbaustrahler gu 10",
+            "link": "https://www.kaufland.de/s/?search_value=einbaustrahler%20gu%2010"
+        },
+        {
+            "name": "gu10 led spot",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=3800-3900&search_value=gu10%20led%20spot"
+        },
+        {
+          "name": "gu10 smart led lampe",
+          "link": "https://www.kaufland.de/s/?search_value=gu10%20smart%20led%20lampe"
+        }
       ],
       "isRunning" : false 
     },
@@ -758,14 +770,18 @@
       "keywords": ["einbaustrahler gu10", "einbaustrahler gu 10", "gu10 spot lideka", "gu10 led spot", "alexa glühbirne", "smart home lampen", "smart home lampe", "alexa glühbirnen", "glühbirnen alexa"],
       "keyword":
       [
-          {
-              "name": "einbaustrahler gu 10",
-              "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=einbaustrahler%20gu%2010"
-          },
-          {
-              "name": "gu10 led spot",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=gu10%20led%20spot"
-          }
+        {
+            "name": "einbaustrahler gu 10",
+            "link": "https://www.kaufland.de/s/?price=4900-5000&search_value=einbaustrahler%20gu%2010"
+        },
+        {
+            "name": "gu10 led spot",
+            "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=gu10%20led%20spot"
+        },
+        {
+          "name": "gu10 smart led lampe",
+          "link": "https://www.kaufland.de/s/?search_value=gu10%20smart%20led%20lampe"
+        }
       ],
       "isRunning" : false 
     }
