@@ -90,7 +90,8 @@
       [
         "waterfles", "drinkfles", "drinkflessen", "drinkfles 1 liter", "waterflessen",
         "waterfles 1 liter", "waterfles met tijdmarkeringen"
-      ]
+      ],
+      "isOutOfStock": true
     },
     {
       "id": "VM-1-0008",
