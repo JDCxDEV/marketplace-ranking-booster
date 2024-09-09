@@ -359,7 +359,7 @@
       "product": "KOI Artisan® Koksmes Chef",
       "productTitle": "KOI Artisan® Kochmesser -Santokumesser des Chefs- 7 Zoll scharfe Klinge -Volle Angel-Premium Hochkohlenstoff -Küchenmesser -Damaszener deutsche Messer",
       "productId": "497737209",
-      "keywords": ["kochmesser", "küchenmesser"],
+      "keywords": ["kochmesser", "küchenmesser", "7 inch chef's knife"],
       "keyword":
       [
         {
@@ -369,6 +369,10 @@
         {
           "name": "küchenmesser",
           "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=k%C3%BCchenmesser"
+        },
+        {
+          "name": "7 inch chef's knife",
+          "link": "https://www.kaufland.de/s/?search_value=7%20inch%20chef%27s%20knife"
         }
       ],
       "isRunning" : false 
@@ -379,13 +383,21 @@
       "product": "KOI Artisan® Koksmes Chefs",
       "productTitle": "KOI Artisan® Kochmesser - Santokumesser - 17,78 cm - Rasiermesserscharfe Klinge - 67 Lagen - Damaszener Japanisches VG10 Superstahl - Korrosions",
       "productId": "497701649",
-      "keywords": ["kochmesser", "küchenmesser"],
+      "keywords": ["kochmesser", "santokumesser", "rasiermesserscharfe klinge"],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=9700-9800&search_value=kochmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?price=9700-9800&search_value=kochmesser"
+        },
+        {
+          "name": "santokumesser",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=9700-9800&search_value=santokumesser"
+        },
+        {
+          "name": "rasiermesserscharfe klinge",
+          "link": "https://www.kaufland.de/s/?search_value=rasiermesserscharfe%20klinge"
+        }
       ],
       "isRunning" : false 
     },
@@ -398,10 +410,10 @@
       "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
       "keyword":
       [
-          {
-              "name": "kochmesser",
-              "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
-          }
+        {
+          "name": "kochmesser",
+          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+        }
       ],
       "isRunning" : false 
     },
