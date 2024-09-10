@@ -441,16 +441,20 @@
         "product": "Opbergmand Donkergrijs",
         "productTitle": "Sophie Nordinn® Elegante, praktische Körbe, Korb Geflochten Aufbewahrungskorb Dekokörbe Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund-Dunkelgrau",
         "productId": "489010043",
-        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
         "keyword":
         [
             {
                 "name": "korb",
-                "link": "https://www.kaufland.de/s/?price=2500-2600&search_value=korb"
+                "link": "https://www.kaufland.de/s/?search_value=korb"
             },
             {
                 "name": "aufbewahrungskorb",
-                "link": "https://www.kaufland.de/s/?price=2500-2600&search_value=aufbewahrungskorb"
+                "link": "https://www.kaufland.de/s/?search_value=aufbewahrungskorb"
+            },
+            {
+                "name": "korb geflochten",
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2500-2600&search_value=korb%20geflochten"
             }
         ],
         "isRunning" : false 
