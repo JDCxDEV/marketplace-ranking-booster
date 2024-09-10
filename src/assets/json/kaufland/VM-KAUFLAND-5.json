@@ -465,7 +465,7 @@
         "product": "Opbergmand Light blue",
         "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe -Hellblau",
         "productId": "489014185",
-        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
         "keyword":
         [
             {
@@ -474,7 +474,11 @@
             },
             {
                 "name": "aufbewahrungskorb",
-                "link": "https://www.kaufland.de/s/?21=6907508&price=2800-2900&search_value=aufbewahrungskorb"
+                "link": "https://www.kaufland.de/s/?search_value=aufbewahrungskorb"
+            },
+            {
+                "name": "korb geflochten",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=korb%20geflochten"
             }
         ],
         "isRunning" : false 
@@ -485,7 +489,7 @@
         "product": "Opbergmand Orebro",
         "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe, Körbe",
         "productId": "489012035",
-        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
         "keyword":
         [
             {
@@ -495,6 +499,10 @@
             {
                 "name": "aufbewahrungskorb",
                 "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+            },
+            {
+                "name": "korb geflochten",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=korb%20geflochten"
             }
         ],
         "isRunning" : false 
@@ -505,7 +513,7 @@
         "product": "Opbergmand Orebro - Graanschil Katoen/wit",
         "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe, (Weiß)",
         "productId": "489012449",
-        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
         "keyword":
         [
             {
@@ -515,6 +523,10 @@
             {
                 "name": "aufbewahrungskorb",
                 "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+            },
+            {
+                "name": "korb geflochten",
+                "link": "https://kaufland.de/s/?21=6907508&search_value=korb%20geflochten"
             }
         ],
         "isRunning" : false 
@@ -525,7 +537,7 @@
         "product": "Opbergmand Orebro - Zeegras Wit/Bruin",
         "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe, Weiß/braun",
         "productId": "489012271",
-        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
         "keyword":
         [
             {
@@ -534,7 +546,11 @@
             },
             {
                 "name": "aufbewahrungskorb",
-                "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=aufbewahrungskorb"
+            },
+            {
+                "name": "korb geflochten",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=korb%20geflochten"
             }
         ],
         "isRunning" : false 
@@ -545,7 +561,7 @@
         "product": "Opbergmand Stockholm (Grass)",
         "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe Baumwollkorb, Handtuchkorb für Badezimmer Wäschekörbe - Grass",
         "productId": "489012836",
-        "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+        "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
         "keyword":
         [
             {
@@ -555,6 +571,10 @@
             {
                 "name": "aufbewahrungskorb",
                 "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+            },
+            {
+                "name": "korb geflochten",
+                "link": "https://www.kaufland.de/s/?21=6907508&search_value=korb%20geflochten"
             }
         ],
         "isRunning" : false 
