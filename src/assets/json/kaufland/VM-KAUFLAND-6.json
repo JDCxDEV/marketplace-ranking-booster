@@ -7,16 +7,20 @@
             "product": "Opbergmand Wit",
             "productTitle": "Sophie Nordinn® Elegante praktische Körbe Korb Geflochten Aufbewahrungskorb Dekokörbe Baumwollkorb Handtuchkorb für Badezimmer Wäschekörbe -Weiße Naht",
             "productId": "489010904",
-            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
             "keyword":
             [
                 {
                     "name": "korb",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3200-3300&search_value=korb"
+                    "link": "https://www.kaufland.de/s/?search_value=korb"
                 },
                 {
                     "name": "aufbewahrungskorb",
-                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                    "link": "https://www.kaufland.de/s/?search_value=aufbewahrungskorb"
+                },
+                {
+                    "name": "korb geflochten",
+                    "link": "https://www.kaufland.de/s/?search_value=korb%20geflochten"
                 }
             ],
             "isRunning" : false 
@@ -27,16 +31,20 @@
             "product": "Opbergmand Zwart",
             "productTitle": "Sophie Nordinn® Elegante praktische Körbe, Korb Geflochten Aufbewahrungskorb, Dekokörbe, Groß Baumwollkorb Handtuchkorb für Badezimmer, Rund -Schwarz",
             "productId": "489010407",
-            "keywords": ["blumentopf", "korb", "aufbewahrungskorb"],
+            "keywords": ["korb", "aufbewahrungskorb", "korb geflochten"],
             "keyword":
             [
                 {
                     "name": "korb",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3200-3300&search_value=korb"
+                    "link": "https://www.kaufland.de/s/?search_value=korb"
                 },
                 {
                     "name": "aufbewahrungskorb",
-                    "link": "https://www.kaufland.de/s/?21=6907508&search_value=aufbewahrungskorb"
+                    "link": "https://www.kaufland.de/s/?search_value=aufbewahrungskorb"
+                },
+                {
+                    "name": "korb geflochten",
+                    "link": "https://www.kaufland.de/s/?search_value=korb%20geflochten"
                 }
             ],
             "isRunning" : false 
@@ -47,24 +55,24 @@
             "product": "Placemat - Jute 4 stuks",
             "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
             "productId": "490252009",
-            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzsets"],
             "keyword":
             [
                 {
                     "name": "platzsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=platzsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets%20abwaschbar"
                 },
                 {
                     "name": "tischsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2500&search_value=tischsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=tischsets%20abwaschbar"
                 },
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?search_value=platzset"
                 },
                 {
                     "name": "platzsets",
-                    "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=platzsets"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -75,24 +83,24 @@
             "product": "Placemat - Lichtgrijs 4 stuks",
             "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
             "productId": "490910380",
-            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzsets"],
             "keyword":
             [
                 {
                     "name": "platzsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets%20abwaschbar"
                 },
                 {
                     "name": "tischsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=tischsets%20abwaschbar"
                 },
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?search_value=platzset"
                 },
                 {
                     "name": "platzsets",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -103,24 +111,24 @@
             "product": "Placemat Abisko Grey",
             "productTitle": "Sophie Nordinn® Tischunterlagen, Tischset platzsets für Küche Speisetisch, Abwaschbar, Rund, Baumwolle, Hitzebeständig, Geflochtene für Hochzeit, Fest",
             "productId": "490251906",
-            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzsets"],
             "keyword":
             [
                 {
                     "name": "platzsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets%20abwaschbar"
                 },
                 {
                     "name": "tischsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=tischsets%20abwaschbar"
                 },
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?search_value=platzset"
                 },
                 {
                     "name": "platzsets",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -136,19 +144,19 @@
             [
                 {
                     "name": "platzsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets%20abwaschbar"
                 },
                 {
                     "name": "tischsets abwaschbar",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=tischsets%20abwaschbar"
+                    "link": "https://www.kaufland.de/s/?search_value=tischsets%20abwaschbar"
                 },
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?search_value=platzset"
                 },
                 {
                     "name": "platzsets",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=2400-2400&search_value=platzsets"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -159,20 +167,20 @@
             "product": "Placemat Vaxjo - Geel",
             "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel - Gelb",
             "productId": "490910414",
-            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keywords": ["platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?search_value=platzset"
                 },
                 {
                     "name": "platzdeckchen",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzdeckchen"
+                    "link": "https://www.kaufland.de/s/?search_value=platzdeckchen"
                 },
                 {
                     "name": "platzsets",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -183,16 +191,16 @@
             "product": "Placemat Vaxjo - Turquiose 4 stuks",
             "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Türkis",
             "productId": "490910413",
-            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keywords": ["platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzset"
                 },
                 {
                     "name": "platzdeckchen",
-                    "link": "https://www.kaufland.de/s/?price=3300-3300&search_value=platzdeckchen"
+                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzdeckchen"
                 },
                 {
                     "name": "platzsets",
@@ -207,12 +215,12 @@
             "product": "Placemat Vaxjo Blue",
             "productTitle": "Sophie Nordinn® Tischunterlagen, Abwischbar Wasserdicht, Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Hellblau",
             "productId": "490910412",
-            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keywords": ["platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?search_value=platzset"
                 },
                 {
                     "name": "platzdeckchen",
@@ -220,7 +228,7 @@
                 },
                 {
                     "name": "platzsets",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3400&search_value=platzsets"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets"
                 }
             ],
             "isRunning" : false 
@@ -231,20 +239,20 @@
             "product": "Placemat Vaxjo Grey",
             "productTitle": "Sophie Nordinn® Tischunterlagen Abwischbar Wasserdicht Tischset Vaxjo Silikon, Platzdeckchen Tischset für Hause Küche Restaurant und Hotel -Dunkelgrau",
             "productId": "490910410",
-            "keywords": ["platzsets abwaschbar", "tischsets abwaschbar", "platzset", "platzdeckchen", "platzsets"],
+            "keywords": ["platzset", "platzdeckchen", "platzsets"],
             "keyword":
             [
                 {
                     "name": "platzset",
-                    "link": "https://www.kaufland.de/s/?price=3300-3300&search_value=platzset"
+                    "link": "https://www.kaufland.de/s/?search_value=platzset"
                 },
                 {
                     "name": "platzdeckchen",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzdeckchen"
+                    "link": "https://www.kaufland.de/s/?search_value=platzdeckchen"
                 },
                 {
                     "name": "platzsets",
-                    "link": "https://www.kaufland.de/s/?21=6907508&price=3300-3300&search_value=platzsets"
+                    "link": "https://www.kaufland.de/s/?search_value=platzsets"
                 }
             ],
             "isRunning" : false 
