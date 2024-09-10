@@ -603,13 +603,21 @@
       "product": "Koi Artisan® Wijn Beluchter",
       "productTitle": "KOI Artisan® Weinbelüfter - Rotwein-Ausgießer mit Halterung - Weinstopfen - Sediment-Entferner-Filter - Perfekte Weinpräsente, Weinbelüfter",
       "productId": "497705031",
-      "keywords": ["weinbelüfter"],
+      "keywords": ["weinbelüfter", "artisan weinbelüfter", "rotwein ausgieße"],
       "keyword":
       [
-          {
-              "name": "weinbelüfter",
-              "link": "https://www.kaufland.de/s/?search_value=weinbel%C3%BCfter"
-          }
+        {
+          "name": "weinbelüfter",
+          "link": "https://www.kaufland.de/s/?search_value=weinbel%C3%BCfter"
+        },
+        {
+          "name": "artisan weinbelüfter",
+          "link": "https://www.kaufland.de/s/?search_value=artisan%20weinbel%C3%BCfter"
+        },
+        {
+          "name": "rotwein ausgieße",
+          "link": "https://www.kaufland.de/s/?search_value=rotwein%20ausgie%C3%9Fe"
+        }
       ],
       "isRunning" : false 
     }

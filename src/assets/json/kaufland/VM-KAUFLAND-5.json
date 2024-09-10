@@ -7,12 +7,20 @@
         "product": "KOI Artisan® Knoflookpers",
         "productTitle": "KOI Artisan® Knoblauchpresse aus Edelstahl - Knoblauchzerkleinerer Rocker Presse mit Knoblauchschäler und Holzgriff, Knoblauchpresse",
         "productId": "497703372",
-        "keywords": ["knoblauchpresse"],
+        "keywords": ["knoblauchpresse", "knoblauchzerkleinerer", "knoblauchpresse aus edelstahl"],
         "keyword":
         [
             {
                 "name": "knoblauchpresse",
-                "link": "https://www.kaufland.de/s/?21=7101284&price=1400-1500&search_value=knoblauchpresse"
+                "link": "https://www.kaufland.de/s/?search_value=knoblauchpresse"
+            },
+            {
+                "name": "knoblauchzerkleinerer",
+                "link": "https://www.kaufland.de/s/?search_value=knoblauchzerkleinerer"
+            },
+            {
+                "name": "knoblauchpresse aus edelstahl",
+                "link": "https://www.kaufland.de/s/?search_value=knoblauchpresse%20aus%20edelstahl"
             }
         ],
         "isRunning" : false 
@@ -23,7 +31,7 @@
         "product": "KOI Artisan® Messenblok",
         "productTitle": "KOI Artisan® Messerblock in Vogelaugenform ohne Messer - Entworfen zum Schutz von Messern, Geeignet für bis zu 10 Messer - Abnehmbares, Mattschwarz",
         "productId": "497711694",
-        "keywords": ["messerblock", "messerblock ohne messer"],
+        "keywords": ["messerblock", "messerblock ohne messer", "messerblock in vogelaugenform"],
         "keyword":
         [
             {
@@ -33,6 +41,10 @@
             {
                 "name": "messerblock ohne messer",
                 "link": "https://www.kaufland.de/s/?search_value=messerblock%20ohne%20messer"
+            },
+            {
+                "name": "messerblock in vogelaugenform",
+                "link": "https://www.kaufland.de/s/?search_value=messerblock%20in%20vogelaugenform"
             }
         ],
         "isRunning" : false 
@@ -43,7 +55,7 @@
         "product": "KOI Artisan® Messenslijper",
         "productTitle": "KOI ARTISAN Messerschärfer Schleifstein - Zweiseitig Körnung 1000/6000 mit Winkelhilfe Rutschfeste Bambusbasis - Bester Wasserstein Messerschärfer",
         "productId": "497791854",
-        "keywords": ["messerschärfer", "wetzstein", "schleifstein"],
+        "keywords": ["messerschärfer", "schleifstein", "messerschärfer schleifstein"],
         "keyword":
         [
             {
@@ -51,8 +63,13 @@
                 "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messersch%C3%A4rfer"
             },
             {
-                "name": "messerschärfer",
-                "link": "https://www.kaufland.de/s/?price=5400-5600&search_value=schleifstein"
+                "name": "schleifstein",
+                "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=schleifstein"
+                
+            },
+            {
+                "name": "messerschärfer schleifstein",
+                "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messersch%C3%A4rfer%20schleifstein"
                 
             }
         ],
@@ -64,12 +81,20 @@
         "product": "KOI Artisan® Damascus Koksmes - 8,89 cm",
         "productTitle": "KOI Artisan® Damascus Kochmesser - 8,89 cm - Rasiermesserscharfe Klinge - Chef Messer 67 Lagen aus japanischem Damascus VG10 Superstahl - Chef Messer",
         "productId": "497700921",
-        "keywords": ["kochmesser", "damastmesser", "küchenmesser"],
+        "keywords": ["kochmesser", "damascus kochmesser", "chef messer 67 lagen"],
         "keyword":
         [
             {
                 "name": "kochmesser",
                 "link": "https://www.kaufland.de/s/?search_value=kochmesser"
+            },
+            {
+                "name": "damascus kochmesser",
+                "link": "https://www.kaufland.de/s/?search_value=damascus%20kochmesser"
+            },
+            {
+                "name": "chef messer 67 lagen",
+                "link": "https://www.kaufland.de/s/?search_value=chef%20messer%2067%20lagen"
             }
         ],
         "isRunning" : false 
@@ -80,12 +105,20 @@
         "product": "KOI Artisan® Santokumes Koksmes - 17,78 cm",
         "productTitle": "KOI Artisan® Santokumes - 17,78 cm - Kochmesser - Rasiermesserscharfe Klinge - Japanischer Hochkohlenstoff-Rostfreier Stahl - Stilvolles Damascus",
         "productId": "497713577",
-        "keywords": ["kochmesser", "küchenmesser"],
+        "keywords": ["kochmesser", "santokumes", "damascus kochmesser"],
         "keyword":
         [
             {
                 "name": "kochmesser",
                 "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=kochmesser"
+            },
+            {
+                "name": "santokumes",
+                "link": "https://www.kaufland.de/s/?search_value=santokumes"
+            },
+            {
+                "name": "damascus kochmesser",
+                "link": "https://www.kaufland.de/s/?21=7101284&price=4300-4400&search_value=damascus%20kochmesser"
             }
         ],
         "isRunning" : false 
@@ -96,7 +129,7 @@
         "product": "KOI Artisan® Koksmes Scheermesscherp - 67 Lagen",
         "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - 67 Lagen japanisches Küchenmesser -Damascus VG10 Superstahl- Professionelles Kochmesser",
         "productId": "497711181",
-        "keywords": ["kochmesser", "küchenmesser"],
+        "keywords": ["kochmesser", "küchenmesser", "damascus vg10 superstahl"],
         "keyword":
         [
             {
@@ -106,6 +139,10 @@
             {
                 "name": "küchenmesser",
                 "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=k%C3%BCchenmesser"
+            },
+            {
+                "name": "damascus vg10 superstahl",
+                "link": "https://www.kaufland.de/s/?search_value=damascus%20vg10%20superstahl"
             }
         ],
         "isRunning" : false 
@@ -116,16 +153,23 @@
         "product": "KOI Artisan® Koksmes Scheermesscherp - Professionelle",
         "productTitle": "KOI Artisan® Kochmesser - 12,7 cm Rasiermesserscharfe Klinge - Professionelle Chef Messer - Japanische Messer aus hochkarätigem Kohlenstoff-Edelstahl",
         "productId": "497713550",
-        "keywords": ["kochmesser", "küchenmesser"],
+        "keywords": ["kochmesser", "professionelle chef messer", "japanische messer"],
         "keyword":
         [
             {
                 "name": "kochmesser",
                 "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=kochmesser"
+            },
+            {
+                "name": "professionelle chef messer",
+                "link": "https://www.kaufland.de/s/?search_value=professionelle%20chef%20messer"
+            },
+            {
+                "name": "japanische messer",
+                "link": "https://www.kaufland.de/s/?price=2400-2500&search_value=japanische%20messer"
             }
         ],
-        "isRunning" : false,
-        "isOutOfStock": true
+        "isRunning" : false
     },
     {
         "id": "VM-5-0008",
@@ -133,12 +177,20 @@
         "product": "KOI Artisan® Professioneel Koksmes - 8 Zoll",
         "productTitle": "KOI Artisan® Professionelles Kochmesser, 8 Zoll Scharfe Klinge Edelstahl, Damaszener, deutsche Messer Rostfreier Stahl Korrosions & Fleckenbeständig",
         "productId": "497791942",
-        "keywords": ["kochmesser", "küchenmesser"],
+        "keywords": ["kochmesser", "allzweckmesser", "professionelles kochmesser"],
         "keyword":
         [
             {
                 "name": "kochmesser",
-                "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=kochmesser"
+                "link": "https://www.kaufland.de/s/?search_value=kochmesser"
+            },
+            {
+                "name": "allzweckmesser",
+                "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=allzweckmesser"
+            },
+            {
+                "name": "professionelles kochmesser",
+                "link": "https://www.kaufland.de/s/?search_value=professionelles%20kochmesser"
             }
         ],
         "isRunning" : false 
