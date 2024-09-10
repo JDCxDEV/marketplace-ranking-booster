@@ -527,13 +527,21 @@
       "product": "KOI Artisan® Professionele Messenset",
       "productTitle": "KOI Artisan® Professionelles Messerset 3 Stücke- Kochmesser - Küchenmesserset aus rostfreiem Stahl mit ergonomischem Pakkaholzgriff - Japanisches Chef",
       "productId": "497736068",
-      "keywords": ["kochmesser", "küchenmesser", "messerset"],
+      "keywords": ["messerset", "professionelles messerset 3 stücke", "ergonomisches pakkaholzgriff messer"],
       "keyword":
       [
-          {
-              "name": "messerset",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=messerset"
-          }
+        {
+          "name": "messerset",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=messerset"
+        },
+        {
+          "name": "professionelles messerset 3 stücke",
+          "link": "https://www.kaufland.de/s/?search_value=professionelles%20messerset%203%20st%C3%BCcke"
+        },
+        {
+          "name": "ergonomisches pakkaholzgriff messer",
+          "link": "https://www.kaufland.de/s/?search_value=ergonomisches%20pakkaholzgriff%20messer"
+        }
       ],
       "isRunning" : false 
     },
@@ -543,17 +551,21 @@
       "product": "KOI Artisan® Magnetische Messenhouder",
       "productTitle": "KOI Artisan® Magnetischer Messerhalter für die Wand - 40 cm - Wandmontage Horizontales Messerregal/Bar - Messer Magnetleiste - Vielseitige Verwendung",
       "productId": "497792118",
-      "keywords": ["messermagnet", "magnetleiste messer", "messerhalter"],
+      "keywords": ["magnetleiste messer", "messerhalter", "magnetischen messerhalter"],
       "keyword":
       [
-          {
-              "name": "magnetleiste messer",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=magnetleiste%20messer"
-          },
-          {
-              "name": "messerhalter",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messerhalter"
-          }
+        {
+          "name": "magnetleiste messer",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=magnetleiste%20messer"
+        },
+        {
+          "name": "messerhalter",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=5400-5500&search_value=messerhalter"
+        },
+        {
+          "name": "magnetischen messerhalter",
+          "link": "https://www.kaufland.de/s/?price=5400-5500&search_value=magnetischen%20messerhalter"
+        }
       ],
       "isRunning" : false 
     },
@@ -563,13 +575,25 @@
       "product": "KOI Artisan® Multifunctionele Schaar",
       "productTitle": "KOI Artisan® Multifunktionsschere aus rostfreiem Stahl von - Premium Küchenschere - Spülmaschinenfest - Flaschenöffner - Deckelöffner - Nussknacker",
       "productId": "497737318",
-      "keywords": ["küchenschere", "kräuterschere"],
+      "keywords": ["küchenschere", "multifunktionsschere aus", "premium küchenschere", "küchenscheren"],
       "keyword":
       [
-          {
-              "name": "küchenschere",
-              "link": "https://www.kaufland.de/s/?21=7101284&price=4300-4400&search_value=k%C3%BCchenschere"
-          }
+        {
+          "name": "küchenschere",
+          "link": "https://www.kaufland.de/s/?21=7101284&price=4300-4400&search_value=k%C3%BCchenschere"
+        },
+        {
+          "name": "multifunktionsschere aus",
+          "link": "https://www.kaufland.de/s/?search_value=multifunktionsschere%20aus"
+        },
+        {
+          "name": "premium küchenschere",
+          "link": "https://www.kaufland.de/s/?search_value=premium%20k%C3%BCchenschere"
+        },
+        {
+          "name": "küchenscheren",
+          "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=k%C3%BCchenscheren"
+        }
       ],
       "isRunning" : false 
     },

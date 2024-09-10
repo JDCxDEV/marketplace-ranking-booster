@@ -69,7 +69,7 @@
         [
             {
                 "name": "kochmesser",
-                "link": "https://www.kaufland.de/s/?price=6100-6200&search_value=kochmesser"
+                "link": "https://www.kaufland.de/s/?search_value=kochmesser"
             }
         ],
         "isRunning" : false 
