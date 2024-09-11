@@ -16,7 +16,8 @@
         "https://www.blokker.nl/search?q=oortjes"
       ],
       "isRunning" : false,
-      "isMostWantedList": true
+      "isMostWantedList": true,
+      "isOutOfStock": true
     },
     {
       "id": "VM-4-0002",
@@ -96,11 +97,12 @@
       "product": "Earplugs Party",
       "productId": "4569993",
       "productTitle": "QuchiQ Oordoppen - Slaap Oordoppen - Partyplug - Siliconen plug met filter - 23 dB protection",
-      "keywords": ["oordoppen", "oordoppen slapen"],
+      "keywords": ["oordoppen", "oordoppen slapen", "slaap oordoppen"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=oordoppen",
-        "https://www.blokker.nl/search?q=oordoppen%20slapen"
+        "https://www.blokker.nl/search?q=oordoppen%20slapen",
+        "https://www.blokker.nl/search?q=slaap%20oordoppen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -111,11 +113,12 @@
       "product": "Lamp",
       "productId": "4567729",
       "productTitle": "Daglichtlamp LED 10.000 lux - Lichttherapie Lamp - Tabletvorm - Intelligente Timer - Daylight Lamp",
-      "keywords": ["lichttherapie lamp", "daglichtlamp"],
+      "keywords": ["lichttherapie lamp", "daglichtlamp", "daglichtlamp led"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search?q=lichttherapie%20lamp",
-        "https://www.blokker.nl/search?q=daglichtlamp"
+        "https://www.blokker.nl/search?q=daglichtlamp",
+        "https://www.blokker.nl/search?q=daglichtlamp%20led"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -126,10 +129,12 @@
       "product": "BabyFoon Black",
       "productId": "4562307",
       "productTitle": "BS Producten Babyfoon met Camera en App - WiFi - FULL HD - Zwart",
-      "keywords": ["beveiligingscamera's"],
+      "keywords": ["beveiligingscamera's", "babyfoon wifi full hd zwart", "babyfoon met app full hd"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search?q=beveiligingscamera%27s"
+        "https://www.blokker.nl/search?q=beveiligingscamera%27s",
+        "https://www.blokker.nl/search?q=babyfoon%20wifi%20full%20hd%20zwart",
+        "https://www.blokker.nl/search?q=babyfoon%20met%20app%20full%20hd"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -219,7 +224,8 @@
           "https://www.blokker.nl/search?q=kookschort%20mannen"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
     },
     {
         "id": "VM-4-0014",
@@ -267,10 +273,12 @@
         "product": "Kledinghangers",
         "productId": "4581543",
         "productTitle": "Sophie Nordinn Kledinghangers - Organizer Umea (Beige) - Kleding Organizer - Opbergtas - 93x38 cm",
-        "keywords": ["kledinghangers"],
+        "keywords": ["kledinghangers", "kleding organizer", "opbergtas"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/kledinghangers"
+          "https://www.blokker.nl/kledinghangers",
+          "https://www.blokker.nl/search?q=kleding%20organizer",
+          "https://www.blokker.nl/search?q=opbergtas"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -281,11 +289,12 @@
         "product": "Mandjes Opbergen - Zwart",
         "productId": "4581438",
         "productTitle": "Sophie Nordinn Opbergmand Boras (Zwart) - Mandjes Opbergen - Milieuvriendelijk Manden - Katoen",
-        "keywords": ["wasmanden", "mand", "opbergmanden"],
+        "keywords": ["mand", "opbergmanden", "opbergmand boras"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden",
-          "https://www.blokker.nl/search?q=mand"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search?q=mand",
+          "https://www.blokker.nl/search?q=opbergmand%20boras"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -296,7 +305,7 @@
         "product": "Opbergmand  - Brick Red",
         "productId": "4581553",
         "productTitle": "Sophie Nordinn Opbergmand Stockholm (Brick Red) - Wasmand - Wasmanden - 40 Liter",
-        "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
+        "keywords": ["opbergmand", "opbergmanden", "opberg mand"],
         "keywordLink": 
         [
           "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
@@ -311,10 +320,12 @@
         "product": "Opbergmand  - Grijs groot",
         "productId": "4581550",
         "productTitle": "Sophie Nordinn Opbergmand - Mand Goteborg (Grijs groot) - Wasmand - Waszak - 57 L",
-        "keywords": ["opbergmanden"],
+        "keywords": ["opbergmanden", "opbergmand - mand goteborg", "wasmand - waszak"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden"
+          "https://www.blokker.nl/opbergmanden",
+          "https://www.blokker.nl/search?q=opbergmand%20-%20mand%20goteborg",
+          "https://www.blokker.nl/search?q=wasmand%20-%20waszak"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -325,7 +336,7 @@
         "product": "Opbergmand  - Jute groot",
         "productId": "4581434",
         "productTitle": "Sophie Nordinn Opbergmand Mand Goteborg (Jute groot) - Wasmand - Waszak - 57 L",
-        "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
+        "keywords": ["opbergmanden", "mand"],
         "keywordLink": 
         [
           "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
@@ -341,10 +352,12 @@
         "product": "Opbergmand  - Lichtgrijs",
         "productId": "4581552",
         "productTitle": "Sophie Nordinn Opbergmand Boras (Lichtgrijs) - Mandjes Opbergen - Milieuvriendelijk Manden - Katoen",
-        "keywords": ["opbergmanden"],
+        "keywords": ["opbergmanden", "opbergmand boras", "milieuvriendelijk manden - katoen"],
         "keywordLink":  
         [
-          "https://www.blokker.nl/opbergmanden"
+          "https://www.blokker.nl/opbergmanden",
+          "https://www.blokker.nl/search?q=opbergmand%20boras",
+          "https://www.blokker.nl/search?q=milieuvriendelijk%20manden%20-%20katoen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -355,10 +368,12 @@
       "product": "Opbergmand - Wit stiksel",
       "productId": "4581548",
       "productTitle": "Sophie Nordinn Opbergmand Goteborg (Wit stiksel klein) - Wasmand - Wasmanden - 22 L",
-      "keywords": ["wasmand", "opbergmand", "opbergmanden", "opberg mand"],
+      "keywords": ["opbergmanden", "opbergmand goteborg", "wasmand wit stiksel"],
       "keywordLink":  
       [
-        "https://www.blokker.nl/opbergmanden"
+        "https://www.blokker.nl/opbergmanden",
+        "https://www.blokker.nl/search?q=opbergmand%20goteborg",
+        "https://www.blokker.nl/search?q=wasmand%20wit%20stiksel"
       ],
       "isRunning" : false,
       "isMostWantedList": true
