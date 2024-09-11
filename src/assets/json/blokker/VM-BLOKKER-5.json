@@ -7,11 +7,12 @@
         "product": "Opbergmand  - Zwart klein",
         "productId": "4581426",
         "productTitle": "Sophie Nordinn Opbergmand Goteborg (Zwart klein) - Wasmand - Wasmanden - 22 L",
-        "keywords": ["mand", "opbergmanden"],
+        "keywords": ["mand", "opbergmanden", "wasmand zwart klein"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden",
-          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
+          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00",
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search?q=wasmand%20zwart%20klein"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -37,10 +38,12 @@
         "product": "Opbergmand - Jute",
         "productId": "4581427",
         "productTitle": "Sophie Nordinn Opbergmand Goteborg (Jute klein) - Wasmand - Waszak - 22 L",
-        "keywords": ["opbergmanden"],
+        "keywords": ["opbergmanden", "opbergmand goteborg", "wasmand jute klein"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search?q=opbergmand%20goteborg",
+          "https://www.blokker.nl/search?q=wasmand%20jute%20klein"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -51,10 +54,12 @@
         "product": "Opbergmand Light blue",
         "productId": "4581549",
         "productTitle": "Sophie Nordinn Opbergmand Stockholm (Light blue) - Wasmand - Wasmanden - 40 Liter",
-        "keywords": ["opbergmanden"],
+        "keywords": ["opbergmanden", "opbergmand stockholm", "wasmand light blue"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search?q=opbergmand%20stockholm",
+          "https://www.blokker.nl/search?q=wasmand%20light%20blue"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -65,12 +70,12 @@
         "product": "Opbergmand Orebro",
         "productId": "4581420",
         "productTitle": "Sophie Nordinn Mand - Opbergmand Orebro (Graanschil Katoen/zwart) - Milieuvriendelijk Plantenmand",
-        "keywords": ["opbergmanden", "mand", "plantenmand", "plantenmand binnen"],
+        "keywords": ["mand", "plantenmand", "milieuvriendelijk plantenmand"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden",
-          "https://www.blokker.nl/search?q=mand",
-          "https://www.blokker.nl/search?q=plantenmand"
+          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=plantenmand",
+          "https://www.blokker.nl/search?q=milieuvriendelijk%20plantenmand"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -81,10 +86,12 @@
       "product": "Opbergmand Orebro - Graanschil Katoen/wit",
       "productId": "4581419",
       "productTitle": "Sophie Nordinn Mand - Opbergmand Orebro (Graanschil Katoen/wit) - Milieuvriendelijk Plantenmand",
-      "keywords": ["mand"],
+      "keywords": ["mand", "opbergmand orebro", "milieuvriendelijk plantenmand"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=mand",
+        "https://www.blokker.nl/search?q=opbergmand%20orebro",
+        "https://www.blokker.nl/search?q=milieuvriendelijk%20plantenmand"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -95,11 +102,12 @@
         "product": "Opbergmand Orebro - Zeegras Wit/Bruin",
         "productId": "4581555",
         "productTitle": "Sophie Nordinn Mand - Opbergmand Orebro (Zeegras Wit/Bruin) - Milieuvriendelijk Manden - Opbergmand",
-        "keywords": ["mand", "opbergmanden"],
+        "keywords": ["mand", "opbergmanden", "opbergmand orebro"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/opbergmanden",
-          "https://www.blokker.nl/search?q=mand"
+          "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+          "https://www.blokker.nl/search?q=mand",
+          "https://www.blokker.nl/search?q=opbergmand%20orebro"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -110,11 +118,12 @@
         "product": "Opbergmand Stockholm (Grass)",
         "productId": "4581439",
         "productTitle": "Sophie Nordinn Opbergmand Stockholm (Grass) - Wasmand - Wasmanden - 40 Liter",
-        "keywords": ["wasmand", "opbergmand", "mand", "opbergmanden", "opberg mand"],
+        "keywords": ["opbergmanden", "mand", "wasmanden grass"],
         "keywordLink": 
         [
           "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
-          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
+          "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=wasmanden%20grass"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -133,7 +142,8 @@
           "https://www.blokker.nl/search/sophie-nordinn?q=opbergmand%20zwart&pmin=0%2C00"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
     },
     {
         "id": "VM-5-0010",
@@ -141,10 +151,12 @@
         "product": "Placemat - Jute 4 stuks",
         "productId": "4581461",
         "productTitle": "Sophie Nordinn Placemats - Placemat Abisko (Jute) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemats", "placemats rond"],
+        "keywords": ["placemats", "placemat abisko", "placemats katoen"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats"
+          "https://www.blokker.nl/placemats",
+          "https://www.blokker.nl/search?q=p%5Clacemat%20abisko",
+          "https://www.blokker.nl/search?q=placemats%20katoen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -155,11 +167,12 @@
         "product": "Placemat - Lichtgrijs 4 stuks",
         "productId": "4581466",
         "productTitle": "Sophie Nordinn Placemats - Placemat Abisko (Lichtgrijs) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemats", "placemats rond"],
+        "keywords": ["placemats", "placemats rond", "placemat abisko"],
         "keywordLink": 
         [
           "https://www.blokker.nl/placemats",
-          "https://www.blokker.nl/search?q=placemats%20rond&pmin=20&pmax=21"
+          "https://www.blokker.nl/search/sophie-nordinn?q=placemats%20rond&pmin=0%2C00",
+          "https://www.blokker.nl/search?q=placemat%20abisko"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -170,7 +183,7 @@
         "product": "Placemat Abisko Grey",
         "productId": "4581465",
         "productTitle": "Sophie Nordinn Placemats - Placemat Abisko (Donkergrijs) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemats", "placemat rond", "placemats rond"],
+        "keywords": ["placemats", "placemat rond", "placemats katoen"],
         "keywordLink": 
         [
           "https://www.blokker.nl/placemats",
@@ -186,10 +199,12 @@
         "product": "Placemat Abisko Verloop",
         "productId": "4581460",
         "productTitle": "Sophie Nordinn Placemats - Placemat Abisko (Verloop) - Set (4 stuks) van Katoen - 43 cm x 34 cm",
-        "keywords": ["placemats"],
+        "keywords": ["placemats", "placemat abisko", "placemat abisko"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/placemats"
+          "https://www.blokker.nl/placemats",
+          "https://www.blokker.nl/search?q=placemat%20abisko",
+          "https://www.blokker.nl/search?q=placemats%20katoen"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -248,11 +263,12 @@
         "product": "Placemat Vaxjo Grey",
         "productId": "4581462",
         "productTitle": "Sophie Nordinn Placemats - Placemat Vaxjo (Donkergrijs) - Placemats Kunststof - Set 4 stuks - 30x40 cm",
-        "keywords": ["placemats", "placemat kunststof"],
+        "keywords": ["placemats", "placemat kunststof", "placemat vaxjo"],
         "keywordLink": 
         [
           "https://www.blokker.nl/placemats",
-          "https://www.blokker.nl/search?q=placemat%20kunststof"
+          "https://www.blokker.nl/search?q=placemat%20kunststof",
+          "https://www.blokker.nl/search?q=placemat%20vaxjo"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -263,10 +279,12 @@
         "product": "Schoenenrek - Grijs 2 stuks",
         "productId": "4581469",
         "productTitle": "Sophie Nordinn Schoenenrek Linkoping (2 stuks) - Schoenenopbergers/Schoenen Organizer - 26x24x15 cm",
-        "keywords": ["schoenen organizer"],
+        "keywords": ["schoenen organizer", "schoenenopbergers", "schoenenrek linkoping"],
         "keywordLink": 
         [
-          "https://www.blokker.nl/search?q=schoenen%20organizer"
+          "https://www.blokker.nl/search?q=schoenen%20organizer",
+          "https://www.blokker.nl/search?q=schoenenopbergers",
+          "https://www.blokker.nl/search?q=schoenenrek%20linkoping"
         ],
         "isRunning" : false,
         "isMostWantedList": true
@@ -283,7 +301,8 @@
           "https://www.blokker.nl/search?q=schoenen%20organizer"
         ],
         "isRunning" : false,
-        "isMostWantedList": true
+        "isMostWantedList": true,
+        "isOutOfStock": true
     },
     {
         "id": "VM-5-0020",
@@ -314,7 +333,8 @@
           "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
         ],
         "isRunning" : false,
-        "isMostWantedList": true  
+        "isMostWantedList": true,
+        "isOutOfStock": true
     },
     {
       "id": "VM-5-0022",
@@ -322,11 +342,12 @@
       "product": "Opbergmand Donkergrijs",
       "productId": "4581437",
       "productTitle": "Sophie Nordinn Opbergmand Boras (Donkergrijs) - Mandjes Opbergen - Milieuvriendelijk Manden - Katoen",
-      "keywords": ["mand", "opbergmanden"],
+      "keywords": ["mand", "opbergmanden", "milieuvriendelijk manden katoen"],
       "keywordLink": 
       [
         "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
-        "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=mand",
+        "https://www.blokker.nl/search?q=milieuvriendelijk%20manden%20katoen"
       ],
       "isRunning" : false,
       "isMostWantedList": true  
@@ -344,7 +365,8 @@
         "https://www.blokker.nl/search/sophie-nordinn?q=opbergmand%20wit&pmin=0%2C00"
       ],
       "isRunning" : false,
-      "isMostWantedList": true  
+      "isMostWantedList": true,
+      "isOutOfStock": true
     }
   ]
 }
