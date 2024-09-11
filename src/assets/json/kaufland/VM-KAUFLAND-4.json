@@ -11,17 +11,17 @@
       "keyword":
       [
         {
-            "name": "einbaustrahler gu 10",
-            "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=einbaustrahler%20gu%2010"
+          "name": "einbaustrahler gu 10",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=einbaustrahler%20gu%2010"
         },
         {
-            "name": "gu10 led spot",
-            "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=gu10%20led%20spot"
+          "name": "gu10 led spot",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=6200-6300&search_value=gu10%20led%20spot"
         },
         {
-          "name": "gu10 smart led lampe",
-          "link": "https://www.kaufland.de/s/?search_value=gu10%20smart%20led%20lampe"
-      }
+        "name": "gu10 smart led lampe",
+        "link": "https://www.kaufland.de/s/?search_value=gu10%20smart%20led%20lampe"
+        }
       ],
       "isRunning" : false 
     },
@@ -34,26 +34,26 @@
       "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://d-and-r-command-center.monday.com/boards/5184534509"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=2300-2400&search_value=led%20strip"
-          }
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+        },
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://d-and-r-command-center.monday.com/boards/5184534509"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=2300-2400&search_value=led%20strip"
+        }
       ],
       "isRunning" : false 
     },
@@ -66,26 +66,26 @@
       "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?search_value=led%20strip"
-          }
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+        },
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?search_value=tv%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+        }
       ],
       "isRunning" : false 
     },
@@ -98,26 +98,26 @@
       "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=led%20strip"
-          }
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+        },
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=tv%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.kaufland.de/s/?search_value=hintergrundbeleuchtung%20tv"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=fernseher%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=led%20strip"
+        }
       ],
       "isRunning" : false 
     },
@@ -130,26 +130,26 @@
       "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?price=4800-4900&search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20strip"
-          }
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20streifen"
+        },
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?price=4800-4900&search_value=tv%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=hintergrundbeleuchtung%20tv"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=fernseher%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4800-4900&search_value=led%20strip"
+        }
       ],
       "isRunning" : false 
     },
@@ -162,26 +162,26 @@
       "keywords": ["led streifen", "tv hintergrundbeleuchtung", "hintergrundbeleuchtung tv", "fernseher hintergrundbeleuchtung", "led strip"],
       "keyword":
       [
-          {
-              "name": "led streifen",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20streifen"
-          },
-          {
-              "name": "tv hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=tv%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "hintergrundbeleuchtung tv",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=hintergrundbeleuchtung%20tv"
-          },
-          {
-              "name": "fernseher hintergrundbeleuchtung",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=fernseher%20hintergrundbeleuchtung"
-          },
-          {
-              "name": "led strip",
-              "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20strip"
-          }
+        {
+          "name": "led streifen",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20streifen"
+        },
+        {
+          "name": "tv hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=tv%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "hintergrundbeleuchtung tv",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=hintergrundbeleuchtung%20tv"
+        },
+        {
+          "name": "fernseher hintergrundbeleuchtung",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=fernseher%20hintergrundbeleuchtung"
+        },
+        {
+          "name": "led strip",
+          "link": "https://www.kaufland.de/s/?21=5941848&price=4900-5000&search_value=led%20strip"
+        }
       ],
       "isRunning" : false 
     },
