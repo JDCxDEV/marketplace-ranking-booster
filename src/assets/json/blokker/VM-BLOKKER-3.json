@@ -24,14 +24,12 @@
       "product": "LED strip RGBIC 15m",
       "productId": "4627902",
       "productTitle": "Lideka - LED Strip 15m (3x5m) RGB + IC - Afstandsbediening - Gaming Lichtstrip met App - 450 LEDs - Zelfklevend Licht",
-      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening", "led verlichting strips", "led light strip"],
+      "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening"],
       "keywordLink": 
       [
         "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
-        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
-        "https://www.blokker.nl/search?q=led%20verlichting%20strips",
-        "https://www.blokker.nl/search/lideka?q=led%20light%20strip&pmin=0%2C00"
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -78,8 +76,8 @@
       "keywords": ["led strip", "rgb led strip", "led strip tv"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=27&pmax=28",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=27&pmax=28",
+        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
         "https://www.blokker.nl/search?q=led%20strip%20tv"
       ],
       "isRunning" : false,
@@ -91,8 +89,13 @@
       "product": "LED strip TV 6m",
       "productId": "4579811",
       "productTitle": "Lideka TV USB LED Strip 6 meter (3+3m) RGB - met Afstandsbediening - Gaming Lichtstrip met App",
-      "keywords": ["led strip 6 meter"],
-      "keywordLink": ["https://www.blokker.nl/search?q=led%20strip%206%20meter"],
+      "keywords": ["led strip 6 meter", "tv usb led strip", "gaming lichtstrip"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/search?q=led%20strip%206%20meter",
+        "https://www.blokker.nl/search?q=tv%20usb%20led%20strip",
+        "https://www.blokker.nl/search?q=gaming%20lichtstrip"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -118,11 +121,12 @@
       "product": "LED strip NEON RGBIC 3m",
       "productId": "4562239",
       "productTitle": "Lideka Slimme RGBIC Neon LED Strip 3 Meter",
-      "keywords": ["led strip", "rgb led strip", "ledstrip", "led strip 3 meter", "neon led strip buiten"],
+      "keywords": ["led strip", "led strip 3 meter", "rgbic led strip"],
       "keywordLink":
       [
         "https://www.blokker.nl/search?q=led%20strip",
-        "https://www.blokker.nl/search?q=led%20strip%203%20meter"
+        "https://www.blokker.nl/search?q=led%20strip%203%20meter",
+        "https://www.blokker.nl/search?q=rgbic%20led%20strip"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -133,11 +137,11 @@
       "product": "Solar Powerbank Single",
       "productId": "4581540",
       "productTitle": "Lideka Solar Powerbank Charger - 4x USB - USB C - Snel & Draadloos Opladen? - 30.000 mAh",
-      "keywords": ["powerbank", "powerbank iphone", "powerbank zonneenergie", "solar powerbank"],
+      "keywords": ["powerbank", "powerbank zonneenergie", "solar powerbank"],
       "keywordLink":
       [
         "https://www.blokker.nl/powerbanks",
-        "https://www.blokker.nl/search/lideka?q=powerbank%20zonneenergie&pmin=0%2C00",
+        "https://www.blokker.nl/search?q=powerbank%20zonneenergie",
         "https://www.blokker.nl/search?q=solar%20powerbank"
       ],
       "isRunning" : false,
@@ -165,11 +169,12 @@
       "product": "Solar Charger",
       "productId": "4581542",
       "productTitle": "Lideka Solar Charger Panel Werkt Met Powerbank Solar Panel Op Zonne-energie Outdoor 2400 mAh 5V",
-      "keywords": ["solar panel", "solar charger"],
+      "keywords": ["solar panel", "solar charger", "powerbank zonneenergie"],
       "keywordLink":
     [
       "https://www.blokker.nl/search?q=solar%20panel",
-      "https://www.blokker.nl/search?q=solar%20charger"
+      "https://www.blokker.nl/search?q=solar%20charger",
+      "https://www.blokker.nl/search?q=powerbank%20zonneenergie"
     ],
     "isRunning" : false,
     "isMostWantedList": true
@@ -226,8 +231,8 @@
       "productTitle": "Comfy Center Hoofdkussen - Traagschuim Kussen Tegen Nekpijn en Rugklachten_Orthopedisch",
       "keywords": 
       [
-        "kussen", "hoofdkussen", "hoofdkussens", "hoofdkussen traagschuim", "traagschuim kussen",
-        "hoofdkussen nekpijn", "hoofdkussen zijslaper", "traagschuim kussens"
+        "kussen", "hoofdkussens", "hoofdkussen traagschuim", "traagschuim kussen", "hoofdkussen nekpijn",
+        "hoofdkussen zijslaper", "traagschuim kussens"
       ],
       "keywordLink": 
       [
@@ -380,10 +385,12 @@
       "product": "Opbergmand - Wit",
       "productId": "4581440",
       "productTitle": "Sophie Nordinn Opbergmand Goteborg (Wit klein) - Wasmand - Wasmanden - Waszak - 22 L",
-      "keywords": ["mand", "opbergmanden"],
+      "keywords": ["mand", "opbergmanden", "kleine wasmand"],
       "keywordLink": 
       [
-        "https://blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+        "https://www.blokker.nl/search/sophie-nordinn?q=mand&pmin=0%2C00",
+        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00",
+        "https://www.blokker.nl/search?q=kleine%20wasmand"
       ],
       "isRunning" : false,
       "isMostWantedList": true
