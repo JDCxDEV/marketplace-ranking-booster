@@ -19,8 +19,13 @@
       "product": "Kitchen scale USB",
       "productId": "4562298",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - USB Oplaadbaar - 1gr tot 15kg - Zwart",
-      "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
+      "keywords": ["keukenweegschaal", "keukenweegschaal 1gr tot 15kg", "usb oplaadbare keukenweegschaal"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/keukenweegschalen",
+        "https://www.blokker.nl/search/lekro?q=keukenweegschaal%201gr%20tot%2015kg&pmin=0%2C00",
+        "https://www.blokker.nl/search?q=usb%20oplaadbare%20keukenweegschaal"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -30,8 +35,13 @@
       "product": "Kitchen scale Black",
       "productId": "4562315",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Zwart",
-      "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
+      "keywords": ["keukenweegschaal", "keukenweegschaal 1gr tot 15kg", "digitale keukenweegschaal"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/keukenweegschalen",
+        "https://www.blokker.nl/search?q=keukenweegschaal%201gr%20tot%2015kg",
+        "https://www.blokker.nl/search?q=digitale%20keukenweegschaal"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -41,8 +51,13 @@
       "product": "Kitchen scale White",
       "productId": "4562314",
       "productTitle": "Lekro Digitale Keukenweegschaal – Weegschaal Keuken - 1gr tot 15kg - Wit",
-      "keywords": ["keukenweegschaal", "weegschaal keuken"],
-      "keywordLink": ["https://www.blokker.nl/keukenweegschalen"],
+      "keywords": ["keukenweegschaal", "keukenweegschaal 1gr tot 15kg", "digitale keukenweegschaal"],
+      "keywordLink": 
+      [
+        "https://www.blokker.nl/keukenweegschalen",
+        "https://www.blokker.nl/search?q=keukenweegschaal%201gr%20tot%2015kg",
+        "https://www.blokker.nl/search?q=digitale%20keukenweegschaal"
+      ],
       "isRunning" : false,
       "isMostWantedList": true
     },
@@ -52,11 +67,12 @@
       "product": "Sleepmask",
       "productId": "4562324",
       "productTitle": "Somnifiq Slaapmasker - Luxe 3D Oogmasker - 100% Verduisterend - Voor Mannen en Vrouwen",
-      "keywords": ["slaapmasker", "oogmasker"],
+      "keywords": ["slaapmasker", "oogmasker", "slaapmasker 3d"],
       "keywordLink":
       [
         "https://www.blokker.nl/search?q=slaapmasker",
-        "https://www.blokker.nl/search?q=oogmasker"
+        "https://www.blokker.nl/search?q=oogmasker",
+        "https://www.blokker.nl/search?q=slaapmasker%203d"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -101,11 +117,12 @@
       "product": "Reading Lamp",
       "productId": "4565180",
       "productTitle": "Somnifiq LED Leeslampje met Klem – voor Boek - Amber licht - 360°C Flexibele Nek - USB Oplaadbaar",
-      "keywords": ["leeslampje voor boek", "leeslampje"],
+      "keywords": ["leeslampje voor boek", "leeslampje", "leeslampje met klem"],
       "keywordLink":
       [
         "https://www.blokker.nl/search?q=leeslampje%20voor%20boek",
-        "https://www.blokker.nl/search?q=leeslampje"
+        "https://www.blokker.nl/search?q=leeslampje",
+        "https://www.blokker.nl/search?q=leeslampje%20met%20klem"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -116,11 +133,12 @@
       "product": "Steakknives",
       "productId": "4562313",
       "productTitle": "Lekro Steakmessen – 8-delige Steakmessenset – Vaatwasserbestendig - RVS - Zwart",
-      "keywords": ["steakmessen", "steakmessen vaatwasserbestendig"],
+      "keywords": ["steakmessen", "steakmessen vaatwasserbestendig", "steakmessenset"],
       "keywordLink":
       [
         "https://www.blokker.nl/steakmessen",
-        "https://www.blokker.nl/search?q=steakmessen%20vaatwasserbestendig"
+        "https://www.blokker.nl/search?q=steakmessen%20vaatwasserbestendig",
+        "https://www.blokker.nl/search?q=steakmessenset"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -147,10 +165,12 @@
       "product": "Vegetable Cutter",
       "productId": "4562297",
       "productTitle": "Lekro Multifunctionele Groentesnijder met Glazen Ovenschaal - Mandoline - 12-delig",
-      "keywords": ["mandoline"],
+      "keywords": ["mandoline", "multifunctionele groentesnijder", "groentesnijder met glazen ovenschaal"],
       "keywordLink":
       [
-        "https://www.blokker.nl/mandolines"
+        "https://www.blokker.nl/mandolines",
+        "https://www.blokker.nl/search?q=multifunctionele%20groentesnijder",
+        "https://www.blokker.nl/search?q=groentesnijder%20met%20glazen%20ovenschaal"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -161,10 +181,12 @@
       "product": "Water bottle RG",
       "productId": "4548101",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Rosé Goud",
-      "keywords": ["drinkfles", "waterfles", "drinkflessen"],
+      "keywords": ["drinkflessen", "waterfles met tijdmarkeringen", "motiverende drinkfles 1 liter"],
       "keywordLink":
       [
-        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
+        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+        "https://www.blokker.nl/search?q=waterfles%20met%20tijdmarkeringen",
+        "https://www.blokker.nl/search?q=motiverende%20drinkfles%201%20liter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -175,10 +197,12 @@
       "product": "Water bottle BB",
       "productId": "4548102",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Blauw",
-      "keywords": ["drinkfles", "waterfles", "drinkflessen"],
+      "keywords": ["drinkflessen", "waterfles met tijdmarkeringen", "motiverende drinkfles 1 liter"],
       "keywordLink":
       [
-        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
+        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+        "https://www.blokker.nl/search?q=waterfles%20met%20tijdmarkeringen",
+        "https://www.blokker.nl/search?q=motiverende%20drinkfles%201%20liter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -189,10 +213,12 @@
       "product": "Water bottle RB",
       "productId": "4548085",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Roze/Blauw",
-      "keywords": ["drinkfles", "waterfles", "drinkflessen"],
+      "keywords": ["drinkflessen", "waterfles met tijdmarkeringen", "motiverende drinkfles 1 liter"],
       "keywordLink":
       [
-        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles%20met%20tijdmarkeringen",
+        "https://www.blokker.nl/search?q=motiverende%20drinkfles%201%20liter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -203,10 +229,12 @@
       "product": "Water bottle G",
       "productId": "4548089",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Groen",
-      "keywords": ["drinkfles", "waterfles", "drinkflessen"],
+      "keywords": ["drinkflessen", "waterfles met tijdmarkeringen", "motiverende drinkfles 1 liter"],
       "keywordLink":
       [
-        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
+        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+        "https://www.blokker.nl/search?q=waterfles%20met%20tijdmarkeringen",
+        "https://www.blokker.nl/search?q=motiverende%20drinkfles%201%20liter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -217,10 +245,12 @@
       "product": "Water bottle T",
       "productId": "4548091",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Turquoise",
-      "keywords": ["drinkfles", "waterfles", "drinkflessen"],
+      "keywords": ["drinkflessen", "waterfles met tijdmarkeringen", "motiverende drinkfles 1 liter"],
       "keywordLink":
       [
-        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
+        "https://www.blokker.nl/drinkflessen",
+        "https://www.blokker.nl/search?q=waterfles%20met%20tijdmarkeringen",
+        "https://www.blokker.nl/search?q=motiverende%20drinkfles%201%20liter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -231,10 +261,12 @@
       "product": "Water bottle GR",
       "productId": "4548086",
       "productTitle": "Lekro Waterfles met Tijdmarkeringen - Motiverende Drinkfles - 1 Liter - Grijs",
-      "keywords": ["drinkfles", "waterfles", "drinkflessen"],
+      "keywords": ["drinkflessen", "waterfles met tijdmarkeringen", "motiverende drinkfles 1 liter"],
       "keywordLink":
       [ 
-        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00"
+        "https://www.blokker.nl/drinkflessen/lekro?pmin=0%2C00",
+        "https://www.blokker.nl/search?q=waterfles%20met%20tijdmarkeringen",
+        "https://www.blokker.nl/search?q=motiverende%20drinkfles%201%20liter"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -245,11 +277,12 @@
       "product": "LED bulb E14 1x",
       "productId": "4562283",
       "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 1 - Google, Alexa en Siri",
-      "keywords": ["led lampen", "e14 led lamp"],
+      "keywords": ["led lampen", "e14 led lamp", "slimme led lampen"],
       "keywordLink": 
       [
         "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e14%20led%20lamp"
+        "https://www.blokker.nl/search?q=e14%20led%20lamp",
+        "https://www.blokker.nl/search?q=slimme%20led%20lampen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -260,11 +293,12 @@
       "product": "LED bulb E14 2x",
       "productId": "4562290",
       "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 2 - Google, Alexa en Siri",
-      "keywords": ["led lampen", "e14 led lamp"],
+      "keywords": ["led lampen", "e14 led lamp", "slimme led lampen"],
       "keywordLink": 
       [
         "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e14%20led%20lamp"
+        "https://www.blokker.nl/search?q=e14%20led%20lamp",
+        "https://www.blokker.nl/search?q=slimme%20led%20lampen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -275,11 +309,12 @@
       "product": "LED bulb E14 3x",
       "productId": "4562293",
       "productTitle": "Lideka Slimme LED Smart Lampen - E14 - Set Van 3 - Google, Alexa en Siri",
-      "keywords": ["led lampen", "e14 led lamp"],
+      "keywords": ["led lampen", "e14 led lamp", "slimme led lampen"],
       "keywordLink": 
       [
         "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=e14%20led%20lamp"
+        "https://www.blokker.nl/search?q=e14%20led%20lamp",
+        "https://www.blokker.nl/search?q=slimme%20led%20lampen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -290,11 +325,12 @@
       "product": "LED bulb GU10 1x",
       "productId": "4562288",
       "productTitle": "Lideka® - Slimme LED Smart Lampen - Spot GU10 - Set Van 1 - RGBW - Google, Alexa en Siri",
-      "keywords": ["led lampen", "gu10 led lamp"],
+      "keywords": ["led lampen", "gu10 led lamp", "slimme led lampen"],
       "keywordLink": 
       [
         "https://www.blokker.nl/led-lampen",
-        "https://www.blokker.nl/search?q=gu10%20led%20lamp"
+        "https://www.blokker.nl/search?q=gu10%20led%20lamp",
+        "https://www.blokker.nl/search?q=slimme%20led%20lampen"
       ],
       "isRunning" : false,
       "isMostWantedList": true
@@ -305,10 +341,12 @@
       "product": "Opbergmand - Grijs",
       "productId": "4581436",
       "productTitle": "Sophie Nordinn Opbergmand Goteborg (Grijs klein) - Wasmand - Wasmanden - 22 L",
-      "keywords": ["opbergmand", "opbergmanden", "opberg mand"],
+      "keywords": ["opbergmanden", "kleine wasmand", "opbergmand grijs"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/opbergmanden/sophie-nordinn?pmin=0%2C00"
+        "https://www.blokker.nl/opbergmanden",
+        "https://www.blokker.nl/search?q=kleine%20wasmand",
+        "https://www.blokker.nl/search?q=opbergmand%20grijs"
       ],
       "isRunning" : false,
       "isMostWantedList": true
