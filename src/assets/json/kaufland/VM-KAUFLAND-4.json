@@ -344,7 +344,7 @@
         },
         {
           "name": "küchenmesser",
-          "link": "https://www.kaufland.de/s/?21=7101284&price=9800-9900&search_value=k%C3%BCchenmesser"
+          "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=k%C3%BCchenmesser"
         },
         {
           "name": "damascus kochmesser",
@@ -364,7 +364,7 @@
       [
         {
           "name": "kochmesser",
-          "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
+          "link": "https://www.kaufland.de/s/?search_value=kochmessermesser"
         },
         {
           "name": "küchenmesser",
@@ -388,7 +388,7 @@
       [
         {
           "name": "kochmesser",
-          "link": "https://www.kaufland.de/s/?price=9700-9800&search_value=kochmesser"
+          "link": "https://www.kaufland.de/s/?search_value=kochmesser"
         },
         {
           "name": "santokumesser",
@@ -412,11 +412,11 @@
       [
         {
           "name": "kochmesser",
-          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+          "link": "https://www.kaufland.de/s/?search_value=kochmesser"
         },
         {
           "name": "gemüsemesser",
-          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=gem%C3%BCsemesser"
+          "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=gem%C3%BCsemesser"
         },
         {
           "name": "schälmesser rostfreier superstahl",
@@ -436,11 +436,11 @@
       [
         {
           "name": "kochmesser",
-          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=kochmesser"
+          "link": "https://www.kaufland.de/s/?search_value=kochmesser"
         },
         {
           "name": "kochmesser 7 zoll",
-          "link": "https://kaufland.de/s/?search_value=kochmesser%207%20zoll"
+          "link": "https://www.kaufland.de/s/?search_value=kochmesser%207%20zoll"
         },
         {
           "name": "meisterkochmesser alltagsbereich",
@@ -464,11 +464,11 @@
         },
         {
           "name": "küchenmesser",
-          "link": "https://www.kaufland.de/s/?search_value=k%C3%BCchenmesser"
+          "link": "https://www.kaufland.de/s/?21=7101284&price=6500-6600&search_value=k%C3%BCchenmesser"
         },
         {
           "name": "filetiermesser 15 cm",
-          "link": "https://www.kaufland.de/s/?search_value=filetiermesser%2015%20cm"
+          "link": "https://www.kaufland.de/s/?price=6500-6600&search_value=filetiermesser%2015%20cm"
         }
       ],
       "isRunning" : false 
@@ -484,11 +484,11 @@
       [
         {
           "name": "kochmesser",
-          "link": "https://www.kaufland.de/s/?search_value=kochmesser"
+          "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=kochmesser"
         },
         {
           "name": "fleischmesser",
-          "link": "https://www.kaufland.de/s/?price=7600-7700&search_value=fleischmesser"
+          "link": "https://www.kaufland.de/s/?21=7101284&price=7600-7700&search_value=fleischmesser"
         },
         {
           "name": "japanisches kochmesser rostfreier stahl",
