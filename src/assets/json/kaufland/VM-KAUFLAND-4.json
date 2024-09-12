@@ -84,7 +84,7 @@
         },
         {
           "name": "led strip",
-          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip  "
         }
       ],
       "isRunning" : false 
@@ -100,11 +100,11 @@
       [
         {
           "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
         },
         {
           "name": "tv hintergrundbeleuchtung",
-          "link": "https://www.kaufland.de/s/?price=4300-4400&search_value=tv%20hintergrundbeleuchtung"
+          "link": "https://www.kaufland.de/s/?search_value=tv%20hintergrundbeleuchtung"
         },
         {
           "name": "hintergrundbeleuchtung tv",
@@ -112,11 +112,11 @@
         },
         {
           "name": "fernseher hintergrundbeleuchtung",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=fernseher%20hintergrundbeleuchtung"
+          "link": "https://www.kaufland.de/s/?search_value=fernseher%20hintergrundbeleuchtung"
         },
         {
           "name": "led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=4300-4400&search_value=led%20strip"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
         }
       ],
       "isRunning" : false 
@@ -335,7 +335,7 @@
       "product": "KOI Artisan® Damascus Koksmes - 20,32 cm",
       "productTitle": "KOI Artisan® Damascus Kochmesser - 20,32 cm - Rasiermesserscharfe Klinge - Premium Küchenmesser in Geschenkbox - Japanische Messer aus VG10 Superstahl",
       "productId": "497699577",
-      "keywords": ["kochmesser", "küchenmesser", ""],
+      "keywords": ["kochmesser", "küchenmesser", "damascus kochmesser"],
       "keyword":
       [
         {

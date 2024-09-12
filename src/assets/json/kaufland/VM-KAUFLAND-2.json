@@ -264,7 +264,7 @@
       "product": "Solar Powerbank Triple",
       "productTitle": "Lideka® 1 Solar Powerbank 30,000mAh, 6 Anschlüsse, Lampe & 2x Tragbare Solar Ladegerä, kabelloses Aufladen, Kompatibel mit Smartphone, Samsung, Apple",
       "productId": "450401896",
-      "keywords": ["solar powerbank", "kabelloses aufladen powerbank", ""],
+      "keywords": ["solar powerbank", "kabelloses aufladen powerbank", "powerbank mit lampe"],
       "keyword":
       [
         {
@@ -329,15 +329,15 @@
       [
         {
           "name": "neon streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=neon%20streifen"
+          "link": "https://www.kaufland.de/s/?search_value=neon%20streifen"
         },
         {
           "name": "neon led streifen",
-          "link": "https://www.kaufland.de/s/?price=12400-12500&search_value=neon%20led%20streifen"
+          "link": "https://www.kaufland.de/s/?search_value=neon%20led%20streifen"
         },
         {
           "name": "rgbic",
-          "link": "https://www.kaufland.de/s/?price=12400-12500&search_value=rgbic"
+          "link": "https://www.kaufland.de/s/?search_value=rgbic"
         },
         {
           "name": "led streifen",
@@ -349,7 +349,7 @@
         },
         {
           "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
         }
       ],
       "isRunning" : false 
@@ -396,7 +396,7 @@
       "product": "LK-03-N-RGB",
       "productTitle": "Lideka® NEON LED-Streifen 3m, RGB Neon LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko",
       "productId": "463128290",
-      "keywords": ["neon streifen", "neon led streifen", "rgbic", "led streifen", "led leiste"],
+      "keywords": ["neon streifen", "neon led streifen", "led streifen", "led leiste"],
       "keyword":
       [
         {
@@ -489,7 +489,7 @@
         },
         {
           "name": "led strip 3m",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip%203m"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%203m"
         },
         {
           "name": "led leiste",
@@ -521,19 +521,19 @@
         },
         {
           "name": "led strip 5m",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip%205m"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip%205m"
         },
         {
           "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
         },
         {
           "name": "rgb led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
         },
         {
           "name": "led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
         }
       ],
       "isRunning" : false 
@@ -589,7 +589,7 @@
         },
         {
           "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
         {
           "name": "led leiste",
@@ -653,7 +653,7 @@
         },
         {
           "name": "led-streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+          "link": "https://www.kaufland.de/s/?search_value=led-streifen"
         },
         {
           "name": "led leiste",
@@ -717,7 +717,7 @@
         },
         {
           "name": "led-streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led-streifen"
+          "link": "https://www.kaufland.de/s/?search_value=led-streifen"
         },
         {
           "name": "led leiste",

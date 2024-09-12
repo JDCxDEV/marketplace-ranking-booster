@@ -76,7 +76,7 @@
       [
         "https://www.blokker.nl/led-lampen",
         "https://www.blokker.nl/search?q=e27%20led%20lamp",
-        "https://www.blokker.nl/search?q=e27"
+        "https://www.blokker.nl/search/lideka?q=e27&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true

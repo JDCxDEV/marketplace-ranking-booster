@@ -4,9 +4,9 @@
     {
       "id": "VM-3-0001",
       "marketplace": "Kaufland",
-      "product": "LK-040",
+      "product": "LK-040M",
       "productTitle": "Lideka® RGB LED-Streifen 40m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
-      "productId": "443198421",
+      "productId": "443340402",
       "keywords": ["led strip 40m", "led streifen", "rgb led strip", "led strip", "led leiste"],
       "keyword":
       [
@@ -16,11 +16,11 @@
         },
         {
           "name": "led streifen",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20streifen"
+          "link": "https://www.kaufland.de/s/?search_value=led%20streifen"
         },
         {
           "name": "rgb led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=rgb%20led%20strip"
+          "link": "https://www.kaufland.de/s/?search_value=rgb%20led%20strip"
         },
         {
           "name": "led strip",
@@ -36,9 +36,9 @@
     {
       "id": "VM-3-0002",
       "marketplace": "Kaufland",
-      "product": "LK-050",
+      "product": "LK-050M",
       "productTitle": "Lideka® RGB LED-Streifen 50m, RGB, LED Strip, App Steuerung WLAN und Fernbedienung, led leiste, Musik Sync, mit Alexa und Google Assistant, Deko, LED",
-      "productId": "443340402",
+      "productId": "443340420",
       "keywords": ["led strip 50m", "led streifen", "rgb led strip", "led strip", "led leiste"],
       "keyword":
       [
@@ -116,15 +116,15 @@
         },
         {
           "name": "led leiste",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leiste"
+          "link": "https://www.kaufland.de/s/?search_value=led%20leiste"
         },
         {
           "name": "led leisten",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20leisten"
+          "link": "https://www.kaufland.de/s/?search_value=led%20leisten"
         },
         {
           "name": "led strip",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strip"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strip"
         },
         {
           "name": "led streifen",
@@ -132,7 +132,7 @@
         },
         {
           "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
         }
       ],
       "isRunning" : false 
@@ -232,7 +232,7 @@
         },
         {
           "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=13600-13700&search_value=led%20strips"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
         }
       ],
       "isRunning" : false 
@@ -268,7 +268,7 @@
         },
         {
           "name": "led strips",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=led%20strips"
+          "link": "https://www.kaufland.de/s/?search_value=led%20strips"
         }
       ],
       "isRunning" : false 
@@ -399,7 +399,7 @@
       "product": "RGBW-LK5-3",
       "productTitle": "Lideka® LED Streifen 15m (3x5) RGBW Kalt & Warmweiß, App Steuerung WLAN & Fernbedienung, led leiste, Musik Sync, Alexa und Google Assistant, Led Strip",
       "productId": "463128426",
-      "keywords": ["led leiste", "led leisten", "led strip", "rgbic", "led streifen", "led strips"],
+      "keywords": ["led leiste", "led leisten", "led strip", "led streifen", "led strips"],
       "keyword":
       [
         {
@@ -600,23 +600,23 @@
       [
         {
           "name": "led lampe e27",
-          "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampe%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20lampe%20e27"
         },
         {
           "name": "led lampen e27",
-          "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=led%20lampen%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20lampen%20e27"
         },
         {
           "name": "e27 birne",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
+          "link": "https://www.kaufland.de/s/?search_value=e27%20birne"
         },
         {
           "name": "led leuchtmittel e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20leuchtmittel%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20leuchtmittel%20e27"
         },
         {
           "name": "led birne e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birne%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20birne%20e27"
         },
         {
           "name": "led glühbirne e27",
@@ -624,11 +624,11 @@
         },
         {
           "name": "e27 lampe",
-          "link": "https://www.kaufland.de/s/?price=3400-3500&search_value=e27%20lampe"
+          "link": "https://www.kaufland.de/s/?search_value=e27%20lampe"
         },
         {
           "name": "led birnen e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=3400-3500&search_value=led%20birnen%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20birnen%20e27"
         }
       ],
       "isRunning" : false 
@@ -644,35 +644,35 @@
       [
         {
           "name": "led lampe e27",
-          "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampe%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20lampe%20e27"
         },
         {
           "name": "led lampen e27",
-          "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20lampen%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20lampen%20e27"
         },
         {
           "name": "e27 birne",
-          "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
+          "link": "https://www.kaufland.de/s/?search_value=e27%20birne"
         },
         {
           "name": "led glühbirne e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=4400-4500&search_value=led%20gl%C3%BChbirne%20e27"
+          "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20gl%C3%BChbirne%20e27"
         },
         {
           "name": "led leuchtmittel e27",
-          "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20leuchtmittel%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20leuchtmittel%20e27"
         },
         {
           "name": "led birne e27",
-          "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birne%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20birne%20e27"
         },
         {
           "name": "e27 lampe",
-          "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=e27%20lampe"
+          "link": "https://www.kaufland.de/s/?search_value=e27%20lampe"
         },
         {
           "name": "led birnen e27",
-          "link": "https://www.kaufland.de/s/?price=4400-4500&search_value=led%20birnen%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20birnen%20e27"
         }
       ],
       "isRunning" : false 
@@ -688,15 +688,15 @@
       [
         {
           "name": "led lampe e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampe%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20lampe%20e27"
         },
         {
           "name": "led lampen e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20lampen%20e27"
         },
         {
           "name": "e27 birne",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20lampen%20e27"
+          "link": "https://www.kaufland.de/s/?21=5941848&search_value=e27%20birne"
         },
         {
           "name": "led glühbirne e27",
@@ -704,19 +704,19 @@
         },
         {
           "name": "led leuchtmittel e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20leuchtmittel%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20leuchtmittel%20e27"
         },
         {
           "name": "led birne e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birne%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20birne%20e27"
         },
         {
           "name": "e27 lampe",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=e27%20lampe"
+          "link": "https://www.kaufland.de/s/?search_value=e27%20lampe"
         },
         {
           "name": "led birnen e27",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=5400-5500&search_value=led%20birnen%20e27"
+          "link": "https://www.kaufland.de/s/?search_value=led%20birnen%20e27"
         }
       ],
       "isRunning" : false 
@@ -752,7 +752,7 @@
         },
         {
           "name": "gu10 led spot",
-          "link": "https://www.kaufland.de/s/?21=5941848&price=3800-3900&search_value=gu10%20led%20spot"
+          "link": "https://www.kaufland.de/s/?search_value=gu10%20led%20spot"
         },
         {
         "name": "gu10 smart led lampe",
