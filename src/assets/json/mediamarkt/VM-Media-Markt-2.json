@@ -651,7 +651,8 @@
           "link": "https://www.mediamarkt.de/de/search.html?query=kopfh%C3%B6rer%20%C3%BCber%20bluetooth&filter=brand:QUCHIQ"
         }
       ],
-      "isRunning" : false
+      "isRunning" : false,
+      "isOutOfStock": true
     },
     {
       "id": "VM-2-0018",
