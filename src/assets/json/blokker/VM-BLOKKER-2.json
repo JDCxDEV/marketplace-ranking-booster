@@ -350,9 +350,9 @@
       "keywords": ["led strip", "rgb led strip", "led strip met afstandsbediening"],
       "keywordLink": 
       [
-        "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=0%2C00",
-        "https://www.blokker.nl/search/lideka?q=led%20strip%20met%20afstandsbediening&pmin=0%2C00"
+        "https://www.blokker.nl/search?q=led%20strip",
+        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening"
       ],
       "isRunning" : false,
       "isMostWantedList": true
