@@ -212,9 +212,9 @@
       "keywordLink": 
       [
         "https://www.blokker.nl/search/lideka?q=led%20strip&pmin=0%2C00",
-        "https://www.blokker.nl/search?q=gaming",
+        "https://www.blokker.nl/search/lideka?q=gaming&pmin=0%2C00",
         "https://www.blokker.nl/search/lideka?q=led&pmin=48&pmax=49",
-        "https://www.blokker.nl/search?q=rgb%20led%20strip",
+        "https://www.blokker.nl/search/lideka?q=rgb%20led%20strip&pmin=48&pmax=49",
         "https://www.blokker.nl/search/lideka?q=led-strips&pmin=48&pmax=49",
         "https://www.blokker.nl/search?q=led%20strip%20met%20afstandsbediening",
         "https://www.blokker.nl/search/lideka?q=led%20verlichting%20strips&pmin=0%2C00",
@@ -222,7 +222,7 @@
         "https://www.blokker.nl/search?q=lichtstrip",
         "https://www.blokker.nl/search/lideka?q=led%20light&pmin=48&pmax=49",
         "https://www.blokker.nl/search/lideka?q=led%20licht&pmin=48&pmax=49",
-        "https://www.blokker.nl/search?q=smart%20led%20strip"
+        "https://www.blokker.nl/search/lideka?q=smart%20led%20strip&pmin=0%2C00"
       ],
       "isRunning" : false,
       "isMostWantedList": true
